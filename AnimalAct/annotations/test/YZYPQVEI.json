@@ -1,0 +1,34 @@
+{
+  "video_id": "YZYPQVEI",
+  "video": "YZYPQVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anthus Pratensis Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Anthus Pratensis Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anthus Pratensis Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anthus Pratensis Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.013,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "XINTSKBS",
+  "video": "XINTSKBS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Headed Python"
+  ],
+  "list_animal_action": [
+    [
+      "Black Headed Python",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Headed Python",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Headed Python",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.415,
+          "start_frame": 0,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

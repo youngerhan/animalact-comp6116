@@ -1,0 +1,34 @@
+{
+  "video_id": "WULZTFJY",
+  "video": "WULZTFJY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cryptic Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Cryptic Mantis",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cryptic Mantis",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cryptic Mantis",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.501,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

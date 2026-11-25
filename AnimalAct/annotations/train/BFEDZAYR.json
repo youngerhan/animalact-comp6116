@@ -1,0 +1,56 @@
+{
+  "video_id": "BFEDZAYR",
+  "video": "BFEDZAYR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Quail",
+      "Shaking Head"
+    ],
+    [
+      "Quail",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Quail",
+      "Shaking Head"
+    ],
+    [
+      "Quail",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Quail",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.372,
+          "start_frame": 0,
+          "end_frame": 33
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.369,
+          "end": 1.793,
+          "start_frame": 33,
+          "end_frame": 43
+        },
+        {
+          "action": "Attending",
+          "start": 1.975,
+          "end": 4.432,
+          "start_frame": 47,
+          "end_frame": 106
+        }
+      ]
+    }
+  ]
+}

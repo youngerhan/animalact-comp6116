@@ -1,0 +1,86 @@
+{
+  "video_id": "TIKBFEWB",
+  "video": "TIKBFEWB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Philomachus Pugnax Ruff Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Walking"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Keeping still"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Walking"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Keeping still"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Philomachus Pugnax Ruff Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        },
+        {
+          "action": "Preening",
+          "start": 0.167,
+          "end": 2.417,
+          "start_frame": 4,
+          "end_frame": 58
+        },
+        {
+          "action": "Sensing",
+          "start": 1.333,
+          "end": 1.667,
+          "start_frame": 32,
+          "end_frame": 40
+        },
+        {
+          "action": "Sensing",
+          "start": 2.333,
+          "end": 2.917,
+          "start_frame": 56,
+          "end_frame": 70
+        },
+        {
+          "action": "Walking",
+          "start": 2.417,
+          "end": 2.917,
+          "start_frame": 58,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

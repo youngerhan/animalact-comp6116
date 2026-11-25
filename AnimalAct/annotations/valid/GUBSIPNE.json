@@ -1,0 +1,34 @@
+{
+  "video_id": "GUBSIPNE",
+  "video": "GUBSIPNE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Banana Slug"
+  ],
+  "list_animal_action": [
+    [
+      "Banana Slug",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Banana Slug",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Banana Slug",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 5.503,
+          "start_frame": 0,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

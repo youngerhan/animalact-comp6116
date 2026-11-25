@@ -1,0 +1,34 @@
+{
+  "video_id": "BDZOOUDX",
+  "video": "BDZOOUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cheetah"
+  ],
+  "list_animal_action": [
+    [
+      "Cheetah",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cheetah",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cheetah",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.024,
+          "end": 26.019,
+          "start_frame": 1,
+          "end_frame": 624
+        }
+      ]
+    }
+  ]
+}

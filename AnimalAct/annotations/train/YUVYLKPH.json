@@ -1,0 +1,49 @@
+{
+  "video_id": "YUVYLKPH",
+  "video": "YUVYLKPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Starling Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Starling Bird",
+      "Sensing"
+    ],
+    [
+      "Starling Bird",
+      "Entering its nest"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Starling Bird",
+      "Sensing"
+    ],
+    [
+      "Starling Bird",
+      "Entering its nest"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Starling Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.094,
+          "start_frame": 0,
+          "end_frame": 50
+        },
+        {
+          "action": "Entering its nest",
+          "start": 2.469,
+          "end": 3.969,
+          "start_frame": 59,
+          "end_frame": 95
+        }
+      ]
+    }
+  ]
+}

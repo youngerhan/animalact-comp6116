@@ -1,0 +1,34 @@
+{
+  "video_id": "OAJGVLHH",
+  "video": "OAJGVLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Banded Rubber Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Banded Rubber Frog",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Banded Rubber Frog",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Banded Rubber Frog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "video_id": "VBXSTGCS",
+  "video": "VBXSTGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Standing"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Standing"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.021,
+          "start_frame": 0,
+          "end_frame": 49
+        },
+        {
+          "action": "Standing",
+          "start": 0.0,
+          "end": 4.315,
+          "start_frame": 0,
+          "end_frame": 104
+        },
+        {
+          "action": "Sensing",
+          "start": 2.021,
+          "end": 3.571,
+          "start_frame": 49,
+          "end_frame": 86
+        },
+        {
+          "action": "Walking",
+          "start": 4.327,
+          "end": 6.625,
+          "start_frame": 104,
+          "end_frame": 159
+        },
+        {
+          "action": "Sitting",
+          "start": 4.41,
+          "end": 6.279,
+          "start_frame": 106,
+          "end_frame": 151
+        }
+      ]
+    }
+  ]
+}

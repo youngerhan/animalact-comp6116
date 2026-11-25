@@ -1,0 +1,34 @@
+{
+  "video_id": "GLGKREBY",
+  "video": "GLGKREBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fox"
+  ],
+  "list_animal_action": [
+    [
+      "Fox",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fox",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fox",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.5,
+          "start_frame": 0,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

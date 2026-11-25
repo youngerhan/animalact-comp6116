@@ -1,0 +1,34 @@
+{
+  "video_id": "BLSESDSN",
+  "video": "BLSESDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hawk"
+  ],
+  "list_animal_action": [
+    [
+      "Hawk",
+      "Gliding"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hawk",
+      "Gliding"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hawk",
+      "actions": [
+        {
+          "action": "Gliding",
+          "start": 0.0,
+          "end": 2.125,
+          "start_frame": 0,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

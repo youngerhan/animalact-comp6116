@@ -1,0 +1,91 @@
+{
+  "video_id": "ZJUWRWMK",
+  "video": "ZJUWRWMK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horned Adder"
+  ],
+  "list_animal_action": [
+    [
+      "Horned Adder",
+      "Keeping still"
+    ],
+    [
+      "Horned Adder",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horned Adder",
+      "Keeping still"
+    ],
+    [
+      "Horned Adder",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horned Adder",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.925,
+          "start_frame": 0,
+          "end_frame": 22
+        },
+        {
+          "action": "Sensing",
+          "start": 0.94,
+          "end": 1.599,
+          "start_frame": 23,
+          "end_frame": 38
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.625,
+          "end": 2.321,
+          "start_frame": 39,
+          "end_frame": 56
+        },
+        {
+          "action": "Sensing",
+          "start": 2.339,
+          "end": 2.871,
+          "start_frame": 56,
+          "end_frame": 69
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.863,
+          "end": 3.676,
+          "start_frame": 69,
+          "end_frame": 88
+        },
+        {
+          "action": "Sensing",
+          "start": 3.665,
+          "end": 5.464,
+          "start_frame": 88,
+          "end_frame": 131
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.493,
+          "end": 6.674,
+          "start_frame": 132,
+          "end_frame": 160
+        },
+        {
+          "action": "Sensing",
+          "start": 6.692,
+          "end": 8.517,
+          "start_frame": 161,
+          "end_frame": 204
+        }
+      ]
+    }
+  ]
+}

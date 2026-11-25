@@ -1,0 +1,34 @@
+{
+  "video_id": "LPBKOXYT",
+  "video": "LPBKOXYT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

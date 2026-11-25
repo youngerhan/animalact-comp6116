@@ -1,0 +1,49 @@
+{
+  "video_id": "ZHCJTYMI",
+  "video": "ZHCJTYMI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hoverfly"
+  ],
+  "list_animal_action": [
+    [
+      "Hoverfly",
+      "Flying"
+    ],
+    [
+      "Hoverfly",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hoverfly",
+      "Flying"
+    ],
+    [
+      "Hoverfly",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hoverfly",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 12.877,
+          "start_frame": 0,
+          "end_frame": 309
+        },
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 16.824,
+          "start_frame": 0,
+          "end_frame": 404
+        }
+      ]
+    }
+  ]
+}

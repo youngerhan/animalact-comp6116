@@ -1,0 +1,34 @@
+{
+  "video_id": "NANODIWV",
+  "video": "NANODIWV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Whooper Swan"
+  ],
+  "list_animal_action": [
+    [
+      "Whooper Swan",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Whooper Swan",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Whooper Swan",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.844,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

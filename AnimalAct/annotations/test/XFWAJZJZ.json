@@ -1,0 +1,49 @@
+{
+  "video_id": "XFWAJZJZ",
+  "video": "XFWAJZJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Shaking"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Shaking"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 14.625,
+          "start_frame": 0,
+          "end_frame": 351
+        },
+        {
+          "action": "Shaking",
+          "start": 13.75,
+          "end": 14.5,
+          "start_frame": 330,
+          "end_frame": 348
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "ELHWHYTZ",
+  "video": "ELHWHYTZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greylag Goose"
+  ],
+  "list_animal_action": [
+    [
+      "Greylag Goose",
+      "Preening"
+    ],
+    [
+      "Greylag Goose",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greylag Goose",
+      "Preening"
+    ],
+    [
+      "Greylag Goose",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greylag Goose",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 2.012,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.512,
+          "end": 0.954,
+          "start_frame": 12,
+          "end_frame": 23
+        }
+      ]
+    }
+  ]
+}

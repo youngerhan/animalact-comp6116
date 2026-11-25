@@ -1,0 +1,41 @@
+{
+  "video_id": "ITFOVXGD",
+  "video": "ITFOVXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.187,
+          "start_frame": 0,
+          "end_frame": 52
+        },
+        {
+          "action": "Attending",
+          "start": 3.524,
+          "end": 6.092,
+          "start_frame": 85,
+          "end_frame": 146
+        }
+      ]
+    }
+  ]
+}

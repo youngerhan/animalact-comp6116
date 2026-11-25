@@ -1,0 +1,34 @@
+{
+  "video_id": "LNKQREBY",
+  "video": "LNKQREBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fox"
+  ],
+  "list_animal_action": [
+    [
+      "Fox",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fox",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fox",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 3.563,
+          "end": 6.129,
+          "start_frame": 86,
+          "end_frame": 147
+        }
+      ]
+    }
+  ]
+}

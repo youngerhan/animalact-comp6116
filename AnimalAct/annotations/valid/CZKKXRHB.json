@@ -1,0 +1,34 @@
+{
+  "video_id": "CZKKXRHB",
+  "video": "CZKKXRHB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Whinchat Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Whinchat Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Whinchat Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Whinchat Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 4.916667,
+          "start_frame": 0,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "QGJHXRHW",
+  "video": "QGJHXRHW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Danaus Plexippus Monarch Butterfly Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Danaus Plexippus Monarch Butterfly Caterpillar",
+      "Undergoing Chrysalis"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Danaus Plexippus Monarch Butterfly Caterpillar",
+      "Undergoing Chrysalis"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Danaus Plexippus Monarch Butterfly Caterpillar",
+      "actions": [
+        {
+          "action": "Undergoing Chrysalis",
+          "start": 1.469,
+          "end": 6.125,
+          "start_frame": 35,
+          "end_frame": 147
+        }
+      ]
+    }
+  ]
+}

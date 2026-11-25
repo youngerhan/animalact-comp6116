@@ -1,0 +1,34 @@
+{
+  "video_id": "RXSZWUPH",
+  "video": "RXSZWUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White And Gray Wagtail Bird"
+  ],
+  "list_animal_action": [
+    [
+      "White And Gray Wagtail Bird",
+      "Shaking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White And Gray Wagtail Bird",
+      "Shaking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White And Gray Wagtail Bird",
+      "actions": [
+        {
+          "action": "Shaking",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

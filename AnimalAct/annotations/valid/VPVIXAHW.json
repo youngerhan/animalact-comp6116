@@ -1,0 +1,49 @@
+{
+  "video_id": "VPVIXAHW",
+  "video": "VPVIXAHW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Green Bottle Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Green Bottle Fly",
+      "Landing"
+    ],
+    [
+      "Green Bottle Fly",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Green Bottle Fly",
+      "Landing"
+    ],
+    [
+      "Green Bottle Fly",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Green Bottle Fly",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.0,
+          "end": 0.793,
+          "start_frame": 0,
+          "end_frame": 19
+        },
+        {
+          "action": "Sensing",
+          "start": 0.801,
+          "end": 3.214,
+          "start_frame": 19,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

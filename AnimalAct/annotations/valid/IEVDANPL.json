@@ -1,0 +1,79 @@
+{
+  "video_id": "IEVDANPL",
+  "video": "IEVDANPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Backed Shrike Bird Young"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Chirping"
+    ],
+    [
+      "Red-Backed Shrike Bird Young",
+      "Sensing"
+    ],
+    [
+      "Red-Backed Shrike Bird Young",
+      "Flying"
+    ],
+    [
+      "Red-Backed Shrike Bird Young",
+      "Hopping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Chirping"
+    ],
+    [
+      "Red-Backed Shrike Bird Young",
+      "Sensing"
+    ],
+    [
+      "Red-Backed Shrike Bird Young",
+      "Flying"
+    ],
+    [
+      "Red-Backed Shrike Bird Young",
+      "Hopping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Backed Shrike Bird Young",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        },
+        {
+          "action": "Sensing",
+          "start": 0.375,
+          "end": 1.833,
+          "start_frame": 9,
+          "end_frame": 44
+        },
+        {
+          "action": "Hopping",
+          "start": 1.818,
+          "end": 2.152,
+          "start_frame": 44,
+          "end_frame": 52
+        },
+        {
+          "action": "Flying",
+          "start": 2.153,
+          "end": 2.333,
+          "start_frame": 52,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

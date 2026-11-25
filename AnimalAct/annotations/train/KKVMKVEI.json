@@ -1,0 +1,49 @@
+{
+  "video_id": "KKVMKVEI",
+  "video": "KKVMKVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Calidris Minuta Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Calidris Minuta Bird",
+      "Preening"
+    ],
+    [
+      "Calidris Minuta Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Calidris Minuta Bird",
+      "Preening"
+    ],
+    [
+      "Calidris Minuta Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Calidris Minuta Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 2.844,
+          "start_frame": 0,
+          "end_frame": 68
+        },
+        {
+          "action": "Walking",
+          "start": 0.01,
+          "end": 3.214,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

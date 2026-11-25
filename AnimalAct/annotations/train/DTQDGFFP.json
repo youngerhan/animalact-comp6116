@@ -1,0 +1,64 @@
+{
+  "video_id": "DTQDGFFP",
+  "video": "DTQDGFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Otter",
+      "Diving"
+    ],
+    [
+      "Otter",
+      "Playing"
+    ],
+    [
+      "Otter",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Otter",
+      "Diving"
+    ],
+    [
+      "Otter",
+      "Playing"
+    ],
+    [
+      "Otter",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Otter",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.002,
+          "end": 0.764,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Playing",
+          "start": 0.002,
+          "end": 1.019,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Diving",
+          "start": 0.59,
+          "end": 1.019,
+          "start_frame": 14,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

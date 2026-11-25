@@ -1,0 +1,34 @@
+{
+  "video_id": "VXBAPEQQ",
+  "video": "VXBAPEQQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leaf-Tailed Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Leaf-Tailed Gecko",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leaf-Tailed Gecko",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leaf-Tailed Gecko",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.074,
+          "end": 2.115,
+          "start_frame": 2,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

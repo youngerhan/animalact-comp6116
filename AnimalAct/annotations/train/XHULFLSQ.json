@@ -1,0 +1,107 @@
+{
+  "video_id": "XHULFLSQ",
+  "video": "XHULFLSQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mistle Thrush"
+  ],
+  "list_animal_action": [
+    [
+      "Mistle Thrush",
+      "Attending"
+    ],
+    [
+      "Mistle Thrush",
+      "Flapping"
+    ],
+    [
+      "Mistle Thrush",
+      "Keeping still"
+    ],
+    [
+      "Mistle Thrush",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mistle Thrush",
+      "Attending"
+    ],
+    [
+      "Mistle Thrush",
+      "Flapping"
+    ],
+    [
+      "Mistle Thrush",
+      "Keeping still"
+    ],
+    [
+      "Mistle Thrush",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mistle Thrush",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.24,
+          "end": 1.577,
+          "start_frame": 6,
+          "end_frame": 38
+        },
+        {
+          "action": "Attending",
+          "start": 0.255,
+          "end": 1.579,
+          "start_frame": 6,
+          "end_frame": 38
+        },
+        {
+          "action": "Chirping",
+          "start": 2.02,
+          "end": 2.523,
+          "start_frame": 48,
+          "end_frame": 61
+        },
+        {
+          "action": "Flapping",
+          "start": 2.057,
+          "end": 2.266,
+          "start_frame": 49,
+          "end_frame": 54
+        },
+        {
+          "action": "Flapping",
+          "start": 2.423,
+          "end": 2.531,
+          "start_frame": 58,
+          "end_frame": 61
+        },
+        {
+          "action": "Attending",
+          "start": 2.636,
+          "end": 4.833,
+          "start_frame": 63,
+          "end_frame": 116
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.636,
+          "end": 4.836,
+          "start_frame": 63,
+          "end_frame": 116
+        },
+        {
+          "action": "Chirping",
+          "start": 4.936,
+          "end": 5.333,
+          "start_frame": 118,
+          "end_frame": 128
+        }
+      ]
+    }
+  ]
+}

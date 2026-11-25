@@ -1,0 +1,49 @@
+{
+  "video_id": "MRGNGUXS",
+  "video": "MRGNGUXS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Necked Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Black Necked Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Necked Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Necked Spitting Cobra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.026,
+          "end": 10.625,
+          "start_frame": 1,
+          "end_frame": 255
+        },
+        {
+          "action": "Attending",
+          "start": 0.056,
+          "end": 10.625,
+          "start_frame": 1,
+          "end_frame": 255
+        }
+      ]
+    }
+  ]
+}

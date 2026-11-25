@@ -1,0 +1,12 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.1003707396170811,
+    "valid_mAP": 0.3947870397699626,
+    "valid_macro_F1": 0.409524426160081,
+    "valid_threshold": 0.25,
+    "head_lr": 9.336825748732972e-05,
+    "gpu_peak_allocated_mib": 899,
+    "elapsed_minutes": 1.85
+  }
+]

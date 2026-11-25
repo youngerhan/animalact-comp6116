@@ -1,0 +1,34 @@
+{
+  "video_id": "IPJYNBGU",
+  "video": "IPJYNBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Orchard Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Orchard Bee",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Orchard Bee",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Orchard Bee",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 5.12,
+          "start_frame": 0,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

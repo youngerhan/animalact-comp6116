@@ -1,0 +1,63 @@
+{
+  "video_id": "NUYWUPZC",
+  "video": "NUYWUPZC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bordered Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Bordered Mantis",
+      "Eating"
+    ],
+    [
+      "Bordered Mantis",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bordered Mantis",
+      "Eating"
+    ],
+    [
+      "Bordered Mantis",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bordered Mantis",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 6.009,
+          "start_frame": 0,
+          "end_frame": 144
+        },
+        {
+          "action": "Eating",
+          "start": 0.013,
+          "end": 0.459,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Eating",
+          "start": 0.585,
+          "end": 2.539,
+          "start_frame": 14,
+          "end_frame": 61
+        },
+        {
+          "action": "Eating",
+          "start": 2.845,
+          "end": 6.009,
+          "start_frame": 68,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

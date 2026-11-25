@@ -1,0 +1,34 @@
+{
+  "video_id": "OPUSTVCR",
+  "video": "OPUSTVCR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tortoise"
+  ],
+  "list_animal_action": [
+    [
+      "Tortoise",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tortoise",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tortoise",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.013,
+          "end": 2.971,
+          "start_frame": 0,
+          "end_frame": 71
+        }
+      ]
+    }
+  ]
+}

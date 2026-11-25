@@ -1,0 +1,79 @@
+{
+  "video_id": "TSYSEFFP",
+  "video": "TSYSEFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Keeping still"
+    ],
+    [
+      "Maroon Macaque",
+      "Running"
+    ],
+    [
+      "Maroon Macaque",
+      "Climbing"
+    ],
+    [
+      "Maroon Macaque",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Keeping still"
+    ],
+    [
+      "Maroon Macaque",
+      "Running"
+    ],
+    [
+      "Maroon Macaque",
+      "Climbing"
+    ],
+    [
+      "Maroon Macaque",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.0,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        },
+        {
+          "action": "Running",
+          "start": 0.001,
+          "end": 1.623,
+          "start_frame": 0,
+          "end_frame": 39
+        },
+        {
+          "action": "Attending",
+          "start": 0.103,
+          "end": 1.687,
+          "start_frame": 2,
+          "end_frame": 40
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.623,
+          "end": 2.333,
+          "start_frame": 39,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

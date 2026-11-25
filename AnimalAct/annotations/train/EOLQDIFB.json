@@ -1,0 +1,34 @@
+{
+  "video_id": "EOLQDIFB",
+  "video": "EOLQDIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Glass Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Glass Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Glass Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Glass Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        }
+      ]
+    }
+  ]
+}

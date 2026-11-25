@@ -1,0 +1,41 @@
+{
+  "video_id": "BUCLVNQN",
+  "video": "BUCLVNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Barred Warbler Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Barred Warbler Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Barred Warbler Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Barred Warbler Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.002,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Chirping",
+          "start": 2.186,
+          "end": 3.625,
+          "start_frame": 52,
+          "end_frame": 87
+        }
+      ]
+    }
+  ]
+}

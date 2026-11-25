@@ -1,0 +1,34 @@
+{
+  "video_id": "JMUWYFAG",
+  "video": "JMUWYFAG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Backswimmer"
+  ],
+  "list_animal_action": [
+    [
+      "Backswimmer",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Backswimmer",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Backswimmer",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.307,
+          "start_frame": 0,
+          "end_frame": 55
+        }
+      ]
+    }
+  ]
+}

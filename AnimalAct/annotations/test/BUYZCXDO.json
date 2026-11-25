@@ -1,0 +1,85 @@
+{
+  "video_id": "BUYZCXDO",
+  "video": "BUYZCXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hyena",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Hyena",
+      "Sensing"
+    ],
+    [
+      "Hyena",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Hyena",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hyena",
+      "Sensing"
+    ],
+    [
+      "Hyena",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Hyena",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        },
+        {
+          "action": "Running",
+          "start": 0.083,
+          "end": 0.875,
+          "start_frame": 2,
+          "end_frame": 21
+        },
+        {
+          "action": "Jumping",
+          "start": 1.375,
+          "end": 2.333,
+          "start_frame": 33,
+          "end_frame": 56
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

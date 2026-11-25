@@ -1,0 +1,47 @@
+{
+  "video_id": "FLBGMVYU",
+  "video": "FLBGMVYU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard",
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.625,
+          "start_frame": 0,
+          "end_frame": 63
+        }
+      ]
+    },
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.917,
+          "end": 4.0,
+          "start_frame": 22,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

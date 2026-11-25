@@ -1,0 +1,34 @@
+{
+  "video_id": "BIMXSQFB",
+  "video": "BIMXSQFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "California Newt"
+  ],
+  "list_animal_action": [
+    [
+      "California Newt",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "California Newt",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "California Newt",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.719,
+          "start_frame": 0,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

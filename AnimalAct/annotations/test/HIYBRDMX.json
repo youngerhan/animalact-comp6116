@@ -1,0 +1,49 @@
+{
+  "video_id": "HIYBRDMX",
+  "video": "HIYBRDMX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Golden Oriole"
+  ],
+  "list_animal_action": [
+    [
+      "Golden Oriole",
+      "Chirping"
+    ],
+    [
+      "Golden Oriole",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Golden Oriole",
+      "Chirping"
+    ],
+    [
+      "Golden Oriole",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Golden Oriole",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.594,
+          "end": 2.094,
+          "start_frame": 38,
+          "end_frame": 50
+        },
+        {
+          "action": "Chirping",
+          "start": 2.344,
+          "end": 3.219,
+          "start_frame": 56,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

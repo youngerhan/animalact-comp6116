@@ -1,0 +1,55 @@
+{
+  "video_id": "DBIQGXXP",
+  "video": "DBIQGXXP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turret Spider",
+    "Pill Bug"
+  ],
+  "list_animal_action": [
+    [
+      "Turret Spider",
+      "Attacking"
+    ],
+    [
+      "Pill Bug",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turret Spider",
+      "Attacking"
+    ],
+    [
+      "Pill Bug",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turret Spider",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.302,
+          "end": 0.776,
+          "start_frame": 7,
+          "end_frame": 19
+        }
+      ]
+    },
+    {
+      "animal": "Pill Bug",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.917,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

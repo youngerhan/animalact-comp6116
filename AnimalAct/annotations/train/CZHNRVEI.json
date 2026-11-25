@@ -1,0 +1,34 @@
+{
+  "video_id": "CZHNRVEI",
+  "video": "CZHNRVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Charadrius Dubius Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Charadrius Dubius Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Charadrius Dubius Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Charadrius Dubius Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.125,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

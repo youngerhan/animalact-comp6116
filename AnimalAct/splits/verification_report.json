@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "videos": 2968,
+  "classes": 119,
+  "intervals": 7123,
+  "splits": {
+    "train": 2075,
+    "valid": 446,
+    "test": 447
+  },
+  "groups": 2829,
+  "main_classes": 31,
+  "checks": "All video and annotation SHA-256 hashes; paths; disjoint partitions; grouping evidence; all class statistics; fixed lists",
+  "dataset_revision": "animalact-20261114-r2",
+  "package_edition": "student",
+  "notebooks": {
+    "fixed_split_usage.ipynb": "passed",
+    "annotation_spot_check.ipynb": "passed",
+    "animal_action_baseline.ipynb": "passed"
+  },
+  "limitations": [
+    "Structural and checksum checks do not certify every semantic annotation.",
+    "Runtime checks used the documented local Python environment; other operating systems were not tested."
+  ]
+}

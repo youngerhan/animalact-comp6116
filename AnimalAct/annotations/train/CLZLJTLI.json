@@ -1,0 +1,48 @@
+{
+  "video_id": "CLZLJTLI",
+  "video": "CLZLJTLI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "House Cricket"
+  ],
+  "list_animal_action": [
+    [
+      "House Cricket",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "House Cricket",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "House Cricket",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.127,
+          "end": 0.546,
+          "start_frame": 3,
+          "end_frame": 13
+        },
+        {
+          "action": "Moving",
+          "start": 0.578,
+          "end": 0.586,
+          "start_frame": 14,
+          "end_frame": 14
+        },
+        {
+          "action": "Moving",
+          "start": 1.17,
+          "end": 1.208,
+          "start_frame": 28,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

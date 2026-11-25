@@ -1,0 +1,49 @@
+{
+  "video_id": "SNLZCTHG",
+  "video": "SNLZCTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Campbell'S Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Campbell'S Monkey",
+      "Attending"
+    ],
+    [
+      "Campbell'S Monkey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Campbell'S Monkey",
+      "Attending"
+    ],
+    [
+      "Campbell'S Monkey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Campbell'S Monkey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.721,
+          "start_frame": 0,
+          "end_frame": 17
+        },
+        {
+          "action": "Attending",
+          "start": 0.721,
+          "end": 2.708,
+          "start_frame": 17,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

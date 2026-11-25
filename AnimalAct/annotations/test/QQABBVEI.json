@@ -1,0 +1,64 @@
+{
+  "video_id": "QQABBVEI",
+  "video": "QQABBVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Ochropus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Ochropus Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Ochropus Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Ochropus Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.292,
+          "start_frame": 0,
+          "end_frame": 7
+        },
+        {
+          "action": "Eating",
+          "start": 0.292,
+          "end": 2.458,
+          "start_frame": 7,
+          "end_frame": 59
+        },
+        {
+          "action": "Preening",
+          "start": 2.458,
+          "end": 5.875,
+          "start_frame": 59,
+          "end_frame": 141
+        }
+      ]
+    }
+  ]
+}

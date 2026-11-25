@@ -1,0 +1,34 @@
+{
+  "video_id": "TOUYKXGD",
+  "video": "TOUYKXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

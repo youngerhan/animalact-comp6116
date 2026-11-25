@@ -1,0 +1,34 @@
+{
+  "video_id": "BLHPKLHH",
+  "video": "BLHPKLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 0.219,
+          "start_frame": 0,
+          "end_frame": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "video_id": "LOMRUXGD",
+  "video": "LOMRUXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Shaking Head"
+    ],
+    [
+      "Kangaroo",
+      "Jumping"
+    ],
+    [
+      "Kangaroo",
+      "Sensing"
+    ],
+    [
+      "Kangaroo",
+      "Attending"
+    ],
+    [
+      "Kangaroo",
+      "Holding Hands"
+    ],
+    [
+      "Kangaroo",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Shaking Head"
+    ],
+    [
+      "Kangaroo",
+      "Jumping"
+    ],
+    [
+      "Kangaroo",
+      "Sensing"
+    ],
+    [
+      "Kangaroo",
+      "Attending"
+    ],
+    [
+      "Kangaroo",
+      "Holding Hands"
+    ],
+    [
+      "Kangaroo",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.32,
+          "start_frame": 0,
+          "end_frame": 56
+        },
+        {
+          "action": "Exploring",
+          "start": 0.547,
+          "end": 7.557,
+          "start_frame": 13,
+          "end_frame": 181
+        },
+        {
+          "action": "Sensing",
+          "start": 2.312,
+          "end": 7.543,
+          "start_frame": 55,
+          "end_frame": 181
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.359,
+          "end": 2.984,
+          "start_frame": 57,
+          "end_frame": 72
+        },
+        {
+          "action": "Jumping",
+          "start": 7.595,
+          "end": 12.708,
+          "start_frame": 182,
+          "end_frame": 305
+        },
+        {
+          "action": "Holding Hands",
+          "start": 10.694,
+          "end": 12.036,
+          "start_frame": 257,
+          "end_frame": 289
+        }
+      ]
+    }
+  ]
+}

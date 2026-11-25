@@ -1,0 +1,55 @@
+{
+  "video_id": "EZIARHIS",
+  "video": "EZIARHIS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nymphidium Sp. Caterpillar",
+    "Big Headed Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Nymphidium Sp. Caterpillar",
+      "Moving"
+    ],
+    [
+      "Big Headed Ant",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nymphidium Sp. Caterpillar",
+      "Moving"
+    ],
+    [
+      "Big Headed Ant",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nymphidium Sp. Caterpillar",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.209,
+          "start_frame": 0,
+          "end_frame": 101
+        }
+      ]
+    },
+    {
+      "animal": "Big Headed Ant",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 4.209,
+          "start_frame": 0,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

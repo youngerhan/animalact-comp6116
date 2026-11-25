@@ -1,0 +1,41 @@
+{
+  "video_id": "SOPYQADX",
+  "video": "SOPYQADX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White-Backed Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White-Backed Woodpecker",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.75,
+          "start_frame": 0,
+          "end_frame": 114
+        },
+        {
+          "action": "Sensing",
+          "start": 4.875,
+          "end": 6.0,
+          "start_frame": 117,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

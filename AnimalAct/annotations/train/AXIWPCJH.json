@@ -1,0 +1,77 @@
+{
+  "video_id": "AXIWPCJH",
+  "video": "AXIWPCJH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant",
+    "Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Eating"
+    ],
+    [
+      "Aphid",
+      "Moving"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Eating"
+    ],
+    [
+      "Aphid",
+      "Moving"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 6.882,
+          "start_frame": 0,
+          "end_frame": 165
+        }
+      ]
+    },
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.056,
+          "start_frame": 0,
+          "end_frame": 49
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.916,
+          "start_frame": 0,
+          "end_frame": 166
+        },
+        {
+          "action": "Moving",
+          "start": 3.344,
+          "end": 6.916,
+          "start_frame": 80,
+          "end_frame": 166
+        }
+      ]
+    }
+  ]
+}

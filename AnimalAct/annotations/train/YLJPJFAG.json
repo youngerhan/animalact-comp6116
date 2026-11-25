@@ -1,0 +1,34 @@
+{
+  "video_id": "YLJPJFAG",
+  "video": "YLJPJFAG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Predaceous Diving Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Predaceous Diving Beetle",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Predaceous Diving Beetle",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Predaceous Diving Beetle",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 5.125,
+          "start_frame": 0,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

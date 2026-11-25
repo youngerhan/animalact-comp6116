@@ -1,0 +1,64 @@
+{
+  "video_id": "HXTRRGHA",
+  "video": "HXTRRGHA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nightingale Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Nightingale Bird",
+      "Walking"
+    ],
+    [
+      "Nightingale Bird",
+      "Attending"
+    ],
+    [
+      "Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nightingale Bird",
+      "Walking"
+    ],
+    [
+      "Nightingale Bird",
+      "Attending"
+    ],
+    [
+      "Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nightingale Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.094,
+          "end": 3.344,
+          "start_frame": 2,
+          "end_frame": 80
+        },
+        {
+          "action": "Chirping",
+          "start": 0.094,
+          "end": 3.5,
+          "start_frame": 2,
+          "end_frame": 84
+        },
+        {
+          "action": "Walking",
+          "start": 0.219,
+          "end": 0.594,
+          "start_frame": 5,
+          "end_frame": 14
+        }
+      ]
+    }
+  ]
+}

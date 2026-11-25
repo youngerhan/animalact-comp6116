@@ -1,0 +1,71 @@
+{
+  "video_id": "BFAJGKRF",
+  "video": "BFAJGKRF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dispholidus Typus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dispholidus Typus Snake",
+      "Moving"
+    ],
+    [
+      "Dispholidus Typus Snake",
+      "Keeping still"
+    ],
+    [
+      "Dispholidus Typus Snake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dispholidus Typus Snake",
+      "Moving"
+    ],
+    [
+      "Dispholidus Typus Snake",
+      "Keeping still"
+    ],
+    [
+      "Dispholidus Typus Snake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dispholidus Typus Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.006,
+          "end": 2.111,
+          "start_frame": 0,
+          "end_frame": 51
+        },
+        {
+          "action": "Moving",
+          "start": 2.119,
+          "end": 2.889,
+          "start_frame": 51,
+          "end_frame": 69
+        },
+        {
+          "action": "Sensing",
+          "start": 2.874,
+          "end": 4.804,
+          "start_frame": 69,
+          "end_frame": 115
+        },
+        {
+          "action": "Moving",
+          "start": 4.807,
+          "end": 6.197,
+          "start_frame": 115,
+          "end_frame": 149
+        }
+      ]
+    }
+  ]
+}

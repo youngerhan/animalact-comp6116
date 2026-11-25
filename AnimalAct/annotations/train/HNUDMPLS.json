@@ -1,0 +1,116 @@
+{
+  "video_id": "HNUDMPLS",
+  "video": "HNUDMPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret",
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Running"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Running"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.469,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.219,
+          "start_frame": 0,
+          "end_frame": 77
+        },
+        {
+          "action": "Walking",
+          "start": 0.719,
+          "end": 3.219,
+          "start_frame": 17,
+          "end_frame": 77
+        },
+        {
+          "action": "Running",
+          "start": 1.145,
+          "end": 2.412,
+          "start_frame": 27,
+          "end_frame": 58
+        }
+      ]
+    },
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 1.719,
+          "end": 3.219,
+          "start_frame": 41,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

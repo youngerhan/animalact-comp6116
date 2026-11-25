@@ -1,0 +1,32 @@
+{
+  "video_id": "SWJOBGIW",
+  "video": "SWJOBGIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 1.7
+        }
+      ]
+    }
+  ]
+}

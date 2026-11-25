@@ -1,0 +1,34 @@
+{
+  "video_id": "CIMTQELW",
+  "video": "CIMTQELW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Water Strider"
+  ],
+  "list_animal_action": [
+    [
+      "Water Strider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Water Strider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Water Strider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.387,
+          "start_frame": 0,
+          "end_frame": 81
+        }
+      ]
+    }
+  ]
+}

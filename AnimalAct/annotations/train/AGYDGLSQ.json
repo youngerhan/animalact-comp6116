@@ -1,0 +1,78 @@
+{
+  "video_id": "AGYDGLSQ",
+  "video": "AGYDGLSQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mistle Thrush"
+  ],
+  "list_animal_action": [
+    [
+      "Mistle Thrush",
+      "Attending"
+    ],
+    [
+      "Mistle Thrush",
+      "Flapping"
+    ],
+    [
+      "Mistle Thrush",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mistle Thrush",
+      "Attending"
+    ],
+    [
+      "Mistle Thrush",
+      "Flapping"
+    ],
+    [
+      "Mistle Thrush",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mistle Thrush",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.319,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Flapping",
+          "start": 0.319,
+          "end": 0.482,
+          "start_frame": 8,
+          "end_frame": 12
+        },
+        {
+          "action": "Flapping",
+          "start": 0.745,
+          "end": 0.793,
+          "start_frame": 18,
+          "end_frame": 19
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.467,
+          "end": 3.381,
+          "start_frame": 35,
+          "end_frame": 81
+        },
+        {
+          "action": "Attending",
+          "start": 3.091,
+          "end": 3.377,
+          "start_frame": 74,
+          "end_frame": 81
+        }
+      ]
+    }
+  ]
+}

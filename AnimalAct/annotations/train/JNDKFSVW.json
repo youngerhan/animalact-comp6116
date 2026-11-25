@@ -1,0 +1,56 @@
+{
+  "video_id": "JNDKFSVW",
+  "video": "JNDKFSVW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Halyomorpha Halys"
+  ],
+  "list_animal_action": [
+    [
+      "Halyomorpha Halys",
+      "Sensing"
+    ],
+    [
+      "Halyomorpha Halys",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Halyomorpha Halys",
+      "Sensing"
+    ],
+    [
+      "Halyomorpha Halys",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Halyomorpha Halys",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.302,
+          "end": 18.209,
+          "start_frame": 7,
+          "end_frame": 437
+        },
+        {
+          "action": "Moving",
+          "start": 0.305,
+          "end": 10.971,
+          "start_frame": 7,
+          "end_frame": 263
+        },
+        {
+          "action": "Moving",
+          "start": 12.179,
+          "end": 18.209,
+          "start_frame": 292,
+          "end_frame": 437
+        }
+      ]
+    }
+  ]
+}

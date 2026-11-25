@@ -1,0 +1,34 @@
+{
+  "video_id": "AJEGSKOU",
+  "video": "AJEGSKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.219,
+          "start_frame": 0,
+          "end_frame": 197
+        }
+      ]
+    }
+  ]
+}

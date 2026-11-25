@@ -1,0 +1,55 @@
+{
+  "video_id": "YMAEFZYO",
+  "video": "YMAEFZYO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Stork",
+    "Stork"
+  ],
+  "list_animal_action": [
+    [
+      "Black Stork",
+      "Exploring"
+    ],
+    [
+      "Stork",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Stork",
+      "Exploring"
+    ],
+    [
+      "Stork",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Stork",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        }
+      ]
+    },
+    {
+      "animal": "Stork",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "video_id": "RWFNVPLS",
+  "video": "RWFNVPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret",
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.005,
+          "end": 1.782,
+          "start_frame": 0,
+          "end_frame": 43
+        },
+        {
+          "action": "Attending",
+          "start": 0.031,
+          "end": 2.391,
+          "start_frame": 1,
+          "end_frame": 57
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.983,
+          "end": 2.417,
+          "start_frame": 48,
+          "end_frame": 58
+        }
+      ]
+    },
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 1.819,
+          "end": 2.407,
+          "start_frame": 44,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

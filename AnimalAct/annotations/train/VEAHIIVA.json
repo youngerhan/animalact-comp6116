@@ -1,0 +1,55 @@
+{
+  "video_id": "VEAHIIVA",
+  "video": "VEAHIIVA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sea Otter",
+    "Sea Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Sea Otter",
+      "Attending"
+    ],
+    [
+      "Sea Otter",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sea Otter",
+      "Attending"
+    ],
+    [
+      "Sea Otter",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sea Otter",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 1.667,
+          "end": 3.917,
+          "start_frame": 40,
+          "end_frame": 94
+        }
+      ]
+    },
+    {
+      "animal": "Sea Otter",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 1.75,
+          "end": 3.917,
+          "start_frame": 42,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

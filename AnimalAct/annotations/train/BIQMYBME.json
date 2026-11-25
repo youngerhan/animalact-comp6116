@@ -1,0 +1,64 @@
+{
+  "video_id": "BIQMYBME",
+  "video": "BIQMYBME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Attending"
+    ],
+    [
+      "Horse",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Attending"
+    ],
+    [
+      "Horse",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.708,
+          "start_frame": 0,
+          "end_frame": 41
+        },
+        {
+          "action": "Walking",
+          "start": 0.083,
+          "end": 1.458,
+          "start_frame": 2,
+          "end_frame": 35
+        },
+        {
+          "action": "Running",
+          "start": 0.083,
+          "end": 1.708,
+          "start_frame": 2,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

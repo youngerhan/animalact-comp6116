@@ -1,0 +1,34 @@
+{
+  "video_id": "ANVSTEUL",
+  "video": "ANVSTEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "African Wild Boar"
+  ],
+  "list_animal_action": [
+    [
+      "African Wild Boar",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "African Wild Boar",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "African Wild Boar",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.201,
+          "start_frame": 0,
+          "end_frame": 5
+        }
+      ]
+    }
+  ]
+}

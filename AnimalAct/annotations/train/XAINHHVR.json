@@ -1,0 +1,55 @@
+{
+  "video_id": "XAINHHVR",
+  "video": "XAINHHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lizard",
+    "Lesser Sunda Pit Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Lizard",
+      "Being Eaten"
+    ],
+    [
+      "Lesser Sunda Pit Viper",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lizard",
+      "Being Eaten"
+    ],
+    [
+      "Lesser Sunda Pit Viper",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lizard",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 6.125,
+          "start_frame": 0,
+          "end_frame": 147
+        }
+      ]
+    },
+    {
+      "animal": "Lesser Sunda Pit Viper",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 6.125,
+          "start_frame": 0,
+          "end_frame": 147
+        }
+      ]
+    }
+  ]
+}

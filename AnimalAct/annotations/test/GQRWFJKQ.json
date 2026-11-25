@@ -1,0 +1,55 @@
+{
+  "video_id": "GQRWFJKQ",
+  "video": "GQRWFJKQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jumping Spider",
+    "Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Jumping Spider",
+      "Eating"
+    ],
+    [
+      "Fly",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jumping Spider",
+      "Eating"
+    ],
+    [
+      "Fly",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jumping Spider",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 5.49,
+          "start_frame": 0,
+          "end_frame": 132
+        }
+      ]
+    },
+    {
+      "animal": "Fly",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 5.496,
+          "start_frame": 0,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

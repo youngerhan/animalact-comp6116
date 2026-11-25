@@ -1,0 +1,100 @@
+{
+  "video_id": "KVIMOSBA",
+  "video": "KVIMOSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Walking",
+          "start": 0.294,
+          "end": 1.128,
+          "start_frame": 7,
+          "end_frame": 27
+        },
+        {
+          "action": "Washing",
+          "start": 0.5,
+          "end": 1.25,
+          "start_frame": 12,
+          "end_frame": 30
+        },
+        {
+          "action": "Flapping",
+          "start": 0.75,
+          "end": 1.25,
+          "start_frame": 18,
+          "end_frame": 30
+        },
+        {
+          "action": "Sensing",
+          "start": 1.25,
+          "end": 2.25,
+          "start_frame": 30,
+          "end_frame": 54
+        },
+        {
+          "action": "Flapping",
+          "start": 2.25,
+          "end": 2.708,
+          "start_frame": 54,
+          "end_frame": 65
+        },
+        {
+          "action": "Washing",
+          "start": 2.25,
+          "end": 2.708,
+          "start_frame": 54,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

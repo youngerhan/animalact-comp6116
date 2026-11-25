@@ -1,0 +1,34 @@
+{
+  "video_id": "XNHRLNPL",
+  "video": "XNHRLNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Squirrel"
+  ],
+  "list_animal_action": [
+    [
+      "Squirrel",
+      "Standing in alert"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Squirrel",
+      "Standing in alert"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Squirrel",
+      "actions": [
+        {
+          "action": "Standing in alert",
+          "start": 0.936,
+          "end": 3.0,
+          "start_frame": 22,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

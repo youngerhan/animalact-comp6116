@@ -1,0 +1,34 @@
+{
+  "video_id": "AMVBLLHH",
+  "video": "AMVBLLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "African Clawed Toad"
+  ],
+  "list_animal_action": [
+    [
+      "African Clawed Toad",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "African Clawed Toad",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "African Clawed Toad",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 0.334,
+          "start_frame": 0,
+          "end_frame": 8
+        }
+      ]
+    }
+  ]
+}

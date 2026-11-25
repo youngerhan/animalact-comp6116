@@ -1,0 +1,49 @@
+{
+  "video_id": "KYFASFUP",
+  "video": "KYFASFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.033,
+          "start_frame": 0,
+          "end_frame": 49
+        },
+        {
+          "action": "Attending",
+          "start": 2.892,
+          "end": 3.71,
+          "start_frame": 69,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

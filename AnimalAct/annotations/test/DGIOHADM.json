@@ -1,0 +1,49 @@
+{
+  "video_id": "DGIOHADM",
+  "video": "DGIOHADM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aesculapian Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aesculapian Snake",
+      "actions": [
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.02,
+          "end": 13.821,
+          "start_frame": 0,
+          "end_frame": 332
+        },
+        {
+          "action": "Moving",
+          "start": 13.848,
+          "end": 21.125,
+          "start_frame": 332,
+          "end_frame": 507
+        }
+      ]
+    }
+  ]
+}

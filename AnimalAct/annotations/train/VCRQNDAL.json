@@ -1,0 +1,49 @@
+{
+  "video_id": "VCRQNDAL",
+  "video": "VCRQNDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.344,
+          "start_frame": 0,
+          "end_frame": 80
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

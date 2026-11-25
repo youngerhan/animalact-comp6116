@@ -1,0 +1,49 @@
+{
+  "video_id": "VEHULLHH",
+  "video": "VEHULLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 3.625,
+          "start_frame": 0,
+          "end_frame": 87
+        },
+        {
+          "action": "Climbing",
+          "start": 0.708,
+          "end": 2.375,
+          "start_frame": 17,
+          "end_frame": 57
+        }
+      ]
+    }
+  ]
+}

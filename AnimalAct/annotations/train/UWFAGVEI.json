@@ -1,0 +1,71 @@
+{
+  "video_id": "UWFAGVEI",
+  "video": "UWFAGVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anas Platyrhynchos Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Anas Platyrhynchos Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Preening"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anas Platyrhynchos Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Preening"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anas Platyrhynchos Bird",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.333,
+          "end": 0.833,
+          "start_frame": 8,
+          "end_frame": 20
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.917,
+          "end": 1.333,
+          "start_frame": 22,
+          "end_frame": 32
+        },
+        {
+          "action": "Preening",
+          "start": 1.417,
+          "end": 2.5,
+          "start_frame": 34,
+          "end_frame": 60
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 3.125,
+          "end": 3.625,
+          "start_frame": 75,
+          "end_frame": 87
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "ZILULNPL",
+  "video": "ZILULNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chimpanzee"
+  ],
+  "list_animal_action": [
+    [
+      "Chimpanzee",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chimpanzee",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chimpanzee",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

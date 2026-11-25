@@ -1,0 +1,49 @@
+{
+  "video_id": "MUNHMVEI",
+  "video": "MUNHMVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Nebularia Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Nebularia Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Nebularia Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Nebularia Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.094,
+          "end": 4.344,
+          "start_frame": 2,
+          "end_frame": 104
+        },
+        {
+          "action": "Walking",
+          "start": 0.094,
+          "end": 4.344,
+          "start_frame": 2,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

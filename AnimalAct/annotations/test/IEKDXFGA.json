@@ -1,0 +1,55 @@
+{
+  "video_id": "IEKDXFGA",
+  "video": "IEKDXFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.174,
+          "end": 1.378,
+          "start_frame": 28,
+          "end_frame": 33
+        },
+        {
+          "action": "Moving",
+          "start": 1.623,
+          "end": 1.808,
+          "start_frame": 39,
+          "end_frame": 43
+        },
+        {
+          "action": "Moving",
+          "start": 2.018,
+          "end": 2.238,
+          "start_frame": 48,
+          "end_frame": 54
+        },
+        {
+          "action": "Moving",
+          "start": 2.981,
+          "end": 3.11,
+          "start_frame": 72,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

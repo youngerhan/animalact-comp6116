@@ -1,0 +1,71 @@
+{
+  "video_id": "DZLFXTHG",
+  "video": "DZLFXTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bay'S Duiker"
+  ],
+  "list_animal_action": [
+    [
+      "Bay'S Duiker",
+      "Exploring"
+    ],
+    [
+      "Bay'S Duiker",
+      "Walking"
+    ],
+    [
+      "Bay'S Duiker",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bay'S Duiker",
+      "Exploring"
+    ],
+    [
+      "Bay'S Duiker",
+      "Walking"
+    ],
+    [
+      "Bay'S Duiker",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bay'S Duiker",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 11.208,
+          "start_frame": 0,
+          "end_frame": 269
+        },
+        {
+          "action": "Walking",
+          "start": 0.094,
+          "end": 11.094,
+          "start_frame": 2,
+          "end_frame": 266
+        },
+        {
+          "action": "Running",
+          "start": 6.844,
+          "end": 6.969,
+          "start_frame": 164,
+          "end_frame": 167
+        },
+        {
+          "action": "Running",
+          "start": 9.594,
+          "end": 10.344,
+          "start_frame": 230,
+          "end_frame": 248
+        }
+      ]
+    }
+  ]
+}

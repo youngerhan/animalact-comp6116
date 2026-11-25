@@ -1,0 +1,113 @@
+{
+  "video_id": "UGQVFSBA",
+  "video": "UGQVFSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.0,
+          "end": 1.86,
+          "start_frame": 0,
+          "end_frame": 45
+        },
+        {
+          "action": "Washing",
+          "start": 0.009,
+          "end": 1.856,
+          "start_frame": 0,
+          "end_frame": 45
+        },
+        {
+          "action": "Sensing",
+          "start": 2.102,
+          "end": 4.036,
+          "start_frame": 50,
+          "end_frame": 97
+        },
+        {
+          "action": "Washing",
+          "start": 2.229,
+          "end": 3.707,
+          "start_frame": 53,
+          "end_frame": 89
+        },
+        {
+          "action": "Flapping",
+          "start": 2.242,
+          "end": 3.716,
+          "start_frame": 54,
+          "end_frame": 89
+        },
+        {
+          "action": "Sensing",
+          "start": 4.778,
+          "end": 8.007,
+          "start_frame": 115,
+          "end_frame": 192
+        },
+        {
+          "action": "Flapping",
+          "start": 5.063,
+          "end": 6.62,
+          "start_frame": 122,
+          "end_frame": 159
+        },
+        {
+          "action": "Washing",
+          "start": 5.322,
+          "end": 6.609,
+          "start_frame": 128,
+          "end_frame": 159
+        },
+        {
+          "action": "Flapping",
+          "start": 6.871,
+          "end": 7.998,
+          "start_frame": 165,
+          "end_frame": 192
+        },
+        {
+          "action": "Washing",
+          "start": 6.884,
+          "end": 7.998,
+          "start_frame": 165,
+          "end_frame": 192
+        }
+      ]
+    }
+  ]
+}

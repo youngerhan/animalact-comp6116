@@ -1,0 +1,34 @@
+{
+  "video_id": "XWRQZWMK",
+  "video": "XWRQZWMK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Namaqua Dwarf Adder"
+  ],
+  "list_animal_action": [
+    [
+      "Namaqua Dwarf Adder",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Namaqua Dwarf Adder",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Namaqua Dwarf Adder",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.412,
+          "end": 4.559,
+          "start_frame": 34,
+          "end_frame": 109
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "PPDOPXGD",
+  "video": "PPDOPXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mountain Pygmy Possum"
+  ],
+  "list_animal_action": [
+    [
+      "Mountain Pygmy Possum",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mountain Pygmy Possum",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mountain Pygmy Possum",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.245,
+          "end": 0.522,
+          "start_frame": 6,
+          "end_frame": 13
+        },
+        {
+          "action": "Running",
+          "start": 0.785,
+          "end": 1.486,
+          "start_frame": 19,
+          "end_frame": 36
+        },
+        {
+          "action": "Running",
+          "start": 2.013,
+          "end": 2.216,
+          "start_frame": 48,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

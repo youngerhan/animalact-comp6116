@@ -1,0 +1,42 @@
+{
+  "archive": "AnimalAct-Reproducible-20261125.zip",
+  "bytes": 6936737818,
+  "sha256": "8a8284779504bddb771554f92063102855284cca125b83951349c742eaeb45ed",
+  "parts": [
+    {
+      "name": "AnimalAct-Reproducible-20261125.zip.part001",
+      "bytes": 1073741824,
+      "sha256": "8d0cde0c218df367d385686cce266dbea7382e6b05b946be98ec5e5f84e0ed26"
+    },
+    {
+      "name": "AnimalAct-Reproducible-20261125.zip.part002",
+      "bytes": 1073741824,
+      "sha256": "7e74dc3e3a590af7e61ccf2cbcd5d6e7b0a42acd3c531b45a8a002d52839db48"
+    },
+    {
+      "name": "AnimalAct-Reproducible-20261125.zip.part003",
+      "bytes": 1073741824,
+      "sha256": "ad20105491de0f1f697a089340de1860cd9607674490f4d93a47d27478ef0b7e"
+    },
+    {
+      "name": "AnimalAct-Reproducible-20261125.zip.part004",
+      "bytes": 1073741824,
+      "sha256": "a63484879206125fd0a58b4387c510d6293fcf3037bccf4546a9408b5a8874c6"
+    },
+    {
+      "name": "AnimalAct-Reproducible-20261125.zip.part005",
+      "bytes": 1073741824,
+      "sha256": "d16d8c427823db93a7306abd3ff467c67422630e383dcc95a3711a9287bc3674"
+    },
+    {
+      "name": "AnimalAct-Reproducible-20261125.zip.part006",
+      "bytes": 1073741824,
+      "sha256": "6abb4145f5c7aa1a669c8b6a1931fed5243609d5ac2f6a43ad53b6c448076c97"
+    },
+    {
+      "name": "AnimalAct-Reproducible-20261125.zip.part007",
+      "bytes": 494286874,
+      "sha256": "cd832ef69ea2ac06a45772f2fbc0a1078d476370283832d13d2b055f6e70a5c5"
+    }
+  ]
+}

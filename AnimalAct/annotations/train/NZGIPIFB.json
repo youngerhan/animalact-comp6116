@@ -1,0 +1,49 @@
+{
+  "video_id": "NZGIPIFB",
+  "video": "NZGIPIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Amazon Milk Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Amazon Milk Frog",
+      "Walking"
+    ],
+    [
+      "Amazon Milk Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Amazon Milk Frog",
+      "Walking"
+    ],
+    [
+      "Amazon Milk Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Amazon Milk Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.917,
+          "start_frame": 0,
+          "end_frame": 118
+        },
+        {
+          "action": "Walking",
+          "start": 1.567,
+          "end": 4.917,
+          "start_frame": 38,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

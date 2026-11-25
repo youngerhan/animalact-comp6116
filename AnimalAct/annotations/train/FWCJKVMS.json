@@ -1,0 +1,34 @@
+{
+  "video_id": "FWCJKVMS",
+  "video": "FWCJKVMS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greater Mouse Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Greater Mouse Deer",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greater Mouse Deer",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greater Mouse Deer",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

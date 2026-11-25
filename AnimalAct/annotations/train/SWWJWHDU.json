@@ -1,0 +1,41 @@
+{
+  "video_id": "SWWJWHDU",
+  "video": "SWWJWHDU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Australian Bowerbird"
+  ],
+  "list_animal_action": [
+    [
+      "Australian Bowerbird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Australian Bowerbird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Australian Bowerbird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Sensing",
+          "start": 1.875,
+          "end": 2.875,
+          "start_frame": 45,
+          "end_frame": 69
+        }
+      ]
+    }
+  ]
+}

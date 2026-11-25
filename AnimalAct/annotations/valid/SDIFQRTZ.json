@@ -1,0 +1,48 @@
+{
+  "video_id": "SDIFQRTZ",
+  "video": "SDIFQRTZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.717,
+          "end": 2.278,
+          "start_frame": 17,
+          "end_frame": 55
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.427,
+          "end": 4.198,
+          "start_frame": 82,
+          "end_frame": 101
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.969,
+          "end": 5.35,
+          "start_frame": 119,
+          "end_frame": 128
+        }
+      ]
+    }
+  ]
+}

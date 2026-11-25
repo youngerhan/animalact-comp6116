@@ -1,0 +1,34 @@
+{
+  "video_id": "CPBROHPH",
+  "video": "CPBROHPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bumblebee"
+  ],
+  "list_animal_action": [
+    [
+      "Bumblebee",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bumblebee",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bumblebee",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.514,
+          "start_frame": 0,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

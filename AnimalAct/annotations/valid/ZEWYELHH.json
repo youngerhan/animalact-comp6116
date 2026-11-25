@@ -1,0 +1,56 @@
+{
+  "video_id": "ZEWYELHH",
+  "video": "ZEWYELHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Water Lily Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Water Lily Frog",
+      "Jumping"
+    ],
+    [
+      "Water Lily Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Water Lily Frog",
+      "Jumping"
+    ],
+    [
+      "Water Lily Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Water Lily Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.125,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Jumping",
+          "start": 0.286,
+          "end": 0.455,
+          "start_frame": 7,
+          "end_frame": 11
+        },
+        {
+          "action": "Jumping",
+          "start": 0.875,
+          "end": 1.125,
+          "start_frame": 21,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

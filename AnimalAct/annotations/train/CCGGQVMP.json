@@ -1,0 +1,56 @@
+{
+  "video_id": "CCGGQVMP",
+  "video": "CCGGQVMP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Attending"
+    ],
+    [
+      "Bird",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Attending"
+    ],
+    [
+      "Bird",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.0,
+          "end": 2.625,
+          "start_frame": 0,
+          "end_frame": 63
+        },
+        {
+          "action": "Attending",
+          "start": 0.191,
+          "end": 1.514,
+          "start_frame": 5,
+          "end_frame": 36
+        },
+        {
+          "action": "Attending",
+          "start": 1.71,
+          "end": 2.625,
+          "start_frame": 41,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

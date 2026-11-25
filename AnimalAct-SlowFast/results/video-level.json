@@ -1,0 +1,29 @@
+[
+  {
+    "run": "baseline-stride2",
+    "pool": "mean",
+    "videos": 424,
+    "mAP": 0.4145181019190054,
+    "macro_F1": 0.3642702237232531,
+    "threshold": 0.1,
+    "mAP_positives_ge_10": 0.5112974498562319
+  },
+  {
+    "run": "wf256",
+    "pool": "mean",
+    "videos": 424,
+    "mAP": 0.4835518914532316,
+    "macro_F1": 0.4873316520528496,
+    "threshold": 0.05,
+    "mAP_positives_ge_10": 0.5587825684817739
+  },
+  {
+    "run": "ensemble7",
+    "pool": "mean",
+    "videos": 424,
+    "mAP": 0.521566511962254,
+    "macro_F1": 0.5079170036911974,
+    "threshold": 0.15,
+    "mAP_positives_ge_10": 0.5988430448270601
+  }
+]

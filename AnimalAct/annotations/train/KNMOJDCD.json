@@ -1,0 +1,34 @@
+{
+  "video_id": "KNMOJDCD",
+  "video": "KNMOJDCD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caddisfly"
+  ],
+  "list_animal_action": [
+    [
+      "Caddisfly",
+      "Camouflaging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caddisfly",
+      "Camouflaging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caddisfly",
+      "actions": [
+        {
+          "action": "Camouflaging",
+          "start": 0.0,
+          "end": 5.333,
+          "start_frame": 0,
+          "end_frame": 128
+        }
+      ]
+    }
+  ]
+}

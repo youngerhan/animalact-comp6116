@@ -1,0 +1,34 @@
+{
+  "video_id": "GXLNCOTL",
+  "video": "GXLNCOTL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Great Snipe",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Snipe",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Snipe",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 1.222,
+          "end": 4.219,
+          "start_frame": 29,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

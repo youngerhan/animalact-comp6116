@@ -1,0 +1,34 @@
+{
+  "video_id": "ARBLKIFB",
+  "video": "ARBLKIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Monster Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Monster Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Monster Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Monster Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

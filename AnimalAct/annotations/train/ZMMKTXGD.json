@@ -1,0 +1,34 @@
+{
+  "video_id": "ZMMKTXGD",
+  "video": "ZMMKTXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.005,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

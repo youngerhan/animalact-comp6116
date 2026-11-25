@@ -1,0 +1,34 @@
+{
+  "video_id": "BLWNMRAC",
+  "video": "BLWNMRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jaguarundi Cat"
+  ],
+  "list_animal_action": [
+    [
+      "Jaguarundi Cat",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jaguarundi Cat",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jaguarundi Cat",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.958,
+          "start_frame": 0,
+          "end_frame": 95
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "video_id": "MNBPBVEI",
+  "video": "MNBPBVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Nebularia Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Nebularia Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Chirping"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Washing"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Turning Around"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Keeping still"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Nebularia Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Chirping"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Washing"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Turning Around"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Keeping still"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Nebularia Bird",
+      "actions": [
+        {
+          "action": "Washing",
+          "start": 0.0,
+          "end": 0.9
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.9,
+          "end": 1.3
+        },
+        {
+          "action": "Walking",
+          "start": 1.3,
+          "end": 3.4
+        },
+        {
+          "action": "Chirping",
+          "start": 3.4,
+          "end": 4.5
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.5,
+          "end": 6.2
+        },
+        {
+          "action": "Turning Around",
+          "start": 6.2,
+          "end": 7.0
+        },
+        {
+          "action": "Eating",
+          "start": 7.8,
+          "end": 8.6
+        },
+        {
+          "action": "Attending",
+          "start": 9.0,
+          "end": 10.4
+        },
+        {
+          "action": "Sensing",
+          "start": 10.4,
+          "end": 12.0
+        },
+        {
+          "action": "Walking",
+          "start": 12.0,
+          "end": 13.5
+        }
+      ]
+    }
+  ]
+}

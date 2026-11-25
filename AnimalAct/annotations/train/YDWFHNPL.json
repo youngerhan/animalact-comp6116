@@ -1,0 +1,34 @@
+{
+  "video_id": "YDWFHNPL",
+  "video": "YDWFHNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chimpanzee"
+  ],
+  "list_animal_action": [
+    [
+      "Chimpanzee",
+      "Startled"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chimpanzee",
+      "Startled"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chimpanzee",
+      "actions": [
+        {
+          "action": "Startled",
+          "start": 0.042,
+          "end": 0.333,
+          "start_frame": 1,
+          "end_frame": 8
+        }
+      ]
+    }
+  ]
+}

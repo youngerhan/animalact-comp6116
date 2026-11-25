@@ -1,0 +1,49 @@
+{
+  "video_id": "GUDEAEUL",
+  "video": "GUDEAEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.285,
+          "start_frame": 0,
+          "end_frame": 55
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 2.486,
+          "end": 3.369,
+          "start_frame": 60,
+          "end_frame": 81
+        }
+      ]
+    }
+  ]
+}

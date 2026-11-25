@@ -1,0 +1,142 @@
+{
+  "video_id": "OADLDPTK",
+  "video": "OADLDPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        },
+        {
+          "action": "Attending",
+          "start": 4.5,
+          "end": 4.75,
+          "start_frame": 108,
+          "end_frame": 114
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.75,
+          "end": 7.417,
+          "start_frame": 114,
+          "end_frame": 178
+        },
+        {
+          "action": "Attending",
+          "start": 7.417,
+          "end": 8.5,
+          "start_frame": 178,
+          "end_frame": 204
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.5,
+          "end": 9.0,
+          "start_frame": 204,
+          "end_frame": 216
+        },
+        {
+          "action": "Chirping",
+          "start": 9.0,
+          "end": 11.75,
+          "start_frame": 216,
+          "end_frame": 282
+        },
+        {
+          "action": "Keeping still",
+          "start": 11.75,
+          "end": 13.958,
+          "start_frame": 282,
+          "end_frame": 335
+        },
+        {
+          "action": "Attending",
+          "start": 13.958,
+          "end": 14.625,
+          "start_frame": 335,
+          "end_frame": 351
+        },
+        {
+          "action": "Shaking Head",
+          "start": 14.0,
+          "end": 14.333,
+          "start_frame": 336,
+          "end_frame": 344
+        },
+        {
+          "action": "Keeping still",
+          "start": 14.625,
+          "end": 16.25,
+          "start_frame": 351,
+          "end_frame": 390
+        },
+        {
+          "action": "Chirping",
+          "start": 16.25,
+          "end": 20.208,
+          "start_frame": 390,
+          "end_frame": 485
+        },
+        {
+          "action": "Keeping still",
+          "start": 20.208,
+          "end": 21.25,
+          "start_frame": 485,
+          "end_frame": 510
+        },
+        {
+          "action": "Attending",
+          "start": 21.25,
+          "end": 21.5,
+          "start_frame": 510,
+          "end_frame": 516
+        }
+      ]
+    }
+  ]
+}

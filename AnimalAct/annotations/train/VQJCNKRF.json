@@ -1,0 +1,49 @@
+{
+  "video_id": "VQJCNKRF",
+  "video": "VQJCNKRF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giraffe"
+  ],
+  "list_animal_action": [
+    [
+      "Giraffe",
+      "Keeping still"
+    ],
+    [
+      "Giraffe",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giraffe",
+      "Keeping still"
+    ],
+    [
+      "Giraffe",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giraffe",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.583,
+          "start_frame": 0,
+          "end_frame": 62
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.708,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

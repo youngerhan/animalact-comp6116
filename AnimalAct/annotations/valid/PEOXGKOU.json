@@ -1,0 +1,56 @@
+{
+  "video_id": "PEOXGKOU",
+  "video": "PEOXGKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer Young"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer Young",
+      "Walking"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer Young",
+      "Walking"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.469,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Walking",
+          "start": 0.719,
+          "end": 1.219,
+          "start_frame": 17,
+          "end_frame": 29
+        },
+        {
+          "action": "Walking",
+          "start": 1.344,
+          "end": 1.469,
+          "start_frame": 32,
+          "end_frame": 35
+        }
+      ]
+    }
+  ]
+}

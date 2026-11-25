@@ -1,0 +1,55 @@
+{
+  "video_id": "CMRDVTLI",
+  "video": "CMRDVTLI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hairworm",
+    "Wood Cricket"
+  ],
+  "list_animal_action": [
+    [
+      "Hairworm",
+      "Moving"
+    ],
+    [
+      "Wood Cricket",
+      "Drifting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hairworm",
+      "Moving"
+    ],
+    [
+      "Wood Cricket",
+      "Drifting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hairworm",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.431,
+          "end": 1.758,
+          "start_frame": 10,
+          "end_frame": 42
+        }
+      ]
+    },
+    {
+      "animal": "Wood Cricket",
+      "actions": [
+        {
+          "action": "Drifting",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

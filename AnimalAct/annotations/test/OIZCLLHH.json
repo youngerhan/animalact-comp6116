@@ -1,0 +1,71 @@
+{
+  "video_id": "OIZCLLHH",
+  "video": "OIZCLLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Doing A Back Kick"
+    ],
+    [
+      "Frog",
+      "Keeping still"
+    ],
+    [
+      "Frog",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Doing A Back Kick"
+    ],
+    [
+      "Frog",
+      "Keeping still"
+    ],
+    [
+      "Frog",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.14,
+          "start_frame": 0,
+          "end_frame": 3
+        },
+        {
+          "action": "Fighting",
+          "start": 0.14,
+          "end": 0.698,
+          "start_frame": 3,
+          "end_frame": 17
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.698,
+          "end": 1.333,
+          "start_frame": 17,
+          "end_frame": 32
+        },
+        {
+          "action": "Doing A Back Kick",
+          "start": 1.01,
+          "end": 1.333,
+          "start_frame": 24,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

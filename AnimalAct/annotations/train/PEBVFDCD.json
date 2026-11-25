@@ -1,0 +1,34 @@
+{
+  "video_id": "PEBVFDCD",
+  "video": "PEBVFDCD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caddisfly"
+  ],
+  "list_animal_action": [
+    [
+      "Caddisfly",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caddisfly",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caddisfly",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.042,
+          "end": 2.926,
+          "start_frame": 1,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

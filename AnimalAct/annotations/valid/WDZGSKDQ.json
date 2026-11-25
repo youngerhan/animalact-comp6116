@@ -1,0 +1,49 @@
+{
+  "video_id": "WDZGSKDQ",
+  "video": "WDZGSKDQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Great Egret",
+      "Biting"
+    ],
+    [
+      "Great Egret",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Egret",
+      "Biting"
+    ],
+    [
+      "Great Egret",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Egret",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 16.589,
+          "start_frame": 0,
+          "end_frame": 398
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 16.607,
+          "start_frame": 0,
+          "end_frame": 399
+        }
+      ]
+    }
+  ]
+}

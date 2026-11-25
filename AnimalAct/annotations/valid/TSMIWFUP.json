@@ -1,0 +1,49 @@
+{
+  "video_id": "TSMIWFUP",
+  "video": "TSMIWFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Spitting Venom",
+          "start": 0.01,
+          "end": 0.561,
+          "start_frame": 0,
+          "end_frame": 13
+        },
+        {
+          "action": "Sensing",
+          "start": 0.676,
+          "end": 2.405,
+          "start_frame": 16,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

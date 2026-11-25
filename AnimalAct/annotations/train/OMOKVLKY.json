@@ -1,0 +1,34 @@
+{
+  "video_id": "OMOKVLKY",
+  "video": "OMOKVLKY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Side Blotched Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Side Blotched Lizard",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Side Blotched Lizard",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Side Blotched Lizard",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.375,
+          "start_frame": 0,
+          "end_frame": 33
+        }
+      ]
+    }
+  ]
+}

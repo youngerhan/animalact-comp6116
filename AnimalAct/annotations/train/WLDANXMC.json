@@ -1,0 +1,70 @@
+{
+  "video_id": "WLDANXMC",
+  "video": "WLDANXMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Woodpecker",
+      "Sensing"
+    ],
+    [
+      "Woodpecker",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Woodpecker",
+      "Sensing"
+    ],
+    [
+      "Woodpecker",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Woodpecker",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.429,
+          "start_frame": 0,
+          "end_frame": 10
+        },
+        {
+          "action": "Eating",
+          "start": 0.431,
+          "end": 0.65,
+          "start_frame": 10,
+          "end_frame": 16
+        },
+        {
+          "action": "Sensing",
+          "start": 0.654,
+          "end": 1.143,
+          "start_frame": 16,
+          "end_frame": 27
+        },
+        {
+          "action": "Eating",
+          "start": 1.161,
+          "end": 2.217,
+          "start_frame": 28,
+          "end_frame": 53
+        },
+        {
+          "action": "Sensing",
+          "start": 2.243,
+          "end": 7.102,
+          "start_frame": 54,
+          "end_frame": 170
+        }
+      ]
+    }
+  ]
+}

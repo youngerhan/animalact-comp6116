@@ -1,0 +1,34 @@
+{
+  "video_id": "OLCWRAYR",
+  "video": "OLCWRAYR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Quail",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Quail",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Quail",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 8.417,
+          "start_frame": 0,
+          "end_frame": 202
+        }
+      ]
+    }
+  ]
+}

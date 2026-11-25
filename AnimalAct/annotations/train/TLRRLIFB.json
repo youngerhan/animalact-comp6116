@@ -1,0 +1,34 @@
+{
+  "video_id": "TLRRLIFB",
+  "video": "TLRRLIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Poison Dart Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Poison Dart Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Poison Dart Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Poison Dart Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.423,
+          "start_frame": 0,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

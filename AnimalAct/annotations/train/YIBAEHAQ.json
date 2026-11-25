@@ -1,0 +1,55 @@
+{
+  "video_id": "YIBAEHAQ",
+  "video": "YIBAEHAQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montagu'S Harrier",
+    "Montagu'S Harrier Young"
+  ],
+  "list_animal_action": [
+    [
+      "Montagu'S Harrier",
+      "Landing"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montagu'S Harrier",
+      "Landing"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montagu'S Harrier",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.0,
+          "end": 0.746,
+          "start_frame": 0,
+          "end_frame": 18
+        }
+      ]
+    },
+    {
+      "animal": "Montagu'S Harrier Young",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.752,
+          "end": 0.916667,
+          "start_frame": 18,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

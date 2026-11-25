@@ -1,0 +1,34 @@
+{
+  "video_id": "YDLJBIMN",
+  "video": "YDLJBIMN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Asian Tapir"
+  ],
+  "list_animal_action": [
+    [
+      "Asian Tapir",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Asian Tapir",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Asian Tapir",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.208,
+          "start_frame": 0,
+          "end_frame": 125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "video_id": "UDLBIXDO",
+  "video": "UDLBIXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Buffalo"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Biting"
+    ],
+    [
+      "Buffalo",
+      "Struggling"
+    ],
+    [
+      "Lion",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Biting"
+    ],
+    [
+      "Buffalo",
+      "Struggling"
+    ],
+    [
+      "Lion",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 4.833333,
+          "start_frame": 0,
+          "end_frame": 116
+        },
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 4.833333,
+          "start_frame": 0,
+          "end_frame": 116
+        }
+      ]
+    },
+    {
+      "animal": "Buffalo",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 0.0,
+          "end": 2.646,
+          "start_frame": 0,
+          "end_frame": 64
+        }
+      ]
+    }
+  ]
+}

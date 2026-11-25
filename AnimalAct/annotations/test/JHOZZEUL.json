@@ -1,0 +1,56 @@
+{
+  "video_id": "JHOZZEUL",
+  "video": "JHOZZEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 1.208,
+          "end": 5.03,
+          "start_frame": 29,
+          "end_frame": 121
+        },
+        {
+          "action": "Moving",
+          "start": 5.047,
+          "end": 8.954,
+          "start_frame": 121,
+          "end_frame": 215
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.975,
+          "end": 14.708,
+          "start_frame": 215,
+          "end_frame": 353
+        }
+      ]
+    }
+  ]
+}

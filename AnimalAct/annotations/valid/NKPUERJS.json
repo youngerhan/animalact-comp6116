@@ -1,0 +1,56 @@
+{
+  "video_id": "NKPUERJS",
+  "video": "NKPUERJS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flame Skimmer Dragonfly"
+  ],
+  "list_animal_action": [
+    [
+      "Flame Skimmer Dragonfly",
+      "Keeping still"
+    ],
+    [
+      "Flame Skimmer Dragonfly",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flame Skimmer Dragonfly",
+      "Keeping still"
+    ],
+    [
+      "Flame Skimmer Dragonfly",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flame Skimmer Dragonfly",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.505,
+          "start_frame": 0,
+          "end_frame": 156
+        },
+        {
+          "action": "Sensing",
+          "start": 0.458,
+          "end": 1.542,
+          "start_frame": 11,
+          "end_frame": 37
+        },
+        {
+          "action": "Sensing",
+          "start": 4.375,
+          "end": 6.505,
+          "start_frame": 105,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "MECVAIFB",
+  "video": "MECVAIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Amazon Milk Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Amazon Milk Frog",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Amazon Milk Frog",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Amazon Milk Frog",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 1.333,
+          "end": 1.625,
+          "start_frame": 32,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

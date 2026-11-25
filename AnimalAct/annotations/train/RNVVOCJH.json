@@ -1,0 +1,76 @@
+{
+  "video_id": "RNVVOCJH",
+  "video": "RNVVOCJH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant",
+    "Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Moving"
+    ],
+    [
+      "Wasp",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Moving"
+    ],
+    [
+      "Wasp",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.764,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Moving",
+          "start": 1.074,
+          "end": 2.405,
+          "start_frame": 26,
+          "end_frame": 58
+        },
+        {
+          "action": "Moving",
+          "start": 3.357,
+          "end": 4.023,
+          "start_frame": 81,
+          "end_frame": 97
+        }
+      ]
+    },
+    {
+      "animal": "Wasp",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.897,
+          "end": 1.482,
+          "start_frame": 22,
+          "end_frame": 36
+        },
+        {
+          "action": "Flying",
+          "start": 2.35,
+          "end": 3.971,
+          "start_frame": 56,
+          "end_frame": 95
+        }
+      ]
+    }
+  ]
+}

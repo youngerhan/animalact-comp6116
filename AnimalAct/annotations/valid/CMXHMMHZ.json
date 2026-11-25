@@ -1,0 +1,49 @@
+{
+  "video_id": "CMXHMMHZ",
+  "video": "CMXHMMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Zamenis Longissiumus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Zamenis Longissiumus Snake",
+      "Biting"
+    ],
+    [
+      "Zamenis Longissiumus Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Zamenis Longissiumus Snake",
+      "Biting"
+    ],
+    [
+      "Zamenis Longissiumus Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Zamenis Longissiumus Snake",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.004,
+          "end": 4.589,
+          "start_frame": 0,
+          "end_frame": 110
+        },
+        {
+          "action": "Moving",
+          "start": 0.019,
+          "end": 4.595,
+          "start_frame": 0,
+          "end_frame": 110
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "OZSZYLHH",
+  "video": "OZSZYLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Moth"
+  ],
+  "list_animal_action": [
+    [
+      "Moth",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Moth",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Moth",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.057,
+          "end": 0.485,
+          "start_frame": 1,
+          "end_frame": 12
+        },
+        {
+          "action": "Moving",
+          "start": 0.6,
+          "end": 2.093,
+          "start_frame": 14,
+          "end_frame": 50
+        },
+        {
+          "action": "Moving",
+          "start": 2.311,
+          "end": 4.708,
+          "start_frame": 55,
+          "end_frame": 113
+        }
+      ]
+    }
+  ]
+}

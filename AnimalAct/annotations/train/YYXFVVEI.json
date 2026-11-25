@@ -1,0 +1,116 @@
+{
+  "video_id": "YYXFVVEI",
+  "video": "YYXFVVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Glareola Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Glareola Bird",
+      "Washing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Landing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Flapping"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Glareola Bird",
+      "Washing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Landing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Flapping"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Glareola Bird",
+      "actions": [
+        {
+          "action": "Washing",
+          "start": 0.0,
+          "end": 6.344,
+          "start_frame": 0,
+          "end_frame": 152
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 6.344,
+          "start_frame": 0,
+          "end_frame": 152
+        },
+        {
+          "action": "Flapping",
+          "start": 0.844,
+          "end": 1.344,
+          "start_frame": 20,
+          "end_frame": 32
+        },
+        {
+          "action": "Landing",
+          "start": 0.969,
+          "end": 1.094,
+          "start_frame": 23,
+          "end_frame": 26
+        },
+        {
+          "action": "Flapping",
+          "start": 1.719,
+          "end": 1.969,
+          "start_frame": 41,
+          "end_frame": 47
+        },
+        {
+          "action": "Walking",
+          "start": 3.719,
+          "end": 3.844,
+          "start_frame": 89,
+          "end_frame": 92
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 4.344,
+          "end": 4.469,
+          "start_frame": 104,
+          "end_frame": 107
+        }
+      ]
+    }
+  ]
+}

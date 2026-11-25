@@ -1,0 +1,63 @@
+{
+  "video_id": "FTPSZZTV",
+  "video": "FTPSZZTV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Resting"
+    ],
+    [
+      "Common Crane",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Resting"
+    ],
+    [
+      "Common Crane",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Resting",
+          "start": 0.0,
+          "end": 5.503,
+          "start_frame": 0,
+          "end_frame": 132
+        },
+        {
+          "action": "Attending",
+          "start": 0.002,
+          "end": 2.24,
+          "start_frame": 0,
+          "end_frame": 54
+        },
+        {
+          "action": "Attending",
+          "start": 2.609,
+          "end": 3.051,
+          "start_frame": 63,
+          "end_frame": 73
+        },
+        {
+          "action": "Attending",
+          "start": 3.382,
+          "end": 5.512,
+          "start_frame": 81,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

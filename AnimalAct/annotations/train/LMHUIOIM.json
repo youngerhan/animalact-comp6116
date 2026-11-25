@@ -1,0 +1,34 @@
+{
+  "video_id": "LMHUIOIM",
+  "video": "LMHUIOIM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sidewinder Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Sidewinder Rattlesnake",
+      "Rattling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sidewinder Rattlesnake",
+      "Rattling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sidewinder Rattlesnake",
+      "actions": [
+        {
+          "action": "Rattling",
+          "start": 0.0,
+          "end": 9.0,
+          "start_frame": 0,
+          "end_frame": 216
+        }
+      ]
+    }
+  ]
+}

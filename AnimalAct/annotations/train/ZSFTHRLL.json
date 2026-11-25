@@ -1,0 +1,101 @@
+{
+  "video_id": "ZSFTHRLL",
+  "video": "ZSFTHRLL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mouse"
+  ],
+  "list_animal_action": [
+    [
+      "Mouse",
+      "Walking"
+    ],
+    [
+      "Mouse",
+      "Shaking Head"
+    ],
+    [
+      "Mouse",
+      "Grooming"
+    ],
+    [
+      "Mouse",
+      "Turning Around"
+    ],
+    [
+      "Mouse",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mouse",
+      "Walking"
+    ],
+    [
+      "Mouse",
+      "Shaking Head"
+    ],
+    [
+      "Mouse",
+      "Grooming"
+    ],
+    [
+      "Mouse",
+      "Turning Around"
+    ],
+    [
+      "Mouse",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mouse",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 0.0,
+          "end": 0.458,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Walking",
+          "start": 0.625,
+          "end": 1.375,
+          "start_frame": 15,
+          "end_frame": 33
+        },
+        {
+          "action": "Running",
+          "start": 1.417,
+          "end": 2.083,
+          "start_frame": 34,
+          "end_frame": 50
+        },
+        {
+          "action": "Turning Around",
+          "start": 4.292,
+          "end": 4.542,
+          "start_frame": 103,
+          "end_frame": 109
+        },
+        {
+          "action": "Shaking Head",
+          "start": 4.708,
+          "end": 4.958,
+          "start_frame": 113,
+          "end_frame": 119
+        },
+        {
+          "action": "Walking",
+          "start": 4.917,
+          "end": 6.0,
+          "start_frame": 118,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

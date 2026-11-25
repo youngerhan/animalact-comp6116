@@ -1,0 +1,41 @@
+{
+  "video_id": "QKVVWLHH",
+  "video": "QKVVWLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "African Bullfrog"
+  ],
+  "list_animal_action": [
+    [
+      "African Bullfrog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "African Bullfrog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "African Bullfrog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.509,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.949,
+          "end": 3.625,
+          "start_frame": 47,
+          "end_frame": 87
+        }
+      ]
+    }
+  ]
+}

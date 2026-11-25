@@ -1,0 +1,122 @@
+{
+  "video_id": "YFOATMVW",
+  "video": "YFOATMVW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eurasian Wren Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Eurasian Wren Bird",
+      "Chirping"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Sensing"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Keeping still"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Urinating"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eurasian Wren Bird",
+      "Chirping"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Sensing"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Keeping still"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Urinating"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eurasian Wren Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.026,
+          "end": 4.678,
+          "start_frame": 1,
+          "end_frame": 112
+        },
+        {
+          "action": "Chirping",
+          "start": 0.034,
+          "end": 4.239,
+          "start_frame": 1,
+          "end_frame": 102
+        },
+        {
+          "action": "Chirping",
+          "start": 4.936,
+          "end": 9.528,
+          "start_frame": 118,
+          "end_frame": 229
+        },
+        {
+          "action": "Sensing",
+          "start": 6.905,
+          "end": 9.003,
+          "start_frame": 166,
+          "end_frame": 216
+        },
+        {
+          "action": "Keeping still",
+          "start": 9.012,
+          "end": 11.85,
+          "start_frame": 216,
+          "end_frame": 284
+        },
+        {
+          "action": "Sensing",
+          "start": 11.927,
+          "end": 17.628,
+          "start_frame": 286,
+          "end_frame": 423
+        },
+        {
+          "action": "Urinating",
+          "start": 16.459,
+          "end": 16.82,
+          "start_frame": 395,
+          "end_frame": 404
+        },
+        {
+          "action": "Urinating",
+          "start": 17.628,
+          "end": 18.273,
+          "start_frame": 423,
+          "end_frame": 439
+        },
+        {
+          "action": "Flying",
+          "start": 18.42,
+          "end": 18.626,
+          "start_frame": 442,
+          "end_frame": 447
+        }
+      ]
+    }
+  ]
+}

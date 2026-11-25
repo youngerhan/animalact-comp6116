@@ -1,0 +1,63 @@
+{
+  "video_id": "FFKARJVR",
+  "video": "FFKARJVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Little Crake Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Little Crake Bird",
+      "Sensing"
+    ],
+    [
+      "Little Crake Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Little Crake Bird",
+      "Sensing"
+    ],
+    [
+      "Little Crake Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Little Crake Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.244,
+          "end": 0.876,
+          "start_frame": 6,
+          "end_frame": 21
+        },
+        {
+          "action": "Preening",
+          "start": 1.56,
+          "end": 2.588,
+          "start_frame": 37,
+          "end_frame": 62
+        },
+        {
+          "action": "Preening",
+          "start": 3.297,
+          "end": 4.874,
+          "start_frame": 79,
+          "end_frame": 117
+        },
+        {
+          "action": "Sensing",
+          "start": 5.82,
+          "end": 7.701,
+          "start_frame": 140,
+          "end_frame": 185
+        }
+      ]
+    }
+  ]
+}

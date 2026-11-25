@@ -1,0 +1,11 @@
+{
+  "status": "stopped_at_user_request",
+  "resumable_run": "runs/retrained-uniform224",
+  "completed_epoch": 1,
+  "partial_epoch_discarded": 2,
+  "planned_total_epochs": 6,
+  "best_validation_mAP": 0.3947870397699626,
+  "best_validation_macro_F1": 0.409524426160081,
+  "new_test_evaluation": "pending",
+  "resume_command": "D:\\AnimalAct-setup\\Miniconda3\\Scripts\\conda.exe run --no-capture-output -p D:\\AnimalAct-setup\\envs\\animalact python -u retrain.py --initial runs/retrained-balanced160/best.pth --out runs/retrained-uniform224 --image-size 224 --sampling uniform --epochs 6 --patience 3 --batch-size 8 --workers 4 --head-lr 0.0001 --backbone-lr 0.00001 --resume"
+}

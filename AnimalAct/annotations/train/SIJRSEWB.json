@@ -1,0 +1,34 @@
+{
+  "video_id": "SIJRSEWB",
+  "video": "SIJRSEWB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Philomachus Pugnax Ruff Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Philomachus Pugnax Ruff Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

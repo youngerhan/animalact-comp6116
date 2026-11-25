@@ -1,0 +1,55 @@
+{
+  "video_id": "PNLIZLKI",
+  "video": "PNLIZLKI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Firebrat Insect"
+  ],
+  "list_animal_action": [
+    [
+      "Firebrat Insect",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Firebrat Insect",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Firebrat Insect",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.083,
+          "end": 0.292,
+          "start_frame": 2,
+          "end_frame": 7
+        },
+        {
+          "action": "Moving",
+          "start": 0.625,
+          "end": 1.708,
+          "start_frame": 15,
+          "end_frame": 41
+        },
+        {
+          "action": "Moving",
+          "start": 1.875,
+          "end": 2.375,
+          "start_frame": 45,
+          "end_frame": 57
+        },
+        {
+          "action": "Moving",
+          "start": 3.042,
+          "end": 4.208,
+          "start_frame": 73,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "VVQLEXTD",
+  "video": "VVQLEXTD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cryptic Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Cryptic Mantis",
+      "Grooming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cryptic Mantis",
+      "Grooming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cryptic Mantis",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 1.095,
+          "end": 3.214,
+          "start_frame": 26,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "video_id": "QMJSEPHK",
+  "video": "QMJSEPHK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Azure Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Azure Tit Bird",
+      "Turning Around"
+    ],
+    [
+      "Azure Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Azure Tit Bird",
+      "Turning Around"
+    ],
+    [
+      "Azure Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Azure Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.208,
+          "start_frame": 0,
+          "end_frame": 197
+        },
+        {
+          "action": "Turning Around",
+          "start": 8.208,
+          "end": 8.792,
+          "start_frame": 197,
+          "end_frame": 211
+        },
+        {
+          "action": "Sensing",
+          "start": 8.792,
+          "end": 9.0,
+          "start_frame": 211,
+          "end_frame": 216
+        }
+      ]
+    }
+  ]
+}

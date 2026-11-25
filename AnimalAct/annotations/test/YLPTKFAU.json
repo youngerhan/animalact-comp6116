@@ -1,0 +1,49 @@
+{
+  "video_id": "YLPTKFAU",
+  "video": "YLPTKFAU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jeweled Cockroach Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Sensing"
+    ],
+    [
+      "Jeweled Cockroach Wasp",
+      "Grooming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Sensing"
+    ],
+    [
+      "Jeweled Cockroach Wasp",
+      "Grooming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jeweled Cockroach Wasp",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 0.0,
+          "end": 4.509,
+          "start_frame": 0,
+          "end_frame": 108
+        },
+        {
+          "action": "Sensing",
+          "start": 4.508,
+          "end": 6.625,
+          "start_frame": 108,
+          "end_frame": 159
+        }
+      ]
+    }
+  ]
+}

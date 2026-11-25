@@ -1,0 +1,34 @@
+{
+  "video_id": "AAGLKRME",
+  "video": "AAGLKRME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Metlapilcoatlus Mexicanus Jumping Pit Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Metlapilcoatlus Mexicanus Jumping Pit Viper",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Metlapilcoatlus Mexicanus Jumping Pit Viper",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Metlapilcoatlus Mexicanus Jumping Pit Viper",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 1.519,
+          "end": 2.085,
+          "start_frame": 36,
+          "end_frame": 50
+        }
+      ]
+    }
+  ]
+}

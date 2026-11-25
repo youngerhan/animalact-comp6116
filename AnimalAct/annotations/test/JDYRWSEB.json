@@ -1,0 +1,41 @@
+{
+  "video_id": "JDYRWSEB",
+  "video": "JDYRWSEB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Rosefinch Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Rosefinch Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Rosefinch Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Rosefinch Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.25,
+          "end": 0.625,
+          "start_frame": 6,
+          "end_frame": 15
+        },
+        {
+          "action": "Sensing",
+          "start": 0.875,
+          "end": 1.375,
+          "start_frame": 21,
+          "end_frame": 33
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "video_id": "ZUDPBUDI",
+  "video": "ZUDPBUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Shaking Head"
+    ],
+    [
+      "Robin Bird",
+      "Shaking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Shaking Head"
+    ],
+    [
+      "Robin Bird",
+      "Shaking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Shaking",
+          "start": 0.083,
+          "end": 0.458,
+          "start_frame": 2,
+          "end_frame": 11
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.458,
+          "end": 0.583,
+          "start_frame": 11,
+          "end_frame": 14
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.667,
+          "end": 0.792,
+          "start_frame": 16,
+          "end_frame": 19
+        }
+      ]
+    }
+  ]
+}

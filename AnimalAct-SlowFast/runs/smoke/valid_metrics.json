@@ -1,0 +1,42 @@
+{
+  "clips": 9,
+  "mAP": 0.6058201058201057,
+  "ap_evaluable_classes": 3,
+  "macro_F1": 0.5151515151515151,
+  "threshold": 0.2,
+  "per_class": [
+    {
+      "global_id": 39,
+      "name": "Eating",
+      "AP": 0.5396825396825397,
+      "F1": 0.5,
+      "positives": 3,
+      "TP": 3,
+      "FP": 6,
+      "FN": 0,
+      "TN": 0
+    },
+    {
+      "global_id": 62,
+      "name": "Keeping still",
+      "AP": 0.4111111111111111,
+      "F1": 0.5,
+      "positives": 3,
+      "TP": 3,
+      "FP": 6,
+      "FN": 0,
+      "TN": 0
+    },
+    {
+      "global_id": 114,
+      "name": "Walking",
+      "AP": 0.8666666666666666,
+      "F1": 0.5454545454545454,
+      "positives": 3,
+      "TP": 3,
+      "FP": 5,
+      "FN": 0,
+      "TN": 1
+    }
+  ]
+}

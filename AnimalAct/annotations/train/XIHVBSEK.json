@@ -1,0 +1,34 @@
+{
+  "video_id": "XIHVBSEK",
+  "video": "XIHVBSEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jack Snipe Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Jack Snipe Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jack Snipe Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jack Snipe Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

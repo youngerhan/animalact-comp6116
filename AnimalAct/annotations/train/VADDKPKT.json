@@ -1,0 +1,34 @@
+{
+  "video_id": "VADDKPKT",
+  "video": "VADDKPKT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Сommon Eider"
+  ],
+  "list_animal_action": [
+    [
+      "Сommon Eider",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Сommon Eider",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Сommon Eider",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 6.125,
+          "start_frame": 0,
+          "end_frame": 147
+        }
+      ]
+    }
+  ]
+}

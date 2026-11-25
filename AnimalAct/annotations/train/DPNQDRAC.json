@@ -1,0 +1,34 @@
+{
+  "video_id": "DPNQDRAC",
+  "video": "DPNQDRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ocelot"
+  ],
+  "list_animal_action": [
+    [
+      "Ocelot",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ocelot",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ocelot",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

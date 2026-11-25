@@ -1,0 +1,34 @@
+{
+  "video_id": "BUNAMLHH",
+  "video": "BUNAMLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hairy Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Hairy Caterpillar",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hairy Caterpillar",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hairy Caterpillar",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.709,
+          "start_frame": 0,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

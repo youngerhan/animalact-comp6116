@@ -1,0 +1,34 @@
+{
+  "video_id": "SIXMTNQN",
+  "video": "SIXMTNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Cuckoo Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Cuckoo Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Cuckoo Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 13.469,
+          "start_frame": 0,
+          "end_frame": 323
+        }
+      ]
+    }
+  ]
+}

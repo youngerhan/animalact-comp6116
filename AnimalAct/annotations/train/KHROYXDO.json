@@ -1,0 +1,70 @@
+{
+  "video_id": "KHROYXDO",
+  "video": "KHROYXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hyena",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Hyena",
+      "Preying"
+    ],
+    [
+      "Lion",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Hyena",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hyena",
+      "Preying"
+    ],
+    [
+      "Lion",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Hyena",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Preying",
+          "start": 0.0,
+          "end": 5.035,
+          "start_frame": 0,
+          "end_frame": 121
+        },
+        {
+          "action": "Attacking",
+          "start": 2.04,
+          "end": 2.939,
+          "start_frame": 49,
+          "end_frame": 71
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 0.0,
+          "end": 5.037,
+          "start_frame": 0,
+          "end_frame": 121
+        }
+      ]
+    }
+  ]
+}

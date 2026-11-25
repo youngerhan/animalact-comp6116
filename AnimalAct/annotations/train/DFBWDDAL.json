@@ -1,0 +1,34 @@
+{
+  "video_id": "DFBWDDAL",
+  "video": "DFBWDDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.016,
+          "start_frame": 0,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

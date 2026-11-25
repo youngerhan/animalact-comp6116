@@ -1,0 +1,70 @@
+{
+  "video_id": "ESXVCNPO",
+  "video": "ESXVCNPO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Hyena"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Turning Around"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Hyena",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Turning Around"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Hyena",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.958,
+          "start_frame": 0,
+          "end_frame": 95
+        },
+        {
+          "action": "Turning Around",
+          "start": 3.583,
+          "end": 4.125,
+          "start_frame": 86,
+          "end_frame": 99
+        }
+      ]
+    },
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.083,
+          "start_frame": 0,
+          "end_frame": 50
+        }
+      ]
+    }
+  ]
+}

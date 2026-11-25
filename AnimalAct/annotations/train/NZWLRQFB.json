@@ -1,0 +1,70 @@
+{
+  "video_id": "NZWLRQFB",
+  "video": "NZWLRQFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "California Newt Young",
+    "California Newt"
+  ],
+  "list_animal_action": [
+    [
+      "California Newt Young",
+      "Swimming"
+    ],
+    [
+      "California Newt",
+      "Keeping still"
+    ],
+    [
+      "California Newt Young",
+      "Sinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "California Newt Young",
+      "Swimming"
+    ],
+    [
+      "California Newt",
+      "Keeping still"
+    ],
+    [
+      "California Newt Young",
+      "Sinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "California Newt Young",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 0.333,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Sinking",
+          "start": 2.416,
+          "end": 5.509,
+          "start_frame": 58,
+          "end_frame": 132
+        }
+      ]
+    },
+    {
+      "animal": "California Newt",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.333,
+          "end": 2.416,
+          "start_frame": 8,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

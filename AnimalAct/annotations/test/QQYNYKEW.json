@@ -1,0 +1,34 @@
+{
+  "video_id": "QQYNYKEW",
+  "video": "QQYNYKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giraffe"
+  ],
+  "list_animal_action": [
+    [
+      "Giraffe",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giraffe",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giraffe",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.667,
+          "end": 1.208,
+          "start_frame": 16,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "NGZZEVIQ",
+  "video": "NGZZEVIQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Firefly"
+  ],
+  "list_animal_action": [
+    [
+      "Firefly",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Firefly",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Firefly",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.224,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.454,
+          "end": 1.453,
+          "start_frame": 11,
+          "end_frame": 35
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.058,
+          "end": 4.204,
+          "start_frame": 49,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

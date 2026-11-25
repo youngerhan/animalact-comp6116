@@ -1,0 +1,34 @@
+{
+  "video_id": "EPMOZDFS",
+  "video": "EPMOZDFS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dumeril'S Boa"
+  ],
+  "list_animal_action": [
+    [
+      "Dumeril'S Boa",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dumeril'S Boa",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dumeril'S Boa",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.022,
+          "end": 6.417,
+          "start_frame": 1,
+          "end_frame": 154
+        }
+      ]
+    }
+  ]
+}

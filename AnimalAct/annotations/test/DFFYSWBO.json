@@ -1,0 +1,188 @@
+{
+  "video_id": "DFFYSWBO",
+  "video": "DFFYSWBO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Golden Eagle",
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Golden Eagle",
+      "Jumping"
+    ],
+    [
+      "Golden Eagle",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ],
+    [
+      "Bird",
+      "Carrying In Mouth"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ],
+    [
+      "Golden Eagle",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Golden Eagle",
+      "Jumping"
+    ],
+    [
+      "Golden Eagle",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ],
+    [
+      "Bird",
+      "Carrying In Mouth"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ],
+    [
+      "Golden Eagle",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Golden Eagle",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        },
+        {
+          "action": "Sensing",
+          "start": 2.875,
+          "end": 3.375,
+          "start_frame": 69,
+          "end_frame": 81
+        },
+        {
+          "action": "Jumping",
+          "start": 3.203,
+          "end": 3.708,
+          "start_frame": 77,
+          "end_frame": 89
+        },
+        {
+          "action": "Eating",
+          "start": 3.75,
+          "end": 4.0,
+          "start_frame": 90,
+          "end_frame": 96
+        }
+      ]
+    },
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.13,
+          "start_frame": 0,
+          "end_frame": 51
+        },
+        {
+          "action": "Eating",
+          "start": 0.5,
+          "end": 2.875,
+          "start_frame": 12,
+          "end_frame": 69
+        },
+        {
+          "action": "Sensing",
+          "start": 1.125,
+          "end": 3.25,
+          "start_frame": 27,
+          "end_frame": 78
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 2.625,
+          "end": 2.917,
+          "start_frame": 63,
+          "end_frame": 70
+        },
+        {
+          "action": "Walking",
+          "start": 2.875,
+          "end": 3.333,
+          "start_frame": 69,
+          "end_frame": 80
+        },
+        {
+          "action": "Jumping",
+          "start": 3.125,
+          "end": 3.458,
+          "start_frame": 75,
+          "end_frame": 83
+        },
+        {
+          "action": "Flying",
+          "start": 3.25,
+          "end": 3.708,
+          "start_frame": 78,
+          "end_frame": 89
+        },
+        {
+          "action": "Walking",
+          "start": 3.625,
+          "end": 4.0,
+          "start_frame": 87,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

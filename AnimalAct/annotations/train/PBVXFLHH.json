@@ -1,0 +1,34 @@
+{
+  "video_id": "PBVXFLHH",
+  "video": "PBVXFLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.516,
+          "start_frame": 0,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

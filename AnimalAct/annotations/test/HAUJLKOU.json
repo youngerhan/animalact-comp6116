@@ -1,0 +1,78 @@
+{
+  "video_id": "HAUJLKOU",
+  "video": "HAUJLKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Walking"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Walking"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 8.458,
+          "start_frame": 0,
+          "end_frame": 203
+        },
+        {
+          "action": "Sensing",
+          "start": 0.068,
+          "end": 8.165,
+          "start_frame": 2,
+          "end_frame": 196
+        },
+        {
+          "action": "Walking",
+          "start": 8.097,
+          "end": 10.439,
+          "start_frame": 194,
+          "end_frame": 251
+        },
+        {
+          "action": "Sensing",
+          "start": 10.456,
+          "end": 13.854,
+          "start_frame": 251,
+          "end_frame": 332
+        },
+        {
+          "action": "Walking",
+          "start": 13.591,
+          "end": 19.833333,
+          "start_frame": 326,
+          "end_frame": 476
+        }
+      ]
+    }
+  ]
+}

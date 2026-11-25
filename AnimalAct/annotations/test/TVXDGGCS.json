@@ -1,0 +1,124 @@
+{
+  "video_id": "TVXDGGCS",
+  "video": "TVXDGGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Retaliating"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Retaliating"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.0,
+          "end": 3.742,
+          "start_frame": 0,
+          "end_frame": 90
+        },
+        {
+          "action": "Barking",
+          "start": 0.0,
+          "end": 10.145,
+          "start_frame": 0,
+          "end_frame": 243
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 10.145,
+          "start_frame": 0,
+          "end_frame": 243
+        },
+        {
+          "action": "Retaliating",
+          "start": 1.568,
+          "end": 3.742,
+          "start_frame": 38,
+          "end_frame": 90
+        },
+        {
+          "action": "Startled",
+          "start": 3.748,
+          "end": 8.85,
+          "start_frame": 90,
+          "end_frame": 212
+        },
+        {
+          "action": "Retreating",
+          "start": 3.786,
+          "end": 10.145,
+          "start_frame": 91,
+          "end_frame": 243
+        },
+        {
+          "action": "Keeping still",
+          "start": 10.158,
+          "end": 11.0,
+          "start_frame": 244,
+          "end_frame": 264
+        }
+      ]
+    }
+  ]
+}

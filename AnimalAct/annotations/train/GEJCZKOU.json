@@ -1,0 +1,71 @@
+{
+  "video_id": "GEJCZKOU",
+  "video": "GEJCZKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Spreading Wings"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Spreading Wings"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.375,
+          "end": 0.875,
+          "start_frame": 9,
+          "end_frame": 21
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 0.5,
+          "end": 0.875,
+          "start_frame": 12,
+          "end_frame": 21
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 1.5,
+          "end": 2.625,
+          "start_frame": 36,
+          "end_frame": 63
+        },
+        {
+          "action": "Chirping",
+          "start": 3.75,
+          "end": 6.75,
+          "start_frame": 90,
+          "end_frame": 162
+        }
+      ]
+    }
+  ]
+}

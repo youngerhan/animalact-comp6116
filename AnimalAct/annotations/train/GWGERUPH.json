@@ -1,0 +1,55 @@
+{
+  "video_id": "GWGERUPH",
+  "video": "GWGERUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salamander"
+  ],
+  "list_animal_action": [
+    [
+      "Salamander",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salamander",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salamander",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 1.469,
+          "end": 3.219,
+          "start_frame": 35,
+          "end_frame": 77
+        },
+        {
+          "action": "Walking",
+          "start": 3.594,
+          "end": 4.469,
+          "start_frame": 86,
+          "end_frame": 107
+        },
+        {
+          "action": "Walking",
+          "start": 6.594,
+          "end": 8.344,
+          "start_frame": 158,
+          "end_frame": 200
+        },
+        {
+          "action": "Walking",
+          "start": 8.899,
+          "end": 21.959,
+          "start_frame": 214,
+          "end_frame": 527
+        }
+      ]
+    }
+  ]
+}

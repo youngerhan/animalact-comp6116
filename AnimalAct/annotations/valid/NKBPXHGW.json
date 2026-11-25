@@ -1,0 +1,49 @@
+{
+  "video_id": "NKBPXHGW",
+  "video": "NKBPXHGW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Circus Aeruginosus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Circus Aeruginosus Bird",
+      "Turning Around"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Circus Aeruginosus Bird",
+      "Turning Around"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Circus Aeruginosus Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.417,
+          "start_frame": 0,
+          "end_frame": 58
+        },
+        {
+          "action": "Turning Around",
+          "start": 0.375,
+          "end": 2.417,
+          "start_frame": 9,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

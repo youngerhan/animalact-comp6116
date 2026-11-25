@@ -1,0 +1,49 @@
+{
+  "video_id": "LKUHYVIQ",
+  "video": "LKUHYVIQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Firefly"
+  ],
+  "list_animal_action": [
+    [
+      "Firefly",
+      "Landing"
+    ],
+    [
+      "Firefly",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Firefly",
+      "Landing"
+    ],
+    [
+      "Firefly",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Firefly",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 1.042,
+          "end": 1.706,
+          "start_frame": 25,
+          "end_frame": 41
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.706,
+          "end": 3.333,
+          "start_frame": 41,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

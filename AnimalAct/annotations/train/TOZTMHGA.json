@@ -1,0 +1,93 @@
+{
+  "video_id": "TOZTMHGA",
+  "video": "TOZTMHGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sagittarius Serpentarius Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Sagittarius Serpentarius Bird",
+      "Walking"
+    ],
+    [
+      "Sagittarius Serpentarius Bird",
+      "Preening"
+    ],
+    [
+      "Sagittarius Serpentarius Bird",
+      "Flapping"
+    ],
+    [
+      "Sagittarius Serpentarius Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sagittarius Serpentarius Bird",
+      "Walking"
+    ],
+    [
+      "Sagittarius Serpentarius Bird",
+      "Preening"
+    ],
+    [
+      "Sagittarius Serpentarius Bird",
+      "Flapping"
+    ],
+    [
+      "Sagittarius Serpentarius Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sagittarius Serpentarius Bird",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.0,
+          "end": 1.375,
+          "start_frame": 0,
+          "end_frame": 33
+        },
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 2.083,
+          "start_frame": 0,
+          "end_frame": 50
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 15.917,
+          "start_frame": 0,
+          "end_frame": 382
+        },
+        {
+          "action": "Preening",
+          "start": 7.792,
+          "end": 9.333,
+          "start_frame": 187,
+          "end_frame": 224
+        },
+        {
+          "action": "Flapping",
+          "start": 8.708,
+          "end": 9.292,
+          "start_frame": 209,
+          "end_frame": 223
+        },
+        {
+          "action": "Walking",
+          "start": 9.458,
+          "end": 15.917,
+          "start_frame": 227,
+          "end_frame": 382
+        }
+      ]
+    }
+  ]
+}

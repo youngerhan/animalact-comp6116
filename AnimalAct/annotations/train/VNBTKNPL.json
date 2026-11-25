@@ -1,0 +1,34 @@
+{
+  "video_id": "VNBTKNPL",
+  "video": "VNBTKNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Squirrel"
+  ],
+  "list_animal_action": [
+    [
+      "Squirrel",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Squirrel",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Squirrel",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.5,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

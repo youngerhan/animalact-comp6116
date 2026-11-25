@@ -1,0 +1,34 @@
+{
+  "video_id": "LVRTDMYV",
+  "video": "LVRTDMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Atheris Nitschei Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Atheris Nitschei Viper",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Atheris Nitschei Viper",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Atheris Nitschei Viper",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 1.844,
+          "end": 3.219,
+          "start_frame": 44,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "JPZJJBME",
+  "video": "JPZJJBME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse",
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 1.75,
+          "end": 3.417,
+          "start_frame": 42,
+          "end_frame": 82
+        }
+      ]
+    },
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.333,
+          "end": 1.333,
+          "start_frame": 8,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

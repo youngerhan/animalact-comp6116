@@ -1,0 +1,55 @@
+{
+  "video_id": "MJMCKDUC",
+  "video": "MJMCKDUC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Promecognathus Crassus Beetle",
+    "Xystocheir Dissecta Millipede"
+  ],
+  "list_animal_action": [
+    [
+      "Promecognathus Crassus Beetle",
+      "Eating"
+    ],
+    [
+      "Xystocheir Dissecta Millipede",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Promecognathus Crassus Beetle",
+      "Eating"
+    ],
+    [
+      "Xystocheir Dissecta Millipede",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Promecognathus Crassus Beetle",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        }
+      ]
+    },
+    {
+      "animal": "Xystocheir Dissecta Millipede",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

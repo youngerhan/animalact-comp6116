@@ -1,0 +1,34 @@
+{
+  "video_id": "TLUYSGEG",
+  "video": "TLUYSGEG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Morning Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Morning Gecko",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Morning Gecko",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Morning Gecko",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.873,
+          "end": 3.333,
+          "start_frame": 21,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

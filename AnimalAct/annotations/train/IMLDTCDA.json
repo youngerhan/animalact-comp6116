@@ -1,0 +1,70 @@
+{
+  "video_id": "IMLDTCDA",
+  "video": "IMLDTCDA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Stagmomantis Limbata Bordered Mantis",
+    "Clitarchus Hookeri Common Stick Insect"
+  ],
+  "list_animal_action": [
+    [
+      "Stagmomantis Limbata Bordered Mantis",
+      "Keeping still"
+    ],
+    [
+      "Clitarchus Hookeri Common Stick Insect",
+      "Keeping still"
+    ],
+    [
+      "Stagmomantis Limbata Bordered Mantis",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Stagmomantis Limbata Bordered Mantis",
+      "Keeping still"
+    ],
+    [
+      "Clitarchus Hookeri Common Stick Insect",
+      "Keeping still"
+    ],
+    [
+      "Stagmomantis Limbata Bordered Mantis",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Stagmomantis Limbata Bordered Mantis",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.093,
+          "start_frame": 0,
+          "end_frame": 50
+        },
+        {
+          "action": "Attending",
+          "start": 2.088,
+          "end": 5.225,
+          "start_frame": 50,
+          "end_frame": 125
+        }
+      ]
+    },
+    {
+      "animal": "Clitarchus Hookeri Common Stick Insect",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.009,
+          "end": 5.225,
+          "start_frame": 0,
+          "end_frame": 125
+        }
+      ]
+    }
+  ]
+}

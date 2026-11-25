@@ -1,0 +1,41 @@
+{
+  "video_id": "FJDFAFJG",
+  "video": "FJDFAFJG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Elephant"
+  ],
+  "list_animal_action": [
+    [
+      "Elephant",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Elephant",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Elephant",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.027,
+          "end": 6.538,
+          "start_frame": 1,
+          "end_frame": 157
+        },
+        {
+          "action": "Walking",
+          "start": 7.211,
+          "end": 12.226,
+          "start_frame": 173,
+          "end_frame": 293
+        }
+      ]
+    }
+  ]
+}

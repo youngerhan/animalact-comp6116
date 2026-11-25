@@ -1,0 +1,34 @@
+{
+  "video_id": "XWWKKANS",
+  "video": "XWWKKANS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Orb Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Orb Spider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Orb Spider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Orb Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.333,
+          "start_frame": 0,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

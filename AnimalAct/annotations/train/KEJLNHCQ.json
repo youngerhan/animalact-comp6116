@@ -1,0 +1,41 @@
+{
+  "video_id": "KEJLNHCQ",
+  "video": "KEJLNHCQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gryllus Lineaticeps"
+  ],
+  "list_animal_action": [
+    [
+      "Gryllus Lineaticeps",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gryllus Lineaticeps",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gryllus Lineaticeps",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.186,
+          "start_frame": 0,
+          "end_frame": 4
+        },
+        {
+          "action": "Moving",
+          "start": 0.706,
+          "end": 3.919,
+          "start_frame": 17,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "FIEELBQT",
+  "video": "FIEELBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Oriental Whip Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Oriental Whip Snake",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Oriental Whip Snake",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Oriental Whip Snake",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.5,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

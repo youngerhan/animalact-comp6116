@@ -1,0 +1,38 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.22483105958193828,
+    "valid_mAP": 0.2606636401462849,
+    "valid_macro_F1": 0.26361527298743087,
+    "valid_macro_F1_per_class_threshold": 0.3236521887639643,
+    "valid_mAP_positives_ge_20": 0.3588476122685101,
+    "valid_threshold": 0.1,
+    "short_mAP": 0.2962724481437179,
+    "gpu_peak_allocated_mib": 1339,
+    "elapsed_minutes": 1.79
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.12150344815922946,
+    "valid_mAP": 0.3259325958928555,
+    "valid_macro_F1": 0.3276747227271413,
+    "valid_macro_F1_per_class_threshold": 0.39258775379961497,
+    "valid_mAP_positives_ge_20": 0.4153296648965437,
+    "valid_threshold": 0.2,
+    "short_mAP": 0.3473385034645466,
+    "gpu_peak_allocated_mib": 1339,
+    "elapsed_minutes": 3.57
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.10033731748514114,
+    "valid_mAP": 0.3373545158369859,
+    "valid_macro_F1": 0.3359804275697673,
+    "valid_macro_F1_per_class_threshold": 0.4018825594926299,
+    "valid_mAP_positives_ge_20": 0.4276958459032873,
+    "valid_threshold": 0.2,
+    "short_mAP": 0.32100698662085103,
+    "gpu_peak_allocated_mib": 1339,
+    "elapsed_minutes": 5.37
+  }
+]

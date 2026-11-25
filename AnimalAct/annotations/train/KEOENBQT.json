@@ -1,0 +1,34 @@
+{
+  "video_id": "KEOENBQT",
+  "video": "KEOENBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Bearded Draco"
+  ],
+  "list_animal_action": [
+    [
+      "Black Bearded Draco",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Bearded Draco",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Bearded Draco",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 1.625,
+          "start_frame": 0,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

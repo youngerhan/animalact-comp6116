@@ -1,0 +1,34 @@
+{
+  "video_id": "PLJWXBQT",
+  "video": "PLJWXBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Butterfly"
+  ],
+  "list_animal_action": [
+    [
+      "Butterfly",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Butterfly",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Butterfly",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.081,
+          "end": 0.833,
+          "start_frame": 2,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

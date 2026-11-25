@@ -1,0 +1,56 @@
+{
+  "video_id": "OMYDVFXO",
+  "video": "OMYDVFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 0.219,
+          "start_frame": 2,
+          "end_frame": 5
+        },
+        {
+          "action": "Chirping",
+          "start": 1.219,
+          "end": 4.333,
+          "start_frame": 29,
+          "end_frame": 104
+        },
+        {
+          "action": "Sensing",
+          "start": 1.344,
+          "end": 4.094,
+          "start_frame": 32,
+          "end_frame": 98
+        }
+      ]
+    }
+  ]
+}

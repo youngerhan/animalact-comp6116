@@ -1,0 +1,56 @@
+{
+  "video_id": "HZCCWTHG",
+  "video": "HZCCWTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red River Hog"
+  ],
+  "list_animal_action": [
+    [
+      "Red River Hog",
+      "Walking"
+    ],
+    [
+      "Red River Hog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red River Hog",
+      "Walking"
+    ],
+    [
+      "Red River Hog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red River Hog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        },
+        {
+          "action": "Walking",
+          "start": 1.333,
+          "end": 2.042,
+          "start_frame": 32,
+          "end_frame": 49
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.042,
+          "end": 3.917,
+          "start_frame": 49,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

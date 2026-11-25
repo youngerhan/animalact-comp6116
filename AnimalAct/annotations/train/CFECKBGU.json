@@ -1,0 +1,34 @@
+{
+  "video_id": "CFECKBGU",
+  "video": "CFECKBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Orchard Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Orchard Bee",
+      "Exiting Cocoon"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Orchard Bee",
+      "Exiting Cocoon"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Orchard Bee",
+      "actions": [
+        {
+          "action": "Exiting Cocoon",
+          "start": 0.0,
+          "end": 7.708,
+          "start_frame": 0,
+          "end_frame": 185
+        }
+      ]
+    }
+  ]
+}

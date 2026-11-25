@@ -1,0 +1,55 @@
+{
+  "video_id": "OJPMTCJH",
+  "video": "OJPMTCJH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant",
+    "Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Sensing"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Sensing"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.005,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    },
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.005,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

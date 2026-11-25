@@ -1,0 +1,34 @@
+{
+  "video_id": "UCFMLYMI",
+  "video": "UCFMLYMI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hoverfly Young"
+  ],
+  "list_animal_action": [
+    [
+      "Hoverfly Young",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hoverfly Young",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hoverfly Young",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.625,
+          "start_frame": 0,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

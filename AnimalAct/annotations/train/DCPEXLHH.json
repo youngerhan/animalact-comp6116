@@ -1,0 +1,34 @@
+{
+  "video_id": "DCPEXLHH",
+  "video": "DCPEXLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfrog"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfrog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfrog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfrog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.417,
+          "start_frame": 0,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

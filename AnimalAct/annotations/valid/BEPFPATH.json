@@ -1,0 +1,63 @@
+{
+  "video_id": "BEPFPATH",
+  "video": "BEPFPATH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Homalodisca Vitripennis Sharpshooter"
+  ],
+  "list_animal_action": [
+    [
+      "Homalodisca Vitripennis Sharpshooter",
+      "Keeping still"
+    ],
+    [
+      "Homalodisca Vitripennis Sharpshooter",
+      "Urinating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Homalodisca Vitripennis Sharpshooter",
+      "Keeping still"
+    ],
+    [
+      "Homalodisca Vitripennis Sharpshooter",
+      "Urinating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Homalodisca Vitripennis Sharpshooter",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.625,
+          "start_frame": 0,
+          "end_frame": 87
+        },
+        {
+          "action": "Urinating",
+          "start": 0.285,
+          "end": 0.405,
+          "start_frame": 7,
+          "end_frame": 10
+        },
+        {
+          "action": "Urinating",
+          "start": 0.592,
+          "end": 0.8,
+          "start_frame": 14,
+          "end_frame": 19
+        },
+        {
+          "action": "Urinating",
+          "start": 1.343,
+          "end": 1.503,
+          "start_frame": 32,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

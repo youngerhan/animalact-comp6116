@@ -1,0 +1,98 @@
+{
+  "video_id": "WVHNNBXG",
+  "video": "WVHNNBXG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Shaking Head"
+    ],
+    [
+      "Common Crane",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Shaking Head"
+    ],
+    [
+      "Common Crane",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.003,
+          "end": 0.158,
+          "start_frame": 0,
+          "end_frame": 4
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.164,
+          "end": 0.606,
+          "start_frame": 4,
+          "end_frame": 15
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 1.34,
+          "end": 1.717,
+          "start_frame": 32,
+          "end_frame": 41
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.713,
+          "end": 2.214,
+          "start_frame": 41,
+          "end_frame": 53
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 3.011,
+          "end": 3.499,
+          "start_frame": 72,
+          "end_frame": 84
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.499,
+          "end": 3.807,
+          "start_frame": 84,
+          "end_frame": 91
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 4.599,
+          "end": 5.159,
+          "start_frame": 110,
+          "end_frame": 124
+        },
+        {
+          "action": "Shaking Head",
+          "start": 5.143,
+          "end": 5.503,
+          "start_frame": 123,
+          "end_frame": 132
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 6.575,
+          "end": 7.125,
+          "start_frame": 158,
+          "end_frame": 171
+        }
+      ]
+    }
+  ]
+}

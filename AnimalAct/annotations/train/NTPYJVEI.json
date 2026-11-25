@@ -1,0 +1,168 @@
+{
+  "video_id": "NTPYJVEI",
+  "video": "NTPYJVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gallinago Gallinago Bird",
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Gallinago Gallinago Bird",
+      "Walking"
+    ],
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Shaking"
+    ],
+    [
+      "Duck",
+      "Walking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Flapping Tail"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Preening"
+    ],
+    [
+      "Duck",
+      "Flapping Tail"
+    ],
+    [
+      "Duck",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Shaking Head"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gallinago Gallinago Bird",
+      "Walking"
+    ],
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Shaking"
+    ],
+    [
+      "Duck",
+      "Walking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Flapping Tail"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Preening"
+    ],
+    [
+      "Duck",
+      "Flapping Tail"
+    ],
+    [
+      "Duck",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Shaking Head"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gallinago Gallinago Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.4
+        },
+        {
+          "action": "Flapping Tail",
+          "start": 1.2,
+          "end": 1.6
+        },
+        {
+          "action": "Shaking",
+          "start": 2.4,
+          "end": 2.8
+        },
+        {
+          "action": "Attending",
+          "start": 2.8,
+          "end": 4.0
+        },
+        {
+          "action": "Eating",
+          "start": 4.0,
+          "end": 5.2
+        }
+      ]
+    },
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 2.4
+        },
+        {
+          "action": "Attending",
+          "start": 2.4,
+          "end": 3.6
+        },
+        {
+          "action": "Walking",
+          "start": 3.6,
+          "end": 4.5
+        },
+        {
+          "action": "Shaking Head",
+          "start": 4.5,
+          "end": 5.2
+        },
+        {
+          "action": "Flapping Tail",
+          "start": 5.7,
+          "end": 6.1
+        },
+        {
+          "action": "Eating",
+          "start": 6.1,
+          "end": 7.21
+        }
+      ]
+    }
+  ]
+}

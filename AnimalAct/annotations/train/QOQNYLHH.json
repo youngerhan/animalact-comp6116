@@ -1,0 +1,34 @@
+{
+  "video_id": "QOQNYLHH",
+  "video": "QOQNYLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfrog"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfrog",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfrog",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfrog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 1.333,
+          "end": 3.214,
+          "start_frame": 32,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

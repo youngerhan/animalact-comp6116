@@ -1,0 +1,55 @@
+{
+  "video_id": "XSMDHCJH",
+  "video": "XSMDHCJH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wasp",
+    "Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Wasp",
+      "Moving"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wasp",
+      "Moving"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wasp",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.226,
+          "end": 1.889,
+          "start_frame": 29,
+          "end_frame": 45
+        }
+      ]
+    },
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.23,
+          "start_frame": 0,
+          "end_frame": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "LZYTMRFV",
+  "video": "LZYTMRFV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mountain Yellow-Legged Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Mountain Yellow-Legged Frog",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mountain Yellow-Legged Frog",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mountain Yellow-Legged Frog",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.623,
+          "start_frame": 0,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

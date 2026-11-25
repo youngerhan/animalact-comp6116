@@ -1,0 +1,49 @@
+{
+  "video_id": "EZYKRXTD",
+  "video": "EZYKRXTD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cryptic Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Cryptic Mantis",
+      "Keeping still"
+    ],
+    [
+      "Cryptic Mantis",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cryptic Mantis",
+      "Keeping still"
+    ],
+    [
+      "Cryptic Mantis",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cryptic Mantis",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.146,
+          "start_frame": 0,
+          "end_frame": 76
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "OVQDURYK",
+  "video": "OVQDURYK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Caterpillar",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caterpillar",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caterpillar",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 5.512,
+          "start_frame": 0,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

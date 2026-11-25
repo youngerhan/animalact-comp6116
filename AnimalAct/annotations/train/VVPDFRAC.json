@@ -1,0 +1,49 @@
+{
+  "video_id": "VVPDFRAC",
+  "video": "VVPDFRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Capuchin Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Capuchin Monkey",
+      "Shaking Head"
+    ],
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Capuchin Monkey",
+      "Shaking Head"
+    ],
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Capuchin Monkey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.665,
+          "start_frame": 0,
+          "end_frame": 208
+        },
+        {
+          "action": "Shaking Head",
+          "start": 9.01,
+          "end": 9.708,
+          "start_frame": 216,
+          "end_frame": 233
+        }
+      ]
+    }
+  ]
+}

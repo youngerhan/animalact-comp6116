@@ -1,0 +1,48 @@
+{
+  "video_id": "TUTKIDMX",
+  "video": "TUTKIDMX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Golden Oriole"
+  ],
+  "list_animal_action": [
+    [
+      "Golden Oriole",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Golden Oriole",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Golden Oriole",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.042,
+          "end": 0.125,
+          "start_frame": 1,
+          "end_frame": 3
+        },
+        {
+          "action": "Sensing",
+          "start": 0.458,
+          "end": 0.5,
+          "start_frame": 11,
+          "end_frame": 12
+        },
+        {
+          "action": "Sensing",
+          "start": 1.051,
+          "end": 1.176,
+          "start_frame": 25,
+          "end_frame": 28
+        }
+      ]
+    }
+  ]
+}

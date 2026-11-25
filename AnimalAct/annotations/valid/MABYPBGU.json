@@ -1,0 +1,49 @@
+{
+  "video_id": "MABYPBGU",
+  "video": "MABYPBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Orchard Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Orchard Bee",
+      "Flying"
+    ],
+    [
+      "Blue Orchard Bee",
+      "Exiting Nest"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Orchard Bee",
+      "Flying"
+    ],
+    [
+      "Blue Orchard Bee",
+      "Exiting Nest"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Orchard Bee",
+      "actions": [
+        {
+          "action": "Exiting Nest",
+          "start": 0.329,
+          "end": 1.829,
+          "start_frame": 8,
+          "end_frame": 44
+        },
+        {
+          "action": "Flying",
+          "start": 1.834,
+          "end": 3.5,
+          "start_frame": 44,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

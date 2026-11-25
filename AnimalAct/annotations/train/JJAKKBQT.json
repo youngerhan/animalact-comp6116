@@ -1,0 +1,49 @@
+{
+  "video_id": "JJAKKBQT",
+  "video": "JJAKKBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greater Racket Tail Drongo"
+  ],
+  "list_animal_action": [
+    [
+      "Greater Racket Tail Drongo",
+      "Walking"
+    ],
+    [
+      "Greater Racket Tail Drongo",
+      "Sharing Food"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greater Racket Tail Drongo",
+      "Walking"
+    ],
+    [
+      "Greater Racket Tail Drongo",
+      "Sharing Food"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greater Racket Tail Drongo",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.866,
+          "start_frame": 0,
+          "end_frame": 21
+        },
+        {
+          "action": "Sharing Food",
+          "start": 0.868,
+          "end": 1.515,
+          "start_frame": 21,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

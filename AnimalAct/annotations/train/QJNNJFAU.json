@@ -1,0 +1,62 @@
+{
+  "video_id": "QJNNJFAU",
+  "video": "QJNNJFAU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jeweled Cockroach Wasp",
+    "Cockroach"
+  ],
+  "list_animal_action": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Sensing"
+    ],
+    [
+      "Cockroach",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Sensing"
+    ],
+    [
+      "Cockroach",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jeweled Cockroach Wasp",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.041,
+          "end": 1.625,
+          "start_frame": 1,
+          "end_frame": 39
+        }
+      ]
+    },
+    {
+      "animal": "Cockroach",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.574,
+          "end": 1.133,
+          "start_frame": 14,
+          "end_frame": 27
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.282,
+          "end": 1.619,
+          "start_frame": 31,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "video_id": "DRJWXPLS",
+  "video": "DRJWXPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret",
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Biting"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Biting"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.002,
+          "end": 0.108,
+          "start_frame": 0,
+          "end_frame": 3
+        }
+      ]
+    },
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.706,
+          "start_frame": 0,
+          "end_frame": 89
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.71,
+          "start_frame": 0,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

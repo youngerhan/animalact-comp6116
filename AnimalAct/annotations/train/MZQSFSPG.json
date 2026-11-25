@@ -1,0 +1,32 @@
+{
+  "video_id": "MZQSFSPG",
+  "video": "MZQSFSPG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Chiffchaff Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Chiffchaff Bird",
+      "Turning Around"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Chiffchaff Bird",
+      "Turning Around"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Chiffchaff Bird",
+      "actions": [
+        {
+          "action": "Turning Around",
+          "start": 0.15,
+          "end": 0.6
+        }
+      ]
+    }
+  ]
+}

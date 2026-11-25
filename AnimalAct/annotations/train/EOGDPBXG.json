@@ -1,0 +1,64 @@
+{
+  "video_id": "EOGDPBXG",
+  "video": "EOGDPBXG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Preening"
+    ],
+    [
+      "Common Crane",
+      "Sensing"
+    ],
+    [
+      "Common Crane",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Preening"
+    ],
+    [
+      "Common Crane",
+      "Sensing"
+    ],
+    [
+      "Common Crane",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.481,
+          "end": 6.833,
+          "start_frame": 12,
+          "end_frame": 164
+        },
+        {
+          "action": "Sensing",
+          "start": 1.17,
+          "end": 6.771,
+          "start_frame": 28,
+          "end_frame": 163
+        },
+        {
+          "action": "Preening",
+          "start": 5.762,
+          "end": 6.833,
+          "start_frame": 138,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

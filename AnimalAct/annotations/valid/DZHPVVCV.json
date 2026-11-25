@@ -1,0 +1,34 @@
+{
+  "video_id": "DZHPVVCV",
+  "video": "DZHPVVCV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salamander"
+  ],
+  "list_animal_action": [
+    [
+      "Salamander",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salamander",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salamander",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 4.969,
+          "start_frame": 0,
+          "end_frame": 119
+        }
+      ]
+    }
+  ]
+}

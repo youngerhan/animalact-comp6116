@@ -1,0 +1,34 @@
+{
+  "video_id": "SDNVQIVA",
+  "video": "SDNVQIVA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sea Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Sea Otter",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sea Otter",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sea Otter",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 3.333,
+          "start_frame": 0,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

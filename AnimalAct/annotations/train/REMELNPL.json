@@ -1,0 +1,79 @@
+{
+  "video_id": "REMELNPL",
+  "video": "REMELNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Exploring"
+    ],
+    [
+      "Lion",
+      "Manipulating Object"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Exploring"
+    ],
+    [
+      "Lion",
+      "Manipulating Object"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 11.024,
+          "start_frame": 0,
+          "end_frame": 265
+        },
+        {
+          "action": "Sensing",
+          "start": 0.005,
+          "end": 11.024,
+          "start_frame": 0,
+          "end_frame": 265
+        },
+        {
+          "action": "Exploring",
+          "start": 0.009,
+          "end": 11.024,
+          "start_frame": 0,
+          "end_frame": 265
+        },
+        {
+          "action": "Manipulating Object",
+          "start": 0.014,
+          "end": 11.024,
+          "start_frame": 0,
+          "end_frame": 265
+        }
+      ]
+    }
+  ]
+}

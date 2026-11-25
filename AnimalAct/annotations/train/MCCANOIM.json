@@ -1,0 +1,34 @@
+{
+  "video_id": "MCCANOIM",
+  "video": "MCCANOIM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sidewinder Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Sidewinder Rattlesnake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sidewinder Rattlesnake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sidewinder Rattlesnake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 7.125,
+          "start_frame": 0,
+          "end_frame": 171
+        }
+      ]
+    }
+  ]
+}

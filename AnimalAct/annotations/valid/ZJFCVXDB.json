@@ -1,0 +1,34 @@
+{
+  "video_id": "ZJFCVXDB",
+  "video": "ZJFCVXDB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Postman Butterfly"
+  ],
+  "list_animal_action": [
+    [
+      "Postman Butterfly",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Postman Butterfly",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Postman Butterfly",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 3.501,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

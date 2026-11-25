@@ -1,0 +1,181 @@
+{
+  "video_id": "MRATRMRN",
+  "video": "MRATRMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Grey Bird",
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Keeping still"
+    ],
+    [
+      "Grey Bird",
+      "Sensing"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Shaking"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ],
+    [
+      "Mallard Duck",
+      "Shaking"
+    ],
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Grey Bird",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Keeping still"
+    ],
+    [
+      "Grey Bird",
+      "Sensing"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Shaking"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ],
+    [
+      "Mallard Duck",
+      "Shaking"
+    ],
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Grey Bird",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 4.219,
+          "start_frame": 0,
+          "end_frame": 101
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.469,
+          "start_frame": 0,
+          "end_frame": 131
+        },
+        {
+          "action": "Sensing",
+          "start": 0.469,
+          "end": 5.344,
+          "start_frame": 11,
+          "end_frame": 128
+        },
+        {
+          "action": "Shaking",
+          "start": 2.469,
+          "end": 2.719,
+          "start_frame": 59,
+          "end_frame": 65
+        }
+      ]
+    },
+    {
+      "animal": "Grey Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 4.969,
+          "start_frame": 0,
+          "end_frame": 119
+        },
+        {
+          "action": "Sensing",
+          "start": 1.094,
+          "end": 5.094,
+          "start_frame": 26,
+          "end_frame": 122
+        }
+      ]
+    },
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.844,
+          "end": 5.344,
+          "start_frame": 20,
+          "end_frame": 128
+        },
+        {
+          "action": "Walking",
+          "start": 1.344,
+          "end": 1.469,
+          "start_frame": 32,
+          "end_frame": 35
+        },
+        {
+          "action": "Sensing",
+          "start": 2.094,
+          "end": 4.969,
+          "start_frame": 50,
+          "end_frame": 119
+        },
+        {
+          "action": "Shaking",
+          "start": 4.719,
+          "end": 4.844,
+          "start_frame": 113,
+          "end_frame": 116
+        }
+      ]
+    }
+  ]
+}

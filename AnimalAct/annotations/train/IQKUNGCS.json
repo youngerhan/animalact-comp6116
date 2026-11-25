@@ -1,0 +1,49 @@
+{
+  "video_id": "IQKUNGCS",
+  "video": "IQKUNGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.122,
+          "end": 0.679,
+          "start_frame": 3,
+          "end_frame": 16
+        },
+        {
+          "action": "Retreating",
+          "start": 0.847,
+          "end": 1.833,
+          "start_frame": 20,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

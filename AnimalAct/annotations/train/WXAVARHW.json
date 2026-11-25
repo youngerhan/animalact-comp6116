@@ -1,0 +1,55 @@
+{
+  "video_id": "WXAVARHW",
+  "video": "WXAVARHW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Battus Philenor Hirsuta Caterpillar",
+    "Battus Philenor Hirsuta"
+  ],
+  "list_animal_action": [
+    [
+      "Battus Philenor Hirsuta Caterpillar",
+      "Eating"
+    ],
+    [
+      "Battus Philenor Hirsuta",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Battus Philenor Hirsuta Caterpillar",
+      "Eating"
+    ],
+    [
+      "Battus Philenor Hirsuta",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Battus Philenor Hirsuta Caterpillar",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 6.923,
+          "start_frame": 0,
+          "end_frame": 166
+        }
+      ]
+    },
+    {
+      "animal": "Battus Philenor Hirsuta",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 6.923,
+          "start_frame": 0,
+          "end_frame": 166
+        }
+      ]
+    }
+  ]
+}

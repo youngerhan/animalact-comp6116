@@ -1,0 +1,34 @@
+{
+  "video_id": "METBQGDO",
+  "video": "METBQGDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "California Oak Moth"
+  ],
+  "list_animal_action": [
+    [
+      "California Oak Moth",
+      "Flapping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "California Oak Moth",
+      "Flapping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "California Oak Moth",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.542,
+          "end": 3.214,
+          "start_frame": 13,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

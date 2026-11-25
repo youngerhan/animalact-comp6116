@@ -1,0 +1,86 @@
+{
+  "video_id": "QSZAIUDI",
+  "video": "QSZAIUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Shaking Head"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ],
+    [
+      "Robin Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Shaking Head"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ],
+    [
+      "Robin Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.469,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 8.344,
+          "start_frame": 0,
+          "end_frame": 200
+        },
+        {
+          "action": "Chirping",
+          "start": 0.469,
+          "end": 0.594,
+          "start_frame": 11,
+          "end_frame": 14
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.594,
+          "end": 2.719,
+          "start_frame": 62,
+          "end_frame": 65
+        },
+        {
+          "action": "Chirping",
+          "start": 3.969,
+          "end": 6.844,
+          "start_frame": 95,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

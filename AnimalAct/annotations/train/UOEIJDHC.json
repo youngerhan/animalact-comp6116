@@ -1,0 +1,49 @@
+{
+  "video_id": "UOEIJDHC",
+  "video": "UOEIJDHC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Convergent Ladybug"
+  ],
+  "list_animal_action": [
+    [
+      "Convergent Ladybug",
+      "Moving"
+    ],
+    [
+      "Convergent Ladybug",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Convergent Ladybug",
+      "Moving"
+    ],
+    [
+      "Convergent Ladybug",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Convergent Ladybug",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "JKGPDLHH",
+  "video": "JKGPDLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.417,
+          "start_frame": 0,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

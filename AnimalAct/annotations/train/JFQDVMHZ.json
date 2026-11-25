@@ -1,0 +1,71 @@
+{
+  "video_id": "JFQDVMHZ",
+  "video": "JFQDVMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Zamenis Longissiumus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Zamenis Longissiumus Snake",
+      "Biting"
+    ],
+    [
+      "Zamenis Longissiumus Snake",
+      "Sensing"
+    ],
+    [
+      "Zamenis Longissiumus Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Zamenis Longissiumus Snake",
+      "Biting"
+    ],
+    [
+      "Zamenis Longissiumus Snake",
+      "Sensing"
+    ],
+    [
+      "Zamenis Longissiumus Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Zamenis Longissiumus Snake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.729,
+          "start_frame": 0,
+          "end_frame": 89
+        },
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 21.421,
+          "start_frame": 0,
+          "end_frame": 514
+        },
+        {
+          "action": "Moving",
+          "start": 3.729,
+          "end": 14.44,
+          "start_frame": 89,
+          "end_frame": 347
+        },
+        {
+          "action": "Sensing",
+          "start": 14.477,
+          "end": 21.421,
+          "start_frame": 347,
+          "end_frame": 514
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "video_id": "ODTIKPTK",
+  "video": "ODTIKPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.75,
+          "start_frame": 0,
+          "end_frame": 66
+        },
+        {
+          "action": "Sensing",
+          "start": 2.5,
+          "end": 3.0,
+          "start_frame": 60,
+          "end_frame": 72
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.75,
+          "end": 4.75,
+          "start_frame": 66,
+          "end_frame": 114
+        },
+        {
+          "action": "Chirping",
+          "start": 4.75,
+          "end": 7.125,
+          "start_frame": 114,
+          "end_frame": 171
+        },
+        {
+          "action": "Sensing",
+          "start": 7.125,
+          "end": 7.625,
+          "start_frame": 171,
+          "end_frame": 183
+        },
+        {
+          "action": "Keeping still",
+          "start": 7.125,
+          "end": 8.75,
+          "start_frame": 171,
+          "end_frame": 210
+        },
+        {
+          "action": "Chirping",
+          "start": 8.75,
+          "end": 11.0,
+          "start_frame": 210,
+          "end_frame": 264
+        },
+        {
+          "action": "Keeping still",
+          "start": 11.0,
+          "end": 12.5,
+          "start_frame": 264,
+          "end_frame": 300
+        },
+        {
+          "action": "Sensing",
+          "start": 11.125,
+          "end": 11.75,
+          "start_frame": 267,
+          "end_frame": 282
+        },
+        {
+          "action": "Chirping",
+          "start": 12.5,
+          "end": 14.125,
+          "start_frame": 300,
+          "end_frame": 339
+        },
+        {
+          "action": "Sensing",
+          "start": 14.125,
+          "end": 14.75,
+          "start_frame": 339,
+          "end_frame": 354
+        },
+        {
+          "action": "Keeping still",
+          "start": 14.125,
+          "end": 16.333,
+          "start_frame": 339,
+          "end_frame": 392
+        }
+      ]
+    }
+  ]
+}

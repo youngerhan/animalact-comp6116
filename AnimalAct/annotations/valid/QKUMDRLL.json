@@ -1,0 +1,79 @@
+{
+  "video_id": "QKUMDRLL",
+  "video": "QKUMDRLL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mouse"
+  ],
+  "list_animal_action": [
+    [
+      "Mouse",
+      "Turning Around"
+    ],
+    [
+      "Mouse",
+      "Running"
+    ],
+    [
+      "Mouse",
+      "Grooming"
+    ],
+    [
+      "Mouse",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mouse",
+      "Turning Around"
+    ],
+    [
+      "Mouse",
+      "Running"
+    ],
+    [
+      "Mouse",
+      "Grooming"
+    ],
+    [
+      "Mouse",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mouse",
+      "actions": [
+        {
+          "action": "Turning Around",
+          "start": 0.28,
+          "end": 0.822,
+          "start_frame": 7,
+          "end_frame": 20
+        },
+        {
+          "action": "Grooming",
+          "start": 0.913,
+          "end": 1.471,
+          "start_frame": 22,
+          "end_frame": 35
+        },
+        {
+          "action": "Walking",
+          "start": 1.53,
+          "end": 2.905,
+          "start_frame": 37,
+          "end_frame": 70
+        },
+        {
+          "action": "Running",
+          "start": 5.884,
+          "end": 6.0,
+          "start_frame": 141,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

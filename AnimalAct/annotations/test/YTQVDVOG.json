@@ -1,0 +1,34 @@
+{
+  "video_id": "YTQVDVOG",
+  "video": "YTQVDVOG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Diamondback"
+  ],
+  "list_animal_action": [
+    [
+      "Western Diamondback",
+      "Rattling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Diamondback",
+      "Rattling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Diamondback",
+      "actions": [
+        {
+          "action": "Rattling",
+          "start": 0.039,
+          "end": 4.333,
+          "start_frame": 1,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

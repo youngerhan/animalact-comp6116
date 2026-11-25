@@ -1,0 +1,86 @@
+{
+  "video_id": "HGZCQFXO",
+  "video": "HGZCQFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Preening"
+    ],
+    [
+      "Tit Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Preening"
+    ],
+    [
+      "Tit Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 3.594,
+          "start_frame": 0,
+          "end_frame": 86
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.344,
+          "end": 3.469,
+          "start_frame": 80,
+          "end_frame": 83
+        },
+        {
+          "action": "Sensing",
+          "start": 3.594,
+          "end": 3.719,
+          "start_frame": 86,
+          "end_frame": 89
+        },
+        {
+          "action": "Preening",
+          "start": 4.219,
+          "end": 5.594,
+          "start_frame": 101,
+          "end_frame": 134
+        },
+        {
+          "action": "Shaking Head",
+          "start": 4.301,
+          "end": 5.557,
+          "start_frame": 103,
+          "end_frame": 133
+        }
+      ]
+    }
+  ]
+}

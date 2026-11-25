@@ -1,0 +1,34 @@
+{
+  "video_id": "VKDKPPDI",
+  "video": "VKDKPPDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sea Slug"
+  ],
+  "list_animal_action": [
+    [
+      "Sea Slug",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sea Slug",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sea Slug",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.708,
+          "start_frame": 0,
+          "end_frame": 113
+        }
+      ]
+    }
+  ]
+}

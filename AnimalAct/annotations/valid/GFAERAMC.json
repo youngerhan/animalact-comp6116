@@ -1,0 +1,55 @@
+{
+  "video_id": "GFAERAMC",
+  "video": "GFAERAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.22,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.04,
+          "end": 2.22,
+          "start_frame": 1,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "TEKABQJN",
+  "video": "TEKABQJN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Megalorchestia Californiana Beach Hopper"
+  ],
+  "list_animal_action": [
+    [
+      "Megalorchestia Californiana Beach Hopper",
+      "Moving"
+    ],
+    [
+      "Megalorchestia Californiana Beach Hopper",
+      "Hopping"
+    ],
+    [
+      "Megalorchestia Californiana Beach Hopper",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Megalorchestia Californiana Beach Hopper",
+      "Moving"
+    ],
+    [
+      "Megalorchestia Californiana Beach Hopper",
+      "Hopping"
+    ],
+    [
+      "Megalorchestia Californiana Beach Hopper",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Megalorchestia Californiana Beach Hopper",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.919,
+          "start_frame": 0,
+          "end_frame": 94
+        },
+        {
+          "action": "Hopping",
+          "start": 0.0,
+          "end": 3.919,
+          "start_frame": 0,
+          "end_frame": 94
+        },
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 3.919,
+          "start_frame": 0,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

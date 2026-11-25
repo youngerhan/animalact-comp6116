@@ -1,0 +1,49 @@
+{
+  "video_id": "EHRPTLDC",
+  "video": "EHRPTLDC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Micruroides Euryxanthus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Micruroides Euryxanthus Snake",
+      "Keeping still"
+    ],
+    [
+      "Micruroides Euryxanthus Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Micruroides Euryxanthus Snake",
+      "Keeping still"
+    ],
+    [
+      "Micruroides Euryxanthus Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Micruroides Euryxanthus Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 11.196,
+          "start_frame": 0,
+          "end_frame": 269
+        },
+        {
+          "action": "Moving",
+          "start": 11.089,
+          "end": 22.094,
+          "start_frame": 266,
+          "end_frame": 530
+        }
+      ]
+    }
+  ]
+}

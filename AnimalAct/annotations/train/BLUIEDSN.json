@@ -1,0 +1,62 @@
+{
+  "video_id": "BLUIEDSN",
+  "video": "BLUIEDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Buffalo",
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Buffalo",
+      "Running"
+    ],
+    [
+      "Wolf",
+      "Chasing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Buffalo",
+      "Running"
+    ],
+    [
+      "Wolf",
+      "Chasing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Buffalo",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.024,
+          "end": 11.024,
+          "start_frame": 1,
+          "end_frame": 265
+        }
+      ]
+    },
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Chasing",
+          "start": 0.017,
+          "end": 6.192,
+          "start_frame": 0,
+          "end_frame": 149
+        },
+        {
+          "action": "Chasing",
+          "start": 7.033,
+          "end": 11.024,
+          "start_frame": 169,
+          "end_frame": 265
+        }
+      ]
+    }
+  ]
+}

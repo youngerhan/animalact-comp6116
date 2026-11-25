@@ -1,0 +1,79 @@
+{
+  "video_id": "MSYVNXGD",
+  "video": "MSYVNXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Jumping"
+    ],
+    [
+      "Kangaroo",
+      "Exploring"
+    ],
+    [
+      "Kangaroo",
+      "Attending"
+    ],
+    [
+      "Kangaroo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Jumping"
+    ],
+    [
+      "Kangaroo",
+      "Exploring"
+    ],
+    [
+      "Kangaroo",
+      "Attending"
+    ],
+    [
+      "Kangaroo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.493,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 4.462,
+          "start_frame": 0,
+          "end_frame": 107
+        },
+        {
+          "action": "Sensing",
+          "start": 0.493,
+          "end": 4.479,
+          "start_frame": 12,
+          "end_frame": 107
+        },
+        {
+          "action": "Jumping",
+          "start": 4.521,
+          "end": 6.417,
+          "start_frame": 109,
+          "end_frame": 154
+        }
+      ]
+    }
+  ]
+}

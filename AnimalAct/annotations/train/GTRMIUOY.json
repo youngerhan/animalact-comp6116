@@ -1,0 +1,34 @@
+{
+  "video_id": "GTRMIUOY",
+  "video": "GTRMIUOY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Throated Dipper Bird"
+  ],
+  "list_animal_action": [
+    [
+      "White Throated Dipper Bird",
+      "Diving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Throated Dipper Bird",
+      "Diving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Throated Dipper Bird",
+      "actions": [
+        {
+          "action": "Diving",
+          "start": 0.0,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "WEKCMHPH",
+  "video": "WEKCMHPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bumblebee"
+  ],
+  "list_animal_action": [
+    [
+      "Bumblebee",
+      "Flying"
+    ],
+    [
+      "Bumblebee",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bumblebee",
+      "Flying"
+    ],
+    [
+      "Bumblebee",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bumblebee",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.206,
+          "start_frame": 0,
+          "end_frame": 29
+        },
+        {
+          "action": "Flying",
+          "start": 1.201,
+          "end": 1.917,
+          "start_frame": 29,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

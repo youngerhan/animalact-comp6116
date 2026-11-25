@@ -1,0 +1,49 @@
+{
+  "video_id": "FNNVSVMP",
+  "video": "FNNVSVMP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fox"
+  ],
+  "list_animal_action": [
+    [
+      "Fox",
+      "Walking"
+    ],
+    [
+      "Fox",
+      "Sitting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fox",
+      "Walking"
+    ],
+    [
+      "Fox",
+      "Sitting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fox",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.144,
+          "end": 1.0,
+          "start_frame": 3,
+          "end_frame": 24
+        },
+        {
+          "action": "Sitting",
+          "start": 0.167,
+          "end": 1.0,
+          "start_frame": 4,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

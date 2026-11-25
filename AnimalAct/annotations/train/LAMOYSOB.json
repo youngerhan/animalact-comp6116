@@ -1,0 +1,34 @@
+{
+  "video_id": "LAMOYSOB",
+  "video": "LAMOYSOB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montpellier Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Montpellier Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montpellier Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montpellier Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 15.333,
+          "start_frame": 0,
+          "end_frame": 368
+        }
+      ]
+    }
+  ]
+}

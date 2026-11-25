@@ -1,0 +1,55 @@
+{
+  "video_id": "JFLXXNXN",
+  "video": "JFLXXNXN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird",
+    "Wandering Alabatross"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Drifting"
+    ],
+    [
+      "Wandering Alabatross",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Drifting"
+    ],
+    [
+      "Wandering Alabatross",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Drifting",
+          "start": 0.0,
+          "end": 2.012,
+          "start_frame": 0,
+          "end_frame": 48
+        }
+      ]
+    },
+    {
+      "animal": "Wandering Alabatross",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.094,
+          "end": 1.352,
+          "start_frame": 2,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

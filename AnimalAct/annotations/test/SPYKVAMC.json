@@ -1,0 +1,49 @@
+{
+  "video_id": "SPYKVAMC",
+  "video": "SPYKVAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Eating"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Eating"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.433,
+          "start_frame": 0,
+          "end_frame": 106
+        },
+        {
+          "action": "Walking",
+          "start": 4.436,
+          "end": 6.417,
+          "start_frame": 106,
+          "end_frame": 154
+        }
+      ]
+    }
+  ]
+}

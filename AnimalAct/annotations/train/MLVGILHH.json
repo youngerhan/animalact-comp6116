@@ -1,0 +1,34 @@
+{
+  "video_id": "MLVGILHH",
+  "video": "MLVGILHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfrog"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfrog",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfrog",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfrog",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 0.21,
+          "start_frame": 0,
+          "end_frame": 5
+        }
+      ]
+    }
+  ]
+}

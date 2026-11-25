@@ -1,0 +1,49 @@
+{
+  "video_id": "IWZGKBQT",
+  "video": "IWZGKBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Attending"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Sitting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Attending"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Sitting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Sitting",
+          "start": 0.002,
+          "end": 5.412,
+          "start_frame": 0,
+          "end_frame": 130
+        },
+        {
+          "action": "Attending",
+          "start": 2.998,
+          "end": 5.414,
+          "start_frame": 72,
+          "end_frame": 130
+        }
+      ]
+    }
+  ]
+}

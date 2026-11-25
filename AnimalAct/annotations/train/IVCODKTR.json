@@ -1,0 +1,34 @@
+{
+  "video_id": "IVCODKTR",
+  "video": "IVCODKTR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Northern Pacific Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Northern Pacific Rattlesnake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Northern Pacific Rattlesnake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Northern Pacific Rattlesnake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.396,
+          "end": 2.917,
+          "start_frame": 10,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "APIZCLDC",
+  "video": "APIZCLDC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Keeping still"
+    ],
+    [
+      "Snake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Keeping still"
+    ],
+    [
+      "Snake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.007,
+          "end": 2.531,
+          "start_frame": 0,
+          "end_frame": 61
+        },
+        {
+          "action": "Sensing",
+          "start": 2.526,
+          "end": 7.313,
+          "start_frame": 61,
+          "end_frame": 176
+        }
+      ]
+    }
+  ]
+}

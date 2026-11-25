@@ -1,0 +1,34 @@
+{
+  "video_id": "QKYUGJVY",
+  "video": "QKYUGJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 1.469,
+          "end": 8.844,
+          "start_frame": 35,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

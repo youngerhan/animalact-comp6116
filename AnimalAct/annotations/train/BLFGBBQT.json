@@ -1,0 +1,55 @@
+{
+  "video_id": "BLFGBBQT",
+  "video": "BLFGBBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Otter",
+    "Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Otter",
+      "Fighting"
+    ],
+    [
+      "Monkey",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Otter",
+      "Fighting"
+    ],
+    [
+      "Monkey",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Otter",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.136,
+          "end": 1.917,
+          "start_frame": 3,
+          "end_frame": 46
+        }
+      ]
+    },
+    {
+      "animal": "Monkey",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.145,
+          "end": 1.917,
+          "start_frame": 3,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

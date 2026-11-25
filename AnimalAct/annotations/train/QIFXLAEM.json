@@ -1,0 +1,32 @@
+{
+  "video_id": "QIFXLAEM",
+  "video": "QIFXLAEM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lanius Excubitor"
+  ],
+  "list_animal_action": [
+    [
+      "Lanius Excubitor",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lanius Excubitor",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lanius Excubitor",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.83
+        }
+      ]
+    }
+  ]
+}

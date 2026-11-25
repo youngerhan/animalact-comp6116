@@ -1,0 +1,49 @@
+{
+  "video_id": "GOPSDDCC",
+  "video": "GOPSDDCC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turtle Dove"
+  ],
+  "list_animal_action": [
+    [
+      "Turtle Dove",
+      "Walking"
+    ],
+    [
+      "Turtle Dove",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turtle Dove",
+      "Walking"
+    ],
+    [
+      "Turtle Dove",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turtle Dove",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.469,
+          "start_frame": 0,
+          "end_frame": 131
+        },
+        {
+          "action": "Jumping",
+          "start": 6.219,
+          "end": 6.594,
+          "start_frame": 149,
+          "end_frame": 158
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "LUJNWBGU",
+  "video": "LUJNWBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Orchard Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Orchard Bee",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Orchard Bee",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Orchard Bee",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.259,
+          "end": 1.917,
+          "start_frame": 6,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

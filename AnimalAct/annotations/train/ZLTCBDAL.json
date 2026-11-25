@@ -1,0 +1,71 @@
+{
+  "video_id": "ZLTCBDAL",
+  "video": "ZLTCBDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.219,
+          "start_frame": 0,
+          "end_frame": 29
+        },
+        {
+          "action": "Walking",
+          "start": 2.469,
+          "end": 2.594,
+          "start_frame": 59,
+          "end_frame": 62
+        },
+        {
+          "action": "Walking",
+          "start": 3.219,
+          "end": 6.719,
+          "start_frame": 77,
+          "end_frame": 161
+        },
+        {
+          "action": "Attending",
+          "start": 3.344,
+          "end": 6.844,
+          "start_frame": 80,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

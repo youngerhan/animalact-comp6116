@@ -1,0 +1,78 @@
+{
+  "video_id": "XKKAKPTK",
+  "video": "XKKAKPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 4.757,
+          "start_frame": 0,
+          "end_frame": 114
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.803,
+          "end": 6.258,
+          "start_frame": 115,
+          "end_frame": 150
+        },
+        {
+          "action": "Attending",
+          "start": 4.81,
+          "end": 6.227,
+          "start_frame": 115,
+          "end_frame": 149
+        },
+        {
+          "action": "Keeping still",
+          "start": 12.884,
+          "end": 13.749,
+          "start_frame": 309,
+          "end_frame": 330
+        },
+        {
+          "action": "Attending",
+          "start": 12.891,
+          "end": 13.74,
+          "start_frame": 309,
+          "end_frame": 330
+        }
+      ]
+    }
+  ]
+}

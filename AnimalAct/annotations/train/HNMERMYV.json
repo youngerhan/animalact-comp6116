@@ -1,0 +1,127 @@
+{
+  "video_id": "HNMERMYV",
+  "video": "HNMERMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jameson'S Mamba",
+    "Rhamnophis Aethiopissa Snake",
+    "Atheris Squamigera"
+  ],
+  "list_animal_action": [
+    [
+      "Jameson'S Mamba",
+      "Keeping still"
+    ],
+    [
+      "Rhamnophis Aethiopissa Snake",
+      "Hissing"
+    ],
+    [
+      "Atheris Squamigera",
+      "Hissing"
+    ],
+    [
+      "Rhamnophis Aethiopissa Snake",
+      "Keeping still"
+    ],
+    [
+      "Atheris Squamigera",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jameson'S Mamba",
+      "Keeping still"
+    ],
+    [
+      "Rhamnophis Aethiopissa Snake",
+      "Hissing"
+    ],
+    [
+      "Atheris Squamigera",
+      "Hissing"
+    ],
+    [
+      "Rhamnophis Aethiopissa Snake",
+      "Keeping still"
+    ],
+    [
+      "Atheris Squamigera",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jameson'S Mamba",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 12.833,
+          "start_frame": 0,
+          "end_frame": 308
+        }
+      ]
+    },
+    {
+      "animal": "Rhamnophis Aethiopissa Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.456,
+          "start_frame": 0,
+          "end_frame": 59
+        },
+        {
+          "action": "Keeping still",
+          "start": 7.213,
+          "end": 7.623,
+          "start_frame": 173,
+          "end_frame": 183
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.618,
+          "end": 10.953,
+          "start_frame": 207,
+          "end_frame": 263
+        },
+        {
+          "action": "Hissing",
+          "start": 10.953,
+          "end": 11.793,
+          "start_frame": 263,
+          "end_frame": 283
+        },
+        {
+          "action": "Keeping still",
+          "start": 11.86,
+          "end": 12.833,
+          "start_frame": 285,
+          "end_frame": 308
+        }
+      ]
+    },
+    {
+      "animal": "Atheris Squamigera",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 12.822,
+          "start_frame": 0,
+          "end_frame": 308
+        },
+        {
+          "action": "Hissing",
+          "start": 10.953,
+          "end": 11.793,
+          "start_frame": 263,
+          "end_frame": 283
+        }
+      ]
+    }
+  ]
+}

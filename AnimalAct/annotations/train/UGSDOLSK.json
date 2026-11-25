@@ -1,0 +1,34 @@
+{
+  "video_id": "UGSDOLSK",
+  "video": "UGSDOLSK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Turtle",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turtle",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turtle",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.83,
+          "end": 10.013,
+          "start_frame": 20,
+          "end_frame": 240
+        }
+      ]
+    }
+  ]
+}

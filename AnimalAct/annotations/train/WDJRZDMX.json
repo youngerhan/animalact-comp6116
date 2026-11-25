@@ -1,0 +1,49 @@
+{
+  "video_id": "WDJRZDMX",
+  "video": "WDJRZDMX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Golden Oriole"
+  ],
+  "list_animal_action": [
+    [
+      "Golden Oriole",
+      "Chirping"
+    ],
+    [
+      "Golden Oriole",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Golden Oriole",
+      "Chirping"
+    ],
+    [
+      "Golden Oriole",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Golden Oriole",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 6.469,
+          "start_frame": 0,
+          "end_frame": 155
+        },
+        {
+          "action": "Sensing",
+          "start": 4.469,
+          "end": 4.594,
+          "start_frame": 107,
+          "end_frame": 110
+        }
+      ]
+    }
+  ]
+}

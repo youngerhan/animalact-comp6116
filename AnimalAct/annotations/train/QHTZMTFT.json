@@ -1,0 +1,79 @@
+{
+  "video_id": "QHTZMTFT",
+  "video": "QHTZMTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 8.094,
+          "start_frame": 0,
+          "end_frame": 194
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.094,
+          "end": 1.094,
+          "start_frame": 2,
+          "end_frame": 26
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 0.594,
+          "end": 0.719,
+          "start_frame": 14,
+          "end_frame": 17
+        },
+        {
+          "action": "Sensing",
+          "start": 6.219,
+          "end": 6.344,
+          "start_frame": 149,
+          "end_frame": 152
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "video_id": "KMIRBFAU",
+  "video": "KMIRBFAU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jeweled Cockroach Wasp",
+    "Cockroach"
+  ],
+  "list_animal_action": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Sensing"
+    ],
+    [
+      "Cockroach",
+      "Fleeing"
+    ],
+    [
+      "Jeweled Cockroach Wasp",
+      "Attending"
+    ],
+    [
+      "Cockroach",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Sensing"
+    ],
+    [
+      "Cockroach",
+      "Fleeing"
+    ],
+    [
+      "Jeweled Cockroach Wasp",
+      "Attending"
+    ],
+    [
+      "Cockroach",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jeweled Cockroach Wasp",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.042,
+          "start_frame": 0,
+          "end_frame": 25
+        },
+        {
+          "action": "Attending",
+          "start": 1.083,
+          "end": 2.25,
+          "start_frame": 26,
+          "end_frame": 54
+        }
+      ]
+    },
+    {
+      "animal": "Cockroach",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.25,
+          "start_frame": 0,
+          "end_frame": 54
+        },
+        {
+          "action": "Fleeing",
+          "start": 2.264,
+          "end": 2.625,
+          "start_frame": 54,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

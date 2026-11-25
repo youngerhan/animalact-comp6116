@@ -1,0 +1,85 @@
+{
+  "video_id": "HMHUNDAL",
+  "video": "HMHUNDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron",
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Sensing"
+    ],
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Duck",
+      "Flapping Tail"
+    ],
+    [
+      "Duck",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Sensing"
+    ],
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Duck",
+      "Flapping Tail"
+    ],
+    [
+      "Duck",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    },
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Flapping Tail",
+          "start": 0.0,
+          "end": 0.604,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.719,
+          "start_frame": 0,
+          "end_frame": 41
+        },
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 1.719,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

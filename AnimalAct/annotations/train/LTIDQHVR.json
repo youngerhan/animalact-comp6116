@@ -1,0 +1,34 @@
+{
+  "video_id": "LTIDQHVR",
+  "video": "LTIDQHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lesser Sunda Pit Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Lesser Sunda Pit Viper",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lesser Sunda Pit Viper",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lesser Sunda Pit Viper",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "CCKTUMYV",
+  "video": "CCKTUMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rhamnophis Aethiopissa Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Rhamnophis Aethiopissa Snake",
+      "Attending"
+    ],
+    [
+      "Rhamnophis Aethiopissa Snake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rhamnophis Aethiopissa Snake",
+      "Attending"
+    ],
+    [
+      "Rhamnophis Aethiopissa Snake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rhamnophis Aethiopissa Snake",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 9.542,
+          "start_frame": 0,
+          "end_frame": 229
+        },
+        {
+          "action": "Sensing",
+          "start": 9.583,
+          "end": 11.5,
+          "start_frame": 230,
+          "end_frame": 276
+        }
+      ]
+    }
+  ]
+}

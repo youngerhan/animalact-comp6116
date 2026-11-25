@@ -1,0 +1,122 @@
+{
+  "video_id": "DCRMOPKK",
+  "video": "DCRMOPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 0.469,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.344,
+          "start_frame": 0,
+          "end_frame": 32
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.094,
+          "end": 0.219,
+          "start_frame": 2,
+          "end_frame": 5
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.469,
+          "end": 17.594,
+          "start_frame": 35,
+          "end_frame": 422
+        },
+        {
+          "action": "Drinking",
+          "start": 3.344,
+          "end": 6.969,
+          "start_frame": 80,
+          "end_frame": 167
+        },
+        {
+          "action": "Walking",
+          "start": 10.969,
+          "end": 15.219,
+          "start_frame": 263,
+          "end_frame": 365
+        },
+        {
+          "action": "Drinking",
+          "start": 11.969,
+          "end": 13.594,
+          "start_frame": 287,
+          "end_frame": 326
+        },
+        {
+          "action": "Drinking",
+          "start": 13.969,
+          "end": 14.219,
+          "start_frame": 335,
+          "end_frame": 341
+        },
+        {
+          "action": "Keeping still",
+          "start": 19.969,
+          "end": 20.094,
+          "start_frame": 479,
+          "end_frame": 482
+        }
+      ]
+    }
+  ]
+}

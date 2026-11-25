@@ -1,0 +1,34 @@
+{
+  "video_id": "JYQLMFFP",
+  "video": "JYQLMFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Crocodile"
+  ],
+  "list_animal_action": [
+    [
+      "Crocodile",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Crocodile",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Crocodile",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.214,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

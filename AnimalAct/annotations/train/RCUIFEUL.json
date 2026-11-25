@@ -1,0 +1,49 @@
+{
+  "video_id": "RCUIFEUL",
+  "video": "RCUIFEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.906,
+          "start_frame": 0,
+          "end_frame": 94
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.918,
+          "end": 9.708,
+          "start_frame": 94,
+          "end_frame": 233
+        }
+      ]
+    }
+  ]
+}

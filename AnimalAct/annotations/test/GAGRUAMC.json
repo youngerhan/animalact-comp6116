@@ -1,0 +1,101 @@
+{
+  "video_id": "GAGRUAMC",
+  "video": "GAGRUAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Rubbing its head"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Showing Affection"
+    ],
+    [
+      "Lion",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Rubbing its head"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Showing Affection"
+    ],
+    [
+      "Lion",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.009,
+          "end": 3.138,
+          "start_frame": 0,
+          "end_frame": 75
+        },
+        {
+          "action": "Running",
+          "start": 0.028,
+          "end": 3.226,
+          "start_frame": 1,
+          "end_frame": 77
+        },
+        {
+          "action": "Walking",
+          "start": 0.034,
+          "end": 3.226,
+          "start_frame": 1,
+          "end_frame": 77
+        },
+        {
+          "action": "Showing Affection",
+          "start": 3.138,
+          "end": 6.86,
+          "start_frame": 75,
+          "end_frame": 165
+        },
+        {
+          "action": "Rubbing its head",
+          "start": 3.219,
+          "end": 3.886,
+          "start_frame": 77,
+          "end_frame": 93
+        },
+        {
+          "action": "Walking",
+          "start": 4.391,
+          "end": 9.917,
+          "start_frame": 105,
+          "end_frame": 238
+        }
+      ]
+    }
+  ]
+}

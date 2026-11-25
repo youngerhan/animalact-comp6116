@@ -1,0 +1,34 @@
+{
+  "video_id": "YTQDJRME",
+  "video": "YTQDJRME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Metlapilcoatlus Mexicanus Jumping Pit Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Metlapilcoatlus Mexicanus Jumping Pit Viper",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Metlapilcoatlus Mexicanus Jumping Pit Viper",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Metlapilcoatlus Mexicanus Jumping Pit Viper",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.443,
+          "end": 5.225,
+          "start_frame": 35,
+          "end_frame": 125
+        }
+      ]
+    }
+  ]
+}

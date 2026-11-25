@@ -1,0 +1,92 @@
+{
+  "video_id": "HSTOSVEI",
+  "video": "HSTOSVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anas Platyrhynchos Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Anas Platyrhynchos Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Shaking Head"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anas Platyrhynchos Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Shaking Head"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anas Platyrhynchos Bird",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.093,
+          "end": 0.594,
+          "start_frame": 2,
+          "end_frame": 14
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 1.219,
+          "end": 1.607,
+          "start_frame": 29,
+          "end_frame": 39
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.493,
+          "end": 1.835,
+          "start_frame": 36,
+          "end_frame": 44
+        },
+        {
+          "action": "Preening",
+          "start": 1.857,
+          "end": 2.555,
+          "start_frame": 45,
+          "end_frame": 61
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 3.094,
+          "end": 3.594,
+          "start_frame": 74,
+          "end_frame": 86
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.594,
+          "end": 3.858,
+          "start_frame": 86,
+          "end_frame": 93
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 4.476,
+          "end": 4.89,
+          "start_frame": 107,
+          "end_frame": 117
+        }
+      ]
+    }
+  ]
+}

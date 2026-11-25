@@ -1,0 +1,63 @@
+{
+  "video_id": "OSOOPCIN",
+  "video": "OSOOPCIN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alfalfa Leafcutting Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Alfalfa Leafcutting Bee",
+      "Landing"
+    ],
+    [
+      "Alfalfa Leafcutting Bee",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alfalfa Leafcutting Bee",
+      "Landing"
+    ],
+    [
+      "Alfalfa Leafcutting Bee",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alfalfa Leafcutting Bee",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.433,
+          "end": 0.882,
+          "start_frame": 10,
+          "end_frame": 21
+        },
+        {
+          "action": "Flying",
+          "start": 0.547,
+          "end": 1.077,
+          "start_frame": 13,
+          "end_frame": 26
+        },
+        {
+          "action": "Flying",
+          "start": 1.193,
+          "end": 2.3,
+          "start_frame": 29,
+          "end_frame": 55
+        },
+        {
+          "action": "Landing",
+          "start": 1.37,
+          "end": 1.769,
+          "start_frame": 33,
+          "end_frame": 42
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "RYWKYBQT",
+  "video": "RYWKYBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Plantain Squirrel"
+  ],
+  "list_animal_action": [
+    [
+      "Plantain Squirrel",
+      "Running"
+    ],
+    [
+      "Plantain Squirrel",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Plantain Squirrel",
+      "Running"
+    ],
+    [
+      "Plantain Squirrel",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Plantain Squirrel",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.779,
+          "start_frame": 0,
+          "end_frame": 19
+        },
+        {
+          "action": "Eating",
+          "start": 0.909,
+          "end": 2.423,
+          "start_frame": 22,
+          "end_frame": 58
+        },
+        {
+          "action": "Eating",
+          "start": 2.632,
+          "end": 4.64,
+          "start_frame": 63,
+          "end_frame": 111
+        },
+        {
+          "action": "Running",
+          "start": 4.819,
+          "end": 5.51,
+          "start_frame": 116,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "HJWKSBBY",
+  "video": "HJWKSBBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giant Hornet"
+  ],
+  "list_animal_action": [
+    [
+      "Giant Hornet",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giant Hornet",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giant Hornet",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.921,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

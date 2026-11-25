@@ -1,0 +1,143 @@
+{
+  "video_id": "RXGUPJVY",
+  "video": "RXGUPJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Jumping"
+    ],
+    [
+      "Goldfinch",
+      "Sensing"
+    ],
+    [
+      "Goldfinch",
+      "Turning Around"
+    ],
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Jumping"
+    ],
+    [
+      "Goldfinch",
+      "Sensing"
+    ],
+    [
+      "Goldfinch",
+      "Turning Around"
+    ],
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.094,
+          "end": 0.219,
+          "start_frame": 2,
+          "end_frame": 5
+        },
+        {
+          "action": "Eating",
+          "start": 0.344,
+          "end": 7.969,
+          "start_frame": 8,
+          "end_frame": 191
+        },
+        {
+          "action": "Jumping",
+          "start": 2.594,
+          "end": 2.844,
+          "start_frame": 62,
+          "end_frame": 68
+        },
+        {
+          "action": "Flapping",
+          "start": 2.594,
+          "end": 3.094,
+          "start_frame": 62,
+          "end_frame": 74
+        },
+        {
+          "action": "Turning Around",
+          "start": 2.719,
+          "end": 3.083,
+          "start_frame": 65,
+          "end_frame": 74
+        },
+        {
+          "action": "Sensing",
+          "start": 4.344,
+          "end": 5.594,
+          "start_frame": 104,
+          "end_frame": 134
+        },
+        {
+          "action": "Sensing",
+          "start": 5.719,
+          "end": 5.844,
+          "start_frame": 137,
+          "end_frame": 140
+        },
+        {
+          "action": "Sensing",
+          "start": 5.969,
+          "end": 6.094,
+          "start_frame": 143,
+          "end_frame": 146
+        },
+        {
+          "action": "Sensing",
+          "start": 6.219,
+          "end": 6.344,
+          "start_frame": 149,
+          "end_frame": 152
+        },
+        {
+          "action": "Sensing",
+          "start": 6.469,
+          "end": 6.594,
+          "start_frame": 155,
+          "end_frame": 158
+        },
+        {
+          "action": "Flapping",
+          "start": 8.469,
+          "end": 8.844,
+          "start_frame": 203,
+          "end_frame": 212
+        },
+        {
+          "action": "Jumping",
+          "start": 8.469,
+          "end": 8.844,
+          "start_frame": 203,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

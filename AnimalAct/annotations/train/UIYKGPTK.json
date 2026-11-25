@@ -1,0 +1,79 @@
+{
+  "video_id": "UIYKGPTK",
+  "video": "UIYKGPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 27.969,
+          "start_frame": 0,
+          "end_frame": 671
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 28.469,
+          "start_frame": 0,
+          "end_frame": 683
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 28.594,
+          "start_frame": 0,
+          "end_frame": 686
+        },
+        {
+          "action": "Sensing",
+          "start": 2.594,
+          "end": 5.213,
+          "start_frame": 62,
+          "end_frame": 125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entrypoint": "train.py",
+  "arguments": {
+    "dataset": "../AnimalAct",
+    "manifest": "./data/main.json",
+    "config": "../mmaction2-main/configs/recognition/slowfast/slowfast_r50_8xb8-4x16x1-256e_kinetics400-rgb.py",
+    "weights": "../slowfast_r50_8xb8-4x16x1-256e_kinetics400-rgb_20220901-701b0f6f.pth",
+    "batch_size": 8,
+    "workers": 2,
+    "frames": 16,
+    "stride": 1,
+    "image_size": 128,
+    "head_lr": 0.0003,
+    "backbone_lr": 3e-05,
+    "seed": 42,
+    "log_every": 25,
+    "smoke": false
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "XVIOXTKX",
+  "video": "XVIOXTKX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfinch",
+      "Shaking Head"
+    ],
+    [
+      "Bullfinch",
+      "Flapping"
+    ],
+    [
+      "Bullfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfinch",
+      "Shaking Head"
+    ],
+    [
+      "Bullfinch",
+      "Flapping"
+    ],
+    [
+      "Bullfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfinch",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.625,
+          "end": 2.333,
+          "start_frame": 15,
+          "end_frame": 56
+        },
+        {
+          "action": "Eating",
+          "start": 0.917,
+          "end": 2.583,
+          "start_frame": 22,
+          "end_frame": 62
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.208,
+          "end": 3.5,
+          "start_frame": 77,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

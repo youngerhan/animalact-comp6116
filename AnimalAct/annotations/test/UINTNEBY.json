@@ -1,0 +1,34 @@
+{
+  "video_id": "UINTNEBY",
+  "video": "UINTNEBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fox"
+  ],
+  "list_animal_action": [
+    [
+      "Fox",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fox",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fox",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 1.458,
+          "end": 2.583,
+          "start_frame": 35,
+          "end_frame": 62
+        }
+      ]
+    }
+  ]
+}

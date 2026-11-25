@@ -1,0 +1,34 @@
+{
+  "video_id": "DZSOMLWC",
+  "video": "DZSOMLWC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Strange-Horned Chameleon"
+  ],
+  "list_animal_action": [
+    [
+      "Strange-Horned Chameleon",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Strange-Horned Chameleon",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Strange-Horned Chameleon",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.0,
+          "start_frame": 0,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

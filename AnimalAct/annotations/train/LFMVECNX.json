@@ -1,0 +1,49 @@
+{
+  "video_id": "LFMVECNX",
+  "video": "LFMVECNX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Walking"
+    ],
+    [
+      "Wolf",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Walking"
+    ],
+    [
+      "Wolf",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 2.917,
+          "start_frame": 0,
+          "end_frame": 70
+        },
+        {
+          "action": "Walking",
+          "start": 0.167,
+          "end": 2.917,
+          "start_frame": 4,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

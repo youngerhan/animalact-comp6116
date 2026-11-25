@@ -1,0 +1,55 @@
+{
+  "video_id": "YEJZPZYO",
+  "video": "YEJZPZYO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Stork",
+    "Stork"
+  ],
+  "list_animal_action": [
+    [
+      "Black Stork",
+      "Preening"
+    ],
+    [
+      "Stork",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Stork",
+      "Preening"
+    ],
+    [
+      "Stork",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Stork",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.001,
+          "end": 0.416667,
+          "start_frame": 0,
+          "end_frame": 10
+        }
+      ]
+    },
+    {
+      "animal": "Stork",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.002,
+          "end": 0.416667,
+          "start_frame": 0,
+          "end_frame": 10
+        }
+      ]
+    }
+  ]
+}

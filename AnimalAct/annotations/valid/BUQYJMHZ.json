@@ -1,0 +1,34 @@
+{
+  "video_id": "BUQYJMHZ",
+  "video": "BUQYJMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Zamenis Longissiumus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Zamenis Longissiumus Snake",
+      "Competing For Dominance"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Zamenis Longissiumus Snake",
+      "Competing For Dominance"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Zamenis Longissiumus Snake",
+      "actions": [
+        {
+          "action": "Competing For Dominance",
+          "start": 0.036,
+          "end": 10.374,
+          "start_frame": 1,
+          "end_frame": 249
+        }
+      ]
+    }
+  ]
+}

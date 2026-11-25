@@ -1,0 +1,71 @@
+{
+  "video_id": "PMGMTBRS",
+  "video": "PMGMTBRS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Apis Mellifera Honey Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Apis Mellifera Honey Bee",
+      "Flying"
+    ],
+    [
+      "Apis Mellifera Honey Bee",
+      "Moving"
+    ],
+    [
+      "Apis Mellifera Honey Bee",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Apis Mellifera Honey Bee",
+      "Flying"
+    ],
+    [
+      "Apis Mellifera Honey Bee",
+      "Moving"
+    ],
+    [
+      "Apis Mellifera Honey Bee",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Apis Mellifera Honey Bee",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.082,
+          "end": 0.53,
+          "start_frame": 2,
+          "end_frame": 13
+        },
+        {
+          "action": "Flying",
+          "start": 0.619,
+          "end": 0.797,
+          "start_frame": 15,
+          "end_frame": 19
+        },
+        {
+          "action": "Exploring",
+          "start": 1.01,
+          "end": 2.125,
+          "start_frame": 24,
+          "end_frame": 51
+        },
+        {
+          "action": "Moving",
+          "start": 1.313,
+          "end": 2.055,
+          "start_frame": 32,
+          "end_frame": 49
+        }
+      ]
+    }
+  ]
+}

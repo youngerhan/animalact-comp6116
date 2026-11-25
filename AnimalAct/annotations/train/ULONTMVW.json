@@ -1,0 +1,64 @@
+{
+  "video_id": "ULONTMVW",
+  "video": "ULONTMVW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eurasian Wren Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Eurasian Wren Bird",
+      "Turning Around"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Keeping still"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eurasian Wren Bird",
+      "Turning Around"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Keeping still"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eurasian Wren Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.826,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Sensing",
+          "start": 0.843,
+          "end": 6.623,
+          "start_frame": 20,
+          "end_frame": 159
+        },
+        {
+          "action": "Turning Around",
+          "start": 6.633,
+          "end": 6.992,
+          "start_frame": 159,
+          "end_frame": 168
+        }
+      ]
+    }
+  ]
+}

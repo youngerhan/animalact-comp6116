@@ -1,0 +1,55 @@
+{
+  "video_id": "WHFXZOYV",
+  "video": "WHFXZOYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Argentine Ant",
+    "Harvester Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Argentine Ant",
+      "Biting"
+    ],
+    [
+      "Harvester Ant",
+      "Struggling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Argentine Ant",
+      "Biting"
+    ],
+    [
+      "Harvester Ant",
+      "Struggling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Argentine Ant",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 1.712,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    },
+    {
+      "animal": "Harvester Ant",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 0.0,
+          "end": 1.725,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "BMWGOUDI",
+  "video": "BMWGOUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Attending"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Attending"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.125,
+          "start_frame": 0,
+          "end_frame": 75
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.785,
+          "end": 3.125,
+          "start_frame": 19,
+          "end_frame": 75
+        },
+        {
+          "action": "Attending",
+          "start": 3.598,
+          "end": 7.015,
+          "start_frame": 86,
+          "end_frame": 168
+        },
+        {
+          "action": "Chirping",
+          "start": 3.75,
+          "end": 7.125,
+          "start_frame": 90,
+          "end_frame": 171
+        }
+      ]
+    }
+  ]
+}

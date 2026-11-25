@@ -1,0 +1,109 @@
+{
+  "video_id": "NGZXTFFP",
+  "video": "NGZXTFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Otter",
+      "Swimming"
+    ],
+    [
+      "Otter",
+      "Eating"
+    ],
+    [
+      "Otter",
+      "Yawning"
+    ],
+    [
+      "Otter",
+      "Diving"
+    ],
+    [
+      "Otter",
+      "Playing"
+    ],
+    [
+      "Otter",
+      "Showing Affection"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Otter",
+      "Swimming"
+    ],
+    [
+      "Otter",
+      "Eating"
+    ],
+    [
+      "Otter",
+      "Yawning"
+    ],
+    [
+      "Otter",
+      "Diving"
+    ],
+    [
+      "Otter",
+      "Playing"
+    ],
+    [
+      "Otter",
+      "Showing Affection"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Otter",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        },
+        {
+          "action": "Diving",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        },
+        {
+          "action": "Playing",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        },
+        {
+          "action": "Eating",
+          "start": 0.47,
+          "end": 2.683,
+          "start_frame": 11,
+          "end_frame": 64
+        },
+        {
+          "action": "Showing Affection",
+          "start": 0.947,
+          "end": 3.153,
+          "start_frame": 23,
+          "end_frame": 76
+        },
+        {
+          "action": "Yawning",
+          "start": 1.849,
+          "end": 3.214,
+          "start_frame": 44,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

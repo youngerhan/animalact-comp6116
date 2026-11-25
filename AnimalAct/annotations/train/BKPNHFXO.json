@@ -1,0 +1,48 @@
+{
+  "video_id": "BKPNHFXO",
+  "video": "BKPNHFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.019,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Sensing",
+          "start": 2.205,
+          "end": 3.978,
+          "start_frame": 53,
+          "end_frame": 95
+        },
+        {
+          "action": "Sensing",
+          "start": 4.327,
+          "end": 4.917,
+          "start_frame": 104,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

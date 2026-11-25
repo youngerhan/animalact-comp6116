@@ -1,0 +1,34 @@
+{
+  "video_id": "WZNVOFFP",
+  "video": "WZNVOFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

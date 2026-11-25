@@ -1,0 +1,137 @@
+{
+  "video_id": "TXOFDSBA",
+  "video": "TXOFDSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Drinking"
+    ],
+    [
+      "Bird",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ],
+    [
+      "Bird",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Drinking"
+    ],
+    [
+      "Bird",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ],
+    [
+      "Bird",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 0.011,
+          "end": 0.315,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Attacking",
+          "start": 0.326,
+          "end": 0.645,
+          "start_frame": 8,
+          "end_frame": 15
+        },
+        {
+          "action": "Washing",
+          "start": 0.484,
+          "end": 1.156,
+          "start_frame": 12,
+          "end_frame": 28
+        },
+        {
+          "action": "Sensing",
+          "start": 0.649,
+          "end": 1.227,
+          "start_frame": 16,
+          "end_frame": 29
+        },
+        {
+          "action": "Jumping",
+          "start": 1.23,
+          "end": 1.549,
+          "start_frame": 30,
+          "end_frame": 37
+        },
+        {
+          "action": "Sensing",
+          "start": 1.397,
+          "end": 3.097,
+          "start_frame": 34,
+          "end_frame": 74
+        },
+        {
+          "action": "Drinking",
+          "start": 1.549,
+          "end": 2.374,
+          "start_frame": 37,
+          "end_frame": 57
+        },
+        {
+          "action": "Washing",
+          "start": 3.113,
+          "end": 4.048,
+          "start_frame": 75,
+          "end_frame": 97
+        },
+        {
+          "action": "Drinking",
+          "start": 3.78,
+          "end": 4.574,
+          "start_frame": 91,
+          "end_frame": 110
+        },
+        {
+          "action": "Sensing",
+          "start": 4.063,
+          "end": 4.833,
+          "start_frame": 98,
+          "end_frame": 116
+        }
+      ]
+    }
+  ]
+}

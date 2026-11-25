@@ -1,0 +1,34 @@
+{
+  "video_id": "THFXQUJL",
+  "video": "THFXQUJL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Penguin"
+  ],
+  "list_animal_action": [
+    [
+      "Penguin",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Penguin",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Penguin",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 1.661,
+          "start_frame": 0,
+          "end_frame": 40
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "HAGZLNPL",
+  "video": "HAGZLNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Backed Shrike Bird Young",
+    "Red-Backed Shrike Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Sensing"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Sensing"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Backed Shrike Bird Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.969,
+          "start_frame": 0,
+          "end_frame": 119
+        }
+      ]
+    },
+    {
+      "animal": "Red-Backed Shrike Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.125,
+          "start_frame": 0,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

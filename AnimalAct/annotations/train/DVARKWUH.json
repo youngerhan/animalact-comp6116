@@ -1,0 +1,49 @@
+{
+  "video_id": "DVARKWUH",
+  "video": "DVARKWUH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.094,
+          "start_frame": 0,
+          "end_frame": 50
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.094,
+          "start_frame": 0,
+          "end_frame": 50
+        }
+      ]
+    }
+  ]
+}

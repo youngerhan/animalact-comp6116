@@ -1,0 +1,34 @@
+{
+  "video_id": "ACYHKFNJ",
+  "video": "ACYHKFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.0,
+          "end": 5.125,
+          "start_frame": 0,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

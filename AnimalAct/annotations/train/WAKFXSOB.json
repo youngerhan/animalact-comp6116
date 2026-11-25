@@ -1,0 +1,34 @@
+{
+  "video_id": "WAKFXSOB",
+  "video": "WAKFXSOB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montpellier Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Montpellier Snake",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montpellier Snake",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montpellier Snake",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

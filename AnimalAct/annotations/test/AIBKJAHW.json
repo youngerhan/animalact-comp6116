@@ -1,0 +1,34 @@
+{
+  "video_id": "AIBKJAHW",
+  "video": "AIBKJAHW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Green Bottle Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Green Bottle Fly",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Green Bottle Fly",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Green Bottle Fly",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 2.331,
+          "start_frame": 0,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "KNWBVMME",
+  "video": "KNWBVMME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.852,
+          "end": 10.006,
+          "start_frame": 20,
+          "end_frame": 240
+        },
+        {
+          "action": "Chirping",
+          "start": 3.209,
+          "end": 8.822,
+          "start_frame": 77,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

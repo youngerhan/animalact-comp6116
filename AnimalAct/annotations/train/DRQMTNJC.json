@@ -1,0 +1,34 @@
+{
+  "video_id": "DRQMTNJC",
+  "video": "DRQMTNJC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.002,
+          "end": 1.208,
+          "start_frame": 0,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

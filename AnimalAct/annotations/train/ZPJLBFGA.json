@@ -1,0 +1,55 @@
+{
+  "video_id": "ZPJLBFGA",
+  "video": "ZPJLBFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wild Dog",
+    "Wildebeest"
+  ],
+  "list_animal_action": [
+    [
+      "Wild Dog",
+      "Running"
+    ],
+    [
+      "Wildebeest",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wild Dog",
+      "Running"
+    ],
+    [
+      "Wildebeest",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wild Dog",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 5.016,
+          "start_frame": 0,
+          "end_frame": 120
+        }
+      ]
+    },
+    {
+      "animal": "Wildebeest",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.009,
+          "end": 5.0,
+          "start_frame": 0,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

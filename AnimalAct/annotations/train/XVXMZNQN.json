@@ -1,0 +1,34 @@
+{
+  "video_id": "XVXMZNQN",
+  "video": "XVXMZNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Thrush Nightingale Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Thrush Nightingale Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Thrush Nightingale Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Thrush Nightingale Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.915,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

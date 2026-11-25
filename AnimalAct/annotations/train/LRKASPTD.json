@@ -1,0 +1,34 @@
+{
+  "video_id": "LRKASPTD",
+  "video": "LRKASPTD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tiger Salamander"
+  ],
+  "list_animal_action": [
+    [
+      "Tiger Salamander",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tiger Salamander",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tiger Salamander",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.627,
+          "end": 6.917,
+          "start_frame": 15,
+          "end_frame": 166
+        }
+      ]
+    }
+  ]
+}

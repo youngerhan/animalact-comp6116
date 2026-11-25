@@ -1,0 +1,34 @@
+{
+  "video_id": "XGFLSQFB",
+  "video": "XGFLSQFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "California Newt"
+  ],
+  "list_animal_action": [
+    [
+      "California Newt",
+      "Hugging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "California Newt",
+      "Hugging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "California Newt",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 1.019,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

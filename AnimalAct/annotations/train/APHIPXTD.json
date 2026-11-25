@@ -1,0 +1,34 @@
+{
+  "video_id": "APHIPXTD",
+  "video": "APHIPXTD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cryptic Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Cryptic Mantis",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cryptic Mantis",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cryptic Mantis",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.834,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

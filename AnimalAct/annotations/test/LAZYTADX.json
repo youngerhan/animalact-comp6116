@@ -1,0 +1,49 @@
+{
+  "video_id": "LAZYTADX",
+  "video": "LAZYTADX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White-Backed Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "White-Backed Woodpecker",
+      "Pecking"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White-Backed Woodpecker",
+      "Pecking"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White-Backed Woodpecker",
+      "actions": [
+        {
+          "action": "Pecking",
+          "start": 0.0,
+          "end": 1.483,
+          "start_frame": 0,
+          "end_frame": 36
+        },
+        {
+          "action": "Walking",
+          "start": 1.483,
+          "end": 1.833,
+          "start_frame": 36,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

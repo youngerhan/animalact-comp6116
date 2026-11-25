@@ -1,0 +1,55 @@
+{
+  "video_id": "NYQKGGJU",
+  "video": "NYQKGGJU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bee",
+    "Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Bee",
+      "Fighting"
+    ],
+    [
+      "Wasp",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bee",
+      "Fighting"
+    ],
+    [
+      "Wasp",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bee",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 7.001,
+          "start_frame": 0,
+          "end_frame": 168
+        }
+      ]
+    },
+    {
+      "animal": "Wasp",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 7.001,
+          "start_frame": 0,
+          "end_frame": 168
+        }
+      ]
+    }
+  ]
+}

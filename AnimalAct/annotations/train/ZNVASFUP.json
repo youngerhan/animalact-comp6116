@@ -1,0 +1,49 @@
+{
+  "video_id": "ZNVASFUP",
+  "video": "ZNVASFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.309,
+          "end": 2.785,
+          "start_frame": 7,
+          "end_frame": 67
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 2.807,
+          "end": 3.099,
+          "start_frame": 67,
+          "end_frame": 74
+        }
+      ]
+    }
+  ]
+}

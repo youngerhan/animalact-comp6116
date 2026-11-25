@@ -1,0 +1,64 @@
+{
+  "video_id": "KAYPHRAC",
+  "video": "KAYPHRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Blacked Squirrel Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Standing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Sensing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Standing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Sensing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Blacked Squirrel Monkey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.01,
+          "end": 6.023,
+          "start_frame": 0,
+          "end_frame": 145
+        },
+        {
+          "action": "Standing",
+          "start": 1.46,
+          "end": 5.556,
+          "start_frame": 35,
+          "end_frame": 133
+        },
+        {
+          "action": "Jumping",
+          "start": 6.393,
+          "end": 7.521,
+          "start_frame": 153,
+          "end_frame": 181
+        }
+      ]
+    }
+  ]
+}

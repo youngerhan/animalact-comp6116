@@ -1,0 +1,63 @@
+{
+  "video_id": "TRFWABXG",
+  "video": "TRFWABXG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Shaking Head"
+    ],
+    [
+      "Common Crane",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Shaking Head"
+    ],
+    [
+      "Common Crane",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.469,
+          "end": 1.469,
+          "start_frame": 11,
+          "end_frame": 35
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.594,
+          "end": 1.094,
+          "start_frame": 14,
+          "end_frame": 26
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 2.219,
+          "end": 3.344,
+          "start_frame": 53,
+          "end_frame": 80
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.594,
+          "end": 3.219,
+          "start_frame": 62,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

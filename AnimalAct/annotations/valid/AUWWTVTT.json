@@ -1,0 +1,64 @@
+{
+  "video_id": "AUWWTVTT",
+  "video": "AUWWTVTT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leafcutter Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Leafcutter Ant",
+      "Eating"
+    ],
+    [
+      "Leafcutter Ant",
+      "Moving"
+    ],
+    [
+      "Leafcutter Ant",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leafcutter Ant",
+      "Eating"
+    ],
+    [
+      "Leafcutter Ant",
+      "Moving"
+    ],
+    [
+      "Leafcutter Ant",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leafcutter Ant",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 17.042,
+          "start_frame": 0,
+          "end_frame": 409
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 17.042,
+          "start_frame": 0,
+          "end_frame": 409
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 17.042,
+          "start_frame": 0,
+          "end_frame": 409
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "FSOHCFGA",
+  "video": "FSOHCFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Bee",
+      "Flying"
+    ],
+    [
+      "Bee",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bee",
+      "Flying"
+    ],
+    [
+      "Bee",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bee",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 1.209,
+          "start_frame": 0,
+          "end_frame": 29
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.677,
+          "end": 1.209,
+          "start_frame": 16,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

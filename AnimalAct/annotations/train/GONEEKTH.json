@@ -1,0 +1,34 @@
+{
+  "video_id": "GONEEKTH",
+  "video": "GONEEKTH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wren"
+  ],
+  "list_animal_action": [
+    [
+      "Wren",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wren",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wren",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.25,
+          "end": 5.333,
+          "start_frame": 6,
+          "end_frame": 128
+        }
+      ]
+    }
+  ]
+}

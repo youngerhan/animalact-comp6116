@@ -1,0 +1,34 @@
+{
+  "video_id": "YHLTVFFP",
+  "video": "YHLTVFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

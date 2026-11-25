@@ -1,0 +1,49 @@
+{
+  "video_id": "PNKIBDFC",
+  "video": "PNKIBDFC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Glossina Morsitans Morsitans"
+  ],
+  "list_animal_action": [
+    [
+      "Glossina Morsitans Morsitans",
+      "Lying On Top"
+    ],
+    [
+      "Glossina Morsitans Morsitans",
+      "Grooming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Glossina Morsitans Morsitans",
+      "Lying On Top"
+    ],
+    [
+      "Glossina Morsitans Morsitans",
+      "Grooming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Glossina Morsitans Morsitans",
+      "actions": [
+        {
+          "action": "Lying On Top",
+          "start": 0.0,
+          "end": 3.501,
+          "start_frame": 0,
+          "end_frame": 84
+        },
+        {
+          "action": "Grooming",
+          "start": 0.042,
+          "end": 3.501,
+          "start_frame": 1,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

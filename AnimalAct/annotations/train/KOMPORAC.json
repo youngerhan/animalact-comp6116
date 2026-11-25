@@ -1,0 +1,34 @@
+{
+  "video_id": "KOMPORAC",
+  "video": "KOMPORAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Racoon"
+  ],
+  "list_animal_action": [
+    [
+      "Racoon",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Racoon",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Racoon",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 6.001,
+          "start_frame": 0,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

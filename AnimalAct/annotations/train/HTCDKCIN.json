@@ -1,0 +1,34 @@
+{
+  "video_id": "HTCDKCIN",
+  "video": "HTCDKCIN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alfalfa Leafcutting Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Alfalfa Leafcutting Bee",
+      "Exiting Nest"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alfalfa Leafcutting Bee",
+      "Exiting Nest"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alfalfa Leafcutting Bee",
+      "actions": [
+        {
+          "action": "Exiting Nest",
+          "start": 2.636,
+          "end": 3.33,
+          "start_frame": 63,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

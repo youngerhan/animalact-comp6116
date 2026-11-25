@@ -1,0 +1,49 @@
+{
+  "video_id": "EKUVYWMK",
+  "video": "EKUVYWMK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Puff Adder"
+  ],
+  "list_animal_action": [
+    [
+      "Puff Adder",
+      "Moving"
+    ],
+    [
+      "Puff Adder",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Puff Adder",
+      "Moving"
+    ],
+    [
+      "Puff Adder",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Puff Adder",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 8.36,
+          "start_frame": 0,
+          "end_frame": 201
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.492,
+          "end": 5.906,
+          "start_frame": 132,
+          "end_frame": 142
+        }
+      ]
+    }
+  ]
+}

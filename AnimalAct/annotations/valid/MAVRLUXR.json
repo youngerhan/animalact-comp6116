@@ -1,0 +1,34 @@
+{
+  "video_id": "MAVRLUXR",
+  "video": "MAVRLUXR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Syllid Worm"
+  ],
+  "list_animal_action": [
+    [
+      "Syllid Worm",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Syllid Worm",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Syllid Worm",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.003,
+          "end": 1.725,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

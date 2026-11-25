@@ -1,0 +1,373 @@
+{
+  "video_id": "XWIDSPTK",
+  "video": "XWIDSPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.25,
+          "start_frame": 0,
+          "end_frame": 54
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.25,
+          "start_frame": 0,
+          "end_frame": 54
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.23,
+          "end": 3.355,
+          "start_frame": 54,
+          "end_frame": 81
+        },
+        {
+          "action": "Chirping",
+          "start": 2.25,
+          "end": 3.5,
+          "start_frame": 54,
+          "end_frame": 84
+        },
+        {
+          "action": "Sensing",
+          "start": 3.5,
+          "end": 5.25,
+          "start_frame": 84,
+          "end_frame": 126
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.5,
+          "end": 6.375,
+          "start_frame": 84,
+          "end_frame": 153
+        },
+        {
+          "action": "Shaking Head",
+          "start": 4.396,
+          "end": 4.896,
+          "start_frame": 106,
+          "end_frame": 118
+        },
+        {
+          "action": "Chirping",
+          "start": 6.375,
+          "end": 6.875,
+          "start_frame": 153,
+          "end_frame": 165
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.875,
+          "end": 20.0,
+          "start_frame": 165,
+          "end_frame": 480
+        },
+        {
+          "action": "Shaking Head",
+          "start": 6.938,
+          "end": 7.605,
+          "start_frame": 167,
+          "end_frame": 183
+        },
+        {
+          "action": "Sensing",
+          "start": 7.0,
+          "end": 7.75,
+          "start_frame": 168,
+          "end_frame": 186
+        },
+        {
+          "action": "Shaking Head",
+          "start": 10.355,
+          "end": 10.521,
+          "start_frame": 249,
+          "end_frame": 253
+        },
+        {
+          "action": "Sensing",
+          "start": 12.5,
+          "end": 13.5,
+          "start_frame": 300,
+          "end_frame": 324
+        },
+        {
+          "action": "Shaking Head",
+          "start": 19.146,
+          "end": 20.23,
+          "start_frame": 460,
+          "end_frame": 486
+        },
+        {
+          "action": "Sensing",
+          "start": 19.75,
+          "end": 20.25,
+          "start_frame": 474,
+          "end_frame": 486
+        },
+        {
+          "action": "Chirping",
+          "start": 20.0,
+          "end": 21.125,
+          "start_frame": 480,
+          "end_frame": 507
+        },
+        {
+          "action": "Keeping still",
+          "start": 21.125,
+          "end": 21.875,
+          "start_frame": 507,
+          "end_frame": 525
+        },
+        {
+          "action": "Chirping",
+          "start": 21.875,
+          "end": 22.5,
+          "start_frame": 525,
+          "end_frame": 540
+        },
+        {
+          "action": "Keeping still",
+          "start": 22.5,
+          "end": 26.375,
+          "start_frame": 540,
+          "end_frame": 633
+        },
+        {
+          "action": "Shaking Head",
+          "start": 23.771,
+          "end": 24.73,
+          "start_frame": 571,
+          "end_frame": 594
+        },
+        {
+          "action": "Sensing",
+          "start": 24.0,
+          "end": 25.0,
+          "start_frame": 576,
+          "end_frame": 600
+        },
+        {
+          "action": "Chirping",
+          "start": 26.375,
+          "end": 27.375,
+          "start_frame": 633,
+          "end_frame": 657
+        },
+        {
+          "action": "Sensing",
+          "start": 27.375,
+          "end": 29.5,
+          "start_frame": 657,
+          "end_frame": 708
+        },
+        {
+          "action": "Keeping still",
+          "start": 27.375,
+          "end": 29.5,
+          "start_frame": 657,
+          "end_frame": 708
+        },
+        {
+          "action": "Shaking Head",
+          "start": 28.271,
+          "end": 29.646,
+          "start_frame": 679,
+          "end_frame": 712
+        },
+        {
+          "action": "Chirping",
+          "start": 29.5,
+          "end": 31.375,
+          "start_frame": 708,
+          "end_frame": 753
+        },
+        {
+          "action": "Shaking Head",
+          "start": 30.563,
+          "end": 31.646,
+          "start_frame": 734,
+          "end_frame": 760
+        },
+        {
+          "action": "Sensing",
+          "start": 31.375,
+          "end": 32.75,
+          "start_frame": 753,
+          "end_frame": 786
+        },
+        {
+          "action": "Keeping still",
+          "start": 31.375,
+          "end": 33.125,
+          "start_frame": 753,
+          "end_frame": 795
+        },
+        {
+          "action": "Chirping",
+          "start": 33.125,
+          "end": 37.375,
+          "start_frame": 795,
+          "end_frame": 897
+        },
+        {
+          "action": "Shaking Head",
+          "start": 37.021,
+          "end": 38.063,
+          "start_frame": 889,
+          "end_frame": 914
+        },
+        {
+          "action": "Sensing",
+          "start": 37.375,
+          "end": 39.875,
+          "start_frame": 897,
+          "end_frame": 957
+        },
+        {
+          "action": "Keeping still",
+          "start": 37.375,
+          "end": 39.875,
+          "start_frame": 897,
+          "end_frame": 957
+        },
+        {
+          "action": "Chirping",
+          "start": 39.875,
+          "end": 42.625,
+          "start_frame": 957,
+          "end_frame": 1023
+        },
+        {
+          "action": "Sensing",
+          "start": 42.625,
+          "end": 43.625,
+          "start_frame": 1023,
+          "end_frame": 1047
+        },
+        {
+          "action": "Keeping still",
+          "start": 42.625,
+          "end": 43.625,
+          "start_frame": 1023,
+          "end_frame": 1047
+        },
+        {
+          "action": "Shaking Head",
+          "start": 42.896,
+          "end": 43.896,
+          "start_frame": 1030,
+          "end_frame": 1054
+        },
+        {
+          "action": "Chirping",
+          "start": 43.625,
+          "end": 44.375,
+          "start_frame": 1047,
+          "end_frame": 1065
+        },
+        {
+          "action": "Keeping still",
+          "start": 44.375,
+          "end": 45.375,
+          "start_frame": 1065,
+          "end_frame": 1089
+        },
+        {
+          "action": "Chirping",
+          "start": 45.375,
+          "end": 45.875,
+          "start_frame": 1089,
+          "end_frame": 1101
+        },
+        {
+          "action": "Keeping still",
+          "start": 45.875,
+          "end": 46.375,
+          "start_frame": 1101,
+          "end_frame": 1113
+        },
+        {
+          "action": "Chirping",
+          "start": 46.375,
+          "end": 46.875,
+          "start_frame": 1113,
+          "end_frame": 1125
+        },
+        {
+          "action": "Keeping still",
+          "start": 46.875,
+          "end": 47.875,
+          "start_frame": 1125,
+          "end_frame": 1149
+        },
+        {
+          "action": "Chirping",
+          "start": 47.875,
+          "end": 48.5,
+          "start_frame": 1149,
+          "end_frame": 1164
+        },
+        {
+          "action": "Sensing",
+          "start": 48.5,
+          "end": 49.333,
+          "start_frame": 1164,
+          "end_frame": 1184
+        },
+        {
+          "action": "Keeping still",
+          "start": 48.5,
+          "end": 49.333,
+          "start_frame": 1164,
+          "end_frame": 1184
+        }
+      ]
+    }
+  ]
+}

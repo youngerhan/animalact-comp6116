@@ -1,0 +1,34 @@
+{
+  "video_id": "JGTARDHC",
+  "video": "JGTARDHC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Convergent Ladybug"
+  ],
+  "list_animal_action": [
+    [
+      "Convergent Ladybug",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Convergent Ladybug",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Convergent Ladybug",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        }
+      ]
+    }
+  ]
+}

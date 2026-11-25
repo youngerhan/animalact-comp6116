@@ -1,0 +1,64 @@
+{
+  "video_id": "WAKRYKRV",
+  "video": "WAKRYKRV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cuckoo Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Cuckoo Bird",
+      "Landing"
+    ],
+    [
+      "Cuckoo Bird",
+      "Attending"
+    ],
+    [
+      "Cuckoo Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cuckoo Bird",
+      "Landing"
+    ],
+    [
+      "Cuckoo Bird",
+      "Attending"
+    ],
+    [
+      "Cuckoo Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.006,
+          "end": 2.159,
+          "start_frame": 0,
+          "end_frame": 52
+        },
+        {
+          "action": "Attending",
+          "start": 2.141,
+          "end": 11.198,
+          "start_frame": 51,
+          "end_frame": 269
+        },
+        {
+          "action": "Flying",
+          "start": 11.21,
+          "end": 13.01,
+          "start_frame": 269,
+          "end_frame": 312
+        }
+      ]
+    }
+  ]
+}

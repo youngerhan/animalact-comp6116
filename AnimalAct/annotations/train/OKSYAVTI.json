@@ -1,0 +1,49 @@
+{
+  "video_id": "OKSYAVTI",
+  "video": "OKSYAVTI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Smew"
+  ],
+  "list_animal_action": [
+    [
+      "Smew",
+      "Flapping"
+    ],
+    [
+      "Smew",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Smew",
+      "Flapping"
+    ],
+    [
+      "Smew",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Smew",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.0,
+          "end": 2.594,
+          "start_frame": 0,
+          "end_frame": 62
+        },
+        {
+          "action": "Flapping",
+          "start": 0.094,
+          "end": 4.594,
+          "start_frame": 2,
+          "end_frame": 110
+        }
+      ]
+    }
+  ]
+}

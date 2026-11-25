@@ -1,0 +1,79 @@
+{
+  "video_id": "AIHZXAMC",
+  "video": "AIHZXAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Hugging"
+    ],
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Sitting"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Hugging"
+    ],
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Sitting"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.004,
+          "end": 3.231,
+          "start_frame": 0,
+          "end_frame": 78
+        },
+        {
+          "action": "Sitting",
+          "start": 0.019,
+          "end": 2.025,
+          "start_frame": 0,
+          "end_frame": 49
+        },
+        {
+          "action": "Walking",
+          "start": 3.838,
+          "end": 7.757,
+          "start_frame": 92,
+          "end_frame": 186
+        },
+        {
+          "action": "Hugging",
+          "start": 8.641,
+          "end": 12.226,
+          "start_frame": 207,
+          "end_frame": 293
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "video_id": "JPQLAPKK",
+  "video": "JPQLAPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 0.344,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Sensing",
+          "start": 0.653,
+          "end": 0.931,
+          "start_frame": 16,
+          "end_frame": 22
+        },
+        {
+          "action": "Preening",
+          "start": 1.465,
+          "end": 2.965,
+          "start_frame": 35,
+          "end_frame": 71
+        },
+        {
+          "action": "Drinking",
+          "start": 3.01,
+          "end": 3.821,
+          "start_frame": 72,
+          "end_frame": 92
+        },
+        {
+          "action": "Sensing",
+          "start": 3.939,
+          "end": 4.52,
+          "start_frame": 95,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

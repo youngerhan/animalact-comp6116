@@ -1,0 +1,34 @@
+{
+  "video_id": "GGWVBRJS",
+  "video": "GGWVBRJS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dragonfly"
+  ],
+  "list_animal_action": [
+    [
+      "Dragonfly",
+      "Laying Eggs"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dragonfly",
+      "Laying Eggs"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dragonfly",
+      "actions": [
+        {
+          "action": "Laying Eggs",
+          "start": 1.764,
+          "end": 5.417,
+          "start_frame": 42,
+          "end_frame": 130
+        }
+      ]
+    }
+  ]
+}

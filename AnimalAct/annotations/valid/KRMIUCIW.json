@@ -1,0 +1,69 @@
+{
+  "video_id": "KRMIUCIW",
+  "video": "KRMIUCIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salticidae Jumping Spider",
+    "Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Salticidae Jumping Spider",
+      "Sensing"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salticidae Jumping Spider",
+      "Sensing"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salticidae Jumping Spider",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.803,
+          "end": 6.0,
+          "start_frame": 19,
+          "end_frame": 144
+        }
+      ]
+    },
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.957,
+          "start_frame": 0,
+          "end_frame": 23
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.081,
+          "end": 2.458,
+          "start_frame": 26,
+          "end_frame": 59
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.625,
+          "end": 6.0,
+          "start_frame": 63,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

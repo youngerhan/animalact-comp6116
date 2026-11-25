@@ -1,0 +1,49 @@
+{
+  "video_id": "ULGHNYMI",
+  "video": "ULGHNYMI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 0.219,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 3.469,
+          "start_frame": 2,
+          "end_frame": 83
+        }
+      ]
+    }
+  ]
+}

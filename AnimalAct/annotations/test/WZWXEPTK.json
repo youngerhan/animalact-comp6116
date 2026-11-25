@@ -1,0 +1,34 @@
+{
+  "video_id": "WZWXEPTK",
+  "video": "WZWXEPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.917,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

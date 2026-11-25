@@ -1,0 +1,34 @@
+{
+  "video_id": "POXHLBQT",
+  "video": "POXHLBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.792,
+          "end": 2.333,
+          "start_frame": 19,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

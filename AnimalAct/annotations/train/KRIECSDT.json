@@ -1,0 +1,34 @@
+{
+  "video_id": "KRIECSDT",
+  "video": "KRIECSDT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Boreal Owl"
+  ],
+  "list_animal_action": [
+    [
+      "Boreal Owl",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Boreal Owl",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Boreal Owl",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.148,
+          "end": 0.823,
+          "start_frame": 4,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

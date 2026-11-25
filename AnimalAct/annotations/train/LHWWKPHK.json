@@ -1,0 +1,34 @@
+{
+  "video_id": "LHWWKPHK",
+  "video": "LHWWKPHK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Azure Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Azure Tit Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Azure Tit Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Azure Tit Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.236,
+          "end": 0.449,
+          "start_frame": 6,
+          "end_frame": 11
+        }
+      ]
+    }
+  ]
+}

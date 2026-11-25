@@ -1,0 +1,34 @@
+{
+  "video_id": "SCSHEMHZ",
+  "video": "SCSHEMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Coronella Austriaca Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Coronella Austriaca Snake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Coronella Austriaca Snake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Coronella Austriaca Snake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.333,
+          "start_frame": 0,
+          "end_frame": 128
+        }
+      ]
+    }
+  ]
+}

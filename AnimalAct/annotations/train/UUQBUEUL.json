@@ -1,0 +1,49 @@
+{
+  "video_id": "UUQBUEUL",
+  "video": "UUQBUEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Spitting Venom",
+          "start": 0.0,
+          "end": 1.125,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Sensing",
+          "start": 4.192,
+          "end": 7.917,
+          "start_frame": 101,
+          "end_frame": 190
+        }
+      ]
+    }
+  ]
+}

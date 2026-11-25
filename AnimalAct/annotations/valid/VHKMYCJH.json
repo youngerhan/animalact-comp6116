@@ -1,0 +1,47 @@
+{
+  "video_id": "VHKMYCJH",
+  "video": "VHKMYCJH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant",
+    "Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Eating"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Eating"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 5.333,
+          "start_frame": 0,
+          "end_frame": 128
+        }
+      ]
+    },
+    {
+      "animal": "Aphid",
+      "actions": []
+    }
+  ]
+}

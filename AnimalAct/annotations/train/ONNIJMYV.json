@@ -1,0 +1,49 @@
+{
+  "video_id": "ONNIJMYV",
+  "video": "ONNIJMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Atheris Squamigera"
+  ],
+  "list_animal_action": [
+    [
+      "Atheris Squamigera",
+      "Hissing"
+    ],
+    [
+      "Atheris Squamigera",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Atheris Squamigera",
+      "Hissing"
+    ],
+    [
+      "Atheris Squamigera",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Atheris Squamigera",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 10.844,
+          "start_frame": 0,
+          "end_frame": 260
+        },
+        {
+          "action": "Hissing",
+          "start": 2.844,
+          "end": 4.969,
+          "start_frame": 68,
+          "end_frame": 119
+        }
+      ]
+    }
+  ]
+}

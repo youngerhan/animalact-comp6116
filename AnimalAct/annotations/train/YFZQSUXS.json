@@ -1,0 +1,63 @@
+{
+  "video_id": "YFZQSUXS",
+  "video": "YFZQSUXS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Necked Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Black Necked Spitting Cobra",
+      "Hissing"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Necked Spitting Cobra",
+      "Hissing"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Necked Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.476,
+          "end": 11.899,
+          "start_frame": 35,
+          "end_frame": 286
+        },
+        {
+          "action": "Hissing",
+          "start": 1.832,
+          "end": 2.672,
+          "start_frame": 44,
+          "end_frame": 64
+        },
+        {
+          "action": "Hissing",
+          "start": 5.913,
+          "end": 6.718,
+          "start_frame": 142,
+          "end_frame": 161
+        },
+        {
+          "action": "Hissing",
+          "start": 10.069,
+          "end": 10.887,
+          "start_frame": 242,
+          "end_frame": 261
+        }
+      ]
+    }
+  ]
+}

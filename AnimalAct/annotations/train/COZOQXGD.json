@@ -1,0 +1,49 @@
+{
+  "video_id": "COZOQXGD",
+  "video": "COZOQXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Struggling"
+    ],
+    [
+      "Snake",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Struggling"
+    ],
+    [
+      "Snake",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 0.001,
+          "end": 0.51,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Biting",
+          "start": 0.513,
+          "end": 1.725,
+          "start_frame": 12,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

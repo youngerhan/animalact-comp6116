@@ -1,0 +1,93 @@
+{
+  "video_id": "OXSFMZLK",
+  "video": "OXSFMZLK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Water Rail Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Water Rail Bird",
+      "Flying"
+    ],
+    [
+      "Water Rail Bird",
+      "Sensing"
+    ],
+    [
+      "Water Rail Bird",
+      "Landing"
+    ],
+    [
+      "Water Rail Bird",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Water Rail Bird",
+      "Flying"
+    ],
+    [
+      "Water Rail Bird",
+      "Sensing"
+    ],
+    [
+      "Water Rail Bird",
+      "Landing"
+    ],
+    [
+      "Water Rail Bird",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Water Rail Bird",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.024,
+          "end": 0.866,
+          "start_frame": 1,
+          "end_frame": 21
+        },
+        {
+          "action": "Flying",
+          "start": 0.168,
+          "end": 0.706,
+          "start_frame": 4,
+          "end_frame": 17
+        },
+        {
+          "action": "Landing",
+          "start": 0.744,
+          "end": 1.17,
+          "start_frame": 18,
+          "end_frame": 28
+        },
+        {
+          "action": "Sensing",
+          "start": 0.888,
+          "end": 8.387,
+          "start_frame": 21,
+          "end_frame": 201
+        },
+        {
+          "action": "Jumping",
+          "start": 7.848,
+          "end": 8.517,
+          "start_frame": 188,
+          "end_frame": 204
+        },
+        {
+          "action": "Flying",
+          "start": 7.928,
+          "end": 8.517,
+          "start_frame": 190,
+          "end_frame": 204
+        }
+      ]
+    }
+  ]
+}

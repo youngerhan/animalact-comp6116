@@ -1,0 +1,49 @@
+{
+  "video_id": "OJFSSFKM",
+  "video": "OJFSSFKM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Meerkat"
+  ],
+  "list_animal_action": [
+    [
+      "Meerkat",
+      "Keeping still"
+    ],
+    [
+      "Meerkat",
+      "Standing in alert"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Meerkat",
+      "Keeping still"
+    ],
+    [
+      "Meerkat",
+      "Standing in alert"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Meerkat",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 1.621,
+          "end": 2.012,
+          "start_frame": 39,
+          "end_frame": 48
+        },
+        {
+          "action": "Standing in alert",
+          "start": 1.621,
+          "end": 2.012,
+          "start_frame": 39,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "GCIIBLDC",
+  "video": "GCIIBLDC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Thamnophis Cyrtopsis Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Thamnophis Cyrtopsis Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Thamnophis Cyrtopsis Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Thamnophis Cyrtopsis Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.995,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

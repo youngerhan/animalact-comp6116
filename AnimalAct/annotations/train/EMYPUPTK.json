@@ -1,0 +1,99 @@
+{
+  "video_id": "EMYPUPTK",
+  "video": "EMYPUPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.366,
+          "end": 5.56,
+          "start_frame": 9,
+          "end_frame": 133
+        },
+        {
+          "action": "Sensing",
+          "start": 1.701,
+          "end": 5.772,
+          "start_frame": 41,
+          "end_frame": 139
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.87,
+          "end": 7.026,
+          "start_frame": 141,
+          "end_frame": 169
+        },
+        {
+          "action": "Chirping",
+          "start": 7.319,
+          "end": 11.569,
+          "start_frame": 176,
+          "end_frame": 278
+        },
+        {
+          "action": "Sensing",
+          "start": 7.84,
+          "end": 15.118,
+          "start_frame": 188,
+          "end_frame": 363
+        },
+        {
+          "action": "Chirping",
+          "start": 13.734,
+          "end": 19.156,
+          "start_frame": 330,
+          "end_frame": 460
+        },
+        {
+          "action": "Sensing",
+          "start": 20.426,
+          "end": 24.285,
+          "start_frame": 490,
+          "end_frame": 583
+        },
+        {
+          "action": "Chirping",
+          "start": 20.654,
+          "end": 25.995,
+          "start_frame": 496,
+          "end_frame": 624
+        }
+      ]
+    }
+  ]
+}

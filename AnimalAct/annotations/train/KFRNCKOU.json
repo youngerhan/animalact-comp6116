@@ -1,0 +1,49 @@
+{
+  "video_id": "KFRNCKOU",
+  "video": "KFRNCKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.919,
+          "start_frame": 0,
+          "end_frame": 94
+        },
+        {
+          "action": "Chirping",
+          "start": 1.082,
+          "end": 1.44,
+          "start_frame": 26,
+          "end_frame": 35
+        }
+      ]
+    }
+  ]
+}

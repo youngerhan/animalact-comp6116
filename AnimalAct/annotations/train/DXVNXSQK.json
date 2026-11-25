@@ -1,0 +1,55 @@
+{
+  "video_id": "DXVNXSQK",
+  "video": "DXVNXSQK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spider",
+    "Scutigera Coleoptera House Centipede"
+  ],
+  "list_animal_action": [
+    [
+      "Spider",
+      "Being Eaten"
+    ],
+    [
+      "Scutigera Coleoptera House Centipede",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spider",
+      "Being Eaten"
+    ],
+    [
+      "Scutigera Coleoptera House Centipede",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 1.916,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    },
+    {
+      "animal": "Scutigera Coleoptera House Centipede",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.915,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

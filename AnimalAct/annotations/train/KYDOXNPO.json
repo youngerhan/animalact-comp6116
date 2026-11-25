@@ -1,0 +1,34 @@
+{
+  "video_id": "KYDOXNPO",
+  "video": "KYDOXNPO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 2.917,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

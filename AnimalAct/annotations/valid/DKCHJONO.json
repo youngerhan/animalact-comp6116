@@ -1,0 +1,70 @@
+{
+  "video_id": "DKCHJONO",
+  "video": "DKCHJONO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wood Warbler"
+  ],
+  "list_animal_action": [
+    [
+      "Wood Warbler",
+      "Chirping"
+    ],
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wood Warbler",
+      "Chirping"
+    ],
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wood Warbler",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.783,
+          "start_frame": 0,
+          "end_frame": 19
+        },
+        {
+          "action": "Chirping",
+          "start": 0.214,
+          "end": 0.414,
+          "start_frame": 5,
+          "end_frame": 10
+        },
+        {
+          "action": "Sensing",
+          "start": 1.077,
+          "end": 2.164,
+          "start_frame": 26,
+          "end_frame": 52
+        },
+        {
+          "action": "Chirping",
+          "start": 1.505,
+          "end": 1.708,
+          "start_frame": 36,
+          "end_frame": 41
+        },
+        {
+          "action": "Sensing",
+          "start": 2.961,
+          "end": 3.326,
+          "start_frame": 71,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

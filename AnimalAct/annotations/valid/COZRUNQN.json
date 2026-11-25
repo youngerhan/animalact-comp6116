@@ -1,0 +1,48 @@
+{
+  "video_id": "COZRUNQN",
+  "video": "COZRUNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sedge Warbler Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Sedge Warbler Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sedge Warbler Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sedge Warbler Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 0.75,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Chirping",
+          "start": 1.75,
+          "end": 2.25,
+          "start_frame": 42,
+          "end_frame": 54
+        },
+        {
+          "action": "Chirping",
+          "start": 2.75,
+          "end": 3.333,
+          "start_frame": 66,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

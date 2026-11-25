@@ -1,0 +1,49 @@
+{
+  "video_id": "IJDFAGQD",
+  "video": "IJDFAGQD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Lying On Top"
+    ],
+    [
+      "Frog",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Lying On Top"
+    ],
+    [
+      "Frog",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Lying On Top",
+          "start": 0.0,
+          "end": 4.344,
+          "start_frame": 0,
+          "end_frame": 104
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 4.35,
+          "start_frame": 0,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

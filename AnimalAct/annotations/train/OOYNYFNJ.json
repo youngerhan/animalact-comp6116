@@ -1,0 +1,34 @@
+{
+  "video_id": "OOYNYFNJ",
+  "video": "OOYNYFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Basilisk Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Basilisk Lizard",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Basilisk Lizard",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Basilisk Lizard",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.01,
+          "end": 3.316,
+          "start_frame": 0,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

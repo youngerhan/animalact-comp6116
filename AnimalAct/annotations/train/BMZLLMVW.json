@@ -1,0 +1,114 @@
+{
+  "video_id": "BMZLLMVW",
+  "video": "BMZLLMVW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eurasian Wren Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Eurasian Wren Bird",
+      "Attending"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Keeping still"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Chirping"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eurasian Wren Bird",
+      "Attending"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Keeping still"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Chirping"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eurasian Wren Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.294,
+          "start_frame": 0,
+          "end_frame": 7
+        },
+        {
+          "action": "Attending",
+          "start": 0.206,
+          "end": 3.616,
+          "start_frame": 5,
+          "end_frame": 87
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.317,
+          "end": 3.437,
+          "start_frame": 8,
+          "end_frame": 82
+        },
+        {
+          "action": "Chirping",
+          "start": 3.903,
+          "end": 7.997,
+          "start_frame": 94,
+          "end_frame": 192
+        },
+        {
+          "action": "Chirping",
+          "start": 8.708,
+          "end": 13.12,
+          "start_frame": 209,
+          "end_frame": 315
+        },
+        {
+          "action": "Sensing",
+          "start": 10.406,
+          "end": 13.083,
+          "start_frame": 250,
+          "end_frame": 314
+        },
+        {
+          "action": "Attending",
+          "start": 13.191,
+          "end": 15.737,
+          "start_frame": 317,
+          "end_frame": 378
+        },
+        {
+          "action": "Keeping still",
+          "start": 13.557,
+          "end": 15.624,
+          "start_frame": 325,
+          "end_frame": 375
+        },
+        {
+          "action": "Sensing",
+          "start": 16.179,
+          "end": 19.018,
+          "start_frame": 388,
+          "end_frame": 456
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "ZANXSSBA",
+  "video": "ZANXSSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.002,
+          "end": 0.714,
+          "start_frame": 0,
+          "end_frame": 17
+        },
+        {
+          "action": "Walking",
+          "start": 0.567,
+          "end": 2.697,
+          "start_frame": 14,
+          "end_frame": 65
+        },
+        {
+          "action": "Walking",
+          "start": 2.975,
+          "end": 4.917,
+          "start_frame": 71,
+          "end_frame": 118
+        },
+        {
+          "action": "Eating",
+          "start": 4.836,
+          "end": 4.917,
+          "start_frame": 116,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "video_id": "IPGQAHSA",
+  "video": "IPGQAHSA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Cuckoo Bird",
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Cuckoo Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Cuckoo Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.099,
+          "end": 1.321,
+          "start_frame": 2,
+          "end_frame": 32
+        },
+        {
+          "action": "Sensing",
+          "start": 1.307,
+          "end": 7.708,
+          "start_frame": 31,
+          "end_frame": 185
+        }
+      ]
+    },
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.258,
+          "end": 0.978,
+          "start_frame": 6,
+          "end_frame": 23
+        }
+      ]
+    }
+  ]
+}

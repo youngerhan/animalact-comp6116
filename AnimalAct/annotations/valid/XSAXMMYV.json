@@ -1,0 +1,34 @@
+{
+  "video_id": "XSAXMMYV",
+  "video": "XSAXMMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Strange-Horned Chameleon"
+  ],
+  "list_animal_action": [
+    [
+      "Strange-Horned Chameleon",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Strange-Horned Chameleon",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Strange-Horned Chameleon",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 1.059,
+          "end": 2.814,
+          "start_frame": 25,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

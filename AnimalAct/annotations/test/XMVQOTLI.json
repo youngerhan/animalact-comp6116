@@ -1,0 +1,34 @@
+{
+  "video_id": "XMVQOTLI",
+  "video": "XMVQOTLI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hairworm"
+  ],
+  "list_animal_action": [
+    [
+      "Hairworm",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hairworm",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hairworm",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

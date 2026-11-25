@@ -1,0 +1,55 @@
+{
+  "video_id": "VTXWXBQT",
+  "video": "VTXWXBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur",
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Jumping"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Jumping"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.208,
+          "start_frame": 0,
+          "end_frame": 29
+        }
+      ]
+    },
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.292,
+          "end": 0.75,
+          "start_frame": 7,
+          "end_frame": 18
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "MEEYKHAQ",
+  "video": "MEEYKHAQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.0,
+          "end": 1.094,
+          "start_frame": 0,
+          "end_frame": 26
+        },
+        {
+          "action": "Walking",
+          "start": 0.489,
+          "end": 1.335,
+          "start_frame": 12,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "ZXDBPVEI",
+  "video": "ZXDBPVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Calidris Apina Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Calidris Apina Bird",
+      "Walking"
+    ],
+    [
+      "Calidris Apina Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Calidris Apina Bird",
+      "Walking"
+    ],
+    [
+      "Calidris Apina Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Calidris Apina Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.007,
+          "end": 0.312,
+          "start_frame": 0,
+          "end_frame": 7
+        },
+        {
+          "action": "Eating",
+          "start": 0.455,
+          "end": 1.402,
+          "start_frame": 11,
+          "end_frame": 34
+        },
+        {
+          "action": "Walking",
+          "start": 0.752,
+          "end": 1.115,
+          "start_frame": 18,
+          "end_frame": 27
+        },
+        {
+          "action": "Walking",
+          "start": 2.483,
+          "end": 5.011,
+          "start_frame": 60,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

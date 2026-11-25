@@ -1,0 +1,34 @@
+{
+  "video_id": "MQLOJRAC",
+  "video": "MQLOJRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Capuchin Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Capuchin Monkey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.922,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "video_id": "EPHUVFPE",
+  "video": "EPHUVFPE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spider",
+    "Walking Stick"
+  ],
+  "list_animal_action": [
+    [
+      "Spider",
+      "Moving"
+    ],
+    [
+      "Spider",
+      "Keeping still"
+    ],
+    [
+      "Walking Stick",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spider",
+      "Moving"
+    ],
+    [
+      "Spider",
+      "Keeping still"
+    ],
+    [
+      "Walking Stick",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.012,
+          "end": 1.955,
+          "start_frame": 0,
+          "end_frame": 47
+        },
+        {
+          "action": "Moving",
+          "start": 1.971,
+          "end": 3.104,
+          "start_frame": 47,
+          "end_frame": 74
+        }
+      ]
+    },
+    {
+      "animal": "Walking Stick",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.473,
+          "end": 1.761,
+          "start_frame": 11,
+          "end_frame": 42
+        },
+        {
+          "action": "Moving",
+          "start": 3.138,
+          "end": 3.203,
+          "start_frame": 75,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

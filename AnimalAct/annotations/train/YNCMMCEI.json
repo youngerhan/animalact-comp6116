@@ -1,0 +1,34 @@
+{
+  "video_id": "YNCMMCEI",
+  "video": "YNCMMCEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

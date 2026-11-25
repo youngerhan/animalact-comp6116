@@ -1,0 +1,34 @@
+{
+  "video_id": "UVOTMOOZ",
+  "video": "UVOTMOOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Redback Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Redback Spider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Redback Spider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Redback Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.214,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

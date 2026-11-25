@@ -1,0 +1,34 @@
+{
+  "video_id": "KRDIRUHU",
+  "video": "KRDIRUHU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bluethroat"
+  ],
+  "list_animal_action": [
+    [
+      "Bluethroat",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bluethroat",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bluethroat",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

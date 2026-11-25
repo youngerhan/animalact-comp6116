@@ -1,0 +1,63 @@
+{
+  "video_id": "AHLJNIBW",
+  "video": "AHLJNIBW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cuckoo Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Cuckoo Bird",
+      "Attending"
+    ],
+    [
+      "Cuckoo Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cuckoo Bird",
+      "Attending"
+    ],
+    [
+      "Cuckoo Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.974,
+          "start_frame": 0,
+          "end_frame": 71
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.98,
+          "start_frame": 0,
+          "end_frame": 72
+        },
+        {
+          "action": "Attending",
+          "start": 3.59,
+          "end": 4.621,
+          "start_frame": 86,
+          "end_frame": 111
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.593,
+          "end": 4.618,
+          "start_frame": 86,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

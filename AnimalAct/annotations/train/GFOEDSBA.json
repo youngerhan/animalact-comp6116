@@ -1,0 +1,56 @@
+{
+  "video_id": "GFOEDSBA",
+  "video": "GFOEDSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.078,
+          "start_frame": 0,
+          "end_frame": 50
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 2.094,
+          "end": 2.594,
+          "start_frame": 50,
+          "end_frame": 62
+        },
+        {
+          "action": "Sensing",
+          "start": 2.777,
+          "end": 3.942,
+          "start_frame": 67,
+          "end_frame": 95
+        }
+      ]
+    }
+  ]
+}

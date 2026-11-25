@@ -1,0 +1,34 @@
+{
+  "video_id": "BMBFISFN",
+  "video": "BMBFISFN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Yawning"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Yawning"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Yawning",
+          "start": 0.0,
+          "end": 3.114,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

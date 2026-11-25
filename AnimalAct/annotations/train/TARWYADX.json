@@ -1,0 +1,56 @@
+{
+  "video_id": "TARWYADX",
+  "video": "TARWYADX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White-Backed Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Rubbing its head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Rubbing its head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White-Backed Woodpecker",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.333,
+          "start_frame": 0,
+          "end_frame": 104
+        },
+        {
+          "action": "Rubbing its head",
+          "start": 0.292,
+          "end": 1.0,
+          "start_frame": 7,
+          "end_frame": 24
+        },
+        {
+          "action": "Rubbing its head",
+          "start": 1.958,
+          "end": 2.542,
+          "start_frame": 47,
+          "end_frame": 61
+        }
+      ]
+    }
+  ]
+}

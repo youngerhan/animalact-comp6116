@@ -1,0 +1,34 @@
+{
+  "video_id": "RFXCOYUQ",
+  "video": "RFXCOYUQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Polyergus Mexicanus"
+  ],
+  "list_animal_action": [
+    [
+      "Polyergus Mexicanus",
+      "Manipulating Object"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Polyergus Mexicanus",
+      "Manipulating Object"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Polyergus Mexicanus",
+      "actions": [
+        {
+          "action": "Manipulating Object",
+          "start": 0.0,
+          "end": 5.652,
+          "start_frame": 0,
+          "end_frame": 136
+        }
+      ]
+    }
+  ]
+}

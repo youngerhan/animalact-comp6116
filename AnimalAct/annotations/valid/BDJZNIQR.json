@@ -1,0 +1,64 @@
+{
+  "video_id": "BDJZNIQR",
+  "video": "BDJZNIQR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mongoose"
+  ],
+  "list_animal_action": [
+    [
+      "Mongoose",
+      "Retreating"
+    ],
+    [
+      "Mongoose",
+      "Sensing"
+    ],
+    [
+      "Mongoose",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mongoose",
+      "Retreating"
+    ],
+    [
+      "Mongoose",
+      "Sensing"
+    ],
+    [
+      "Mongoose",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mongoose",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 1.321,
+          "end": 2.427,
+          "start_frame": 32,
+          "end_frame": 58
+        },
+        {
+          "action": "Retreating",
+          "start": 2.45,
+          "end": 3.009,
+          "start_frame": 59,
+          "end_frame": 72
+        },
+        {
+          "action": "Sensing",
+          "start": 3.495,
+          "end": 4.625,
+          "start_frame": 84,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "KHNFXTLI",
+  "video": "KHNFXTLI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hairworm"
+  ],
+  "list_animal_action": [
+    [
+      "Hairworm",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hairworm",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hairworm",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.142,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Moving",
+          "start": 2.182,
+          "end": 2.682,
+          "start_frame": 52,
+          "end_frame": 64
+        },
+        {
+          "action": "Moving",
+          "start": 3.182,
+          "end": 4.89,
+          "start_frame": 76,
+          "end_frame": 117
+        }
+      ]
+    }
+  ]
+}

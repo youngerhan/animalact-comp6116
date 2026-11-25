@@ -1,0 +1,34 @@
+{
+  "video_id": "KXHZURFO",
+  "video": "KXHZURFO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Pill Bug"
+  ],
+  "list_animal_action": [
+    [
+      "Pill Bug",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Pill Bug",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Pill Bug",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.508,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

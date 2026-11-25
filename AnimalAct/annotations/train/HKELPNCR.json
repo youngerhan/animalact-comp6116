@@ -1,0 +1,34 @@
+{
+  "video_id": "HKELPNCR",
+  "video": "HKELPNCR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goose"
+  ],
+  "list_animal_action": [
+    [
+      "Goose",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goose",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goose",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 3.125,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

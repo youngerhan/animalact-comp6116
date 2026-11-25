@@ -1,0 +1,34 @@
+{
+  "video_id": "TCJIKVKA",
+  "video": "TCJIKVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

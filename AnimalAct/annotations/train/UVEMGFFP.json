@@ -1,0 +1,34 @@
+{
+  "video_id": "UVEMGFFP",
+  "video": "UVEMGFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flying Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Flying Ant",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flying Ant",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flying Ant",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.002,
+          "end": 3.005,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "video_id": "AOZOENCR",
+  "video": "AOZOENCR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goose"
+  ],
+  "list_animal_action": [
+    [
+      "Goose",
+      "Keeping still"
+    ],
+    [
+      "Goose",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goose",
+      "Keeping still"
+    ],
+    [
+      "Goose",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goose",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 1.671,
+          "end": 2.855,
+          "start_frame": 40,
+          "end_frame": 69
+        },
+        {
+          "action": "Sensing",
+          "start": 2.846,
+          "end": 3.896,
+          "start_frame": 68,
+          "end_frame": 94
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.885,
+          "end": 5.923,
+          "start_frame": 93,
+          "end_frame": 142
+        }
+      ]
+    }
+  ]
+}

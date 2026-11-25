@@ -1,0 +1,64 @@
+{
+  "video_id": "ECIBLIBW",
+  "video": "ECIBLIBW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cuckoo Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Cuckoo Bird",
+      "Sensing"
+    ],
+    [
+      "Cuckoo Bird",
+      "Flapping Tail"
+    ],
+    [
+      "Cuckoo Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cuckoo Bird",
+      "Sensing"
+    ],
+    [
+      "Cuckoo Bird",
+      "Flapping Tail"
+    ],
+    [
+      "Cuckoo Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Flapping Tail",
+          "start": 0.0,
+          "end": 7.875,
+          "start_frame": 0,
+          "end_frame": 189
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 12.958,
+          "start_frame": 0,
+          "end_frame": 311
+        },
+        {
+          "action": "Flying",
+          "start": 13.083,
+          "end": 13.333,
+          "start_frame": 314,
+          "end_frame": 320
+        }
+      ]
+    }
+  ]
+}

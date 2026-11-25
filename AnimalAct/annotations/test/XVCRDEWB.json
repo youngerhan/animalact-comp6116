@@ -1,0 +1,49 @@
+{
+  "video_id": "XVCRDEWB",
+  "video": "XVCRDEWB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Philomachus Pugnax Ruff Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Philomachus Pugnax Ruff Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.001,
+          "end": 1.017,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Chirping",
+          "start": 0.001,
+          "end": 1.018,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "WZHYLLHH",
+  "video": "WZHYLLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rain Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Rain Frog",
+      "Walking"
+    ],
+    [
+      "Rain Frog",
+      "Hugging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rain Frog",
+      "Walking"
+    ],
+    [
+      "Rain Frog",
+      "Hugging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rain Frog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.857,
+          "start_frame": 0,
+          "end_frame": 45
+        },
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

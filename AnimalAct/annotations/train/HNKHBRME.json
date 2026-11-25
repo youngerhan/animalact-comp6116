@@ -1,0 +1,34 @@
+{
+  "video_id": "HNKHBRME",
+  "video": "HNKHBRME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Metlapilcoatlus Mexicanus Jumping Pit Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Metlapilcoatlus Mexicanus Jumping Pit Viper",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Metlapilcoatlus Mexicanus Jumping Pit Viper",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Metlapilcoatlus Mexicanus Jumping Pit Viper",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.625,
+          "start_frame": 0,
+          "end_frame": 135
+        }
+      ]
+    }
+  ]
+}

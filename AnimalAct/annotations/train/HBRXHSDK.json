@@ -1,0 +1,49 @@
+{
+  "video_id": "HBRXHSDK",
+  "video": "HBRXHSDK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Butterfly"
+  ],
+  "list_animal_action": [
+    [
+      "Butterfly",
+      "Landing"
+    ],
+    [
+      "Butterfly",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Butterfly",
+      "Landing"
+    ],
+    [
+      "Butterfly",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Butterfly",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 2.275,
+          "start_frame": 0,
+          "end_frame": 55
+        },
+        {
+          "action": "Landing",
+          "start": 2.277,
+          "end": 3.0,
+          "start_frame": 55,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

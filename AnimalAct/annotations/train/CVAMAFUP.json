@@ -1,0 +1,64 @@
+{
+  "video_id": "CVAMAFUP",
+  "video": "CVAMAFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.292,
+          "start_frame": 0,
+          "end_frame": 55
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.292,
+          "end": 4.375,
+          "start_frame": 55,
+          "end_frame": 105
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 5.542,
+          "end": 5.875,
+          "start_frame": 133,
+          "end_frame": 141
+        }
+      ]
+    }
+  ]
+}

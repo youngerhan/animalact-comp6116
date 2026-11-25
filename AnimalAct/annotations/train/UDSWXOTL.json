@@ -1,0 +1,34 @@
+{
+  "video_id": "UDSWXOTL",
+  "video": "UDSWXOTL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Great Snipe",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Snipe",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Snipe",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 1.844,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

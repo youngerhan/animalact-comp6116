@@ -1,0 +1,49 @@
+{
+  "video_id": "VTSHDHFB",
+  "video": "VTSHDHFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hazel Grouse Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Hazel Grouse Bird",
+      "Keeping still"
+    ],
+    [
+      "Hazel Grouse Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hazel Grouse Bird",
+      "Keeping still"
+    ],
+    [
+      "Hazel Grouse Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hazel Grouse Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 6.594,
+          "start_frame": 0,
+          "end_frame": 158
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.708,
+          "start_frame": 0,
+          "end_frame": 161
+        }
+      ]
+    }
+  ]
+}

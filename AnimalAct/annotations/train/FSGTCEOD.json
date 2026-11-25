@@ -1,0 +1,136 @@
+{
+  "video_id": "FSGTCEOD",
+  "video": "FSGTCEOD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Chirping"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Chirping"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.107,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.107,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 9.271,
+          "start_frame": 0,
+          "end_frame": 223
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 10.333,
+          "start_frame": 0,
+          "end_frame": 248
+        },
+        {
+          "action": "Walking",
+          "start": 0.659,
+          "end": 6.141,
+          "start_frame": 16,
+          "end_frame": 147
+        },
+        {
+          "action": "Attending",
+          "start": 1.361,
+          "end": 2.212,
+          "start_frame": 33,
+          "end_frame": 53
+        },
+        {
+          "action": "Attending",
+          "start": 2.387,
+          "end": 3.549,
+          "start_frame": 57,
+          "end_frame": 85
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.413,
+          "end": 3.088,
+          "start_frame": 58,
+          "end_frame": 74
+        },
+        {
+          "action": "Attending",
+          "start": 3.978,
+          "end": 7.492,
+          "start_frame": 95,
+          "end_frame": 180
+        },
+        {
+          "action": "Attending",
+          "start": 7.94,
+          "end": 8.421,
+          "start_frame": 191,
+          "end_frame": 202
+        },
+        {
+          "action": "Attending",
+          "start": 8.453,
+          "end": 10.333,
+          "start_frame": 203,
+          "end_frame": 248
+        }
+      ]
+    }
+  ]
+}

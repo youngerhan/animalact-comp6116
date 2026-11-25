@@ -1,0 +1,128 @@
+{
+  "video_id": "BFWTXDAL",
+  "video": "BFWTXDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Shaking Head"
+    ],
+    [
+      "Grey Heron",
+      "Eating"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Mallard Duck",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Shaking Head"
+    ],
+    [
+      "Grey Heron",
+      "Eating"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Mallard Duck",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.0,
+          "end": 1.852,
+          "start_frame": 0,
+          "end_frame": 44
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.001,
+          "end": 0.463,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.442,
+          "end": 3.574,
+          "start_frame": 35,
+          "end_frame": 86
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 1.93,
+          "end": 3.709,
+          "start_frame": 46,
+          "end_frame": 89
+        }
+      ]
+    },
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.001,
+          "end": 3.71,
+          "start_frame": 0,
+          "end_frame": 89
+        },
+        {
+          "action": "Eating",
+          "start": 0.997,
+          "end": 2.324,
+          "start_frame": 24,
+          "end_frame": 56
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.475,
+          "end": 1.794,
+          "start_frame": 35,
+          "end_frame": 43
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.85,
+          "end": 1.99,
+          "start_frame": 44,
+          "end_frame": 48
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.023,
+          "end": 2.289,
+          "start_frame": 49,
+          "end_frame": 55
+        }
+      ]
+    }
+  ]
+}

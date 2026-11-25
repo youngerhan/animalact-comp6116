@@ -1,0 +1,34 @@
+{
+  "video_id": "AFLSGLDC",
+  "video": "AFLSGLDC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Pituophis Catenifer Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Pituophis Catenifer Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Pituophis Catenifer Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Pituophis Catenifer Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.155,
+          "end": 7.492,
+          "start_frame": 4,
+          "end_frame": 180
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "XLDWAHCQ",
+  "video": "XLDWAHCQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gryllus Lineaticeps"
+  ],
+  "list_animal_action": [
+    [
+      "Gryllus Lineaticeps",
+      "Moving"
+    ],
+    [
+      "Gryllus Lineaticeps",
+      "Flapping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gryllus Lineaticeps",
+      "Moving"
+    ],
+    [
+      "Gryllus Lineaticeps",
+      "Flapping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gryllus Lineaticeps",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.0,
+          "end": 2.485,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Moving",
+          "start": 2.547,
+          "end": 3.625,
+          "start_frame": 61,
+          "end_frame": 87
+        }
+      ]
+    }
+  ]
+}

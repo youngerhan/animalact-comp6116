@@ -1,0 +1,34 @@
+{
+  "video_id": "ZQMQGIFB",
+  "video": "ZQMQGIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mimic Poison Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Mimic Poison Frog",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mimic Poison Frog",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mimic Poison Frog",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.233,
+          "end": 2.417,
+          "start_frame": 30,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

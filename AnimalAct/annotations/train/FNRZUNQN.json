@@ -1,0 +1,86 @@
+{
+  "video_id": "FNRZUNQN",
+  "video": "FNRZUNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "European Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "European Robin Bird",
+      "Attending"
+    ],
+    [
+      "European Robin Bird",
+      "Shaking"
+    ],
+    [
+      "European Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "European Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "European Robin Bird",
+      "Attending"
+    ],
+    [
+      "European Robin Bird",
+      "Shaking"
+    ],
+    [
+      "European Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "European Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "European Robin Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 4.702,
+          "start_frame": 0,
+          "end_frame": 113
+        },
+        {
+          "action": "Attending",
+          "start": 0.418,
+          "end": 6.375,
+          "start_frame": 10,
+          "end_frame": 153
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.573,
+          "end": 6.43,
+          "start_frame": 110,
+          "end_frame": 154
+        },
+        {
+          "action": "Chirping",
+          "start": 8.36,
+          "end": 11.918,
+          "start_frame": 201,
+          "end_frame": 286
+        },
+        {
+          "action": "Shaking",
+          "start": 14.28,
+          "end": 14.62,
+          "start_frame": 343,
+          "end_frame": 351
+        }
+      ]
+    }
+  ]
+}

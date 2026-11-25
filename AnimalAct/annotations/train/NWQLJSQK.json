@@ -1,0 +1,34 @@
+{
+  "video_id": "NWQLJSQK",
+  "video": "NWQLJSQK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Scutigera Coleoptera House Centipede"
+  ],
+  "list_animal_action": [
+    [
+      "Scutigera Coleoptera House Centipede",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Scutigera Coleoptera House Centipede",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Scutigera Coleoptera House Centipede",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.45,
+          "end": 1.125,
+          "start_frame": 11,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "DVURAAMC",
+  "video": "DVURAAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.083,
+          "end": 2.417,
+          "start_frame": 2,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

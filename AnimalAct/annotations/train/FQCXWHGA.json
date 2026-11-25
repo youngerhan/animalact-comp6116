@@ -1,0 +1,114 @@
+{
+  "video_id": "FQCXWHGA",
+  "video": "FQCXWHGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Meerkat"
+  ],
+  "list_animal_action": [
+    [
+      "Meerkat",
+      "Attending"
+    ],
+    [
+      "Meerkat",
+      "Moving"
+    ],
+    [
+      "Meerkat",
+      "Keeping still"
+    ],
+    [
+      "Meerkat",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Meerkat",
+      "Attending"
+    ],
+    [
+      "Meerkat",
+      "Moving"
+    ],
+    [
+      "Meerkat",
+      "Keeping still"
+    ],
+    [
+      "Meerkat",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Meerkat",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.021,
+          "end": 6.924,
+          "start_frame": 1,
+          "end_frame": 166
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.04,
+          "end": 1.616,
+          "start_frame": 1,
+          "end_frame": 39
+        },
+        {
+          "action": "Attending",
+          "start": 0.058,
+          "end": 1.616,
+          "start_frame": 1,
+          "end_frame": 39
+        },
+        {
+          "action": "Attending",
+          "start": 1.994,
+          "end": 2.507,
+          "start_frame": 48,
+          "end_frame": 60
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.031,
+          "end": 2.605,
+          "start_frame": 49,
+          "end_frame": 63
+        },
+        {
+          "action": "Attending",
+          "start": 3.002,
+          "end": 6.917,
+          "start_frame": 72,
+          "end_frame": 166
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.143,
+          "end": 3.735,
+          "start_frame": 75,
+          "end_frame": 90
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.315,
+          "end": 6.924,
+          "start_frame": 104,
+          "end_frame": 166
+        },
+        {
+          "action": "Moving",
+          "start": 7.889,
+          "end": 9.718,
+          "start_frame": 189,
+          "end_frame": 233
+        }
+      ]
+    }
+  ]
+}

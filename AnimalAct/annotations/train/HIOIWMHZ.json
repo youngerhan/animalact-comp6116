@@ -1,0 +1,41 @@
+{
+  "video_id": "HIOIWMHZ",
+  "video": "HIOIWMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Natrix Natrix Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Natrix Natrix Snake",
+      "Playing Dead"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Natrix Natrix Snake",
+      "Playing Dead"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Natrix Natrix Snake",
+      "actions": [
+        {
+          "action": "Playing Dead",
+          "start": 0.0,
+          "end": 1.32,
+          "start_frame": 0,
+          "end_frame": 32
+        },
+        {
+          "action": "Playing Dead",
+          "start": 4.064,
+          "end": 10.125,
+          "start_frame": 98,
+          "end_frame": 243
+        }
+      ]
+    }
+  ]
+}

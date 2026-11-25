@@ -1,0 +1,64 @@
+{
+  "video_id": "DZUIAGCS",
+  "video": "DZUIAGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Barking",
+          "start": 0.0,
+          "end": 3.5,
+          "start_frame": 0,
+          "end_frame": 84
+        },
+        {
+          "action": "Attacking",
+          "start": 0.208,
+          "end": 0.708,
+          "start_frame": 5,
+          "end_frame": 17
+        },
+        {
+          "action": "Retreating",
+          "start": 0.792,
+          "end": 2.083,
+          "start_frame": 19,
+          "end_frame": 50
+        }
+      ]
+    }
+  ]
+}

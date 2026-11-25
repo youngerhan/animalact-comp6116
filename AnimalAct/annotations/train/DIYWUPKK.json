@@ -1,0 +1,86 @@
+{
+  "video_id": "DIYWUPKK",
+  "video": "DIYWUPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.436,
+          "end": 1.094,
+          "start_frame": 10,
+          "end_frame": 26
+        },
+        {
+          "action": "Preening",
+          "start": 1.495,
+          "end": 2.311,
+          "start_frame": 36,
+          "end_frame": 55
+        },
+        {
+          "action": "Walking",
+          "start": 2.719,
+          "end": 4.796,
+          "start_frame": 65,
+          "end_frame": 115
+        },
+        {
+          "action": "Drinking",
+          "start": 4.219,
+          "end": 4.594,
+          "start_frame": 101,
+          "end_frame": 110
+        },
+        {
+          "action": "Drinking",
+          "start": 4.844,
+          "end": 5.154,
+          "start_frame": 116,
+          "end_frame": 124
+        }
+      ]
+    }
+  ]
+}

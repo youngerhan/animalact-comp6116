@@ -1,0 +1,49 @@
+{
+  "video_id": "GHZKGJVY",
+  "video": "GHZKGJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Sensing"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Sensing"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 7.833,
+          "start_frame": 0,
+          "end_frame": 188
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 7.833,
+          "start_frame": 0,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "DOBKLXGD",
+  "video": "DOBKLXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.083,
+          "start_frame": 0,
+          "end_frame": 50
+        }
+      ]
+    }
+  ]
+}

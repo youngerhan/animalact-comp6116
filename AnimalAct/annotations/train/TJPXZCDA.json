@@ -1,0 +1,56 @@
+{
+  "video_id": "TJPXZCDA",
+  "video": "TJPXZCDA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Latrodectus Hersperus Western Widow Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Latrodectus Hersperus Western Widow Spider",
+      "Attending"
+    ],
+    [
+      "Latrodectus Hersperus Western Widow Spider",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Latrodectus Hersperus Western Widow Spider",
+      "Attending"
+    ],
+    [
+      "Latrodectus Hersperus Western Widow Spider",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Latrodectus Hersperus Western Widow Spider",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.004,
+          "end": 0.704,
+          "start_frame": 0,
+          "end_frame": 17
+        },
+        {
+          "action": "Attending",
+          "start": 0.78,
+          "end": 1.685,
+          "start_frame": 19,
+          "end_frame": 40
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.693,
+          "end": 3.988,
+          "start_frame": 41,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

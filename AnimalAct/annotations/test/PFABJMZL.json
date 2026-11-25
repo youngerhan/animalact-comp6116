@@ -1,0 +1,34 @@
+{
+  "video_id": "PFABJMZL",
+  "video": "PFABJMZL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greta Oto Glasswing Butterfly Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Greta Oto Glasswing Butterfly Caterpillar",
+      "Undergoing Chrysalis"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greta Oto Glasswing Butterfly Caterpillar",
+      "Undergoing Chrysalis"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greta Oto Glasswing Butterfly Caterpillar",
+      "actions": [
+        {
+          "action": "Undergoing Chrysalis",
+          "start": 0.042,
+          "end": 5.967,
+          "start_frame": 1,
+          "end_frame": 143
+        }
+      ]
+    }
+  ]
+}

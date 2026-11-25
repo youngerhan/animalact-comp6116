@@ -1,0 +1,34 @@
+{
+  "video_id": "JIFNFFUP",
+  "video": "JIFNFFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Spitting Venom",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        }
+      ]
+    }
+  ]
+}

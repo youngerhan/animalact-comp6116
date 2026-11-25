@@ -1,0 +1,55 @@
+{
+  "video_id": "MZBDBGJU",
+  "video": "MZBDBGJU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wasp",
+    "Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Wasp",
+      "Entering its nest"
+    ],
+    [
+      "Bee",
+      "Being Dragged"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wasp",
+      "Entering its nest"
+    ],
+    [
+      "Bee",
+      "Being Dragged"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wasp",
+      "actions": [
+        {
+          "action": "Entering its nest",
+          "start": 0.0,
+          "end": 4.333,
+          "start_frame": 0,
+          "end_frame": 104
+        }
+      ]
+    },
+    {
+      "animal": "Bee",
+      "actions": [
+        {
+          "action": "Being Dragged",
+          "start": 0.0,
+          "end": 4.333,
+          "start_frame": 0,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

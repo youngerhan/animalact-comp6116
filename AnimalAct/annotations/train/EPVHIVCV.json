@@ -1,0 +1,34 @@
+{
+  "video_id": "EPVHIVCV",
+  "video": "EPVHIVCV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salamander"
+  ],
+  "list_animal_action": [
+    [
+      "Salamander",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salamander",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salamander",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 8.625,
+          "start_frame": 0,
+          "end_frame": 207
+        }
+      ]
+    }
+  ]
+}

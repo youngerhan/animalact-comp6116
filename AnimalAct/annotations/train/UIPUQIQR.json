@@ -1,0 +1,79 @@
+{
+  "video_id": "UIPUQIQR",
+  "video": "UIPUQIQR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mongoose"
+  ],
+  "list_animal_action": [
+    [
+      "Mongoose",
+      "Attacking"
+    ],
+    [
+      "Mongoose",
+      "Retreating"
+    ],
+    [
+      "Mongoose",
+      "Sensing"
+    ],
+    [
+      "Mongoose",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mongoose",
+      "Attacking"
+    ],
+    [
+      "Mongoose",
+      "Retreating"
+    ],
+    [
+      "Mongoose",
+      "Sensing"
+    ],
+    [
+      "Mongoose",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mongoose",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.938,
+          "start_frame": 0,
+          "end_frame": 71
+        },
+        {
+          "action": "Sensing",
+          "start": 0.014,
+          "end": 1.342,
+          "start_frame": 0,
+          "end_frame": 32
+        },
+        {
+          "action": "Attacking",
+          "start": 1.367,
+          "end": 3.748,
+          "start_frame": 33,
+          "end_frame": 90
+        },
+        {
+          "action": "Retreating",
+          "start": 3.748,
+          "end": 5.833,
+          "start_frame": 90,
+          "end_frame": 140
+        }
+      ]
+    }
+  ]
+}

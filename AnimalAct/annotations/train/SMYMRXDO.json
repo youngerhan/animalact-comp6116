@@ -1,0 +1,34 @@
+{
+  "video_id": "SMYMRXDO",
+  "video": "SMYMRXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 0.916667,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

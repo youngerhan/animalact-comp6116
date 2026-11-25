@@ -1,0 +1,55 @@
+{
+  "video_id": "DOJHHKEW",
+  "video": "DOJHHKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rabbit",
+    "Rabbit"
+  ],
+  "list_animal_action": [
+    [
+      "Rabbit",
+      "Sensing"
+    ],
+    [
+      "Rabbit",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rabbit",
+      "Sensing"
+    ],
+    [
+      "Rabbit",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rabbit",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.417,
+          "start_frame": 0,
+          "end_frame": 10
+        }
+      ]
+    },
+    {
+      "animal": "Rabbit",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.125,
+          "end": 0.417,
+          "start_frame": 3,
+          "end_frame": 10
+        }
+      ]
+    }
+  ]
+}

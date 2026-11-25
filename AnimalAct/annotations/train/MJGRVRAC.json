@@ -1,0 +1,49 @@
+{
+  "video_id": "MJGRVRAC",
+  "video": "MJGRVRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Agouti"
+  ],
+  "list_animal_action": [
+    [
+      "Agouti",
+      "Moving"
+    ],
+    [
+      "Agouti",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Agouti",
+      "Moving"
+    ],
+    [
+      "Agouti",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Agouti",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.958,
+          "end": 2.0,
+          "start_frame": 23,
+          "end_frame": 48
+        },
+        {
+          "action": "Walking",
+          "start": 0.958,
+          "end": 2.0,
+          "start_frame": 23,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

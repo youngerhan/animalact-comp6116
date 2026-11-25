@@ -1,0 +1,34 @@
+{
+  "video_id": "QISOZFNJ",
+  "video": "QISOZFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.205,
+          "end": 3.119,
+          "start_frame": 5,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

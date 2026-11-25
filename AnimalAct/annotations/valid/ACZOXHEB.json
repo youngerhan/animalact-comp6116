@@ -1,0 +1,55 @@
+{
+  "video_id": "ACZOXHEB",
+  "video": "ACZOXHEB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cotesia Glomerata Wasp",
+    "Cabbage White Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Cotesia Glomerata Wasp",
+      "Laying Eggs"
+    ],
+    [
+      "Cabbage White Caterpillar",
+      "Struggling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cotesia Glomerata Wasp",
+      "Laying Eggs"
+    ],
+    [
+      "Cabbage White Caterpillar",
+      "Struggling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cotesia Glomerata Wasp",
+      "actions": [
+        {
+          "action": "Laying Eggs",
+          "start": 0.0,
+          "end": 7.831,
+          "start_frame": 0,
+          "end_frame": 188
+        }
+      ]
+    },
+    {
+      "animal": "Cabbage White Caterpillar",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 2.632,
+          "end": 7.833,
+          "start_frame": 63,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

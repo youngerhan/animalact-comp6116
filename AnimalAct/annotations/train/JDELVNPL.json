@@ -1,0 +1,34 @@
+{
+  "video_id": "JDELVNPL",
+  "video": "JDELVNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Backed Shrike Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Backed Shrike Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Backed Shrike Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Backed Shrike Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

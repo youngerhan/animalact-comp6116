@@ -1,0 +1,49 @@
+{
+  "video_id": "LJYCUXRE",
+  "video": "LJYCUXRE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Great Egret",
+      "Attending"
+    ],
+    [
+      "Great Egret",
+      "Shaking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Egret",
+      "Attending"
+    ],
+    [
+      "Great Egret",
+      "Shaking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Egret",
+      "actions": [
+        {
+          "action": "Shaking",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Attending",
+          "start": 0.5,
+          "end": 1.5,
+          "start_frame": 12,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

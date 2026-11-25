@@ -1,0 +1,34 @@
+{
+  "video_id": "DKVFJQFB",
+  "video": "DKVFJQFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.001,
+          "end": 2.926,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

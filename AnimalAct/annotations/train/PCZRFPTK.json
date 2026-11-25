@@ -1,0 +1,49 @@
+{
+  "video_id": "PCZRFPTK",
+  "video": "PCZRFPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.25,
+          "end": 0.375,
+          "start_frame": 6,
+          "end_frame": 9
+        },
+        {
+          "action": "Flying",
+          "start": 0.75,
+          "end": 0.833,
+          "start_frame": 18,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

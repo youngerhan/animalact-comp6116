@@ -1,0 +1,49 @@
+{
+  "video_id": "TCZAGBBY",
+  "video": "TCZAGBBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giant Hornet"
+  ],
+  "list_animal_action": [
+    [
+      "Giant Hornet",
+      "Landing"
+    ],
+    [
+      "Giant Hornet",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giant Hornet",
+      "Landing"
+    ],
+    [
+      "Giant Hornet",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giant Hornet",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.174,
+          "end": 0.684,
+          "start_frame": 4,
+          "end_frame": 16
+        },
+        {
+          "action": "Fighting",
+          "start": 0.686,
+          "end": 1.019,
+          "start_frame": 16,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

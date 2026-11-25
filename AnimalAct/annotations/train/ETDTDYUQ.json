@@ -1,0 +1,62 @@
+{
+  "video_id": "ETDTDYUQ",
+  "video": "ETDTDYUQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Formica Accreta",
+    "Polyergus Mexicanus"
+  ],
+  "list_animal_action": [
+    [
+      "Formica Accreta",
+      "Keeping still"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Formica Accreta",
+      "Keeping still"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Formica Accreta",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.447,
+          "end": 1.969,
+          "start_frame": 11,
+          "end_frame": 47
+        }
+      ]
+    },
+    {
+      "animal": "Polyergus Mexicanus",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.445,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Sensing",
+          "start": 1.981,
+          "end": 3.423,
+          "start_frame": 48,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

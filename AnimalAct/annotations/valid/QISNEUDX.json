@@ -1,0 +1,55 @@
+{
+  "video_id": "QISNEUDX",
+  "video": "QISNEUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wildebeest",
+    "Cheetah"
+  ],
+  "list_animal_action": [
+    [
+      "Wildebeest",
+      "Running"
+    ],
+    [
+      "Cheetah",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wildebeest",
+      "Running"
+    ],
+    [
+      "Cheetah",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wildebeest",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 17.708,
+          "start_frame": 0,
+          "end_frame": 425
+        }
+      ]
+    },
+    {
+      "animal": "Cheetah",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 1.283,
+          "end": 3.445,
+          "start_frame": 31,
+          "end_frame": 83
+        }
+      ]
+    }
+  ]
+}

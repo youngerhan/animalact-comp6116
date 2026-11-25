@@ -1,0 +1,41 @@
+{
+  "video_id": "SPCYFVMW",
+  "video": "SPCYFVMW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Russell'S Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Russell'S Viper",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Russell'S Viper",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Russell'S Viper",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.799,
+          "end": 4.34,
+          "start_frame": 19,
+          "end_frame": 104
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.823,
+          "end": 9.308,
+          "start_frame": 116,
+          "end_frame": 223
+        }
+      ]
+    }
+  ]
+}

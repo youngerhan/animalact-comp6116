@@ -1,0 +1,49 @@
+{
+  "video_id": "WAZLZSBA",
+  "video": "WAZLZSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Running"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Running"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.023,
+          "end": 0.535,
+          "start_frame": 1,
+          "end_frame": 13
+        },
+        {
+          "action": "Eating",
+          "start": 0.54,
+          "end": 1.053,
+          "start_frame": 13,
+          "end_frame": 25
+        }
+      ]
+    }
+  ]
+}

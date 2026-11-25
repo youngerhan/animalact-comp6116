@@ -1,0 +1,34 @@
+{
+  "video_id": "CYCQSCEI",
+  "video": "CYCQSCEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 1.115,
+          "end": 1.417,
+          "start_frame": 27,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Python: D:\AnimalAct-package\AnimalAct-Reproducible-20261125\runtime\python.exe CUDA: True
+test_ap_ties (test_pipeline.PipelineTests.test_ap_ties) ... ok
+test_identity_rejects_reordered_equal_targets (test_pipeline.PipelineTests.test_identity_rejects_reordered_equal_targets) ... ok
+test_predict_uses_training_sampling (test_pipeline.PipelineTests.test_predict_uses_training_sampling) ... ok
+test_report_files_agree (test_pipeline.PipelineTests.test_report_files_agree) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.034s
+
+OK
+PASS: rebuilt manifest equals main.json; no video split leakage
+PASS: baseline-stride2 validation/test metrics and labels
+PASS: ensemble7 validation/test metrics and labels
+PASS: pilot32-whole224 validation/test metrics and labels
+PASS: pilot32-blend validation/test metrics and labels
+
+Finished with exit code 0.

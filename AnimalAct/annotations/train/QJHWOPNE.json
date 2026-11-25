@@ -1,0 +1,34 @@
+{
+  "video_id": "QJHWOPNE",
+  "video": "QJHWOPNE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Banana Slug"
+  ],
+  "list_animal_action": [
+    [
+      "Banana Slug",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Banana Slug",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Banana Slug",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.816,
+          "end": 2.926,
+          "start_frame": 20,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

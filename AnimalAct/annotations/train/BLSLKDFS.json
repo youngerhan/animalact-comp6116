@@ -1,0 +1,48 @@
+{
+  "video_id": "BLSLKDFS",
+  "video": "BLSLKDFS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wild Red-Tailed Boa"
+  ],
+  "list_animal_action": [
+    [
+      "Wild Red-Tailed Boa",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wild Red-Tailed Boa",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wild Red-Tailed Boa",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 3.469,
+          "start_frame": 2,
+          "end_frame": 83
+        },
+        {
+          "action": "Sensing",
+          "start": 3.719,
+          "end": 3.844,
+          "start_frame": 89,
+          "end_frame": 92
+        },
+        {
+          "action": "Sensing",
+          "start": 7.969,
+          "end": 8.094,
+          "start_frame": 191,
+          "end_frame": 194
+        }
+      ]
+    }
+  ]
+}

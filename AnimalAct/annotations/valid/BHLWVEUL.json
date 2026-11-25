@@ -1,0 +1,49 @@
+{
+  "video_id": "BHLWVEUL",
+  "video": "BHLWVEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Keeping still"
+    ],
+    [
+      "Leopard",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Keeping still"
+    ],
+    [
+      "Leopard",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

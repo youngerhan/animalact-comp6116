@@ -1,0 +1,63 @@
+{
+  "video_id": "NIUKZVEI",
+  "video": "NIUKZVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Ochropus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Ochropus Bird",
+      "Sensing"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Ochropus Bird",
+      "Sensing"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Ochropus Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 0.5
+        },
+        {
+          "action": "Sensing",
+          "start": 0.5,
+          "end": 2.5
+        },
+        {
+          "action": "Walking",
+          "start": 2.5,
+          "end": 3.2
+        },
+        {
+          "action": "Sensing",
+          "start": 3.2,
+          "end": 4.0
+        }
+      ]
+    }
+  ]
+}

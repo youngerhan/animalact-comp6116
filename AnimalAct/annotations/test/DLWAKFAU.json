@@ -1,0 +1,76 @@
+{
+  "video_id": "DLWAKFAU",
+  "video": "DLWAKFAU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cockroach",
+    "Jeweled Cockroach Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Cockroach",
+      "Struggling"
+    ],
+    [
+      "Jeweled Cockroach Wasp",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cockroach",
+      "Struggling"
+    ],
+    [
+      "Jeweled Cockroach Wasp",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cockroach",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 0.0,
+          "end": 0.971,
+          "start_frame": 0,
+          "end_frame": 23
+        },
+        {
+          "action": "Struggling",
+          "start": 2.787,
+          "end": 3.186,
+          "start_frame": 67,
+          "end_frame": 76
+        },
+        {
+          "action": "Struggling",
+          "start": 4.018,
+          "end": 4.631,
+          "start_frame": 96,
+          "end_frame": 111
+        },
+        {
+          "action": "Struggling",
+          "start": 5.429,
+          "end": 5.822,
+          "start_frame": 130,
+          "end_frame": 140
+        }
+      ]
+    },
+    {
+      "animal": "Jeweled Cockroach Wasp",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 6.834,
+          "start_frame": 0,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

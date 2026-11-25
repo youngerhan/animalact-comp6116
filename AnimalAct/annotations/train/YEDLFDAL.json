@@ -1,0 +1,166 @@
+{
+  "video_id": "YEDLFDAL",
+  "video": "YEDLFDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Grey Heron",
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Shaking Head"
+    ],
+    [
+      "Mallard Duck",
+      "Keeping still"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Grey Heron",
+      "Sensing"
+    ],
+    [
+      "Duck",
+      "Eating"
+    ],
+    [
+      "Grey Heron",
+      "Landing"
+    ],
+    [
+      "Mallard Duck",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Shaking Head"
+    ],
+    [
+      "Mallard Duck",
+      "Keeping still"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Grey Heron",
+      "Sensing"
+    ],
+    [
+      "Duck",
+      "Eating"
+    ],
+    [
+      "Grey Heron",
+      "Landing"
+    ],
+    [
+      "Mallard Duck",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.5,
+          "start_frame": 0,
+          "end_frame": 36
+        },
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 3.5,
+          "start_frame": 0,
+          "end_frame": 84
+        },
+        {
+          "action": "Sensing",
+          "start": 0.375,
+          "end": 1.5,
+          "start_frame": 9,
+          "end_frame": 36
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.625,
+          "end": 2.125,
+          "start_frame": 39,
+          "end_frame": 51
+        }
+      ]
+    },
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.125,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.5,
+          "start_frame": 0,
+          "end_frame": 84
+        },
+        {
+          "action": "Sensing",
+          "start": 1.125,
+          "end": 2.75,
+          "start_frame": 27,
+          "end_frame": 66
+        },
+        {
+          "action": "Landing",
+          "start": 2.75,
+          "end": 3.5,
+          "start_frame": 66,
+          "end_frame": 84
+        }
+      ]
+    },
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.501,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

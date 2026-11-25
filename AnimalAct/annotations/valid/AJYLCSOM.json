@@ -1,0 +1,34 @@
+{
+  "video_id": "AJYLCSOM",
+  "video": "AJYLCSOM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Goldeneye"
+  ],
+  "list_animal_action": [
+    [
+      "Common Goldeneye",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Goldeneye",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Goldeneye",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 10.125,
+          "start_frame": 0,
+          "end_frame": 243
+        }
+      ]
+    }
+  ]
+}

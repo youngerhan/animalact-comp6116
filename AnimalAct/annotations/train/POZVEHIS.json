@@ -1,0 +1,49 @@
+{
+  "video_id": "POZVEHIS",
+  "video": "POZVEHIS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Moving"
+    ],
+    [
+      "Ant",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Moving"
+    ],
+    [
+      "Ant",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.16,
+          "end": 1.725,
+          "start_frame": 4,
+          "end_frame": 41
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.275,
+          "end": 1.725,
+          "start_frame": 7,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

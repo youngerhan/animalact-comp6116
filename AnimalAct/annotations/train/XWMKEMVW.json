@@ -1,0 +1,49 @@
+{
+  "video_id": "XWMKEMVW",
+  "video": "XWMKEMVW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eurasian Wren Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Eurasian Wren Bird",
+      "Preening"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eurasian Wren Bird",
+      "Preening"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eurasian Wren Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 0.649,
+          "start_frame": 0,
+          "end_frame": 16
+        },
+        {
+          "action": "Sensing",
+          "start": 0.668,
+          "end": 1.917,
+          "start_frame": 16,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

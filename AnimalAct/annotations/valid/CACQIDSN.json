@@ -1,0 +1,34 @@
+{
+  "video_id": "CACQIDSN",
+  "video": "CACQIDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Marine Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Marine Iguana",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Marine Iguana",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Marine Iguana",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 1.106,
+          "end": 1.334,
+          "start_frame": 27,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "HFJFDSVW",
+  "video": "HFJFDSVW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Trissolcus Japonicus Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Trissolcus Japonicus Wasp",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Trissolcus Japonicus Wasp",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Trissolcus Japonicus Wasp",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.511,
+          "start_frame": 0,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "FBQKWUDX",
+  "video": "FBQKWUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Elephant"
+  ],
+  "list_animal_action": [
+    [
+      "Elephant",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Elephant",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Elephant",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.017,
+          "end": 7.833,
+          "start_frame": 0,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

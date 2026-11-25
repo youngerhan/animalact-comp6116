@@ -1,0 +1,34 @@
+{
+  "video_id": "HSTFWMYV",
+  "video": "HSTFWMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Atheris Squamigera"
+  ],
+  "list_animal_action": [
+    [
+      "Atheris Squamigera",
+      "Hissing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Atheris Squamigera",
+      "Hissing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Atheris Squamigera",
+      "actions": [
+        {
+          "action": "Hissing",
+          "start": 2.908,
+          "end": 5.272,
+          "start_frame": 70,
+          "end_frame": 127
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "TUBJVCNX",
+  "video": "TUBJVCNX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.721,
+          "start_frame": 0,
+          "end_frame": 137
+        }
+      ]
+    }
+  ]
+}

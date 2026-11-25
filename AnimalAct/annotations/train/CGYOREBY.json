@@ -1,0 +1,34 @@
+{
+  "video_id": "CGYOREBY",
+  "video": "CGYOREBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fox"
+  ],
+  "list_animal_action": [
+    [
+      "Fox",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fox",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fox",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

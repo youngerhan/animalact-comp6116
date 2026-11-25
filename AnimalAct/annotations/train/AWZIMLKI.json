@@ -1,0 +1,34 @@
+{
+  "video_id": "AWZIMLKI",
+  "video": "AWZIMLKI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Firebrat Insect"
+  ],
+  "list_animal_action": [
+    [
+      "Firebrat Insect",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Firebrat Insect",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Firebrat Insect",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.356,
+          "end": 0.523,
+          "start_frame": 9,
+          "end_frame": 13
+        }
+      ]
+    }
+  ]
+}

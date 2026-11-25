@@ -1,0 +1,56 @@
+{
+  "video_id": "RLDBEZQJ",
+  "video": "RLDBEZQJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Landing"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Landing"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.0,
+          "end": 1.75,
+          "start_frame": 0,
+          "end_frame": 42
+        },
+        {
+          "action": "Jumping",
+          "start": 2.208,
+          "end": 4.167,
+          "start_frame": 53,
+          "end_frame": 100
+        },
+        {
+          "action": "Landing",
+          "start": 4.167,
+          "end": 5.125,
+          "start_frame": 100,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

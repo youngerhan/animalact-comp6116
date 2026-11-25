@@ -1,0 +1,78 @@
+{
+  "video_id": "TOHEQKOU",
+  "video": "TOHEQKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Keeping still"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Keeping still"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 4.844,
+          "start_frame": 0,
+          "end_frame": 116
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.094,
+          "end": 4.469,
+          "start_frame": 98,
+          "end_frame": 107
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.594,
+          "end": 13.844,
+          "start_frame": 158,
+          "end_frame": 332
+        },
+        {
+          "action": "Sensing",
+          "start": 7.844,
+          "end": 8.969,
+          "start_frame": 188,
+          "end_frame": 215
+        },
+        {
+          "action": "Sensing",
+          "start": 9.219,
+          "end": 9.344,
+          "start_frame": 221,
+          "end_frame": 224
+        }
+      ]
+    }
+  ]
+}

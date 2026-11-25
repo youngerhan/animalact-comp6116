@@ -1,0 +1,55 @@
+{
+  "video_id": "UGSVOKEW",
+  "video": "UGSVOKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giraffe",
+    "Antelope"
+  ],
+  "list_animal_action": [
+    [
+      "Giraffe",
+      "Eating"
+    ],
+    [
+      "Antelope",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giraffe",
+      "Eating"
+    ],
+    [
+      "Antelope",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giraffe",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 2.71,
+          "end": 3.333,
+          "start_frame": 65,
+          "end_frame": 80
+        }
+      ]
+    },
+    {
+      "animal": "Antelope",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.333,
+          "start_frame": 0,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

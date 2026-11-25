@@ -1,0 +1,107 @@
+{
+  "video_id": "EVRCAMRN",
+  "video": "EVRCAMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ],
+    [
+      "Mallard Duck",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Shaking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ],
+    [
+      "Mallard Duck",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Shaking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 0.208,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Sensing",
+          "start": 0.109,
+          "end": 0.388,
+          "start_frame": 3,
+          "end_frame": 9
+        },
+        {
+          "action": "Sensing",
+          "start": 1.818,
+          "end": 2.124,
+          "start_frame": 44,
+          "end_frame": 51
+        }
+      ]
+    },
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.407,
+          "end": 0.785,
+          "start_frame": 10,
+          "end_frame": 19
+        },
+        {
+          "action": "Sensing",
+          "start": 1.213,
+          "end": 2.07,
+          "start_frame": 29,
+          "end_frame": 50
+        },
+        {
+          "action": "Shaking",
+          "start": 1.644,
+          "end": 2.122,
+          "start_frame": 39,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

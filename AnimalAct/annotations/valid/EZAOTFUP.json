@@ -1,0 +1,34 @@
+{
+  "video_id": "EZAOTFUP",
+  "video": "EZAOTFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.005,
+          "end": 1.121,
+          "start_frame": 0,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

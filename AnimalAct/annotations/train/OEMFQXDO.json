@@ -1,0 +1,55 @@
+{
+  "video_id": "OEMFQXDO",
+  "video": "OEMFQXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.054,
+          "end": 1.53,
+          "start_frame": 1,
+          "end_frame": 37
+        }
+      ]
+    },
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.002,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "QDFOCPTK",
+  "video": "QDFOCPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 20.594,
+          "start_frame": 0,
+          "end_frame": 494
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 20.969,
+          "start_frame": 0,
+          "end_frame": 503
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 21.094,
+          "start_frame": 0,
+          "end_frame": 506
+        },
+        {
+          "action": "Chirping",
+          "start": 20.719,
+          "end": 20.844,
+          "start_frame": 497,
+          "end_frame": 500
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "OUYQLHVR",
+  "video": "OUYQLHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Speckled Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "White Speckled Rattlesnake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Speckled Rattlesnake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Speckled Rattlesnake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.007,
+          "end": 7.685,
+          "start_frame": 0,
+          "end_frame": 184
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "video_id": "BBWWNAMC",
+  "video": "BBWWNAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion Young",
+      "Keeping still"
+    ],
+    [
+      "Lion Young",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Running"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion Young",
+      "Keeping still"
+    ],
+    [
+      "Lion Young",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Running"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.674,
+          "start_frame": 0,
+          "end_frame": 64
+        },
+        {
+          "action": "Sensing",
+          "start": 3.297,
+          "end": 5.26,
+          "start_frame": 79,
+          "end_frame": 126
+        },
+        {
+          "action": "Running",
+          "start": 7.007,
+          "end": 12.709,
+          "start_frame": 168,
+          "end_frame": 305
+        }
+      ]
+    },
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.847,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Walking",
+          "start": 4.76,
+          "end": 8.079,
+          "start_frame": 114,
+          "end_frame": 194
+        },
+        {
+          "action": "Running",
+          "start": 7.985,
+          "end": 9.652,
+          "start_frame": 192,
+          "end_frame": 232
+        }
+      ]
+    }
+  ]
+}

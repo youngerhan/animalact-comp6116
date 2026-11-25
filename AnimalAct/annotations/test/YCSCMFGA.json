@@ -1,0 +1,34 @@
+{
+  "video_id": "YCSCMFGA",
+  "video": "YCSCMFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caribou"
+  ],
+  "list_animal_action": [
+    [
+      "Caribou",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caribou",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caribou",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.417,
+          "start_frame": 0,
+          "end_frame": 130
+        }
+      ]
+    }
+  ]
+}

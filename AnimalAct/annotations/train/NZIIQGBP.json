@@ -1,0 +1,34 @@
+{
+  "video_id": "NZIIQGBP",
+  "video": "NZIIQGBP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Madagascar Hissing Cockroach"
+  ],
+  "list_animal_action": [
+    [
+      "Madagascar Hissing Cockroach",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Madagascar Hissing Cockroach",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Madagascar Hissing Cockroach",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

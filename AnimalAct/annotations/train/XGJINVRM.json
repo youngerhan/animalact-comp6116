@@ -1,0 +1,34 @@
+{
+  "video_id": "XGJINVRM",
+  "video": "XGJINVRM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Portia Jumping Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Portia Jumping Spider",
+      "Dancing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Portia Jumping Spider",
+      "Dancing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Portia Jumping Spider",
+      "actions": [
+        {
+          "action": "Dancing",
+          "start": 0.0,
+          "end": 2.991,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

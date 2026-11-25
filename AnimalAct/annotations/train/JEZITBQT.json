@@ -1,0 +1,49 @@
+{
+  "video_id": "JEZITBQT",
+  "video": "JEZITBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Grooming"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Grooming"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.958,
+          "start_frame": 0,
+          "end_frame": 71
+        },
+        {
+          "action": "Grooming",
+          "start": 0.0,
+          "end": 3.125,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "ZYOGLJYD",
+  "video": "ZYOGLJYD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Acyrthosiphon Pisum Aphid",
+    "Aphidius Ervi Parasitoid Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Acyrthosiphon Pisum Aphid",
+      "Moving"
+    ],
+    [
+      "Aphidius Ervi Parasitoid Wasp",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Acyrthosiphon Pisum Aphid",
+      "Moving"
+    ],
+    [
+      "Aphidius Ervi Parasitoid Wasp",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Acyrthosiphon Pisum Aphid",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.372,
+          "end": 3.501,
+          "start_frame": 33,
+          "end_frame": 84
+        }
+      ]
+    },
+    {
+      "animal": "Aphidius Ervi Parasitoid Wasp",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.501,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

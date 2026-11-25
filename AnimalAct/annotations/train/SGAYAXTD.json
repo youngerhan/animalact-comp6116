@@ -1,0 +1,41 @@
+{
+  "video_id": "SGAYAXTD",
+  "video": "SGAYAXTD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Fly",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fly",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fly",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.37,
+          "start_frame": 0,
+          "end_frame": 9
+        },
+        {
+          "action": "Moving",
+          "start": 1.09,
+          "end": 2.012,
+          "start_frame": 26,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "video_id": "LMOHUTFT",
+  "video": "LMOHUTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Fighting"
+    ],
+    [
+      "Flamingo",
+      "Preening"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Fighting"
+    ],
+    [
+      "Flamingo",
+      "Preening"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 3.9
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 3.9,
+          "end": 4.4
+        },
+        {
+          "action": "Drinking",
+          "start": 4.4,
+          "end": 13.3
+        },
+        {
+          "action": "Sensing",
+          "start": 13.3,
+          "end": 14.2
+        },
+        {
+          "action": "Drinking",
+          "start": 14.2,
+          "end": 20.0
+        },
+        {
+          "action": "Sensing",
+          "start": 20.0,
+          "end": 22.6
+        },
+        {
+          "action": "Drinking",
+          "start": 22.6,
+          "end": 29.9
+        },
+        {
+          "action": "Preening",
+          "start": 29.9,
+          "end": 31.4
+        },
+        {
+          "action": "Drinking",
+          "start": 31.4,
+          "end": 34.4
+        },
+        {
+          "action": "Fighting",
+          "start": 34.5,
+          "end": 35.4
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 35.4,
+          "end": 36.1
+        },
+        {
+          "action": "Drinking",
+          "start": 36.1,
+          "end": 37.71
+        }
+      ]
+    }
+  ]
+}

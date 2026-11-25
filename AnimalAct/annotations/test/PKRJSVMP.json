@@ -1,0 +1,32 @@
+{
+  "video_id": "PKRJSVMP",
+  "video": "PKRJSVMP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.15,
+          "end": 0.5
+        }
+      ]
+    }
+  ]
+}

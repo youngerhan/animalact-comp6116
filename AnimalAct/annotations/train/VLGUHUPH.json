@@ -1,0 +1,34 @@
+{
+  "video_id": "VLGUHUPH",
+  "video": "VLGUHUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chamois Goat Antelope"
+  ],
+  "list_animal_action": [
+    [
+      "Chamois Goat Antelope",
+      "Digging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chamois Goat Antelope",
+      "Digging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chamois Goat Antelope",
+      "actions": [
+        {
+          "action": "Digging",
+          "start": 0.0,
+          "end": 3.005,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

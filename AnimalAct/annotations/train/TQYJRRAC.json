@@ -1,0 +1,78 @@
+{
+  "video_id": "TQYJRRAC",
+  "video": "TQYJRRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Capuchin Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Capuchin Monkey",
+      "Walking"
+    ],
+    [
+      "Capuchin Monkey",
+      "Shaking Head"
+    ],
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Capuchin Monkey",
+      "Walking"
+    ],
+    [
+      "Capuchin Monkey",
+      "Shaking Head"
+    ],
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Capuchin Monkey",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.0,
+          "end": 1.903,
+          "start_frame": 0,
+          "end_frame": 46
+        },
+        {
+          "action": "Sensing",
+          "start": 1.903,
+          "end": 9.083,
+          "start_frame": 46,
+          "end_frame": 218
+        },
+        {
+          "action": "Shaking Head",
+          "start": 9.095,
+          "end": 9.737,
+          "start_frame": 218,
+          "end_frame": 234
+        },
+        {
+          "action": "Sensing",
+          "start": 9.748,
+          "end": 17.886,
+          "start_frame": 234,
+          "end_frame": 429
+        },
+        {
+          "action": "Walking",
+          "start": 17.874,
+          "end": 19.333,
+          "start_frame": 429,
+          "end_frame": 464
+        }
+      ]
+    }
+  ]
+}

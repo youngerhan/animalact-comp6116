@@ -1,0 +1,34 @@
+{
+  "video_id": "PFPBFUPH",
+  "video": "PFPBFUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caddisfly Larva"
+  ],
+  "list_animal_action": [
+    [
+      "Caddisfly Larva",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caddisfly Larva",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caddisfly Larva",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.042,
+          "end": 5.333,
+          "start_frame": 1,
+          "end_frame": 128
+        }
+      ]
+    }
+  ]
+}

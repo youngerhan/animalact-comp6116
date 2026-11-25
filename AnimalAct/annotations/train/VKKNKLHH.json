@@ -1,0 +1,34 @@
+{
+  "video_id": "VKKNKLHH",
+  "video": "VKKNKLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snouted Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Snouted Cobra",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snouted Cobra",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snouted Cobra",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.102,
+          "end": 1.694,
+          "start_frame": 2,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

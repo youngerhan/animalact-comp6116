@@ -1,0 +1,55 @@
+{
+  "video_id": "YEWPISQK",
+  "video": "YEWPISQK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Scutigera Coleoptera House Centipede",
+    "Cricket"
+  ],
+  "list_animal_action": [
+    [
+      "Scutigera Coleoptera House Centipede",
+      "Eating"
+    ],
+    [
+      "Cricket",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Scutigera Coleoptera House Centipede",
+      "Eating"
+    ],
+    [
+      "Cricket",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Scutigera Coleoptera House Centipede",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.725,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    },
+    {
+      "animal": "Cricket",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 1.725,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

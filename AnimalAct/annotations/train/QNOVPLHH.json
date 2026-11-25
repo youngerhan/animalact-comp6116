@@ -1,0 +1,34 @@
+{
+  "video_id": "QNOVPLHH",
+  "video": "QNOVPLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.75,
+          "end": 1.958,
+          "start_frame": 18,
+          "end_frame": 47
+        }
+      ]
+    }
+  ]
+}

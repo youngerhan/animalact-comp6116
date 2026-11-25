@@ -1,0 +1,78 @@
+{
+  "video_id": "LLUPJCIN",
+  "video": "LLUPJCIN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alfalfa Leafcutting Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Alfalfa Leafcutting Bee",
+      "Landing"
+    ],
+    [
+      "Alfalfa Leafcutting Bee",
+      "Flying"
+    ],
+    [
+      "Alfalfa Leafcutting Bee",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alfalfa Leafcutting Bee",
+      "Landing"
+    ],
+    [
+      "Alfalfa Leafcutting Bee",
+      "Flying"
+    ],
+    [
+      "Alfalfa Leafcutting Bee",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alfalfa Leafcutting Bee",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        },
+        {
+          "action": "Landing",
+          "start": 1.833,
+          "end": 3.5,
+          "start_frame": 44,
+          "end_frame": 84
+        },
+        {
+          "action": "Eating",
+          "start": 3.571,
+          "end": 8.571,
+          "start_frame": 86,
+          "end_frame": 206
+        },
+        {
+          "action": "Eating",
+          "start": 9.774,
+          "end": 12.774,
+          "start_frame": 235,
+          "end_frame": 307
+        },
+        {
+          "action": "Flying",
+          "start": 12.858,
+          "end": 16.125,
+          "start_frame": 309,
+          "end_frame": 387
+        }
+      ]
+    }
+  ]
+}

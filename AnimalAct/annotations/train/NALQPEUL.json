@@ -1,0 +1,34 @@
+{
+  "video_id": "NALQPEUL",
+  "video": "NALQPEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Spitting Venom",
+          "start": 0.0,
+          "end": 0.709,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "HPPMIDCC",
+  "video": "HPPMIDCC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turtle Dove"
+  ],
+  "list_animal_action": [
+    [
+      "Turtle Dove",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turtle Dove",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turtle Dove",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.286,
+          "end": 0.523,
+          "start_frame": 7,
+          "end_frame": 13
+        }
+      ]
+    }
+  ]
+}

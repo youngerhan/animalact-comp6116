@@ -1,0 +1,48 @@
+{
+  "video_id": "BIAXPHFB",
+  "video": "BIAXPHFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hazel Grouse Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Hazel Grouse Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hazel Grouse Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hazel Grouse Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.986,
+          "end": 2.103,
+          "start_frame": 24,
+          "end_frame": 50
+        },
+        {
+          "action": "Chirping",
+          "start": 2.227,
+          "end": 2.667,
+          "start_frame": 53,
+          "end_frame": 64
+        },
+        {
+          "action": "Chirping",
+          "start": 2.912,
+          "end": 4.017,
+          "start_frame": 70,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

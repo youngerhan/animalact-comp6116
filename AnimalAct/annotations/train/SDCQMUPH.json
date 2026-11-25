@@ -1,0 +1,32 @@
+{
+  "video_id": "SDCQMUPH",
+  "video": "SDCQMUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Throated Dipper Bird"
+  ],
+  "list_animal_action": [
+    [
+      "White Throated Dipper Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Throated Dipper Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Throated Dipper Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.0
+        }
+      ]
+    }
+  ]
+}

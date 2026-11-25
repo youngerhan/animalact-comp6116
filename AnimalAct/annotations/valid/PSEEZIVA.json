@@ -1,0 +1,41 @@
+{
+  "video_id": "PSEEZIVA",
+  "video": "PSEEZIVA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eelgrass Sea Hare"
+  ],
+  "list_animal_action": [
+    [
+      "Eelgrass Sea Hare",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eelgrass Sea Hare",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eelgrass Sea Hare",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.363,
+          "end": 1.884,
+          "start_frame": 9,
+          "end_frame": 45
+        },
+        {
+          "action": "Sensing",
+          "start": 2.909,
+          "end": 6.713,
+          "start_frame": 70,
+          "end_frame": 161
+        }
+      ]
+    }
+  ]
+}

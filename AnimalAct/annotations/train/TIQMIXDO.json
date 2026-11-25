@@ -1,0 +1,55 @@
+{
+  "video_id": "TIQMIXDO",
+  "video": "TIQMIXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Hippopotamus"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Hippopotamus",
+      "Fleeing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Hippopotamus",
+      "Fleeing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.763,
+          "start_frame": 0,
+          "end_frame": 18
+        }
+      ]
+    },
+    {
+      "animal": "Hippopotamus",
+      "actions": [
+        {
+          "action": "Fleeing",
+          "start": 0.0,
+          "end": 0.917,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

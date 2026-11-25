@@ -1,0 +1,79 @@
+{
+  "video_id": "HUWHLVYU",
+  "video": "HUWHLVYU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Walking"
+    ],
+    [
+      "Leopard",
+      "Keeping still"
+    ],
+    [
+      "Leopard",
+      "Sensing"
+    ],
+    [
+      "Leopard",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Walking"
+    ],
+    [
+      "Leopard",
+      "Keeping still"
+    ],
+    [
+      "Leopard",
+      "Sensing"
+    ],
+    [
+      "Leopard",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.823,
+          "start_frame": 0,
+          "end_frame": 44
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.832,
+          "start_frame": 0,
+          "end_frame": 44
+        },
+        {
+          "action": "Sensing",
+          "start": 1.831,
+          "end": 4.417,
+          "start_frame": 44,
+          "end_frame": 106
+        },
+        {
+          "action": "Walking",
+          "start": 2.432,
+          "end": 4.417,
+          "start_frame": 58,
+          "end_frame": 106
+        }
+      ]
+    }
+  ]
+}

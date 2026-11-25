@@ -1,0 +1,10 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.7127872059742609,
+    "valid_mAP": 0.6058201058201057,
+    "valid_macro_F1": 0.5151515151515151,
+    "valid_threshold": 0.2,
+    "gpu_peak_allocated_mib": 484
+  }
+]

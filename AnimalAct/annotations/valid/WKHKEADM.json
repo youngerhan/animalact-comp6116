@@ -1,0 +1,49 @@
+{
+  "video_id": "WKHKEADM",
+  "video": "WKHKEADM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aesculapian Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aesculapian Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.294,
+          "end": 8.492,
+          "start_frame": 7,
+          "end_frame": 204
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.536,
+          "end": 3.888,
+          "start_frame": 13,
+          "end_frame": 93
+        }
+      ]
+    }
+  ]
+}

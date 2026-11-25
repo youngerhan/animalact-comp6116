@@ -1,0 +1,70 @@
+{
+  "video_id": "CVEJANPL",
+  "video": "CVEJANPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Backed Shrike Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Backed Shrike Bird",
+      "Attending"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Turning Around"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Backed Shrike Bird",
+      "Attending"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Turning Around"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Backed Shrike Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.144,
+          "start_frame": 0,
+          "end_frame": 3
+        },
+        {
+          "action": "Turning Around",
+          "start": 0.137,
+          "end": 0.503,
+          "start_frame": 3,
+          "end_frame": 12
+        },
+        {
+          "action": "Attending",
+          "start": 0.225,
+          "end": 0.658,
+          "start_frame": 5,
+          "end_frame": 16
+        },
+        {
+          "action": "Turning Around",
+          "start": 0.576,
+          "end": 0.929,
+          "start_frame": 14,
+          "end_frame": 22
+        },
+        {
+          "action": "Attending",
+          "start": 0.684,
+          "end": 1.019,
+          "start_frame": 16,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "CRPGRZGK",
+  "video": "CRPGRZGK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Larva"
+  ],
+  "list_animal_action": [
+    [
+      "Larva",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Larva",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Larva",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.125,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

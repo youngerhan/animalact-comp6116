@@ -1,0 +1,34 @@
+{
+  "video_id": "FXZPVANS",
+  "video": "FXZPVANS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Orb Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Orb Spider",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Orb Spider",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Orb Spider",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.007,
+          "end": 3.703,
+          "start_frame": 24,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

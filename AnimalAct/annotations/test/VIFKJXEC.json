@@ -1,0 +1,56 @@
+{
+  "video_id": "VIFKJXEC",
+  "video": "VIFKJXEC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Habronattus Clypeatus"
+  ],
+  "list_animal_action": [
+    [
+      "Habronattus Clypeatus",
+      "Sensing"
+    ],
+    [
+      "Habronattus Clypeatus",
+      "Dancing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Habronattus Clypeatus",
+      "Sensing"
+    ],
+    [
+      "Habronattus Clypeatus",
+      "Dancing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Habronattus Clypeatus",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 9.042,
+          "start_frame": 0,
+          "end_frame": 217
+        },
+        {
+          "action": "Dancing",
+          "start": 9.078,
+          "end": 12.149,
+          "start_frame": 218,
+          "end_frame": 292
+        },
+        {
+          "action": "Sensing",
+          "start": 12.193,
+          "end": 16.014,
+          "start_frame": 293,
+          "end_frame": 384
+        }
+      ]
+    }
+  ]
+}

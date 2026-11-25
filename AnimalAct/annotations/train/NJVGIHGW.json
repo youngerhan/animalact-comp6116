@@ -1,0 +1,63 @@
+{
+  "video_id": "NJVGIHGW",
+  "video": "NJVGIHGW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Circus Aeruginosus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Circus Aeruginosus Bird",
+      "Walking"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Circus Aeruginosus Bird",
+      "Walking"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Circus Aeruginosus Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.75,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.0,
+          "end": 2.625,
+          "start_frame": 0,
+          "end_frame": 63
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 3.125,
+          "end": 5.125,
+          "start_frame": 75,
+          "end_frame": 123
+        },
+        {
+          "action": "Walking",
+          "start": 3.5,
+          "end": 4.5,
+          "start_frame": 84,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "video_id": "FPWPOPLS",
+  "video": "FPWPOPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Landing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Flying"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Shaking Head"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Landing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Flying"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Shaking Head"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.304,
+          "start_frame": 0,
+          "end_frame": 55
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.288,
+          "end": 7.117,
+          "start_frame": 55,
+          "end_frame": 171
+        },
+        {
+          "action": "Attending",
+          "start": 2.304,
+          "end": 7.146,
+          "start_frame": 55,
+          "end_frame": 172
+        },
+        {
+          "action": "Preening",
+          "start": 2.675,
+          "end": 8.22,
+          "start_frame": 64,
+          "end_frame": 197
+        },
+        {
+          "action": "Landing",
+          "start": 4.015,
+          "end": 7.685,
+          "start_frame": 96,
+          "end_frame": 184
+        },
+        {
+          "action": "Sensing",
+          "start": 5.221,
+          "end": 9.593,
+          "start_frame": 125,
+          "end_frame": 230
+        },
+        {
+          "action": "Flying",
+          "start": 7.345,
+          "end": 9.573,
+          "start_frame": 176,
+          "end_frame": 230
+        },
+        {
+          "action": "Landing",
+          "start": 8.429,
+          "end": 10.384,
+          "start_frame": 202,
+          "end_frame": 249
+        },
+        {
+          "action": "Walking",
+          "start": 10.427,
+          "end": 15.56,
+          "start_frame": 250,
+          "end_frame": 373
+        },
+        {
+          "action": "Shaking Head",
+          "start": 10.655,
+          "end": 15.918,
+          "start_frame": 256,
+          "end_frame": 382
+        },
+        {
+          "action": "Preening",
+          "start": 10.983,
+          "end": 14.388,
+          "start_frame": 264,
+          "end_frame": 345
+        },
+        {
+          "action": "Landing",
+          "start": 14.618,
+          "end": 16.425,
+          "start_frame": 351,
+          "end_frame": 394
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "OLTXPXGD",
+  "video": "OLTXPXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo",
+    "Kangaroo"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Keeping still"
+    ],
+    [
+      "Kangaroo",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Keeping still"
+    ],
+    [
+      "Kangaroo",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    },
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.792,
+          "start_frame": 0,
+          "end_frame": 19
+        }
+      ]
+    }
+  ]
+}

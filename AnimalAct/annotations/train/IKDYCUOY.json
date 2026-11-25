@@ -1,0 +1,48 @@
+{
+  "video_id": "IKDYCUOY",
+  "video": "IKDYCUOY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Throated Dipper Bird"
+  ],
+  "list_animal_action": [
+    [
+      "White Throated Dipper Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Throated Dipper Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Throated Dipper Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 1.375,
+          "end": 2.875,
+          "start_frame": 33,
+          "end_frame": 69
+        },
+        {
+          "action": "Walking",
+          "start": 3.5,
+          "end": 4.625,
+          "start_frame": 84,
+          "end_frame": 111
+        },
+        {
+          "action": "Walking",
+          "start": 5.25,
+          "end": 6.625,
+          "start_frame": 126,
+          "end_frame": 159
+        }
+      ]
+    }
+  ]
+}

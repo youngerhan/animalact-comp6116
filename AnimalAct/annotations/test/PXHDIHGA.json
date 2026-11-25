@@ -1,0 +1,34 @@
+{
+  "video_id": "PXHDIHGA",
+  "video": "PXHDIHGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Naja Nivea Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Naja Nivea Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Naja Nivea Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Naja Nivea Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.03,
+          "end": 3.674,
+          "start_frame": 1,
+          "end_frame": 88
+        }
+      ]
+    }
+  ]
+}

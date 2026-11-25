@@ -1,0 +1,63 @@
+{
+  "video_id": "QIBWETHG",
+  "video": "QIBWETHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Campbell'S Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Campbell'S Monkey",
+      "Attending"
+    ],
+    [
+      "Campbell'S Monkey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Campbell'S Monkey",
+      "Attending"
+    ],
+    [
+      "Campbell'S Monkey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Campbell'S Monkey",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.003,
+          "end": 2.001,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Sensing",
+          "start": 2.016,
+          "end": 3.704,
+          "start_frame": 48,
+          "end_frame": 89
+        },
+        {
+          "action": "Attending",
+          "start": 3.71,
+          "end": 5.807,
+          "start_frame": 89,
+          "end_frame": 139
+        },
+        {
+          "action": "Sensing",
+          "start": 5.816,
+          "end": 7.333,
+          "start_frame": 140,
+          "end_frame": 176
+        }
+      ]
+    }
+  ]
+}

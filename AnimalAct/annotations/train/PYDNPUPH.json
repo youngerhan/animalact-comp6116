@@ -1,0 +1,79 @@
+{
+  "video_id": "PYDNPUPH",
+  "video": "PYDNPUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Throated Dipper Bird"
+  ],
+  "list_animal_action": [
+    [
+      "White Throated Dipper Bird",
+      "Sharing Food"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Landing"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Chirping"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Throated Dipper Bird",
+      "Sharing Food"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Landing"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Chirping"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Throated Dipper Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.004,
+          "end": 1.436,
+          "start_frame": 0,
+          "end_frame": 34
+        },
+        {
+          "action": "Landing",
+          "start": 1.167,
+          "end": 1.397,
+          "start_frame": 28,
+          "end_frame": 34
+        },
+        {
+          "action": "Sharing Food",
+          "start": 1.316,
+          "end": 1.666,
+          "start_frame": 32,
+          "end_frame": 40
+        },
+        {
+          "action": "Eating",
+          "start": 1.501,
+          "end": 1.667,
+          "start_frame": 36,
+          "end_frame": 40
+        }
+      ]
+    }
+  ]
+}

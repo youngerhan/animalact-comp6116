@@ -1,0 +1,34 @@
+{
+  "video_id": "YZDDRKJZ",
+  "video": "YZDDRKJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Pine Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Western Pine Beetle",
+      "Digging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Pine Beetle",
+      "Digging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Pine Beetle",
+      "actions": [
+        {
+          "action": "Digging",
+          "start": 0.0,
+          "end": 11.024,
+          "start_frame": 0,
+          "end_frame": 265
+        }
+      ]
+    }
+  ]
+}

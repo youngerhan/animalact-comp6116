@@ -1,0 +1,34 @@
+{
+  "video_id": "HAPYQEQQ",
+  "video": "HAPYQEQQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leaf-Tailed Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Leaf-Tailed Gecko",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leaf-Tailed Gecko",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leaf-Tailed Gecko",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.571,
+          "start_frame": 0,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

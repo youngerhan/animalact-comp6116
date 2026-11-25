@@ -1,0 +1,34 @@
+{
+  "video_id": "UVMFDQJN",
+  "video": "UVMFDQJN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Megalorchestia Californiana Beach Hopper"
+  ],
+  "list_animal_action": [
+    [
+      "Megalorchestia Californiana Beach Hopper",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Megalorchestia Californiana Beach Hopper",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Megalorchestia Californiana Beach Hopper",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.511,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

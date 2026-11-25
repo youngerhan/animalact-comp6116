@@ -1,0 +1,63 @@
+{
+  "video_id": "BOIVXVTI",
+  "video": "BOIVXVTI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Smew"
+  ],
+  "list_animal_action": [
+    [
+      "Smew",
+      "Keeping still"
+    ],
+    [
+      "Smew",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Smew",
+      "Keeping still"
+    ],
+    [
+      "Smew",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Smew",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.7,
+          "start_frame": 0,
+          "end_frame": 65
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.035,
+          "end": 1.522,
+          "start_frame": 1,
+          "end_frame": 37
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.53,
+          "end": 2.694,
+          "start_frame": 37,
+          "end_frame": 65
+        },
+        {
+          "action": "Attending",
+          "start": 2.931,
+          "end": 3.214,
+          "start_frame": 70,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

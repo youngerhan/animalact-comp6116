@@ -1,0 +1,64 @@
+{
+  "video_id": "WDTUWXMC",
+  "video": "WDTUWXMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Woodpecker",
+      "Sensing"
+    ],
+    [
+      "Woodpecker",
+      "Eating"
+    ],
+    [
+      "Woodpecker",
+      "Pecking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Woodpecker",
+      "Sensing"
+    ],
+    [
+      "Woodpecker",
+      "Eating"
+    ],
+    [
+      "Woodpecker",
+      "Pecking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Woodpecker",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 7.719,
+          "start_frame": 0,
+          "end_frame": 185
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 7.844,
+          "start_frame": 0,
+          "end_frame": 188
+        },
+        {
+          "action": "Pecking",
+          "start": 0.0,
+          "end": 8.0,
+          "start_frame": 0,
+          "end_frame": 192
+        }
+      ]
+    }
+  ]
+}

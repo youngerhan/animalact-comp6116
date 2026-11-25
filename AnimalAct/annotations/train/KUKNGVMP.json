@@ -1,0 +1,34 @@
+{
+  "video_id": "KUKNGVMP",
+  "video": "KUKNGVMP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Carolina Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Carolina Duck",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Carolina Duck",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Carolina Duck",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 3.094,
+          "start_frame": 2,
+          "end_frame": 74
+        }
+      ]
+    }
+  ]
+}

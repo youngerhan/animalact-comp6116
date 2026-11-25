@@ -1,0 +1,34 @@
+{
+  "video_id": "ZGSSACGB",
+  "video": "ZGSSACGB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rain Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Rain Frog",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rain Frog",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rain Frog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        }
+      ]
+    }
+  ]
+}

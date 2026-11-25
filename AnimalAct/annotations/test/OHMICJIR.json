@@ -1,0 +1,49 @@
+{
+  "video_id": "OHMICJIR",
+  "video": "OHMICJIR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alauda Arvensis Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Alauda Arvensis Bird",
+      "Carrying In Mouth"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alauda Arvensis Bird",
+      "Carrying In Mouth"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alauda Arvensis Bird",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.0,
+          "end": 5.469,
+          "start_frame": 0,
+          "end_frame": 131
+        },
+        {
+          "action": "Flying",
+          "start": 6.094,
+          "end": 6.625,
+          "start_frame": 146,
+          "end_frame": 159
+        }
+      ]
+    }
+  ]
+}

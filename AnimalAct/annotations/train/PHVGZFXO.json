@@ -1,0 +1,49 @@
+{
+  "video_id": "PHVGZFXO",
+  "video": "PHVGZFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.16,
+          "end": 4.769,
+          "start_frame": 4,
+          "end_frame": 114
+        },
+        {
+          "action": "Chirping",
+          "start": 2.37,
+          "end": 4.523,
+          "start_frame": 57,
+          "end_frame": 109
+        }
+      ]
+    }
+  ]
+}

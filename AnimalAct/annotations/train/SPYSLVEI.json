@@ -1,0 +1,64 @@
+{
+  "video_id": "SPYSLVEI",
+  "video": "SPYSLVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Glareola Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Preening"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Preening"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Glareola Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.125,
+          "end": 2.125,
+          "start_frame": 3,
+          "end_frame": 51
+        },
+        {
+          "action": "Walking",
+          "start": 2.125,
+          "end": 3.875,
+          "start_frame": 51,
+          "end_frame": 93
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 2.625,
+          "end": 3.375,
+          "start_frame": 63,
+          "end_frame": 81
+        }
+      ]
+    }
+  ]
+}

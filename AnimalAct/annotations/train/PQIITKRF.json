@@ -1,0 +1,34 @@
+{
+  "video_id": "PQIITKRF",
+  "video": "PQIITKRF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dispholidus Typus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dispholidus Typus Snake",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dispholidus Typus Snake",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dispholidus Typus Snake",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 1.759,
+          "end": 3.982,
+          "start_frame": 42,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

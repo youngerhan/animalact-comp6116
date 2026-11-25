@@ -1,0 +1,55 @@
+{
+  "video_id": "ZBPOEUNV",
+  "video": "ZBPOEUNV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sea Snail",
+    "Leech"
+  ],
+  "list_animal_action": [
+    [
+      "Sea Snail",
+      "Moving"
+    ],
+    [
+      "Leech",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sea Snail",
+      "Moving"
+    ],
+    [
+      "Leech",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sea Snail",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        }
+      ]
+    },
+    {
+      "animal": "Leech",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

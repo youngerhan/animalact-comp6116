@@ -1,0 +1,34 @@
+{
+  "video_id": "ONEBEKRF",
+  "video": "ONEBEKRF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dispholidus Typus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dispholidus Typus Snake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dispholidus Typus Snake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dispholidus Typus Snake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "PRVNLDAL",
+  "video": "PRVNLDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Duck",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Duck",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 2.219,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

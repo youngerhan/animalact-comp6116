@@ -1,0 +1,34 @@
+{
+  "video_id": "EOUFTONO",
+  "video": "EOUFTONO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wood Warbler"
+  ],
+  "list_animal_action": [
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wood Warbler",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.094,
+          "start_frame": 0,
+          "end_frame": 26
+        }
+      ]
+    }
+  ]
+}

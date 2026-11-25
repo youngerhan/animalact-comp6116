@@ -1,0 +1,49 @@
+{
+  "video_id": "MLHAFBGU",
+  "video": "MLHAFBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Orchard Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Orchard Bee",
+      "Eating"
+    ],
+    [
+      "Blue Orchard Bee",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Orchard Bee",
+      "Eating"
+    ],
+    [
+      "Blue Orchard Bee",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Orchard Bee",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.586,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Landing",
+          "start": 0.245,
+          "end": 0.459,
+          "start_frame": 6,
+          "end_frame": 11
+        }
+      ]
+    }
+  ]
+}

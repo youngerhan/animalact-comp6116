@@ -1,0 +1,49 @@
+{
+  "video_id": "MCEQZZQU",
+  "video": "MCEQZZQU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard Gecko",
+      "Keeping still"
+    ],
+    [
+      "Leopard Gecko",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard Gecko",
+      "Keeping still"
+    ],
+    [
+      "Leopard Gecko",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard Gecko",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.52,
+          "start_frame": 0,
+          "end_frame": 132
+        },
+        {
+          "action": "Walking",
+          "start": 5.589,
+          "end": 13.417,
+          "start_frame": 134,
+          "end_frame": 322
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "FCGYJVMW",
+  "video": "FCGYJVMW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Russell'S Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Russell'S Viper",
+      "Keeping still"
+    ],
+    [
+      "Russell'S Viper",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Russell'S Viper",
+      "Keeping still"
+    ],
+    [
+      "Russell'S Viper",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Russell'S Viper",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 7.844,
+          "start_frame": 0,
+          "end_frame": 188
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.917,
+          "start_frame": 0,
+          "end_frame": 190
+        }
+      ]
+    }
+  ]
+}

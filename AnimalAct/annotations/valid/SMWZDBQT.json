@@ -1,0 +1,34 @@
+{
+  "video_id": "SMWZDBQT",
+  "video": "SMWZDBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mouse Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Mouse Deer",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mouse Deer",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mouse Deer",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

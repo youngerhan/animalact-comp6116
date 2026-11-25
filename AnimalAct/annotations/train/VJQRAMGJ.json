@@ -1,0 +1,79 @@
+{
+  "video_id": "VJQRAMGJ",
+  "video": "VJQRAMGJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Wasp",
+      "Keeping still"
+    ],
+    [
+      "Wasp",
+      "Attending"
+    ],
+    [
+      "Wasp",
+      "Sensing"
+    ],
+    [
+      "Wasp",
+      "Grooming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wasp",
+      "Keeping still"
+    ],
+    [
+      "Wasp",
+      "Attending"
+    ],
+    [
+      "Wasp",
+      "Sensing"
+    ],
+    [
+      "Wasp",
+      "Grooming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wasp",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.717,
+          "start_frame": 0,
+          "end_frame": 65
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.717,
+          "start_frame": 0,
+          "end_frame": 65
+        },
+        {
+          "action": "Grooming",
+          "start": 0.0,
+          "end": 2.717,
+          "start_frame": 0,
+          "end_frame": 65
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.727,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

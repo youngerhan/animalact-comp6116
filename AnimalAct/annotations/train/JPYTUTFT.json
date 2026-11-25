@@ -1,0 +1,115 @@
+{
+  "video_id": "JPYTUTFT",
+  "video": "JPYTUTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Fighting"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Fighting"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 24.594,
+          "start_frame": 0,
+          "end_frame": 590
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 18.719,
+          "end": 18.844,
+          "start_frame": 449,
+          "end_frame": 452
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 23.969,
+          "end": 24.094,
+          "start_frame": 575,
+          "end_frame": 578
+        },
+        {
+          "action": "Fighting",
+          "start": 23.969,
+          "end": 26.577,
+          "start_frame": 575,
+          "end_frame": 638
+        },
+        {
+          "action": "Drinking",
+          "start": 24.844,
+          "end": 28.373,
+          "start_frame": 596,
+          "end_frame": 681
+        },
+        {
+          "action": "Sensing",
+          "start": 26.719,
+          "end": 27.829,
+          "start_frame": 641,
+          "end_frame": 668
+        },
+        {
+          "action": "Drinking",
+          "start": 28.844,
+          "end": 31.094,
+          "start_frame": 692,
+          "end_frame": 746
+        },
+        {
+          "action": "Drinking",
+          "start": 31.219,
+          "end": 31.344,
+          "start_frame": 749,
+          "end_frame": 752
+        }
+      ]
+    }
+  ]
+}

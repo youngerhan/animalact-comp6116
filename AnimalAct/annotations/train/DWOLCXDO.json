@@ -1,0 +1,70 @@
+{
+  "video_id": "DWOLCXDO",
+  "video": "DWOLCXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wild Dog",
+    "Hyena"
+  ],
+  "list_animal_action": [
+    [
+      "Wild Dog",
+      "Attacking"
+    ],
+    [
+      "Wild Dog",
+      "Chasing"
+    ],
+    [
+      "Hyena",
+      "Retaliating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wild Dog",
+      "Attacking"
+    ],
+    [
+      "Wild Dog",
+      "Chasing"
+    ],
+    [
+      "Hyena",
+      "Retaliating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wild Dog",
+      "actions": [
+        {
+          "action": "Chasing",
+          "start": 0.108,
+          "end": 1.139,
+          "start_frame": 3,
+          "end_frame": 27
+        },
+        {
+          "action": "Attacking",
+          "start": 1.038,
+          "end": 1.272,
+          "start_frame": 25,
+          "end_frame": 31
+        }
+      ]
+    },
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Retaliating",
+          "start": 1.293,
+          "end": 2.163,
+          "start_frame": 31,
+          "end_frame": 52
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "video_id": "AZTRLHFB",
+  "video": "AZTRLHFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hazel Grouse Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Hazel Grouse Bird",
+      "Chirping"
+    ],
+    [
+      "Hazel Grouse Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hazel Grouse Bird",
+      "Chirping"
+    ],
+    [
+      "Hazel Grouse Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hazel Grouse Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.469,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 10.094,
+          "start_frame": 0,
+          "end_frame": 242
+        },
+        {
+          "action": "Sensing",
+          "start": 3.594,
+          "end": 4.844,
+          "start_frame": 86,
+          "end_frame": 116
+        },
+        {
+          "action": "Sensing",
+          "start": 5.344,
+          "end": 5.594,
+          "start_frame": 128,
+          "end_frame": 134
+        },
+        {
+          "action": "Sensing",
+          "start": 6.219,
+          "end": 6.469,
+          "start_frame": 149,
+          "end_frame": 155
+        },
+        {
+          "action": "Sensing",
+          "start": 7.344,
+          "end": 7.469,
+          "start_frame": 176,
+          "end_frame": 179
+        },
+        {
+          "action": "Sensing",
+          "start": 7.719,
+          "end": 10.094,
+          "start_frame": 185,
+          "end_frame": 242
+        }
+      ]
+    }
+  ]
+}

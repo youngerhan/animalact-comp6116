@@ -1,0 +1,64 @@
+{
+  "video_id": "NQCELFUP",
+  "video": "NQCELFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 14.1,
+          "start_frame": 0,
+          "end_frame": 338
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.033,
+          "end": 14.012,
+          "start_frame": 97,
+          "end_frame": 336
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 14.084,
+          "end": 15.105,
+          "start_frame": 338,
+          "end_frame": 363
+        }
+      ]
+    }
+  ]
+}

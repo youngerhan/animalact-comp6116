@@ -1,0 +1,79 @@
+{
+  "video_id": "FUEGEKEW",
+  "video": "FUEGEKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goat"
+  ],
+  "list_animal_action": [
+    [
+      "Goat",
+      "Falling"
+    ],
+    [
+      "Goat",
+      "Drinking"
+    ],
+    [
+      "Goat",
+      "Running"
+    ],
+    [
+      "Goat",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goat",
+      "Falling"
+    ],
+    [
+      "Goat",
+      "Drinking"
+    ],
+    [
+      "Goat",
+      "Running"
+    ],
+    [
+      "Goat",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goat",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        },
+        {
+          "action": "Running",
+          "start": 0.917,
+          "end": 1.958,
+          "start_frame": 22,
+          "end_frame": 47
+        },
+        {
+          "action": "Falling",
+          "start": 1.958,
+          "end": 3.417,
+          "start_frame": 47,
+          "end_frame": 82
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.483,
+          "end": 3.417,
+          "start_frame": 60,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

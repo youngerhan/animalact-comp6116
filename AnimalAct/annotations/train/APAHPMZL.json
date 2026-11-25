@@ -1,0 +1,34 @@
+{
+  "video_id": "APAHPMZL",
+  "video": "APAHPMZL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greta Oto Glasswing Butterfly"
+  ],
+  "list_animal_action": [
+    [
+      "Greta Oto Glasswing Butterfly",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greta Oto Glasswing Butterfly",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greta Oto Glasswing Butterfly",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.334,
+          "start_frame": 0,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

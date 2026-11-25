@@ -1,0 +1,85 @@
+{
+  "video_id": "XUYHCAMC",
+  "video": "XUYHCAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 10.746,
+          "start_frame": 0,
+          "end_frame": 258
+        },
+        {
+          "action": "Barking",
+          "start": 10.781,
+          "end": 15.125,
+          "start_frame": 259,
+          "end_frame": 363
+        }
+      ]
+    },
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.792,
+          "start_frame": 0,
+          "end_frame": 139
+        },
+        {
+          "action": "Sensing",
+          "start": 5.785,
+          "end": 13.845,
+          "start_frame": 139,
+          "end_frame": 332
+        }
+      ]
+    }
+  ]
+}

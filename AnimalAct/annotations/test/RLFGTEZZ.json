@@ -1,0 +1,34 @@
+{
+  "video_id": "RLFGTEZZ",
+  "video": "RLFGTEZZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spotted Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Spotted Deer",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spotted Deer",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spotted Deer",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 1.234,
+          "end": 5.125,
+          "start_frame": 30,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

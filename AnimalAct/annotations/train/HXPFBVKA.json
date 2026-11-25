@@ -1,0 +1,49 @@
+{
+  "video_id": "HXPFBVKA",
+  "video": "HXPFBVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Chirping"
+    ],
+    [
+      "Common Quail",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Chirping"
+    ],
+    [
+      "Common Quail",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.967,
+          "start_frame": 0,
+          "end_frame": 119
+        },
+        {
+          "action": "Chirping",
+          "start": 4.986,
+          "end": 11.192,
+          "start_frame": 120,
+          "end_frame": 269
+        }
+      ]
+    }
+  ]
+}

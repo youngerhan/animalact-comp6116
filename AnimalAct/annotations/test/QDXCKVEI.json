@@ -1,0 +1,34 @@
+{
+  "video_id": "QDXCKVEI",
+  "video": "QDXCKVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Nebularia Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Nebularia Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Nebularia Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Nebularia Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.042,
+          "end": 0.5,
+          "start_frame": 1,
+          "end_frame": 12
+        }
+      ]
+    }
+  ]
+}

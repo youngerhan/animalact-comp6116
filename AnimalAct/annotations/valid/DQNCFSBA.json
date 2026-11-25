@@ -1,0 +1,79 @@
+{
+  "video_id": "DQNCFSBA",
+  "video": "DQNCFSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Drinking"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Drinking"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 0.219,
+          "start_frame": 2,
+          "end_frame": 5
+        },
+        {
+          "action": "Washing",
+          "start": 0.719,
+          "end": 2.844,
+          "start_frame": 17,
+          "end_frame": 68
+        },
+        {
+          "action": "Drinking",
+          "start": 0.844,
+          "end": 1.469,
+          "start_frame": 20,
+          "end_frame": 35
+        },
+        {
+          "action": "Jumping",
+          "start": 2.719,
+          "end": 2.844,
+          "start_frame": 65,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

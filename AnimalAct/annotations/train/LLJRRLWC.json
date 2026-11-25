@@ -1,0 +1,41 @@
+{
+  "video_id": "LLJRRLWC",
+  "video": "LLJRRLWC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Strange-Horned Chameleon"
+  ],
+  "list_animal_action": [
+    [
+      "Strange-Horned Chameleon",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Strange-Horned Chameleon",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Strange-Horned Chameleon",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 3.389,
+          "end": 4.29,
+          "start_frame": 81,
+          "end_frame": 103
+        },
+        {
+          "action": "Moving",
+          "start": 7.757,
+          "end": 8.606,
+          "start_frame": 186,
+          "end_frame": 207
+        }
+      ]
+    }
+  ]
+}

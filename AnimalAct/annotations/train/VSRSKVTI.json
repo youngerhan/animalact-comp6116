@@ -1,0 +1,49 @@
+{
+  "video_id": "VSRSKVTI",
+  "video": "VSRSKVTI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Smew"
+  ],
+  "list_animal_action": [
+    [
+      "Smew",
+      "Attending"
+    ],
+    [
+      "Smew",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Smew",
+      "Attending"
+    ],
+    [
+      "Smew",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Smew",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 1.708,
+          "start_frame": 0,
+          "end_frame": 41
+        },
+        {
+          "action": "Attending",
+          "start": 1.083,
+          "end": 1.708,
+          "start_frame": 26,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "EPXIXMRN",
+  "video": "EPXIXMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Common Snipe",
+      "Flying"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Common Snipe",
+      "Flying"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.875,
+          "start_frame": 0,
+          "end_frame": 165
+        },
+        {
+          "action": "Sensing",
+          "start": 6.75,
+          "end": 7.125,
+          "start_frame": 162,
+          "end_frame": 171
+        },
+        {
+          "action": "Flying",
+          "start": 7.125,
+          "end": 7.5,
+          "start_frame": 171,
+          "end_frame": 180
+        }
+      ]
+    }
+  ]
+}

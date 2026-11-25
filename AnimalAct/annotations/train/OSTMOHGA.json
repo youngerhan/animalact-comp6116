@@ -1,0 +1,64 @@
+{
+  "video_id": "OSTMOHGA",
+  "video": "OSTMOHGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Squirrel"
+  ],
+  "list_animal_action": [
+    [
+      "Squirrel",
+      "Standing in alert"
+    ],
+    [
+      "Squirrel",
+      "Exploring"
+    ],
+    [
+      "Squirrel",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Squirrel",
+      "Standing in alert"
+    ],
+    [
+      "Squirrel",
+      "Exploring"
+    ],
+    [
+      "Squirrel",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Squirrel",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.208,
+          "start_frame": 0,
+          "end_frame": 101
+        },
+        {
+          "action": "Standing in alert",
+          "start": 0.547,
+          "end": 4.208,
+          "start_frame": 13,
+          "end_frame": 101
+        },
+        {
+          "action": "Exploring",
+          "start": 0.927,
+          "end": 2.516,
+          "start_frame": 22,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

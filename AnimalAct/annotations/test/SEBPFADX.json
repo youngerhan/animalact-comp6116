@@ -1,0 +1,73 @@
+{
+  "video_id": "SEBPFADX",
+  "video": "SEBPFADX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White-Backed Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Eating"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Pecking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Eating"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Pecking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White-Backed Woodpecker",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.5
+        },
+        {
+          "action": "Pecking",
+          "start": 3.5,
+          "end": 5.0
+        },
+        {
+          "action": "Sensing",
+          "start": 5.0,
+          "end": 9.0
+        },
+        {
+          "action": "Pecking",
+          "start": 9.0,
+          "end": 10.5
+        },
+        {
+          "action": "Eating",
+          "start": 10.5,
+          "end": 14.0
+        },
+        {
+          "action": "Sensing",
+          "start": 14.0,
+          "end": 20.83
+        }
+      ]
+    }
+  ]
+}

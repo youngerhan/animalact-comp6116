@@ -1,0 +1,49 @@
+{
+  "video_id": "YQDZVSOB",
+  "video": "YQDZVSOB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montpellier Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Montpellier Snake",
+      "Sensing"
+    ],
+    [
+      "Montpellier Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montpellier Snake",
+      "Sensing"
+    ],
+    [
+      "Montpellier Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montpellier Snake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.016,
+          "end": 3.839,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.917,
+          "end": 9.509,
+          "start_frame": 94,
+          "end_frame": 228
+        }
+      ]
+    }
+  ]
+}

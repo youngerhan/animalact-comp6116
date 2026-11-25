@@ -1,0 +1,50 @@
+{
+  "video_id": "NVVNJEOD",
+  "video": "NVVNJEOD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Chirping"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Chirping"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 1.4,
+          "end": 5.4
+        },
+        {
+          "action": "Sensing",
+          "start": 5.4,
+          "end": 7.3
+        },
+        {
+          "action": "Chirping",
+          "start": 7.3,
+          "end": 9.12
+        }
+      ]
+    }
+  ]
+}

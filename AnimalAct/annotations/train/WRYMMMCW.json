@@ -1,0 +1,34 @@
+{
+  "video_id": "WRYMMMCW",
+  "video": "WRYMMMCW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Throated Pipit"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Throated Pipit",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Throated Pipit",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Throated Pipit",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

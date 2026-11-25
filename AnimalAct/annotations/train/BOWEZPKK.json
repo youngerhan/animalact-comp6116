@@ -1,0 +1,202 @@
+{
+  "video_id": "BOWEZPKK",
+  "video": "BOWEZPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Falling"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Jumping"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Performing copulatory mounting"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Falling"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Jumping"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Performing copulatory mounting"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 15.625,
+          "start_frame": 0,
+          "end_frame": 375
+        },
+        {
+          "action": "Drinking",
+          "start": 0.125,
+          "end": 0.625,
+          "start_frame": 3,
+          "end_frame": 15
+        },
+        {
+          "action": "Walking",
+          "start": 0.375,
+          "end": 1.375,
+          "start_frame": 9,
+          "end_frame": 33
+        },
+        {
+          "action": "Drinking",
+          "start": 0.75,
+          "end": 1.375,
+          "start_frame": 18,
+          "end_frame": 33
+        },
+        {
+          "action": "Preening",
+          "start": 2.167,
+          "end": 3.083,
+          "start_frame": 52,
+          "end_frame": 74
+        },
+        {
+          "action": "Sensing",
+          "start": 2.75,
+          "end": 3.625,
+          "start_frame": 66,
+          "end_frame": 87
+        },
+        {
+          "action": "Walking",
+          "start": 3.625,
+          "end": 6.625,
+          "start_frame": 87,
+          "end_frame": 159
+        },
+        {
+          "action": "Drinking",
+          "start": 5.25,
+          "end": 7.5,
+          "start_frame": 126,
+          "end_frame": 180
+        },
+        {
+          "action": "Preening",
+          "start": 7.375,
+          "end": 8.75,
+          "start_frame": 177,
+          "end_frame": 210
+        },
+        {
+          "action": "Walking",
+          "start": 7.5,
+          "end": 11.5,
+          "start_frame": 180,
+          "end_frame": 276
+        },
+        {
+          "action": "Sensing",
+          "start": 7.75,
+          "end": 10.875,
+          "start_frame": 186,
+          "end_frame": 261
+        },
+        {
+          "action": "Drinking",
+          "start": 10.875,
+          "end": 12.875,
+          "start_frame": 261,
+          "end_frame": 309
+        },
+        {
+          "action": "Drinking",
+          "start": 13.75,
+          "end": 14.75,
+          "start_frame": 330,
+          "end_frame": 354
+        },
+        {
+          "action": "Sensing",
+          "start": 14.75,
+          "end": 15.625,
+          "start_frame": 354,
+          "end_frame": 375
+        },
+        {
+          "action": "Jumping",
+          "start": 15.625,
+          "end": 16.167,
+          "start_frame": 375,
+          "end_frame": 388
+        },
+        {
+          "action": "Performing copulatory mounting",
+          "start": 15.917,
+          "end": 22.375,
+          "start_frame": 382,
+          "end_frame": 537
+        },
+        {
+          "action": "Falling",
+          "start": 22.208,
+          "end": 23.708,
+          "start_frame": 533,
+          "end_frame": 569
+        }
+      ]
+    }
+  ]
+}

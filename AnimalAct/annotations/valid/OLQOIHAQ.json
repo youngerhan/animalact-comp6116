@@ -1,0 +1,78 @@
+{
+  "video_id": "OLQOIHAQ",
+  "video": "OLQOIHAQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montagu'S Harrier"
+  ],
+  "list_animal_action": [
+    [
+      "Montagu'S Harrier",
+      "Preening"
+    ],
+    [
+      "Montagu'S Harrier",
+      "Chirping"
+    ],
+    [
+      "Montagu'S Harrier",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montagu'S Harrier",
+      "Preening"
+    ],
+    [
+      "Montagu'S Harrier",
+      "Chirping"
+    ],
+    [
+      "Montagu'S Harrier",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montagu'S Harrier",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.467,
+          "end": 6.575,
+          "start_frame": 11,
+          "end_frame": 158
+        },
+        {
+          "action": "Sensing",
+          "start": 1.977,
+          "end": 4.385,
+          "start_frame": 47,
+          "end_frame": 105
+        },
+        {
+          "action": "Sensing",
+          "start": 5.814,
+          "end": 18.417,
+          "start_frame": 140,
+          "end_frame": 442
+        },
+        {
+          "action": "Chirping",
+          "start": 7.486,
+          "end": 9.433,
+          "start_frame": 180,
+          "end_frame": 226
+        },
+        {
+          "action": "Preening",
+          "start": 11.853,
+          "end": 18.417,
+          "start_frame": 284,
+          "end_frame": 442
+        }
+      ]
+    }
+  ]
+}

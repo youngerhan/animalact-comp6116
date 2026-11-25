@@ -1,0 +1,64 @@
+{
+  "video_id": "JMTPOHGA",
+  "video": "JMTPOHGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Meerkat"
+  ],
+  "list_animal_action": [
+    [
+      "Meerkat",
+      "Attending"
+    ],
+    [
+      "Meerkat",
+      "Keeping still"
+    ],
+    [
+      "Meerkat",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Meerkat",
+      "Attending"
+    ],
+    [
+      "Meerkat",
+      "Keeping still"
+    ],
+    [
+      "Meerkat",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Meerkat",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        },
+        {
+          "action": "Sensing",
+          "start": 0.359,
+          "end": 2.513,
+          "start_frame": 9,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

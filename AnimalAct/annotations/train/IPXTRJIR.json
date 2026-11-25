@@ -1,0 +1,64 @@
+{
+  "video_id": "IPXTRJIR",
+  "video": "IPXTRJIR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alauda Arvensis Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Alauda Arvensis Bird",
+      "Attending"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Keeping still"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alauda Arvensis Bird",
+      "Attending"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Keeping still"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alauda Arvensis Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.667,
+          "start_frame": 0,
+          "end_frame": 88
+        },
+        {
+          "action": "Attending",
+          "start": 3.692,
+          "end": 4.772,
+          "start_frame": 89,
+          "end_frame": 115
+        },
+        {
+          "action": "Flying",
+          "start": 4.772,
+          "end": 6.125,
+          "start_frame": 115,
+          "end_frame": 147
+        }
+      ]
+    }
+  ]
+}

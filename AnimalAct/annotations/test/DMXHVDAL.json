@@ -1,0 +1,55 @@
+{
+  "video_id": "DMXHVDAL",
+  "video": "DMXHVDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron",
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Duck",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Duck",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    },
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "KSBKTZJZ",
+  "video": "KSBKTZJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.625,
+          "end": 1.208,
+          "start_frame": 15,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

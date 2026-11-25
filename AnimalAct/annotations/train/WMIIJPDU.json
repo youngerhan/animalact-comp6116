@@ -1,0 +1,55 @@
+{
+  "video_id": "WMIIJPDU",
+  "video": "WMIIJPDU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Grey Shrike"
+  ],
+  "list_animal_action": [
+    [
+      "Great Grey Shrike",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Grey Shrike",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Grey Shrike",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.958,
+          "end": 2.917,
+          "start_frame": 23,
+          "end_frame": 70
+        },
+        {
+          "action": "Eating",
+          "start": 5.583,
+          "end": 6.667,
+          "start_frame": 134,
+          "end_frame": 160
+        },
+        {
+          "action": "Eating",
+          "start": 8.042,
+          "end": 9.958,
+          "start_frame": 193,
+          "end_frame": 239
+        },
+        {
+          "action": "Eating",
+          "start": 11.417,
+          "end": 12.333,
+          "start_frame": 274,
+          "end_frame": 296
+        }
+      ]
+    }
+  ]
+}

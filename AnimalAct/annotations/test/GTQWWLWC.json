@@ -1,0 +1,34 @@
+{
+  "video_id": "GTQWWLWC",
+  "video": "GTQWWLWC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Strange-Horned Chameleon"
+  ],
+  "list_animal_action": [
+    [
+      "Strange-Horned Chameleon",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Strange-Horned Chameleon",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Strange-Horned Chameleon",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.644,
+          "start_frame": 0,
+          "end_frame": 135
+        }
+      ]
+    }
+  ]
+}

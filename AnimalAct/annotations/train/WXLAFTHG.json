@@ -1,0 +1,49 @@
+{
+  "video_id": "WXLAFTHG",
+  "video": "WXLAFTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellow-Backed Duiker"
+  ],
+  "list_animal_action": [
+    [
+      "Yellow-Backed Duiker",
+      "Walking"
+    ],
+    [
+      "Yellow-Backed Duiker",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellow-Backed Duiker",
+      "Walking"
+    ],
+    [
+      "Yellow-Backed Duiker",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellow-Backed Duiker",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.875,
+          "start_frame": 0,
+          "end_frame": 45
+        },
+        {
+          "action": "Exploring",
+          "start": 1.875,
+          "end": 13.833,
+          "start_frame": 45,
+          "end_frame": 332
+        }
+      ]
+    }
+  ]
+}

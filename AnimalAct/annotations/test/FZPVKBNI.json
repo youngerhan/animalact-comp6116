@@ -1,0 +1,79 @@
+{
+  "video_id": "FZPVKBNI",
+  "video": "FZPVKBNI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Gecko",
+      "Climbing"
+    ],
+    [
+      "Gecko",
+      "Walking"
+    ],
+    [
+      "Gecko",
+      "Exploring"
+    ],
+    [
+      "Gecko",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gecko",
+      "Climbing"
+    ],
+    [
+      "Gecko",
+      "Walking"
+    ],
+    [
+      "Gecko",
+      "Exploring"
+    ],
+    [
+      "Gecko",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gecko",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 19.427,
+          "start_frame": 0,
+          "end_frame": 466
+        },
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 26.322,
+          "start_frame": 0,
+          "end_frame": 632
+        },
+        {
+          "action": "Attending",
+          "start": 14.858,
+          "end": 17.667,
+          "start_frame": 357,
+          "end_frame": 424
+        },
+        {
+          "action": "Climbing",
+          "start": 19.478,
+          "end": 26.327,
+          "start_frame": 467,
+          "end_frame": 632
+        }
+      ]
+    }
+  ]
+}

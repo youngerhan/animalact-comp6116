@@ -1,0 +1,34 @@
+{
+  "video_id": "OFGPGVKA",
+  "video": "OFGPGVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 3.917,
+          "start_frame": 0,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

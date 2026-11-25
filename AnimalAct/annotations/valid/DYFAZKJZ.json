@@ -1,0 +1,49 @@
+{
+  "video_id": "DYFAZKJZ",
+  "video": "DYFAZKJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Pine Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Western Pine Beetle",
+      "Spreading Wings"
+    ],
+    [
+      "Western Pine Beetle",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Pine Beetle",
+      "Spreading Wings"
+    ],
+    [
+      "Western Pine Beetle",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Pine Beetle",
+      "actions": [
+        {
+          "action": "Spreading Wings",
+          "start": 0.152,
+          "end": 4.1,
+          "start_frame": 4,
+          "end_frame": 98
+        },
+        {
+          "action": "Flying",
+          "start": 4.1,
+          "end": 4.5,
+          "start_frame": 98,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

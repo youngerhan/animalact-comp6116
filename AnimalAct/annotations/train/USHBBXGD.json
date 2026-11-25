@@ -1,0 +1,49 @@
+{
+  "video_id": "USHBBXGD",
+  "video": "USHBBXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Attacking"
+    ],
+    [
+      "Horse",
+      "Retreating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Attacking"
+    ],
+    [
+      "Horse",
+      "Retreating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.0,
+          "end": 0.292,
+          "start_frame": 0,
+          "end_frame": 7
+        },
+        {
+          "action": "Retreating",
+          "start": 0.291,
+          "end": 0.708333,
+          "start_frame": 7,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

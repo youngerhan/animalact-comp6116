@@ -1,0 +1,34 @@
+{
+  "video_id": "CXOTOLHH",
+  "video": "CXOTOLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Desert Rain Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Desert Rain Frog",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Desert Rain Frog",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Desert Rain Frog",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.115,
+          "start_frame": 0,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

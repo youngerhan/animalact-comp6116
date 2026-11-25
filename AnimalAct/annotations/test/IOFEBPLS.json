@@ -1,0 +1,109 @@
+{
+  "video_id": "IOFEBPLS",
+  "video": "IOFEBPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Landing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Landing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 1.918,
+          "start_frame": 0,
+          "end_frame": 46
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        },
+        {
+          "action": "Landing",
+          "start": 2.428,
+          "end": 3.082,
+          "start_frame": 58,
+          "end_frame": 74
+        }
+      ]
+    }
+  ]
+}

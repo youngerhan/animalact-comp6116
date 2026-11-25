@@ -1,0 +1,49 @@
+{
+  "video_id": "HHUNIMYV",
+  "video": "HHUNIMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Attacking"
+    ],
+    [
+      "Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Attacking"
+    ],
+    [
+      "Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.417,
+          "end": 1.667,
+          "start_frame": 10,
+          "end_frame": 40
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.708,
+          "end": 8.917,
+          "start_frame": 41,
+          "end_frame": 214
+        }
+      ]
+    }
+  ]
+}

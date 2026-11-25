@@ -1,0 +1,34 @@
+{
+  "video_id": "AGJKWLSQ",
+  "video": "AGJKWLSQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mistle Thrush"
+  ],
+  "list_animal_action": [
+    [
+      "Mistle Thrush",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mistle Thrush",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mistle Thrush",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.417,
+          "start_frame": 0,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

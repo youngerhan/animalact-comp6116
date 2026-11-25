@@ -1,0 +1,100 @@
+{
+  "video_id": "EQKYRFFP",
+  "video": "EQKYRFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Otter",
+    "Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Otter",
+      "Carrying In Mouth"
+    ],
+    [
+      "Otter",
+      "Sensing"
+    ],
+    [
+      "Otter",
+      "Playing"
+    ],
+    [
+      "Otter",
+      "Diving"
+    ],
+    [
+      "Otter",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Otter",
+      "Carrying In Mouth"
+    ],
+    [
+      "Otter",
+      "Sensing"
+    ],
+    [
+      "Otter",
+      "Playing"
+    ],
+    [
+      "Otter",
+      "Diving"
+    ],
+    [
+      "Otter",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Otter",
+      "actions": [
+        {
+          "action": "Playing",
+          "start": 0.0,
+          "end": 2.0,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.083,
+          "end": 0.208,
+          "start_frame": 2,
+          "end_frame": 5
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.708,
+          "end": 0.833,
+          "start_frame": 17,
+          "end_frame": 20
+        }
+      ]
+    },
+    {
+      "animal": "Otter",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.75,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Diving",
+          "start": 0.958,
+          "end": 1.25,
+          "start_frame": 23,
+          "end_frame": 30
+        }
+      ]
+    }
+  ]
+}

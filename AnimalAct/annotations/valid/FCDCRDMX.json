@@ -1,0 +1,49 @@
+{
+  "video_id": "FCDCRDMX",
+  "video": "FCDCRDMX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Golden Oriole"
+  ],
+  "list_animal_action": [
+    [
+      "Golden Oriole",
+      "Chirping"
+    ],
+    [
+      "Golden Oriole",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Golden Oriole",
+      "Chirping"
+    ],
+    [
+      "Golden Oriole",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Golden Oriole",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.255,
+          "start_frame": 0,
+          "end_frame": 102
+        },
+        {
+          "action": "Chirping",
+          "start": 4.921,
+          "end": 5.691,
+          "start_frame": 118,
+          "end_frame": 137
+        }
+      ]
+    }
+  ]
+}

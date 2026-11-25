@@ -1,0 +1,129 @@
+{
+  "video_id": "CZMRAJVY",
+  "video": "CZMRAJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Sensing"
+    ],
+    [
+      "Goldfinch",
+      "Turning Around"
+    ],
+    [
+      "Goldfinch",
+      "Landing"
+    ],
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Sensing"
+    ],
+    [
+      "Goldfinch",
+      "Turning Around"
+    ],
+    [
+      "Goldfinch",
+      "Landing"
+    ],
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.009,
+          "end": 1.104,
+          "start_frame": 0,
+          "end_frame": 26
+        },
+        {
+          "action": "Eating",
+          "start": 0.009,
+          "end": 1.54,
+          "start_frame": 0,
+          "end_frame": 37
+        },
+        {
+          "action": "Sensing",
+          "start": 0.124,
+          "end": 2.187,
+          "start_frame": 3,
+          "end_frame": 52
+        },
+        {
+          "action": "Landing",
+          "start": 0.529,
+          "end": 1.225,
+          "start_frame": 13,
+          "end_frame": 29
+        },
+        {
+          "action": "Flapping",
+          "start": 2.302,
+          "end": 2.623,
+          "start_frame": 55,
+          "end_frame": 63
+        },
+        {
+          "action": "Turning Around",
+          "start": 3.052,
+          "end": 4.177,
+          "start_frame": 73,
+          "end_frame": 100
+        },
+        {
+          "action": "Flapping",
+          "start": 3.597,
+          "end": 4.71,
+          "start_frame": 86,
+          "end_frame": 113
+        },
+        {
+          "action": "Sensing",
+          "start": 3.869,
+          "end": 4.867,
+          "start_frame": 93,
+          "end_frame": 117
+        },
+        {
+          "action": "Eating",
+          "start": 3.978,
+          "end": 9.625,
+          "start_frame": 95,
+          "end_frame": 231
+        },
+        {
+          "action": "Sensing",
+          "start": 5.768,
+          "end": 9.156,
+          "start_frame": 138,
+          "end_frame": 220
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "ECYECYES",
+  "video": "ECYECYES.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bushmaster Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Bushmaster Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bushmaster Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bushmaster Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 9.333,
+          "start_frame": 0,
+          "end_frame": 224
+        }
+      ]
+    }
+  ]
+}

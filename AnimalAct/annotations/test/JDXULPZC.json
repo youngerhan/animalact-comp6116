@@ -1,0 +1,49 @@
+{
+  "video_id": "JDXULPZC",
+  "video": "JDXULPZC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bordered Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Bordered Mantis",
+      "Lying On Top"
+    ],
+    [
+      "Bordered Mantis",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bordered Mantis",
+      "Lying On Top"
+    ],
+    [
+      "Bordered Mantis",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bordered Mantis",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.0,
+          "start_frame": 0,
+          "end_frame": 96
+        },
+        {
+          "action": "Lying On Top",
+          "start": 0.713,
+          "end": 4.0,
+          "start_frame": 17,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

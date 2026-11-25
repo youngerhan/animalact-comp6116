@@ -1,0 +1,34 @@
+{
+  "video_id": "ZOSSITCN",
+  "video": "ZOSSITCN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse Young"
+  ],
+  "list_animal_action": [
+    [
+      "Horse Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse Young",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.625,
+          "start_frame": 0,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

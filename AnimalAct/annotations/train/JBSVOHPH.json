@@ -1,0 +1,34 @@
+{
+  "video_id": "JBSVOHPH",
+  "video": "JBSVOHPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bumblebee"
+  ],
+  "list_animal_action": [
+    [
+      "Bumblebee",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bumblebee",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bumblebee",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 1.183,
+          "end": 1.625,
+          "start_frame": 28,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "video_id": "LEXMWPTK",
+  "video": "LEXMWPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.355,
+          "start_frame": 0,
+          "end_frame": 57
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.362,
+          "start_frame": 0,
+          "end_frame": 57
+        },
+        {
+          "action": "Chirping",
+          "start": 2.434,
+          "end": 22.625,
+          "start_frame": 58,
+          "end_frame": 543
+        },
+        {
+          "action": "Sensing",
+          "start": 13.629,
+          "end": 15.909,
+          "start_frame": 327,
+          "end_frame": 382
+        }
+      ]
+    }
+  ]
+}

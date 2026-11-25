@@ -1,0 +1,34 @@
+{
+  "video_id": "DGOILOIM",
+  "video": "DGOILOIM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sidewinder Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Sidewinder Rattlesnake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sidewinder Rattlesnake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sidewinder Rattlesnake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.009,
+          "end": 9.417,
+          "start_frame": 0,
+          "end_frame": 226
+        }
+      ]
+    }
+  ]
+}

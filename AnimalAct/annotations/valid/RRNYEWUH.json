@@ -1,0 +1,92 @@
+{
+  "video_id": "RRNYEWUH",
+  "video": "RRNYEWUH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sharing Food"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sharing Food"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sharing Food",
+          "start": 0.157,
+          "end": 1.115,
+          "start_frame": 4,
+          "end_frame": 27
+        },
+        {
+          "action": "Sensing",
+          "start": 0.523,
+          "end": 23.489,
+          "start_frame": 13,
+          "end_frame": 564
+        },
+        {
+          "action": "Eating",
+          "start": 1.31,
+          "end": 23.916667,
+          "start_frame": 31,
+          "end_frame": 574
+        },
+        {
+          "action": "Sharing Food",
+          "start": 2.417,
+          "end": 3.585,
+          "start_frame": 58,
+          "end_frame": 86
+        },
+        {
+          "action": "Sharing Food",
+          "start": 7.416,
+          "end": 10.828,
+          "start_frame": 178,
+          "end_frame": 260
+        },
+        {
+          "action": "Sharing Food",
+          "start": 12.684,
+          "end": 14.331,
+          "start_frame": 304,
+          "end_frame": 344
+        },
+        {
+          "action": "Sharing Food",
+          "start": 18.88,
+          "end": 20.467,
+          "start_frame": 453,
+          "end_frame": 491
+        }
+      ]
+    }
+  ]
+}

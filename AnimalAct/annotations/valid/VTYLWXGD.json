@@ -1,0 +1,49 @@
+{
+  "video_id": "VTYLWXGD",
+  "video": "VTYLWXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

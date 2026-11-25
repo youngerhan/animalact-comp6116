@@ -1,0 +1,34 @@
+{
+  "video_id": "SKXZJFAG",
+  "video": "SKXZJFAG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Predaceous Diving Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Predaceous Diving Beetle",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Predaceous Diving Beetle",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Predaceous Diving Beetle",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.012,
+          "start_frame": 0,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

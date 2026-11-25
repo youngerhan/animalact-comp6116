@@ -1,0 +1,55 @@
+{
+  "video_id": "DYTVFFAU",
+  "video": "DYTVFFAU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jeweled Cockroach Wasp",
+    "Cockroach"
+  ],
+  "list_animal_action": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Biting"
+    ],
+    [
+      "Cockroach",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Biting"
+    ],
+    [
+      "Cockroach",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jeweled Cockroach Wasp",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 8.831,
+          "start_frame": 0,
+          "end_frame": 212
+        }
+      ]
+    },
+    {
+      "animal": "Cockroach",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 8.825,
+          "start_frame": 0,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

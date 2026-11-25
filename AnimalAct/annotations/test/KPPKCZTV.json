@@ -1,0 +1,55 @@
+{
+  "video_id": "KPPKCZTV",
+  "video": "KPPKCZTV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird",
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Landing"
+    ],
+    [
+      "Common Crane",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Landing"
+    ],
+    [
+      "Common Crane",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    },
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

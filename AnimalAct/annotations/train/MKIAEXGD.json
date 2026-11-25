@@ -1,0 +1,64 @@
+{
+  "video_id": "MKIAEXGD",
+  "video": "MKIAEXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Keeping still"
+    ],
+    [
+      "Kangaroo",
+      "Attending"
+    ],
+    [
+      "Kangaroo",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Keeping still"
+    ],
+    [
+      "Kangaroo",
+      "Attending"
+    ],
+    [
+      "Kangaroo",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

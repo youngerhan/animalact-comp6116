@@ -1,0 +1,34 @@
+{
+  "video_id": "ZJKQFVYK",
+  "video": "ZJKQFVYK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.926,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

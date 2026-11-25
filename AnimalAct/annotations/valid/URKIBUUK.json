@@ -1,0 +1,56 @@
+{
+  "video_id": "URKIBUUK",
+  "video": "URKIBUUK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Green Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Green Woodpecker",
+      "Chirping"
+    ],
+    [
+      "Green Woodpecker",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Green Woodpecker",
+      "Chirping"
+    ],
+    [
+      "Green Woodpecker",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Green Woodpecker",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.167,
+          "start_frame": 0,
+          "end_frame": 4
+        },
+        {
+          "action": "Chirping",
+          "start": 0.167,
+          "end": 2.5,
+          "start_frame": 4,
+          "end_frame": 60
+        },
+        {
+          "action": "Sensing",
+          "start": 1.667,
+          "end": 2.5,
+          "start_frame": 40,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

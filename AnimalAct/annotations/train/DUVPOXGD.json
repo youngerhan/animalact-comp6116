@@ -1,0 +1,34 @@
+{
+  "video_id": "DUVPOXGD",
+  "video": "DUVPOXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.091,
+          "end": 2.33,
+          "start_frame": 2,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

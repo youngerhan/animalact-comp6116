@@ -1,0 +1,34 @@
+{
+  "video_id": "CKFVZXGD",
+  "video": "CKFVZXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dog"
+  ],
+  "list_animal_action": [
+    [
+      "Dog",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dog",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dog",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.01,
+          "end": 1.303,
+          "start_frame": 0,
+          "end_frame": 31
+        }
+      ]
+    }
+  ]
+}

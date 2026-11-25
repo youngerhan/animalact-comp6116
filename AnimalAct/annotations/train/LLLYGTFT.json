@@ -1,0 +1,49 @@
+{
+  "video_id": "LLLYGTFT",
+  "video": "LLLYGTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.016,
+          "start_frame": 0,
+          "end_frame": 120
+        },
+        {
+          "action": "Drinking",
+          "start": 0.77,
+          "end": 5.016,
+          "start_frame": 18,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "ZGISLFNJ",
+  "video": "ZGISLFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana",
+    "Basilisk Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Running"
+    ],
+    [
+      "Basilisk Lizard",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Running"
+    ],
+    [
+      "Basilisk Lizard",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 2.842,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    },
+    {
+      "animal": "Basilisk Lizard",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.542,
+          "end": 6.878,
+          "start_frame": 13,
+          "end_frame": 165
+        }
+      ]
+    }
+  ]
+}

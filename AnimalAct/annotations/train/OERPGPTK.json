@@ -1,0 +1,109 @@
+{
+  "video_id": "OERPGPTK",
+  "video": "OERPGPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 19.594,
+          "start_frame": 0,
+          "end_frame": 470
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 19.844,
+          "start_frame": 0,
+          "end_frame": 476
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 20.094,
+          "start_frame": 0,
+          "end_frame": 482
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.094,
+          "end": 0.219,
+          "start_frame": 2,
+          "end_frame": 5
+        },
+        {
+          "action": "Sensing",
+          "start": 1.594,
+          "end": 2.756,
+          "start_frame": 38,
+          "end_frame": 66
+        },
+        {
+          "action": "Preening",
+          "start": 12.344,
+          "end": 13.327,
+          "start_frame": 296,
+          "end_frame": 320
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "DKXYZTUB",
+  "video": "DKXYZTUB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Turtle",
+      "Attending"
+    ],
+    [
+      "Turtle",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turtle",
+      "Attending"
+    ],
+    [
+      "Turtle",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turtle",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.273,
+          "start_frame": 0,
+          "end_frame": 7
+        },
+        {
+          "action": "Attending",
+          "start": 0.523,
+          "end": 0.917,
+          "start_frame": 13,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

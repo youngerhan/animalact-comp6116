@@ -1,0 +1,49 @@
+{
+  "video_id": "WDGQGVEI",
+  "video": "WDGQGVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Ochropus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Ochropus Bird",
+      "Chirping"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Ochropus Bird",
+      "Chirping"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Ochropus Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 1.152,
+          "end": 2.137,
+          "start_frame": 28,
+          "end_frame": 51
+        },
+        {
+          "action": "Preening",
+          "start": 2.148,
+          "end": 2.833,
+          "start_frame": 52,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "video_id": "HEVMETFT",
+  "video": "HEVMETFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Fighting"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Fighting"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 0.177,
+          "start_frame": 0,
+          "end_frame": 4
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 0.598,
+          "end": 4.011,
+          "start_frame": 14,
+          "end_frame": 96
+        },
+        {
+          "action": "Fighting",
+          "start": 0.764,
+          "end": 4.045,
+          "start_frame": 18,
+          "end_frame": 97
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 1.024,
+          "end": 3.976,
+          "start_frame": 25,
+          "end_frame": 95
+        },
+        {
+          "action": "Drinking",
+          "start": 2.067,
+          "end": 4.567,
+          "start_frame": 50,
+          "end_frame": 110
+        },
+        {
+          "action": "Drinking",
+          "start": 5.393,
+          "end": 11.121,
+          "start_frame": 129,
+          "end_frame": 267
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 9.625,
+          "end": 12.106,
+          "start_frame": 231,
+          "end_frame": 291
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 9.625,
+          "end": 14.389,
+          "start_frame": 231,
+          "end_frame": 345
+        },
+        {
+          "action": "Sensing",
+          "start": 12.094,
+          "end": 12.219,
+          "start_frame": 290,
+          "end_frame": 293
+        },
+        {
+          "action": "Drinking",
+          "start": 12.283,
+          "end": 22.833,
+          "start_frame": 295,
+          "end_frame": 548
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 15.806,
+          "end": 18.719,
+          "start_frame": 379,
+          "end_frame": 449
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 15.826,
+          "end": 18.759,
+          "start_frame": 380,
+          "end_frame": 450
+        }
+      ]
+    }
+  ]
+}

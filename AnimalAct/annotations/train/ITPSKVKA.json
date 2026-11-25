@@ -1,0 +1,49 @@
+{
+  "video_id": "ITPSKVKA",
+  "video": "ITPSKVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Chirping"
+    ],
+    [
+      "Common Quail",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Chirping"
+    ],
+    [
+      "Common Quail",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 15.208,
+          "start_frame": 0,
+          "end_frame": 365
+        },
+        {
+          "action": "Chirping",
+          "start": 10.082,
+          "end": 15.208,
+          "start_frame": 242,
+          "end_frame": 365
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "video_id": "ETAALVKA",
+  "video": "ETAALVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Attending"
+    ],
+    [
+      "Common Quail",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Attending"
+    ],
+    [
+      "Common Quail",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.75,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Running",
+          "start": 0.75,
+          "end": 2.875,
+          "start_frame": 18,
+          "end_frame": 69
+        },
+        {
+          "action": "Attending",
+          "start": 2.875,
+          "end": 4.5,
+          "start_frame": 69,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

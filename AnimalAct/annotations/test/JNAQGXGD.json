@@ -1,0 +1,34 @@
+{
+  "video_id": "JNAQGXGD",
+  "video": "JNAQGXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wedge Tailed Eagle"
+  ],
+  "list_animal_action": [
+    [
+      "Wedge Tailed Eagle",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wedge Tailed Eagle",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wedge Tailed Eagle",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.844,
+          "end": 1.469,
+          "start_frame": 20,
+          "end_frame": 35
+        }
+      ]
+    }
+  ]
+}

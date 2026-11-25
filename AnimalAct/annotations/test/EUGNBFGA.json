@@ -1,0 +1,56 @@
+{
+  "video_id": "EUGNBFGA",
+  "video": "EUGNBFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.352,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Attending",
+          "start": 0.534,
+          "end": 1.694,
+          "start_frame": 13,
+          "end_frame": 41
+        },
+        {
+          "action": "Flapping",
+          "start": 1.697,
+          "end": 2.0,
+          "start_frame": 41,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

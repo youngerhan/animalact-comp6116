@@ -1,0 +1,41 @@
+{
+  "video_id": "PNENNYSZ",
+  "video": "PNENNYSZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fruit Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Fruit Fly",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fruit Fly",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fruit Fly",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.063,
+          "end": 1.216,
+          "start_frame": 2,
+          "end_frame": 29
+        },
+        {
+          "action": "Fighting",
+          "start": 1.68,
+          "end": 3.291,
+          "start_frame": 40,
+          "end_frame": 79
+        }
+      ]
+    }
+  ]
+}

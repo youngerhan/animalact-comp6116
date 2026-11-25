@@ -1,0 +1,49 @@
+{
+  "video_id": "BBUZSCEI",
+  "video": "BBUZSCEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Moving"
+    ],
+    [
+      "Ant",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Moving"
+    ],
+    [
+      "Ant",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.714,
+          "start_frame": 0,
+          "end_frame": 65
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.716,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "WHYVQHGA",
+  "video": "WHYVQHGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giraffe"
+  ],
+  "list_animal_action": [
+    [
+      "Giraffe",
+      "Keeping still"
+    ],
+    [
+      "Giraffe",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giraffe",
+      "Keeping still"
+    ],
+    [
+      "Giraffe",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giraffe",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.42,
+          "start_frame": 0,
+          "end_frame": 106
+        },
+        {
+          "action": "Attending",
+          "start": 4.42,
+          "end": 5.625,
+          "start_frame": 106,
+          "end_frame": 135
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "HZEXCBGG",
+  "video": "HZEXCBGG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Citrine Wagtail"
+  ],
+  "list_animal_action": [
+    [
+      "Citrine Wagtail",
+      "Preening"
+    ],
+    [
+      "Citrine Wagtail",
+      "Shaking"
+    ],
+    [
+      "Citrine Wagtail",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Citrine Wagtail",
+      "Preening"
+    ],
+    [
+      "Citrine Wagtail",
+      "Shaking"
+    ],
+    [
+      "Citrine Wagtail",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Citrine Wagtail",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.87,
+          "end": 2.741,
+          "start_frame": 21,
+          "end_frame": 66
+        },
+        {
+          "action": "Shaking",
+          "start": 2.78,
+          "end": 7.125,
+          "start_frame": 67,
+          "end_frame": 171
+        },
+        {
+          "action": "Preening",
+          "start": 4.294,
+          "end": 6.391,
+          "start_frame": 103,
+          "end_frame": 153
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "ENRDPBQT",
+  "video": "ENRDPBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Long Tail Scorpion"
+  ],
+  "list_animal_action": [
+    [
+      "Long Tail Scorpion",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Long Tail Scorpion",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Long Tail Scorpion",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.116,
+          "start_frame": 0,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

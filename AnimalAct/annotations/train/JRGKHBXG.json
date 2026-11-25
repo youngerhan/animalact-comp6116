@@ -1,0 +1,119 @@
+{
+  "video_id": "JRGKHBXG",
+  "video": "JRGKHBXG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Shaking Head"
+    ],
+    [
+      "Common Crane",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Shaking Head"
+    ],
+    [
+      "Common Crane",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.0,
+          "end": 0.192,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.204,
+          "end": 0.512,
+          "start_frame": 5,
+          "end_frame": 12
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 1.367,
+          "end": 1.694,
+          "start_frame": 33,
+          "end_frame": 41
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.7,
+          "end": 2.04,
+          "start_frame": 41,
+          "end_frame": 49
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 3.09,
+          "end": 3.48,
+          "start_frame": 74,
+          "end_frame": 84
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.498,
+          "end": 3.831,
+          "start_frame": 84,
+          "end_frame": 92
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 4.699,
+          "end": 5.095,
+          "start_frame": 113,
+          "end_frame": 122
+        },
+        {
+          "action": "Shaking Head",
+          "start": 5.108,
+          "end": 5.554,
+          "start_frame": 123,
+          "end_frame": 133
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 6.767,
+          "end": 7.17,
+          "start_frame": 162,
+          "end_frame": 172
+        },
+        {
+          "action": "Shaking Head",
+          "start": 7.195,
+          "end": 7.547,
+          "start_frame": 173,
+          "end_frame": 181
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 8.647,
+          "end": 9.093,
+          "start_frame": 208,
+          "end_frame": 218
+        },
+        {
+          "action": "Shaking Head",
+          "start": 9.099,
+          "end": 9.417,
+          "start_frame": 218,
+          "end_frame": 226
+        }
+      ]
+    }
+  ]
+}

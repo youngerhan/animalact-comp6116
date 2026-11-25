@@ -1,0 +1,64 @@
+{
+  "video_id": "NPACYMRN",
+  "video": "NPACYMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.719,
+          "start_frame": 0,
+          "end_frame": 41
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.719,
+          "start_frame": 0,
+          "end_frame": 41
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

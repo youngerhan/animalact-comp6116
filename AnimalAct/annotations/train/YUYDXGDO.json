@@ -1,0 +1,64 @@
+{
+  "video_id": "YUYDXGDO",
+  "video": "YUYDXGDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "California Oak Moth Larva"
+  ],
+  "list_animal_action": [
+    [
+      "California Oak Moth Larva",
+      "Eating"
+    ],
+    [
+      "California Oak Moth Larva",
+      "Moving"
+    ],
+    [
+      "California Oak Moth Larva",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "California Oak Moth Larva",
+      "Eating"
+    ],
+    [
+      "California Oak Moth Larva",
+      "Moving"
+    ],
+    [
+      "California Oak Moth Larva",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "California Oak Moth Larva",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.508,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.508,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.508,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

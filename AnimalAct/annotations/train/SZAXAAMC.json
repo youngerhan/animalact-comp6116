@@ -1,0 +1,55 @@
+{
+  "video_id": "SZAXAAMC",
+  "video": "SZAXAAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young",
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Lying Down"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Lying Down"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Lying Down",
+          "start": 0.0,
+          "end": 2.125,
+          "start_frame": 0,
+          "end_frame": 51
+        }
+      ]
+    },
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.917,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

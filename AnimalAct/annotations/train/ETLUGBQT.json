@@ -1,0 +1,49 @@
+{
+  "video_id": "ETLUGBQT",
+  "video": "ETLUGBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Weaver Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Weaver Ant",
+      "Moving"
+    ],
+    [
+      "Weaver Ant",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Weaver Ant",
+      "Moving"
+    ],
+    [
+      "Weaver Ant",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Weaver Ant",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.834,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Moving",
+          "start": 0.162,
+          "end": 0.457,
+          "start_frame": 4,
+          "end_frame": 11
+        }
+      ]
+    }
+  ]
+}

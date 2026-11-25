@@ -1,0 +1,49 @@
+{
+  "video_id": "EFJDMGHA",
+  "video": "EFJDMGHA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nightingale Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Nightingale Bird",
+      "Keeping still"
+    ],
+    [
+      "Nightingale Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nightingale Bird",
+      "Keeping still"
+    ],
+    [
+      "Nightingale Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nightingale Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.435,
+          "start_frame": 0,
+          "end_frame": 82
+        },
+        {
+          "action": "Flying",
+          "start": 8.442,
+          "end": 8.726,
+          "start_frame": 203,
+          "end_frame": 209
+        }
+      ]
+    }
+  ]
+}

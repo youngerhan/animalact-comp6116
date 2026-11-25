@@ -1,0 +1,77 @@
+{
+  "video_id": "FSEVAVCR",
+  "video": "FSEVAVCR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tortoise"
+  ],
+  "list_animal_action": [
+    [
+      "Tortoise",
+      "Walking"
+    ],
+    [
+      "Tortoise",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tortoise",
+      "Walking"
+    ],
+    [
+      "Tortoise",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tortoise",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.37,
+          "start_frame": 0,
+          "end_frame": 57
+        },
+        {
+          "action": "Walking",
+          "start": 2.37,
+          "end": 9.738,
+          "start_frame": 57,
+          "end_frame": 234
+        },
+        {
+          "action": "Keeping still",
+          "start": 9.726,
+          "end": 15.826,
+          "start_frame": 233,
+          "end_frame": 380
+        },
+        {
+          "action": "Walking",
+          "start": 15.826,
+          "end": 33.326,
+          "start_frame": 380,
+          "end_frame": 800
+        },
+        {
+          "action": "Keeping still",
+          "start": 33.326,
+          "end": 35.0,
+          "start_frame": 800,
+          "end_frame": 840
+        },
+        {
+          "action": "Walking",
+          "start": 35.0,
+          "end": 38.602,
+          "start_frame": 840,
+          "end_frame": 926
+        }
+      ]
+    }
+  ]
+}

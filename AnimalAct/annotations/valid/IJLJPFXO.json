@@ -1,0 +1,49 @@
+{
+  "video_id": "IJLJPFXO",
+  "video": "IJLJPFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Washing"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Washing"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.684,
+          "start_frame": 0,
+          "end_frame": 16
+        },
+        {
+          "action": "Washing",
+          "start": 0.68,
+          "end": 1.208,
+          "start_frame": 16,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

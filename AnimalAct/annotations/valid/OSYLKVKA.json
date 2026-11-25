@@ -1,0 +1,113 @@
+{
+  "video_id": "OSYLKVKA",
+  "video": "OSYLKVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Shaking"
+    ],
+    [
+      "Common Quail",
+      "Eating"
+    ],
+    [
+      "Common Quail",
+      "Pecking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Shaking"
+    ],
+    [
+      "Common Quail",
+      "Eating"
+    ],
+    [
+      "Common Quail",
+      "Pecking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Pecking",
+          "start": 0.125,
+          "end": 0.625,
+          "start_frame": 3,
+          "end_frame": 15
+        },
+        {
+          "action": "Eating",
+          "start": 0.138,
+          "end": 0.596,
+          "start_frame": 3,
+          "end_frame": 14
+        },
+        {
+          "action": "Pecking",
+          "start": 1.125,
+          "end": 2.125,
+          "start_frame": 27,
+          "end_frame": 51
+        },
+        {
+          "action": "Eating",
+          "start": 2.013,
+          "end": 2.513,
+          "start_frame": 48,
+          "end_frame": 60
+        },
+        {
+          "action": "Shaking",
+          "start": 2.5,
+          "end": 5.125,
+          "start_frame": 60,
+          "end_frame": 123
+        },
+        {
+          "action": "Pecking",
+          "start": 4.599,
+          "end": 5.558,
+          "start_frame": 110,
+          "end_frame": 133
+        },
+        {
+          "action": "Pecking",
+          "start": 5.766,
+          "end": 7.516,
+          "start_frame": 138,
+          "end_frame": 180
+        },
+        {
+          "action": "Shaking",
+          "start": 7.5,
+          "end": 11.625,
+          "start_frame": 180,
+          "end_frame": 279
+        },
+        {
+          "action": "Pecking",
+          "start": 8.891,
+          "end": 10.474,
+          "start_frame": 213,
+          "end_frame": 251
+        },
+        {
+          "action": "Pecking",
+          "start": 10.558,
+          "end": 11.391,
+          "start_frame": 253,
+          "end_frame": 273
+        }
+      ]
+    }
+  ]
+}

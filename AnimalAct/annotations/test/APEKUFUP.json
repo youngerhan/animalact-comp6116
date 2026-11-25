@@ -1,0 +1,64 @@
+{
+  "video_id": "APEKUFUP",
+  "video": "APEKUFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.422,
+          "start_frame": 0,
+          "end_frame": 34
+        },
+        {
+          "action": "Sensing",
+          "start": 1.43,
+          "end": 6.424,
+          "start_frame": 34,
+          "end_frame": 154
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.414,
+          "end": 8.834,
+          "start_frame": 154,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

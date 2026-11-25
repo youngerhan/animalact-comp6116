@@ -1,0 +1,34 @@
+{
+  "video_id": "JLYEQDSN",
+  "video": "JLYEQDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snow Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Snow Leopard",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snow Leopard",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snow Leopard",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 1.018,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

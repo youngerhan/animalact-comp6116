@@ -1,0 +1,34 @@
+{
+  "video_id": "RNHWUNPO",
+  "video": "RNHWUNPO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hyena"
+  ],
+  "list_animal_action": [
+    [
+      "Hyena",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hyena",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 0.917,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

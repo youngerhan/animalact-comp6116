@@ -1,0 +1,41 @@
+{
+  "video_id": "OISVWRFV",
+  "video": "OISVWRFV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mountain Yellow-Legged Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Mountain Yellow-Legged Frog",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mountain Yellow-Legged Frog",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mountain Yellow-Legged Frog",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 0.63,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Jumping",
+          "start": 1.195,
+          "end": 1.917,
+          "start_frame": 29,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

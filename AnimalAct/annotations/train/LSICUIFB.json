@@ -1,0 +1,34 @@
+{
+  "video_id": "LSICUIFB",
+  "video": "LSICUIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Golden Poison Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Golden Poison Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Golden Poison Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Golden Poison Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

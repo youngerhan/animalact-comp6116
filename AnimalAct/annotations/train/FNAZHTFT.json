@@ -1,0 +1,92 @@
+{
+  "video_id": "FNAZHTFT",
+  "video": "FNAZHTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 12.094,
+          "start_frame": 0,
+          "end_frame": 290
+        },
+        {
+          "action": "Sensing",
+          "start": 3.094,
+          "end": 5.219,
+          "start_frame": 74,
+          "end_frame": 125
+        },
+        {
+          "action": "Sensing",
+          "start": 5.344,
+          "end": 10.594,
+          "start_frame": 128,
+          "end_frame": 254
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 8.594,
+          "end": 10.469,
+          "start_frame": 206,
+          "end_frame": 251
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 10.969,
+          "end": 11.094,
+          "start_frame": 263,
+          "end_frame": 266
+        },
+        {
+          "action": "Sensing",
+          "start": 10.969,
+          "end": 11.469,
+          "start_frame": 263,
+          "end_frame": 275
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 11.344,
+          "end": 11.469,
+          "start_frame": 272,
+          "end_frame": 275
+        }
+      ]
+    }
+  ]
+}

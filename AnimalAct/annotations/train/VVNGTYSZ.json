@@ -1,0 +1,49 @@
+{
+  "video_id": "VVNGTYSZ",
+  "video": "VVNGTYSZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fruit Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Fruit Fly",
+      "Grooming"
+    ],
+    [
+      "Fruit Fly",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fruit Fly",
+      "Grooming"
+    ],
+    [
+      "Fruit Fly",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fruit Fly",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.292,
+          "end": 0.786,
+          "start_frame": 7,
+          "end_frame": 19
+        },
+        {
+          "action": "Grooming",
+          "start": 0.793,
+          "end": 3.919,
+          "start_frame": 19,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

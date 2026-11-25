@@ -1,0 +1,49 @@
+{
+  "video_id": "RUGVITCN",
+  "video": "RUGVITCN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse Young"
+  ],
+  "list_animal_action": [
+    [
+      "Horse Young",
+      "Eating"
+    ],
+    [
+      "Horse Young",
+      "Tail Swishing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse Young",
+      "Eating"
+    ],
+    [
+      "Horse Young",
+      "Tail Swishing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse Young",
+      "actions": [
+        {
+          "action": "Tail Swishing",
+          "start": 0.0,
+          "end": 0.583,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

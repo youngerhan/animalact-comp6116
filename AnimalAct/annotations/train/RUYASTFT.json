@@ -1,0 +1,79 @@
+{
+  "video_id": "RUYASTFT",
+  "video": "RUYASTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Retaliating"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Retaliating"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 15.833,
+          "start_frame": 0,
+          "end_frame": 380
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 8.094,
+          "end": 8.219,
+          "start_frame": 194,
+          "end_frame": 197
+        },
+        {
+          "action": "Fighting",
+          "start": 8.094,
+          "end": 8.219,
+          "start_frame": 194,
+          "end_frame": 197
+        },
+        {
+          "action": "Retaliating",
+          "start": 8.219,
+          "end": 8.344,
+          "start_frame": 197,
+          "end_frame": 200
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "TAVXDVTT",
+  "video": "TAVXDVTT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leafcutter Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Leafcutter Ant",
+      "Carrying In Mouth"
+    ],
+    [
+      "Leafcutter Ant",
+      "Moving"
+    ],
+    [
+      "Leafcutter Ant",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leafcutter Ant",
+      "Carrying In Mouth"
+    ],
+    [
+      "Leafcutter Ant",
+      "Moving"
+    ],
+    [
+      "Leafcutter Ant",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leafcutter Ant",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 6.617,
+          "start_frame": 0,
+          "end_frame": 159
+        },
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 6.625,
+          "start_frame": 0,
+          "end_frame": 159
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 4.083,
+          "end": 6.625,
+          "start_frame": 98,
+          "end_frame": 159
+        }
+      ]
+    }
+  ]
+}

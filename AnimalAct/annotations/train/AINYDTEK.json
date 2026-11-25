@@ -1,0 +1,49 @@
+{
+  "video_id": "AINYDTEK",
+  "video": "AINYDTEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sloth Bear"
+  ],
+  "list_animal_action": [
+    [
+      "Sloth Bear",
+      "Attending"
+    ],
+    [
+      "Sloth Bear",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sloth Bear",
+      "Attending"
+    ],
+    [
+      "Sloth Bear",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sloth Bear",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        }
+      ]
+    }
+  ]
+}

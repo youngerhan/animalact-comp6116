@@ -1,0 +1,55 @@
+{
+  "video_id": "NUWEFVJP",
+  "video": "NUWEFVJP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Worm",
+    "Diving Bell Water Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Worm",
+      "Keeping still"
+    ],
+    [
+      "Diving Bell Water Spider",
+      "Turning Around"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Worm",
+      "Keeping still"
+    ],
+    [
+      "Diving Bell Water Spider",
+      "Turning Around"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Worm",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 12.333,
+          "start_frame": 0,
+          "end_frame": 296
+        }
+      ]
+    },
+    {
+      "animal": "Diving Bell Water Spider",
+      "actions": [
+        {
+          "action": "Turning Around",
+          "start": 0.0,
+          "end": 4.042,
+          "start_frame": 0,
+          "end_frame": 97
+        }
+      ]
+    }
+  ]
+}

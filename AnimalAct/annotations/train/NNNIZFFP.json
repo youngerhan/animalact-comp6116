@@ -1,0 +1,49 @@
+{
+  "video_id": "NNNIZFFP",
+  "video": "NNNIZFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Running"
+    ],
+    [
+      "Maroon Macaque",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Running"
+    ],
+    [
+      "Maroon Macaque",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.001,
+          "end": 0.835,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Running",
+          "start": 0.002,
+          "end": 0.557,
+          "start_frame": 0,
+          "end_frame": 13
+        }
+      ]
+    }
+  ]
+}

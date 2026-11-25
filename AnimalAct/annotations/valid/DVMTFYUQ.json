@@ -1,0 +1,70 @@
+{
+  "video_id": "DVMTFYUQ",
+  "video": "DVMTFYUQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Formica Accreta",
+    "Polyergus Mexicanus"
+  ],
+  "list_animal_action": [
+    [
+      "Formica Accreta",
+      "Moving"
+    ],
+    [
+      "Formica Accreta",
+      "Sharing Food"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Formica Accreta",
+      "Moving"
+    ],
+    [
+      "Formica Accreta",
+      "Sharing Food"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Formica Accreta",
+      "actions": [
+        {
+          "action": "Sharing Food",
+          "start": 0.0,
+          "end": 1.018,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Moving",
+          "start": 0.459,
+          "end": 1.017,
+          "start_frame": 11,
+          "end_frame": 24
+        }
+      ]
+    },
+    {
+      "animal": "Polyergus Mexicanus",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 1.018,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

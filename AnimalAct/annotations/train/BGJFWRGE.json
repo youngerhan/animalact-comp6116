@@ -1,0 +1,34 @@
+{
+  "video_id": "BGJFWRGE",
+  "video": "BGJFWRGE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Marine Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Marine Iguana",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Marine Iguana",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Marine Iguana",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.021,
+          "end": 4.023,
+          "start_frame": 1,
+          "end_frame": 97
+        }
+      ]
+    }
+  ]
+}

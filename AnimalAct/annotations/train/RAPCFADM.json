@@ -1,0 +1,49 @@
+{
+  "video_id": "RAPCFADM",
+  "video": "RAPCFADM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aesculapian Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Lying On Top"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Lying On Top"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aesculapian Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.005,
+          "end": 10.744,
+          "start_frame": 0,
+          "end_frame": 258
+        },
+        {
+          "action": "Lying On Top",
+          "start": 1.448,
+          "end": 10.743,
+          "start_frame": 35,
+          "end_frame": 258
+        }
+      ]
+    }
+  ]
+}

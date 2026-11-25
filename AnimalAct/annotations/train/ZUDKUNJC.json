@@ -1,0 +1,34 @@
+{
+  "video_id": "ZUDKUNJC",
+  "video": "ZUDKUNJC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.01,
+          "end": 1.516,
+          "start_frame": 0,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

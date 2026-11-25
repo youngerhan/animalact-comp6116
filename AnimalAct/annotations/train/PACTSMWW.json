@@ -1,0 +1,126 @@
+{
+  "video_id": "PACTSMWW",
+  "video": "PACTSMWW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Luscinia Luscinia Nightingale Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Luscinia Luscinia Nightingale Bird",
+      "Keeping still"
+    ],
+    [
+      "Luscinia Luscinia Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Luscinia Luscinia Nightingale Bird",
+      "Keeping still"
+    ],
+    [
+      "Luscinia Luscinia Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Luscinia Luscinia Nightingale Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Chirping",
+          "start": 1.0,
+          "end": 5.0,
+          "start_frame": 24,
+          "end_frame": 120
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.0,
+          "end": 6.375,
+          "start_frame": 120,
+          "end_frame": 153
+        },
+        {
+          "action": "Chirping",
+          "start": 6.375,
+          "end": 6.875,
+          "start_frame": 153,
+          "end_frame": 165
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.875,
+          "end": 7.625,
+          "start_frame": 165,
+          "end_frame": 183
+        },
+        {
+          "action": "Chirping",
+          "start": 7.625,
+          "end": 8.125,
+          "start_frame": 183,
+          "end_frame": 195
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.125,
+          "end": 9.625,
+          "start_frame": 195,
+          "end_frame": 231
+        },
+        {
+          "action": "Chirping",
+          "start": 9.625,
+          "end": 11.125,
+          "start_frame": 231,
+          "end_frame": 267
+        },
+        {
+          "action": "Keeping still",
+          "start": 11.125,
+          "end": 12.875,
+          "start_frame": 267,
+          "end_frame": 309
+        },
+        {
+          "action": "Chirping",
+          "start": 12.875,
+          "end": 13.375,
+          "start_frame": 309,
+          "end_frame": 321
+        },
+        {
+          "action": "Keeping still",
+          "start": 13.375,
+          "end": 14.0,
+          "start_frame": 321,
+          "end_frame": 336
+        },
+        {
+          "action": "Chirping",
+          "start": 14.0,
+          "end": 16.0,
+          "start_frame": 336,
+          "end_frame": 384
+        },
+        {
+          "action": "Keeping still",
+          "start": 16.0,
+          "end": 17.208,
+          "start_frame": 384,
+          "end_frame": 413
+        }
+      ]
+    }
+  ]
+}

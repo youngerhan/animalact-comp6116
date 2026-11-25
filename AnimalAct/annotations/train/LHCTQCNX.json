@@ -1,0 +1,34 @@
+{
+  "video_id": "LHCTQCNX",
+  "video": "LHCTQCNX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.832,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

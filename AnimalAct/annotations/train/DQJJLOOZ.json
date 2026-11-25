@@ -1,0 +1,55 @@
+{
+  "video_id": "DQJJLOOZ",
+  "video": "DQJJLOOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spider",
+    "Western Widow Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Spider",
+      "Building nest"
+    ],
+    [
+      "Western Widow Spider",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spider",
+      "Building nest"
+    ],
+    [
+      "Western Widow Spider",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Building nest",
+          "start": 0.0,
+          "end": 7.834,
+          "start_frame": 0,
+          "end_frame": 188
+        }
+      ]
+    },
+    {
+      "animal": "Western Widow Spider",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.834,
+          "start_frame": 0,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

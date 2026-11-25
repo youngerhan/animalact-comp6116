@@ -1,0 +1,84 @@
+{
+  "video_id": "ALZOTVEI",
+  "video": "ALZOTVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Charadrius Dubius Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Charadrius Dubius Bird",
+      "Doing A Neck Raise"
+    ],
+    [
+      "Charadrius Dubius Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Charadrius Dubius Bird",
+      "Doing A Neck Raise"
+    ],
+    [
+      "Charadrius Dubius Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Charadrius Dubius Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.001,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Doing A Neck Raise",
+          "start": 0.708,
+          "end": 1.468,
+          "start_frame": 17,
+          "end_frame": 35
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.452,
+          "end": 4.011,
+          "start_frame": 83,
+          "end_frame": 96
+        },
+        {
+          "action": "Doing A Neck Raise",
+          "start": 5.4,
+          "end": 5.768,
+          "start_frame": 130,
+          "end_frame": 138
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.079,
+          "end": 6.714,
+          "start_frame": 146,
+          "end_frame": 161
+        },
+        {
+          "action": "Doing A Neck Raise",
+          "start": 6.364,
+          "end": 6.482,
+          "start_frame": 153,
+          "end_frame": 156
+        },
+        {
+          "action": "Doing A Neck Raise",
+          "start": 6.666,
+          "end": 6.758,
+          "start_frame": 160,
+          "end_frame": 162
+        }
+      ]
+    }
+  ]
+}

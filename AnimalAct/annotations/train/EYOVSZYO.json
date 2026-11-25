@@ -1,0 +1,49 @@
+{
+  "video_id": "EYOVSZYO",
+  "video": "EYOVSZYO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Stork"
+  ],
+  "list_animal_action": [
+    [
+      "Black Stork",
+      "Exploring"
+    ],
+    [
+      "Black Stork",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Stork",
+      "Exploring"
+    ],
+    [
+      "Black Stork",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Stork",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.219,
+          "start_frame": 0,
+          "end_frame": 29
+        },
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

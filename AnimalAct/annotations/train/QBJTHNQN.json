@@ -1,0 +1,70 @@
+{
+  "video_id": "QBJTHNQN",
+  "video": "QBJTHNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Thrush Nightingale Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Thrush Nightingale Bird",
+      "Attending"
+    ],
+    [
+      "Thrush Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Thrush Nightingale Bird",
+      "Attending"
+    ],
+    [
+      "Thrush Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Thrush Nightingale Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.458,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Chirping",
+          "start": 0.458,
+          "end": 4.417,
+          "start_frame": 11,
+          "end_frame": 106
+        },
+        {
+          "action": "Attending",
+          "start": 4.417,
+          "end": 7.167,
+          "start_frame": 106,
+          "end_frame": 172
+        },
+        {
+          "action": "Chirping",
+          "start": 7.167,
+          "end": 10.292,
+          "start_frame": 172,
+          "end_frame": 247
+        },
+        {
+          "action": "Attending",
+          "start": 10.292,
+          "end": 10.708,
+          "start_frame": 247,
+          "end_frame": 257
+        }
+      ]
+    }
+  ]
+}

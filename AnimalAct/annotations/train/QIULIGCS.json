@@ -1,0 +1,79 @@
+{
+  "video_id": "QIULIGCS",
+  "video": "QIULIGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Barking",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        },
+        {
+          "action": "Retreating",
+          "start": 0.791,
+          "end": 1.917,
+          "start_frame": 19,
+          "end_frame": 46
+        },
+        {
+          "action": "Startled",
+          "start": 0.798,
+          "end": 1.917,
+          "start_frame": 19,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

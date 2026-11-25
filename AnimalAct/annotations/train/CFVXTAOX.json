@@ -1,0 +1,34 @@
+{
+  "video_id": "CFVXTAOX",
+  "video": "CFVXTAOX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leatherback Sea Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Leatherback Sea Turtle",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leatherback Sea Turtle",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leatherback Sea Turtle",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 5.971,
+          "start_frame": 0,
+          "end_frame": 143
+        }
+      ]
+    }
+  ]
+}

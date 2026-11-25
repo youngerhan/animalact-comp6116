@@ -1,0 +1,34 @@
+{
+  "video_id": "ZCBGJBQT",
+  "video": "ZCBGJBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Weaver Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Weaver Ant",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Weaver Ant",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Weaver Ant",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.725,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

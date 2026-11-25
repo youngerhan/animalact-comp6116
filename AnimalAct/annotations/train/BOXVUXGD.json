@@ -1,0 +1,41 @@
+{
+  "video_id": "BOXVUXGD",
+  "video": "BOXVUXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Having A Flehmen Response"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Having A Flehmen Response"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Having A Flehmen Response",
+          "start": 0.042,
+          "end": 3.375,
+          "start_frame": 1,
+          "end_frame": 81
+        },
+        {
+          "action": "Having A Flehmen Response",
+          "start": 4.736,
+          "end": 5.78,
+          "start_frame": 114,
+          "end_frame": 139
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "CHBZBPDI",
+  "video": "CHBZBPDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Turtle",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turtle",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turtle",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 8.272,
+          "start_frame": 0,
+          "end_frame": 199
+        }
+      ]
+    }
+  ]
+}

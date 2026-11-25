@@ -1,0 +1,49 @@
+{
+  "video_id": "DEGPRNQN",
+  "video": "DEGPRNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Thrush Nightingale Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Thrush Nightingale Bird",
+      "Keeping still"
+    ],
+    [
+      "Thrush Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Thrush Nightingale Bird",
+      "Keeping still"
+    ],
+    [
+      "Thrush Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Thrush Nightingale Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.166,
+          "end": 4.044,
+          "start_frame": 4,
+          "end_frame": 97
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.09,
+          "end": 6.363,
+          "start_frame": 98,
+          "end_frame": 153
+        }
+      ]
+    }
+  ]
+}

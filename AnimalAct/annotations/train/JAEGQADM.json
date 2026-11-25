@@ -1,0 +1,49 @@
+{
+  "video_id": "JAEGQADM",
+  "video": "JAEGQADM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aesculapian Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aesculapian Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.909,
+          "start_frame": 0,
+          "end_frame": 22
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.0,
+          "end": 1.265,
+          "start_frame": 0,
+          "end_frame": 30
+        }
+      ]
+    }
+  ]
+}

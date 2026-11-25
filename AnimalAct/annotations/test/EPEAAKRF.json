@@ -1,0 +1,49 @@
+{
+  "video_id": "EPEAAKRF",
+  "video": "EPEAAKRF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dispholidus Typus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dispholidus Typus Snake",
+      "Keeping still"
+    ],
+    [
+      "Dispholidus Typus Snake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dispholidus Typus Snake",
+      "Keeping still"
+    ],
+    [
+      "Dispholidus Typus Snake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dispholidus Typus Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.0,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.0,
+          "start_frame": 0,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "JAZZMSBA",
+  "video": "JAZZMSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Attending"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Attending"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.969,
+          "start_frame": 0,
+          "end_frame": 71
+        },
+        {
+          "action": "Flying",
+          "start": 3.594,
+          "end": 4.094,
+          "start_frame": 86,
+          "end_frame": 98
+        }
+      ]
+    }
+  ]
+}

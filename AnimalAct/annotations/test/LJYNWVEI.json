@@ -1,0 +1,49 @@
+{
+  "video_id": "LJYNWVEI",
+  "video": "LJYNWVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Charadrius Dubius Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Charadrius Dubius Bird",
+      "Doing A Neck Raise"
+    ],
+    [
+      "Charadrius Dubius Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Charadrius Dubius Bird",
+      "Doing A Neck Raise"
+    ],
+    [
+      "Charadrius Dubius Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Charadrius Dubius Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 8.125,
+          "start_frame": 0,
+          "end_frame": 195
+        },
+        {
+          "action": "Doing A Neck Raise",
+          "start": 6.375,
+          "end": 6.875,
+          "start_frame": 153,
+          "end_frame": 165
+        }
+      ]
+    }
+  ]
+}

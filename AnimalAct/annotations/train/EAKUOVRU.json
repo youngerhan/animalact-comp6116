@@ -1,0 +1,34 @@
+{
+  "video_id": "EAKUOVRU",
+  "video": "EAKUOVRU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spiny Flower Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Spiny Flower Mantis",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spiny Flower Mantis",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spiny Flower Mantis",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.705,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

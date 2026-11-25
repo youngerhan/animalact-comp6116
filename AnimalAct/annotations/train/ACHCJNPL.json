@@ -1,0 +1,34 @@
+{
+  "video_id": "ACHCJNPL",
+  "video": "ACHCJNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Squirrel"
+  ],
+  "list_animal_action": [
+    [
+      "Squirrel",
+      "Digging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Squirrel",
+      "Digging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Squirrel",
+      "actions": [
+        {
+          "action": "Digging",
+          "start": 0.208,
+          "end": 4.167,
+          "start_frame": 5,
+          "end_frame": 100
+        }
+      ]
+    }
+  ]
+}

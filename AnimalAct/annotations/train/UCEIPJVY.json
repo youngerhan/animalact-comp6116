@@ -1,0 +1,34 @@
+{
+  "video_id": "UCEIPJVY",
+  "video": "UCEIPJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Flapping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Flapping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.529,
+          "end": 2.098,
+          "start_frame": 13,
+          "end_frame": 50
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "TERBENPL",
+  "video": "TERBENPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chimpanzee"
+  ],
+  "list_animal_action": [
+    [
+      "Chimpanzee",
+      "Sensing"
+    ],
+    [
+      "Chimpanzee",
+      "Manipulating Object"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chimpanzee",
+      "Sensing"
+    ],
+    [
+      "Chimpanzee",
+      "Manipulating Object"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chimpanzee",
+      "actions": [
+        {
+          "action": "Manipulating Object",
+          "start": 0.0,
+          "end": 3.083,
+          "start_frame": 0,
+          "end_frame": 74
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

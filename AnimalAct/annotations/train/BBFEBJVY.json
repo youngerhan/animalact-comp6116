@@ -1,0 +1,100 @@
+{
+  "video_id": "BBFEBJVY",
+  "video": "BBFEBJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Landing"
+    ],
+    [
+      "Goldfinch",
+      "Sensing"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Landing"
+    ],
+    [
+      "Goldfinch",
+      "Sensing"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.102,
+          "start_frame": 0,
+          "end_frame": 2
+        },
+        {
+          "action": "Sensing",
+          "start": 0.176,
+          "end": 0.38,
+          "start_frame": 4,
+          "end_frame": 9
+        },
+        {
+          "action": "Flapping",
+          "start": 0.484,
+          "end": 1.508,
+          "start_frame": 12,
+          "end_frame": 36
+        },
+        {
+          "action": "Eating",
+          "start": 0.764,
+          "end": 1.264,
+          "start_frame": 18,
+          "end_frame": 30
+        },
+        {
+          "action": "Landing",
+          "start": 1.065,
+          "end": 1.512,
+          "start_frame": 26,
+          "end_frame": 36
+        },
+        {
+          "action": "Sensing",
+          "start": 1.561,
+          "end": 1.751,
+          "start_frame": 37,
+          "end_frame": 42
+        },
+        {
+          "action": "Eating",
+          "start": 1.842,
+          "end": 2.008,
+          "start_frame": 44,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

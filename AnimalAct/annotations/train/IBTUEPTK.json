@@ -1,0 +1,84 @@
+{
+  "video_id": "IBTUEPTK",
+  "video": "IBTUEPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.0,
+          "end": 3.25,
+          "start_frame": 72,
+          "end_frame": 78
+        },
+        {
+          "action": "Chirping",
+          "start": 3.25,
+          "end": 6.0,
+          "start_frame": 78,
+          "end_frame": 144
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.0,
+          "end": 6.75,
+          "start_frame": 144,
+          "end_frame": 162
+        },
+        {
+          "action": "Chirping",
+          "start": 6.75,
+          "end": 8.5,
+          "start_frame": 162,
+          "end_frame": 204
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.5,
+          "end": 9.25,
+          "start_frame": 204,
+          "end_frame": 222
+        },
+        {
+          "action": "Chirping",
+          "start": 9.25,
+          "end": 14.125,
+          "start_frame": 222,
+          "end_frame": 339
+        }
+      ]
+    }
+  ]
+}

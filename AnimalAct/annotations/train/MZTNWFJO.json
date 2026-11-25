@@ -1,0 +1,34 @@
+{
+  "video_id": "MZTNWFJO",
+  "video": "MZTNWFJO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.21,
+          "end": 0.585,
+          "start_frame": 5,
+          "end_frame": 14
+        }
+      ]
+    }
+  ]
+}

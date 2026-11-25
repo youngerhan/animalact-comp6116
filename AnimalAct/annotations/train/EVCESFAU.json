@@ -1,0 +1,34 @@
+{
+  "video_id": "EVCESFAU",
+  "video": "EVCESFAU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cockroach"
+  ],
+  "list_animal_action": [
+    [
+      "Cockroach",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cockroach",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cockroach",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

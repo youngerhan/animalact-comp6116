@@ -1,0 +1,64 @@
+{
+  "video_id": "JJLCDZJZ",
+  "video": "JJLCDZJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Attending"
+    ],
+    [
+      "Raven",
+      "Spreading Wings"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Attending"
+    ],
+    [
+      "Raven",
+      "Spreading Wings"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 0.833,
+          "end": 3.75,
+          "start_frame": 20,
+          "end_frame": 90
+        },
+        {
+          "action": "Sensing",
+          "start": 4.375,
+          "end": 6.917,
+          "start_frame": 105,
+          "end_frame": 166
+        }
+      ]
+    }
+  ]
+}

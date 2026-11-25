@@ -1,0 +1,70 @@
+{
+  "video_id": "PJOBDCJH",
+  "video": "PJOBDCJH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aphid",
+    "Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Aphid",
+      "Being Carried In Mouth"
+    ],
+    [
+      "Wasp",
+      "Flying"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aphid",
+      "Being Carried In Mouth"
+    ],
+    [
+      "Wasp",
+      "Flying"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.613,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Being Carried In Mouth",
+          "start": 0.024,
+          "end": 1.035,
+          "start_frame": 1,
+          "end_frame": 25
+        }
+      ]
+    },
+    {
+      "animal": "Wasp",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.728,
+          "end": 1.082,
+          "start_frame": 17,
+          "end_frame": 26
+        }
+      ]
+    }
+  ]
+}

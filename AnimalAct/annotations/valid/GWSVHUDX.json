@@ -1,0 +1,55 @@
+{
+  "video_id": "GWSVHUDX",
+  "video": "GWSVHUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard",
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Leopard",
+      "Fleeing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Leopard",
+      "Fleeing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.0,
+          "end": 0.583,
+          "start_frame": 0,
+          "end_frame": 14
+        }
+      ]
+    },
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Fleeing",
+          "start": 0.333,
+          "end": 0.792,
+          "start_frame": 8,
+          "end_frame": 19
+        }
+      ]
+    }
+  ]
+}

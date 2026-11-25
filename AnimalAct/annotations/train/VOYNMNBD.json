@@ -1,0 +1,34 @@
+{
+  "video_id": "VOYNMNBD",
+  "video": "VOYNMNBD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Pig-Tailed Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Pig-Tailed Macaque",
+      "Yawning"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Pig-Tailed Macaque",
+      "Yawning"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Pig-Tailed Macaque",
+      "actions": [
+        {
+          "action": "Yawning",
+          "start": 0.01,
+          "end": 5.417,
+          "start_frame": 0,
+          "end_frame": 130
+        }
+      ]
+    }
+  ]
+}

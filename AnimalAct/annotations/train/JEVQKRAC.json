@@ -1,0 +1,79 @@
+{
+  "video_id": "JEVQKRAC",
+  "video": "JEVQKRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Blacked Squirrel Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Climbing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Standing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Sensing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Climbing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Standing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Sensing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Blacked Squirrel Monkey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.338,
+          "start_frame": 0,
+          "end_frame": 128
+        },
+        {
+          "action": "Standing",
+          "start": 1.404,
+          "end": 5.362,
+          "start_frame": 34,
+          "end_frame": 129
+        },
+        {
+          "action": "Climbing",
+          "start": 5.356,
+          "end": 6.678,
+          "start_frame": 129,
+          "end_frame": 160
+        },
+        {
+          "action": "Jumping",
+          "start": 6.678,
+          "end": 7.359,
+          "start_frame": 160,
+          "end_frame": 177
+        }
+      ]
+    }
+  ]
+}

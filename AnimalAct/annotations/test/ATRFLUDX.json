@@ -1,0 +1,34 @@
+{
+  "video_id": "ATRFLUDX",
+  "video": "ATRFLUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cheetah"
+  ],
+  "list_animal_action": [
+    [
+      "Cheetah",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cheetah",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cheetah",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.014,
+          "end": 8.917,
+          "start_frame": 0,
+          "end_frame": 214
+        }
+      ]
+    }
+  ]
+}

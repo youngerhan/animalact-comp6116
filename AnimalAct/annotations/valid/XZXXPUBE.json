@@ -1,0 +1,34 @@
+{
+  "video_id": "XZXXPUBE",
+  "video": "XZXXPUBE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anisolabis Maritima"
+  ],
+  "list_animal_action": [
+    [
+      "Anisolabis Maritima",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anisolabis Maritima",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anisolabis Maritima",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 2.508,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

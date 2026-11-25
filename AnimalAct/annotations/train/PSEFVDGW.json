@@ -1,0 +1,34 @@
+{
+  "video_id": "PSEFVDGW",
+  "video": "PSEFVDGW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Stock Dove"
+  ],
+  "list_animal_action": [
+    [
+      "Stock Dove",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Stock Dove",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Stock Dove",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 2.06,
+          "end": 2.713,
+          "start_frame": 49,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

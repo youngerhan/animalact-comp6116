@@ -1,0 +1,49 @@
+{
+  "video_id": "BKSQZFFP",
+  "video": "BKSQZFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Keeping still"
+    ],
+    [
+      "Maroon Macaque",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Keeping still"
+    ],
+    [
+      "Maroon Macaque",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.007,
+          "end": 2.352,
+          "start_frame": 0,
+          "end_frame": 56
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.361,
+          "end": 3.005,
+          "start_frame": 57,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

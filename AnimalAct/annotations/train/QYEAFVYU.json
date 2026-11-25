@@ -1,0 +1,49 @@
+{
+  "video_id": "QYEAFVYU",
+  "video": "QYEAFVYU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Jumping"
+    ],
+    [
+      "Leopard",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Jumping"
+    ],
+    [
+      "Leopard",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.12,
+          "start_frame": 0,
+          "end_frame": 51
+        },
+        {
+          "action": "Jumping",
+          "start": 2.143,
+          "end": 2.85,
+          "start_frame": 51,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

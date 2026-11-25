@@ -1,0 +1,34 @@
+{
+  "video_id": "WORJZRFV",
+  "video": "WORJZRFV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mountain Yellow-Legged Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Mountain Yellow-Legged Frog",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mountain Yellow-Legged Frog",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mountain Yellow-Legged Frog",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 1.208,
+          "start_frame": 0,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

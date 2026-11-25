@@ -1,0 +1,55 @@
+{
+  "video_id": "VYMAOCEI",
+  "video": "VYMAOCEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant",
+    "Scorpion"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Eating"
+    ],
+    [
+      "Scorpion",
+      "Struggling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Eating"
+    ],
+    [
+      "Scorpion",
+      "Struggling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.71,
+          "start_frame": 0,
+          "end_frame": 89
+        }
+      ]
+    },
+    {
+      "animal": "Scorpion",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 0.0,
+          "end": 3.71,
+          "start_frame": 0,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

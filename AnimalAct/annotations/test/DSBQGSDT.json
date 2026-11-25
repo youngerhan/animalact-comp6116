@@ -1,0 +1,41 @@
+{
+  "video_id": "DSBQGSDT",
+  "video": "DSBQGSDT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Boreal Owl"
+  ],
+  "list_animal_action": [
+    [
+      "Boreal Owl",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Boreal Owl",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Boreal Owl",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.013,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.472,
+          "end": 4.508,
+          "start_frame": 83,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

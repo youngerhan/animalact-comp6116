@@ -1,0 +1,56 @@
+{
+  "video_id": "ZGXQVEUL",
+  "video": "ZGXQVEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.877,
+          "end": 2.478,
+          "start_frame": 21,
+          "end_frame": 59
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 2.504,
+          "end": 3.527,
+          "start_frame": 60,
+          "end_frame": 85
+        },
+        {
+          "action": "Sensing",
+          "start": 3.579,
+          "end": 5.51,
+          "start_frame": 86,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

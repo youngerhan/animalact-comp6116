@@ -1,0 +1,63 @@
+{
+  "video_id": "RCIARPTK",
+  "video": "RCIARPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.4,
+          "end": 4.0
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.0,
+          "end": 12.0
+        },
+        {
+          "action": "Attending",
+          "start": 12.0,
+          "end": 16.0
+        },
+        {
+          "action": "Chirping",
+          "start": 16.0,
+          "end": 20.83
+        }
+      ]
+    }
+  ]
+}

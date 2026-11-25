@@ -1,0 +1,76 @@
+{
+  "video_id": "QDKYKBGG",
+  "video": "QDKYKBGG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Citrine Wagtail"
+  ],
+  "list_animal_action": [
+    [
+      "Citrine Wagtail",
+      "Preening"
+    ],
+    [
+      "Citrine Wagtail",
+      "Shaking"
+    ],
+    [
+      "Citrine Wagtail",
+      "Attending"
+    ],
+    [
+      "Citrine Wagtail",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Citrine Wagtail",
+      "Preening"
+    ],
+    [
+      "Citrine Wagtail",
+      "Shaking"
+    ],
+    [
+      "Citrine Wagtail",
+      "Attending"
+    ],
+    [
+      "Citrine Wagtail",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Citrine Wagtail",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 1.2
+        },
+        {
+          "action": "Attending",
+          "start": 1.2,
+          "end": 3.4
+        },
+        {
+          "action": "Shaking",
+          "start": 3.4,
+          "end": 4.0
+        },
+        {
+          "action": "Chirping",
+          "start": 4.0,
+          "end": 4.9
+        },
+        {
+          "action": "Preening",
+          "start": 4.9,
+          "end": 5.5
+        }
+      ]
+    }
+  ]
+}

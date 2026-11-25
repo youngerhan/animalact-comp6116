@@ -1,0 +1,49 @@
+{
+  "video_id": "MHETUVEI",
+  "video": "MHETUVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Glareola Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Glareola Bird",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.0,
+          "end": 0.896,
+          "start_frame": 0,
+          "end_frame": 22
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.125,
+          "start_frame": 0,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

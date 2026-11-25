@@ -1,0 +1,64 @@
+{
+  "video_id": "WEFEKONO",
+  "video": "WEFEKONO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wood Warbler"
+  ],
+  "list_animal_action": [
+    [
+      "Wood Warbler",
+      "Turning Around"
+    ],
+    [
+      "Wood Warbler",
+      "Chirping"
+    ],
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wood Warbler",
+      "Turning Around"
+    ],
+    [
+      "Wood Warbler",
+      "Chirping"
+    ],
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wood Warbler",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 0.219,
+          "start_frame": 2,
+          "end_frame": 5
+        },
+        {
+          "action": "Turning Around",
+          "start": 3.094,
+          "end": 5.969,
+          "start_frame": 74,
+          "end_frame": 143
+        },
+        {
+          "action": "Chirping",
+          "start": 7.969,
+          "end": 9.469,
+          "start_frame": 191,
+          "end_frame": 227
+        }
+      ]
+    }
+  ]
+}

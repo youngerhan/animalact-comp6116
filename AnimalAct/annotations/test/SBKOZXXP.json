@@ -1,0 +1,55 @@
+{
+  "video_id": "SBKOZXXP",
+  "video": "SBKOZXXP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Pill Bug",
+    "Turret Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Pill Bug",
+      "Moving"
+    ],
+    [
+      "Turret Spider",
+      "Entering its nest"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Pill Bug",
+      "Moving"
+    ],
+    [
+      "Turret Spider",
+      "Entering its nest"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Pill Bug",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.662,
+          "start_frame": 0,
+          "end_frame": 40
+        }
+      ]
+    },
+    {
+      "animal": "Turret Spider",
+      "actions": [
+        {
+          "action": "Entering its nest",
+          "start": 0.0,
+          "end": 1.656,
+          "start_frame": 0,
+          "end_frame": 40
+        }
+      ]
+    }
+  ]
+}

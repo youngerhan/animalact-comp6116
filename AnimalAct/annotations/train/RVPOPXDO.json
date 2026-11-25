@@ -1,0 +1,70 @@
+{
+  "video_id": "RVPOPXDO",
+  "video": "RVPOPXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Buffalo",
+    "Giraffe"
+  ],
+  "list_animal_action": [
+    [
+      "Buffalo",
+      "Sensing"
+    ],
+    [
+      "Buffalo",
+      "Walking"
+    ],
+    [
+      "Giraffe",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Buffalo",
+      "Sensing"
+    ],
+    [
+      "Buffalo",
+      "Walking"
+    ],
+    [
+      "Giraffe",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Buffalo",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.521,
+          "start_frame": 0,
+          "end_frame": 13
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        }
+      ]
+    },
+    {
+      "animal": "Giraffe",
+      "actions": [
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.531,
+          "end": 1.17,
+          "start_frame": 13,
+          "end_frame": 28
+        }
+      ]
+    }
+  ]
+}

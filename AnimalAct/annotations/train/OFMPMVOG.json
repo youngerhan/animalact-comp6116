@@ -1,0 +1,34 @@
+{
+  "video_id": "OFMPMVOG",
+  "video": "OFMPMVOG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mojave Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Mojave Rattlesnake",
+      "Rattling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mojave Rattlesnake",
+      "Rattling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mojave Rattlesnake",
+      "actions": [
+        {
+          "action": "Rattling",
+          "start": 0.0,
+          "end": 15.469,
+          "start_frame": 0,
+          "end_frame": 371
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "FZIZTVEI",
+  "video": "FZIZTVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anas Crecca Bird",
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Anas Crecca Bird",
+      "Preening"
+    ],
+    [
+      "Duck",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anas Crecca Bird",
+      "Preening"
+    ],
+    [
+      "Duck",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anas Crecca Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.268,
+          "end": 1.333,
+          "start_frame": 6,
+          "end_frame": 32
+        }
+      ]
+    },
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.265,
+          "start_frame": 0,
+          "end_frame": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "XNJLKPKK",
+  "video": "XNJLKPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.25,
+          "start_frame": 0,
+          "end_frame": 30
+        },
+        {
+          "action": "Walking",
+          "start": 1.25,
+          "end": 4.5,
+          "start_frame": 30,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "MTVJCEBY",
+  "video": "MTVJCEBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fox"
+  ],
+  "list_animal_action": [
+    [
+      "Fox",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fox",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fox",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.417,
+          "start_frame": 0,
+          "end_frame": 130
+        }
+      ]
+    }
+  ]
+}

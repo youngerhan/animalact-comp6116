@@ -1,0 +1,85 @@
+{
+  "video_id": "CFFFYNPO",
+  "video": "CFFFYNPO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hyena",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Hyena",
+      "Retaliating"
+    ],
+    [
+      "Hyena",
+      "Attacking"
+    ],
+    [
+      "Hyena",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hyena",
+      "Retaliating"
+    ],
+    [
+      "Hyena",
+      "Attacking"
+    ],
+    [
+      "Hyena",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.19,
+          "end": 0.883,
+          "start_frame": 5,
+          "end_frame": 21
+        },
+        {
+          "action": "Attacking",
+          "start": 3.082,
+          "end": 4.833,
+          "start_frame": 74,
+          "end_frame": 116
+        },
+        {
+          "action": "Retaliating",
+          "start": 3.118,
+          "end": 4.485,
+          "start_frame": 75,
+          "end_frame": 108
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.901,
+          "end": 2.432,
+          "start_frame": 22,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

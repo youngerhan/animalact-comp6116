@@ -1,0 +1,107 @@
+{
+  "video_id": "RFIROPTK",
+  "video": "RFIROPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.015,
+          "end": 2.111,
+          "start_frame": 0,
+          "end_frame": 51
+        },
+        {
+          "action": "Attending",
+          "start": 0.046,
+          "end": 2.08,
+          "start_frame": 1,
+          "end_frame": 50
+        },
+        {
+          "action": "Chirping",
+          "start": 2.131,
+          "end": 6.312,
+          "start_frame": 51,
+          "end_frame": 151
+        },
+        {
+          "action": "Attending",
+          "start": 6.894,
+          "end": 8.703,
+          "start_frame": 165,
+          "end_frame": 209
+        },
+        {
+          "action": "Keeping still",
+          "start": 7.15,
+          "end": 8.56,
+          "start_frame": 172,
+          "end_frame": 205
+        },
+        {
+          "action": "Chirping",
+          "start": 9.296,
+          "end": 15.194,
+          "start_frame": 223,
+          "end_frame": 365
+        },
+        {
+          "action": "Keeping still",
+          "start": 15.03,
+          "end": 15.807,
+          "start_frame": 361,
+          "end_frame": 379
+        },
+        {
+          "action": "Shaking Head",
+          "start": 15.838,
+          "end": 16.333,
+          "start_frame": 380,
+          "end_frame": 392
+        }
+      ]
+    }
+  ]
+}

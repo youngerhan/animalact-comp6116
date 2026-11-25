@@ -1,0 +1,34 @@
+{
+  "video_id": "ZQVQASDK",
+  "video": "ZQVQASDK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giant Galapagos Tortoise"
+  ],
+  "list_animal_action": [
+    [
+      "Giant Galapagos Tortoise",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giant Galapagos Tortoise",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giant Galapagos Tortoise",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.638,
+          "end": 4.819,
+          "start_frame": 15,
+          "end_frame": 116
+        }
+      ]
+    }
+  ]
+}

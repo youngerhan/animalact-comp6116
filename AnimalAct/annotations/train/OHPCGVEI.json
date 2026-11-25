@@ -1,0 +1,194 @@
+{
+  "video_id": "OHPCGVEI",
+  "video": "OHPCGVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Glareola Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Glareola Bird",
+      "Sensing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Jumping"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Landing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Flapping"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Glareola Bird",
+      "Sensing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Jumping"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Landing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Flapping"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Glareola Bird",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.009,
+          "end": 1.506,
+          "start_frame": 0,
+          "end_frame": 36
+        },
+        {
+          "action": "Attending",
+          "start": 0.014,
+          "end": 0.886,
+          "start_frame": 0,
+          "end_frame": 21
+        },
+        {
+          "action": "Flapping",
+          "start": 0.049,
+          "end": 1.5,
+          "start_frame": 1,
+          "end_frame": 36
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 1.247,
+          "end": 1.689,
+          "start_frame": 30,
+          "end_frame": 41
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 2.263,
+          "end": 2.521,
+          "start_frame": 54,
+          "end_frame": 61
+        },
+        {
+          "action": "Sensing",
+          "start": 2.475,
+          "end": 5.406,
+          "start_frame": 59,
+          "end_frame": 130
+        },
+        {
+          "action": "Attending",
+          "start": 3.089,
+          "end": 9.125,
+          "start_frame": 74,
+          "end_frame": 219
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 3.754,
+          "end": 4.046,
+          "start_frame": 90,
+          "end_frame": 97
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 4.54,
+          "end": 4.763,
+          "start_frame": 109,
+          "end_frame": 114
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 5.417,
+          "end": 5.641,
+          "start_frame": 130,
+          "end_frame": 135
+        },
+        {
+          "action": "Walking",
+          "start": 5.727,
+          "end": 8.612,
+          "start_frame": 137,
+          "end_frame": 207
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 6.128,
+          "end": 6.432,
+          "start_frame": 147,
+          "end_frame": 154
+        },
+        {
+          "action": "Sensing",
+          "start": 6.409,
+          "end": 8.256,
+          "start_frame": 154,
+          "end_frame": 198
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 6.885,
+          "end": 7.178,
+          "start_frame": 165,
+          "end_frame": 172
+        },
+        {
+          "action": "Flapping",
+          "start": 7.809,
+          "end": 9.125,
+          "start_frame": 187,
+          "end_frame": 219
+        },
+        {
+          "action": "Jumping",
+          "start": 8.187,
+          "end": 9.125,
+          "start_frame": 196,
+          "end_frame": 219
+        },
+        {
+          "action": "Sensing",
+          "start": 8.262,
+          "end": 9.082,
+          "start_frame": 198,
+          "end_frame": 218
+        }
+      ]
+    }
+  ]
+}

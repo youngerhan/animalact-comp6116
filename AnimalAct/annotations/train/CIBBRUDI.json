@@ -1,0 +1,64 @@
+{
+  "video_id": "CIBBRUDI",
+  "video": "CIBBRUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Shaking Head"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Shaking Head"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.0,
+          "end": 0.219,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.436,
+          "end": 1.624,
+          "start_frame": 10,
+          "end_frame": 39
+        },
+        {
+          "action": "Chirping",
+          "start": 1.844,
+          "end": 5.969,
+          "start_frame": 44,
+          "end_frame": 143
+        }
+      ]
+    }
+  ]
+}

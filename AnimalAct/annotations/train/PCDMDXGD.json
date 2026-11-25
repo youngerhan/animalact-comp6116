@@ -1,0 +1,49 @@
+{
+  "video_id": "PCDMDXGD",
+  "video": "PCDMDXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Eating"
+    ],
+    [
+      "Horse",
+      "Sitting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Eating"
+    ],
+    [
+      "Horse",
+      "Sitting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        },
+        {
+          "action": "Sitting",
+          "start": 0.583,
+          "end": 4.625,
+          "start_frame": 14,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

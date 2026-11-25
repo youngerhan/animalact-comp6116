@@ -1,0 +1,64 @@
+{
+  "video_id": "XMFYBBXG",
+  "video": "XMFYBBXG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Sensing"
+    ],
+    [
+      "Common Crane",
+      "Chasing"
+    ],
+    [
+      "Common Crane",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Sensing"
+    ],
+    [
+      "Common Crane",
+      "Chasing"
+    ],
+    [
+      "Common Crane",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Chasing",
+          "start": 0.094,
+          "end": 0.344,
+          "start_frame": 2,
+          "end_frame": 8
+        },
+        {
+          "action": "Running",
+          "start": 0.594,
+          "end": 0.719,
+          "start_frame": 14,
+          "end_frame": 17
+        },
+        {
+          "action": "Sensing",
+          "start": 2.969,
+          "end": 4.594,
+          "start_frame": 71,
+          "end_frame": 110
+        }
+      ]
+    }
+  ]
+}

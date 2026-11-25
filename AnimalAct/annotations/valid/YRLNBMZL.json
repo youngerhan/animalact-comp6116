@@ -1,0 +1,34 @@
+{
+  "video_id": "YRLNBMZL",
+  "video": "YRLNBMZL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hamadryas Feronia Variable Cracker Butterfly"
+  ],
+  "list_animal_action": [
+    [
+      "Hamadryas Feronia Variable Cracker Butterfly",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hamadryas Feronia Variable Cracker Butterfly",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hamadryas Feronia Variable Cracker Butterfly",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.208,
+          "start_frame": 0,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

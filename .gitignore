@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.mp4
+*.whl
+*.zip
+*.zip.part*
+runtime/
+wheelhouse/
+reproduced/
+_runtime_cache/

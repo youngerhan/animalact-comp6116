@@ -1,0 +1,41 @@
+{
+  "video_id": "EMOUHUOY",
+  "video": "EMOUHUOY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Throated Dipper Bird"
+  ],
+  "list_animal_action": [
+    [
+      "White Throated Dipper Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Throated Dipper Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Throated Dipper Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.352,
+          "start_frame": 0,
+          "end_frame": 56
+        },
+        {
+          "action": "Sensing",
+          "start": 2.616,
+          "end": 8.0,
+          "start_frame": 63,
+          "end_frame": 192
+        }
+      ]
+    }
+  ]
+}

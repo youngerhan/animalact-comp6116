@@ -1,0 +1,49 @@
+{
+  "video_id": "EPYFSWMK",
+  "video": "EPYFSWMK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horned Adder"
+  ],
+  "list_animal_action": [
+    [
+      "Horned Adder",
+      "Moving"
+    ],
+    [
+      "Horned Adder",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horned Adder",
+      "Moving"
+    ],
+    [
+      "Horned Adder",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horned Adder",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 6.094,
+          "start_frame": 0,
+          "end_frame": 146
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 6.219,
+          "start_frame": 0,
+          "end_frame": 149
+        }
+      ]
+    }
+  ]
+}

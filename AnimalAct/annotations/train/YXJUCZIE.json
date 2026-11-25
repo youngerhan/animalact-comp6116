@@ -1,0 +1,49 @@
+{
+  "video_id": "YXJUCZIE",
+  "video": "YXJUCZIE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 0.344,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Eating",
+          "start": 0.094,
+          "end": 7.125,
+          "start_frame": 2,
+          "end_frame": 171
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "JLOKEXDO",
+  "video": "JLOKEXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Porcupine",
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Porcupine",
+      "Retaliating"
+    ],
+    [
+      "Leopard",
+      "Retreating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Porcupine",
+      "Retaliating"
+    ],
+    [
+      "Leopard",
+      "Retreating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Porcupine",
+      "actions": [
+        {
+          "action": "Retaliating",
+          "start": 0.265,
+          "end": 0.739,
+          "start_frame": 6,
+          "end_frame": 18
+        }
+      ]
+    },
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Retreating",
+          "start": 1.289,
+          "end": 3.708,
+          "start_frame": 31,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

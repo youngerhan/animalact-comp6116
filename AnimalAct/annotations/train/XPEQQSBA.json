@@ -1,0 +1,70 @@
+{
+  "video_id": "XPEQQSBA",
+  "video": "XPEQQSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Drinking"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Drinking"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.792,
+          "start_frame": 0,
+          "end_frame": 139
+        },
+        {
+          "action": "Drinking",
+          "start": 5.792,
+          "end": 6.292,
+          "start_frame": 139,
+          "end_frame": 151
+        },
+        {
+          "action": "Sensing",
+          "start": 6.292,
+          "end": 9.417,
+          "start_frame": 151,
+          "end_frame": 226
+        },
+        {
+          "action": "Drinking",
+          "start": 9.417,
+          "end": 10.667,
+          "start_frame": 226,
+          "end_frame": 256
+        },
+        {
+          "action": "Sensing",
+          "start": 10.667,
+          "end": 12.417,
+          "start_frame": 256,
+          "end_frame": 298
+        }
+      ]
+    }
+  ]
+}

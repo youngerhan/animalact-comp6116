@@ -1,0 +1,34 @@
+{
+  "video_id": "TSDZSVYU",
+  "video": "TSDZSVYU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 0.906,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

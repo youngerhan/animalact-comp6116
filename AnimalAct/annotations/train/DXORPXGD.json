@@ -1,0 +1,34 @@
+{
+  "video_id": "DXORPXGD",
+  "video": "DXORPXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 7.208,
+          "start_frame": 0,
+          "end_frame": 173
+        }
+      ]
+    }
+  ]
+}

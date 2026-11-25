@@ -1,0 +1,34 @@
+{
+  "video_id": "USVYLTEK",
+  "video": "USVYLTEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Boar"
+  ],
+  "list_animal_action": [
+    [
+      "Boar",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Boar",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Boar",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

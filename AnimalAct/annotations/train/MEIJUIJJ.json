@@ -1,0 +1,55 @@
+{
+  "video_id": "MEIJUIJJ",
+  "video": "MEIJUIJJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "King Cobra",
+    "Spectacled Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "King Cobra",
+      "Eating"
+    ],
+    [
+      "Spectacled Cobra",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "King Cobra",
+      "Eating"
+    ],
+    [
+      "Spectacled Cobra",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "King Cobra",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.53,
+          "start_frame": 0,
+          "end_frame": 13
+        }
+      ]
+    },
+    {
+      "animal": "Spectacled Cobra",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 17.916,
+          "start_frame": 0,
+          "end_frame": 430
+        }
+      ]
+    }
+  ]
+}

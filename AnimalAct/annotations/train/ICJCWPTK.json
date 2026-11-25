@@ -1,0 +1,64 @@
+{
+  "video_id": "ICJCWPTK",
+  "video": "ICJCWPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 19.094,
+          "start_frame": 0,
+          "end_frame": 458
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 19.469,
+          "start_frame": 0,
+          "end_frame": 467
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 19.469,
+          "start_frame": 0,
+          "end_frame": 467
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "video_id": "WGKFSBBY",
+  "video": "WGKFSBBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giant Hornet"
+  ],
+  "list_animal_action": [
+    [
+      "Giant Hornet",
+      "Eating"
+    ],
+    [
+      "Giant Hornet",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giant Hornet",
+      "Eating"
+    ],
+    [
+      "Giant Hornet",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giant Hornet",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.125,
+          "start_frame": 0,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

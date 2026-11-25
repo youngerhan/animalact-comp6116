@@ -1,0 +1,34 @@
+{
+  "video_id": "UUNUMFFP",
+  "video": "UUNUMFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Monitor Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Monitor Lizard",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Monitor Lizard",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Monitor Lizard",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.21,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

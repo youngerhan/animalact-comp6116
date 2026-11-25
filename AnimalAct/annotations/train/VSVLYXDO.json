@@ -1,0 +1,100 @@
+{
+  "video_id": "VSVLYXDO",
+  "video": "VSVLYXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Rhinoceros"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Rhinoceros",
+      "Attending"
+    ],
+    [
+      "Rhinoceros",
+      "Walking"
+    ],
+    [
+      "Rhinoceros",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Rhinoceros",
+      "Attending"
+    ],
+    [
+      "Rhinoceros",
+      "Walking"
+    ],
+    [
+      "Rhinoceros",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Startled",
+          "start": 2.083,
+          "end": 2.625,
+          "start_frame": 50,
+          "end_frame": 63
+        },
+        {
+          "action": "Fleeing",
+          "start": 2.167,
+          "end": 2.625,
+          "start_frame": 52,
+          "end_frame": 63
+        }
+      ]
+    },
+    {
+      "animal": "Rhinoceros",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.625,
+          "start_frame": 0,
+          "end_frame": 63
+        },
+        {
+          "action": "Walking",
+          "start": 0.519,
+          "end": 1.45,
+          "start_frame": 12,
+          "end_frame": 35
+        },
+        {
+          "action": "Attacking",
+          "start": 1.452,
+          "end": 2.625,
+          "start_frame": 35,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

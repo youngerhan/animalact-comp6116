@@ -1,0 +1,49 @@
+{
+  "video_id": "CUTULQFB",
+  "video": "CUTULQFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "California Newt"
+  ],
+  "list_animal_action": [
+    [
+      "California Newt",
+      "Walking"
+    ],
+    [
+      "California Newt",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "California Newt",
+      "Walking"
+    ],
+    [
+      "California Newt",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "California Newt",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.52,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.52,
+          "end": 4.833,
+          "start_frame": 60,
+          "end_frame": 116
+        }
+      ]
+    }
+  ]
+}

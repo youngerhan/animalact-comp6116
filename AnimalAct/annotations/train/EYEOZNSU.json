@@ -1,0 +1,34 @@
+{
+  "video_id": "EYEOZNSU",
+  "video": "EYEOZNSU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hyena"
+  ],
+  "list_animal_action": [
+    [
+      "Hyena",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hyena",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.417,
+          "start_frame": 0,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

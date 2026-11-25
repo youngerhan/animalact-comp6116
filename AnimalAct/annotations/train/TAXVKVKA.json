@@ -1,0 +1,34 @@
+{
+  "video_id": "TAXVKVKA",
+  "video": "TAXVKVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.625,
+          "start_frame": 0,
+          "end_frame": 135
+        }
+      ]
+    }
+  ]
+}

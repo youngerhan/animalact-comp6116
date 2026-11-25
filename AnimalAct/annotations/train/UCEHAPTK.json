@@ -1,0 +1,56 @@
+{
+  "video_id": "UCEHAPTK",
+  "video": "UCEHAPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 14.417,
+          "start_frame": 0,
+          "end_frame": 346
+        },
+        {
+          "action": "Sensing",
+          "start": 2.094,
+          "end": 2.344,
+          "start_frame": 50,
+          "end_frame": 56
+        },
+        {
+          "action": "Sensing",
+          "start": 2.594,
+          "end": 13.719,
+          "start_frame": 62,
+          "end_frame": 329
+        }
+      ]
+    }
+  ]
+}

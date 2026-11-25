@@ -1,0 +1,34 @@
+{
+  "video_id": "YYDIBFNJ",
+  "video": "YYDIBFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.854,
+          "end": 5.061,
+          "start_frame": 20,
+          "end_frame": 121
+        }
+      ]
+    }
+  ]
+}

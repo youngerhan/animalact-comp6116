@@ -1,0 +1,34 @@
+{
+  "video_id": "WGCEPFGA",
+  "video": "WGCEPFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wildebeest"
+  ],
+  "list_animal_action": [
+    [
+      "Wildebeest",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wildebeest",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wildebeest",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

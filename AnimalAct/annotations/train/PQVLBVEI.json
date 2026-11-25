@@ -1,0 +1,202 @@
+{
+  "video_id": "PQVLBVEI",
+  "video": "PQVLBVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Nebularia Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Nebularia Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Chirping"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Turning Around"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Keeping still"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Nebularia Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Chirping"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Turning Around"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Keeping still"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Nebularia Bird",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.534,
+          "end": 1.045,
+          "start_frame": 13,
+          "end_frame": 25
+        },
+        {
+          "action": "Sensing",
+          "start": 1.739,
+          "end": 2.132,
+          "start_frame": 42,
+          "end_frame": 51
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.936,
+          "end": 3.986,
+          "start_frame": 46,
+          "end_frame": 96
+        },
+        {
+          "action": "Attending",
+          "start": 1.942,
+          "end": 3.967,
+          "start_frame": 47,
+          "end_frame": 95
+        },
+        {
+          "action": "Sensing",
+          "start": 3.259,
+          "end": 3.888,
+          "start_frame": 78,
+          "end_frame": 93
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.986,
+          "end": 4.465,
+          "start_frame": 96,
+          "end_frame": 107
+        },
+        {
+          "action": "Chirping",
+          "start": 4.399,
+          "end": 4.877,
+          "start_frame": 106,
+          "end_frame": 117
+        },
+        {
+          "action": "Shaking Head",
+          "start": 4.622,
+          "end": 4.995,
+          "start_frame": 111,
+          "end_frame": 120
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.866,
+          "end": 6.777,
+          "start_frame": 141,
+          "end_frame": 163
+        },
+        {
+          "action": "Attending",
+          "start": 5.912,
+          "end": 6.849,
+          "start_frame": 142,
+          "end_frame": 164
+        },
+        {
+          "action": "Walking",
+          "start": 6.338,
+          "end": 8.572,
+          "start_frame": 152,
+          "end_frame": 206
+        },
+        {
+          "action": "Eating",
+          "start": 8.054,
+          "end": 8.71,
+          "start_frame": 193,
+          "end_frame": 209
+        },
+        {
+          "action": "Sensing",
+          "start": 8.5,
+          "end": 10.223,
+          "start_frame": 204,
+          "end_frame": 245
+        },
+        {
+          "action": "Eating",
+          "start": 8.861,
+          "end": 9.47,
+          "start_frame": 213,
+          "end_frame": 227
+        },
+        {
+          "action": "Turning Around",
+          "start": 8.9,
+          "end": 10.262,
+          "start_frame": 214,
+          "end_frame": 246
+        },
+        {
+          "action": "Walking",
+          "start": 9.031,
+          "end": 10.308,
+          "start_frame": 217,
+          "end_frame": 247
+        },
+        {
+          "action": "Eating",
+          "start": 9.961,
+          "end": 10.249,
+          "start_frame": 239,
+          "end_frame": 246
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "DITBTVMP",
+  "video": "DITBTVMP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Duck",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Duck",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.0,
+          "end": 1.386,
+          "start_frame": 0,
+          "end_frame": 33
+        }
+      ]
+    }
+  ]
+}

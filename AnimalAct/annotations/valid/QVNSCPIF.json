@@ -1,0 +1,108 @@
+{
+  "video_id": "QVNSCPIF",
+  "video": "QVNSCPIF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Shoebill Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Shoebill Bird",
+      "Walking"
+    ],
+    [
+      "Shoebill Bird",
+      "Flapping"
+    ],
+    [
+      "Shoebill Bird",
+      "Standing"
+    ],
+    [
+      "Shoebill Bird",
+      "Falling"
+    ],
+    [
+      "Shoebill Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Shoebill Bird",
+      "Walking"
+    ],
+    [
+      "Shoebill Bird",
+      "Flapping"
+    ],
+    [
+      "Shoebill Bird",
+      "Standing"
+    ],
+    [
+      "Shoebill Bird",
+      "Falling"
+    ],
+    [
+      "Shoebill Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Shoebill Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.101,
+          "end": 0.682,
+          "start_frame": 2,
+          "end_frame": 16
+        },
+        {
+          "action": "Flapping",
+          "start": 0.982,
+          "end": 3.154,
+          "start_frame": 24,
+          "end_frame": 76
+        },
+        {
+          "action": "Standing",
+          "start": 3.206,
+          "end": 9.076,
+          "start_frame": 77,
+          "end_frame": 218
+        },
+        {
+          "action": "Sensing",
+          "start": 4.928,
+          "end": 7.837,
+          "start_frame": 118,
+          "end_frame": 188
+        },
+        {
+          "action": "Walking",
+          "start": 7.439,
+          "end": 8.398,
+          "start_frame": 179,
+          "end_frame": 202
+        },
+        {
+          "action": "Flapping",
+          "start": 8.156,
+          "end": 9.363,
+          "start_frame": 196,
+          "end_frame": 225
+        },
+        {
+          "action": "Falling",
+          "start": 9.5,
+          "end": 10.423,
+          "start_frame": 228,
+          "end_frame": 250
+        }
+      ]
+    }
+  ]
+}

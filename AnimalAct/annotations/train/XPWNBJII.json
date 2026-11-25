@@ -1,0 +1,34 @@
+{
+  "video_id": "XPWNBJII",
+  "video": "XPWNBJII.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giant Salamander"
+  ],
+  "list_animal_action": [
+    [
+      "Giant Salamander",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giant Salamander",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giant Salamander",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 9.013,
+          "start_frame": 0,
+          "end_frame": 216
+        }
+      ]
+    }
+  ]
+}

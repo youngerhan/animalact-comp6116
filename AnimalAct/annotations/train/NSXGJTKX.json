@@ -1,0 +1,49 @@
+{
+  "video_id": "NSXGJTKX",
+  "video": "NSXGJTKX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfinch",
+      "Shaking Head"
+    ],
+    [
+      "Bullfinch",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfinch",
+      "Shaking Head"
+    ],
+    [
+      "Bullfinch",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfinch",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.844,
+          "end": 1.469,
+          "start_frame": 20,
+          "end_frame": 35
+        },
+        {
+          "action": "Sensing",
+          "start": 1.094,
+          "end": 1.469,
+          "start_frame": 26,
+          "end_frame": 35
+        }
+      ]
+    }
+  ]
+}

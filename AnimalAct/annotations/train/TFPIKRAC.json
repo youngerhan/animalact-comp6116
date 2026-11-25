@@ -1,0 +1,34 @@
+{
+  "video_id": "TFPIKRAC",
+  "video": "TFPIKRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tayra"
+  ],
+  "list_animal_action": [
+    [
+      "Tayra",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tayra",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tayra",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.0,
+          "end": 1.208,
+          "start_frame": 0,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

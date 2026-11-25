@@ -1,0 +1,55 @@
+{
+  "video_id": "ANARKHIS",
+  "video": "ANARKHIS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Big Headed Ant",
+    "Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Big Headed Ant",
+      "Moving"
+    ],
+    [
+      "Caterpillar",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Big Headed Ant",
+      "Moving"
+    ],
+    [
+      "Caterpillar",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Big Headed Ant",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.917,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    },
+    {
+      "animal": "Caterpillar",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.917,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

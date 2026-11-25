@@ -1,0 +1,34 @@
+{
+  "video_id": "WXAHYDSN",
+  "video": "WXAHYDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jaculus Jaculus"
+  ],
+  "list_animal_action": [
+    [
+      "Jaculus Jaculus",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jaculus Jaculus",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jaculus Jaculus",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

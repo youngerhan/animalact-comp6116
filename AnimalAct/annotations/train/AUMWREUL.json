@@ -1,0 +1,49 @@
+{
+  "video_id": "AUMWREUL",
+  "video": "AUMWREUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Spitting Venom",
+          "start": 0.186,
+          "end": 1.026,
+          "start_frame": 4,
+          "end_frame": 25
+        },
+        {
+          "action": "Sensing",
+          "start": 1.03,
+          "end": 2.625,
+          "start_frame": 25,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

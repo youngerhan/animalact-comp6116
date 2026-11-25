@@ -1,0 +1,49 @@
+{
+  "video_id": "BKBVMEUL",
+  "video": "BKBVMEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.861,
+          "end": 4.237,
+          "start_frame": 21,
+          "end_frame": 102
+        },
+        {
+          "action": "Moving",
+          "start": 5.282,
+          "end": 10.417,
+          "start_frame": 127,
+          "end_frame": 250
+        }
+      ]
+    }
+  ]
+}

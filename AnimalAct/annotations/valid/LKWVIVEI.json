@@ -1,0 +1,85 @@
+{
+  "video_id": "LKWVIVEI",
+  "video": "LKWVIVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird",
+    "Anas Crecca Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Attending"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Attending"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 2.969,
+          "end": 3.219,
+          "start_frame": 71,
+          "end_frame": 77
+        },
+        {
+          "action": "Flying",
+          "start": 2.969,
+          "end": 3.219,
+          "start_frame": 71,
+          "end_frame": 77
+        }
+      ]
+    },
+    {
+      "animal": "Anas Crecca Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.844,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Attending",
+          "start": 2.238,
+          "end": 2.985,
+          "start_frame": 54,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

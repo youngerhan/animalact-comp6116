@@ -1,0 +1,49 @@
+{
+  "video_id": "NABISUPH",
+  "video": "NABISUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goat"
+  ],
+  "list_animal_action": [
+    [
+      "Goat",
+      "Shaking Head"
+    ],
+    [
+      "Goat",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goat",
+      "Shaking Head"
+    ],
+    [
+      "Goat",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goat",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.0,
+          "end": 0.902,
+          "start_frame": 0,
+          "end_frame": 22
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.417,
+          "start_frame": 0,
+          "end_frame": 106
+        }
+      ]
+    }
+  ]
+}

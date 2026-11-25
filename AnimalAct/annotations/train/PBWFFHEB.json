@@ -1,0 +1,55 @@
+{
+  "video_id": "PBWFFHEB",
+  "video": "PBWFFHEB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cabbage White Caterpillar",
+    "Cotesia Glomerata Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Cabbage White Caterpillar",
+      "Fighting"
+    ],
+    [
+      "Cotesia Glomerata Wasp",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cabbage White Caterpillar",
+      "Fighting"
+    ],
+    [
+      "Cotesia Glomerata Wasp",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cabbage White Caterpillar",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.083,
+          "end": 5.333,
+          "start_frame": 2,
+          "end_frame": 128
+        }
+      ]
+    },
+    {
+      "animal": "Cotesia Glomerata Wasp",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.083,
+          "end": 5.333,
+          "start_frame": 2,
+          "end_frame": 128
+        }
+      ]
+    }
+  ]
+}

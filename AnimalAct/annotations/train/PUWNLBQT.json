@@ -1,0 +1,41 @@
+{
+  "video_id": "PUWNLBQT",
+  "video": "PUWNLBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.082,
+          "end": 0.292,
+          "start_frame": 2,
+          "end_frame": 7
+        },
+        {
+          "action": "Biting",
+          "start": 0.831,
+          "end": 2.417,
+          "start_frame": 20,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

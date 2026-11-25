@@ -1,0 +1,18 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.1388330773218568,
+    "valid_mAP": 0.29324012157294377,
+    "valid_macro_F1": 0.261505640998081,
+    "valid_threshold": 0.15,
+    "gpu_peak_allocated_mib": 484
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.09430856759639802,
+    "valid_mAP": 0.33181857138069776,
+    "valid_macro_F1": 0.31648438246258,
+    "valid_threshold": 0.15,
+    "gpu_peak_allocated_mib": 484
+  }
+]

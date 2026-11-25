@@ -1,0 +1,55 @@
+{
+  "video_id": "YXKFVFAU",
+  "video": "YXKFVFAU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jeweled Cockroach Wasp",
+    "Cockroach"
+  ],
+  "list_animal_action": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Stinging"
+    ],
+    [
+      "Cockroach",
+      "Immobilized"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Stinging"
+    ],
+    [
+      "Cockroach",
+      "Immobilized"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jeweled Cockroach Wasp",
+      "actions": [
+        {
+          "action": "Stinging",
+          "start": 0.0,
+          "end": 3.121,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    },
+    {
+      "animal": "Cockroach",
+      "actions": [
+        {
+          "action": "Immobilized",
+          "start": 0.0,
+          "end": 3.125,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

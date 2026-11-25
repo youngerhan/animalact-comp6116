@@ -1,0 +1,84 @@
+{
+  "video_id": "HZCAQTHG",
+  "video": "HZCAQTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Chimpanzee",
+    "Western Chimpanzee Young"
+  ],
+  "list_animal_action": [
+    [
+      "Western Chimpanzee",
+      "Walking"
+    ],
+    [
+      "Western Chimpanzee",
+      "Attending"
+    ],
+    [
+      "Western Chimpanzee Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Chimpanzee",
+      "Walking"
+    ],
+    [
+      "Western Chimpanzee",
+      "Attending"
+    ],
+    [
+      "Western Chimpanzee Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Chimpanzee",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.223,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Attending",
+          "start": 0.002,
+          "end": 0.578,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Walking",
+          "start": 0.479,
+          "end": 3.915,
+          "start_frame": 11,
+          "end_frame": 94
+        },
+        {
+          "action": "Attending",
+          "start": 2.521,
+          "end": 3.139,
+          "start_frame": 61,
+          "end_frame": 75
+        }
+      ]
+    },
+    {
+      "animal": "Western Chimpanzee Young",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.769,
+          "end": 2.369,
+          "start_frame": 18,
+          "end_frame": 57
+        }
+      ]
+    }
+  ]
+}

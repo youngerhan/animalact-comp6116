@@ -1,0 +1,122 @@
+{
+  "video_id": "NJMDNXDO",
+  "video": "NJMDNXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Rhinoceros"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Rhinoceros",
+      "Attending"
+    ],
+    [
+      "Rhinoceros",
+      "Walking"
+    ],
+    [
+      "Rhinoceros",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Rhinoceros",
+      "Attending"
+    ],
+    [
+      "Rhinoceros",
+      "Walking"
+    ],
+    [
+      "Rhinoceros",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.881,
+          "start_frame": 0,
+          "end_frame": 21
+        },
+        {
+          "action": "Startled",
+          "start": 0.0,
+          "end": 1.019,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Fleeing",
+          "start": 1.733,
+          "end": 3.125,
+          "start_frame": 42,
+          "end_frame": 75
+        }
+      ]
+    },
+    {
+      "animal": "Rhinoceros",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.003,
+          "end": 1.254,
+          "start_frame": 0,
+          "end_frame": 30
+        },
+        {
+          "action": "Walking",
+          "start": 1.185,
+          "end": 2.372,
+          "start_frame": 28,
+          "end_frame": 57
+        },
+        {
+          "action": "Attacking",
+          "start": 1.196,
+          "end": 2.373,
+          "start_frame": 29,
+          "end_frame": 57
+        },
+        {
+          "action": "Attending",
+          "start": 2.495,
+          "end": 3.125,
+          "start_frame": 60,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

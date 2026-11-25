@@ -1,0 +1,49 @@
+{
+  "video_id": "MOLQZLSQ",
+  "video": "MOLQZLSQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.764,
+          "start_frame": 0,
+          "end_frame": 114
+        },
+        {
+          "action": "Jumping",
+          "start": 4.775,
+          "end": 5.004,
+          "start_frame": 115,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "MECFTVRM",
+  "video": "MECFTVRM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Portia Jumping Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Portia Jumping Spider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Portia Jumping Spider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Portia Jumping Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 2.625,
+          "end": 4.125,
+          "start_frame": 63,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

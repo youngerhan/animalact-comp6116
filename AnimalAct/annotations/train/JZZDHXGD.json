@@ -1,0 +1,34 @@
+{
+  "video_id": "JZZDHXGD",
+  "video": "JZZDHXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Unmounting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Unmounting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Unmounting",
+          "start": 0.0,
+          "end": 1.583,
+          "start_frame": 0,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

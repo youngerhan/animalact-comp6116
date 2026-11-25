@@ -1,0 +1,34 @@
+{
+  "video_id": "MGHZXZDI",
+  "video": "MGHZXZDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leatherback Sea Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Leatherback Sea Turtle",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leatherback Sea Turtle",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leatherback Sea Turtle",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.208,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

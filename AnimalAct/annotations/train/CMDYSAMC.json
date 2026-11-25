@@ -1,0 +1,71 @@
+{
+  "video_id": "CMDYSAMC",
+  "video": "CMDYSAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Lying Down"
+    ],
+    [
+      "Lion Young",
+      "Keeping still"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Lying Down"
+    ],
+    [
+      "Lion Young",
+      "Keeping still"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Lying Down",
+          "start": 0.01,
+          "end": 2.356,
+          "start_frame": 0,
+          "end_frame": 57
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.022,
+          "end": 2.142,
+          "start_frame": 1,
+          "end_frame": 51
+        },
+        {
+          "action": "Walking",
+          "start": 0.248,
+          "end": 6.333,
+          "start_frame": 6,
+          "end_frame": 152
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.54,
+          "end": 5.65,
+          "start_frame": 109,
+          "end_frame": 136
+        }
+      ]
+    }
+  ]
+}

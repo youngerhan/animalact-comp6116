@@ -1,0 +1,34 @@
+{
+  "video_id": "AMDKPEQQ",
+  "video": "AMDKPEQQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sloth"
+  ],
+  "list_animal_action": [
+    [
+      "Sloth",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sloth",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sloth",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.51,
+          "start_frame": 0,
+          "end_frame": 12
+        }
+      ]
+    }
+  ]
+}

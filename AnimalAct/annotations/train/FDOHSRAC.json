@@ -1,0 +1,64 @@
+{
+  "video_id": "FDOHSRAC",
+  "video": "FDOHSRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Coyote"
+  ],
+  "list_animal_action": [
+    [
+      "Coyote",
+      "Sensing"
+    ],
+    [
+      "Coyote",
+      "Jumping"
+    ],
+    [
+      "Coyote",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Coyote",
+      "Sensing"
+    ],
+    [
+      "Coyote",
+      "Jumping"
+    ],
+    [
+      "Coyote",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Coyote",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.211,
+          "start_frame": 0,
+          "end_frame": 101
+        },
+        {
+          "action": "Walking",
+          "start": 0.083,
+          "end": 8.423,
+          "start_frame": 2,
+          "end_frame": 202
+        },
+        {
+          "action": "Jumping",
+          "start": 8.437,
+          "end": 10.208,
+          "start_frame": 202,
+          "end_frame": 245
+        }
+      ]
+    }
+  ]
+}

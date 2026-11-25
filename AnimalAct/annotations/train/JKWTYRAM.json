@@ -1,0 +1,49 @@
+{
+  "video_id": "JKWTYRAM",
+  "video": "JKWTYRAM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nursery Web Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Nursery Web Spider",
+      "Fighting"
+    ],
+    [
+      "Nursery Web Spider",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nursery Web Spider",
+      "Fighting"
+    ],
+    [
+      "Nursery Web Spider",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nursery Web Spider",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.281,
+          "start_frame": 0,
+          "end_frame": 55
+        },
+        {
+          "action": "Fighting",
+          "start": 2.345,
+          "end": 3.501,
+          "start_frame": 56,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

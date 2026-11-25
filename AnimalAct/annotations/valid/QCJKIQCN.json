@@ -1,0 +1,71 @@
+{
+  "video_id": "QCJKIQCN",
+  "video": "QCJKIQCN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ibex"
+  ],
+  "list_animal_action": [
+    [
+      "Ibex",
+      "Shaking Head"
+    ],
+    [
+      "Ibex",
+      "Jumping"
+    ],
+    [
+      "Ibex",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ibex",
+      "Shaking Head"
+    ],
+    [
+      "Ibex",
+      "Jumping"
+    ],
+    [
+      "Ibex",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ibex",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.667,
+          "start_frame": 0,
+          "end_frame": 64
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.599,
+          "end": 4.095,
+          "start_frame": 86,
+          "end_frame": 98
+        },
+        {
+          "action": "Shaking Head",
+          "start": 4.542,
+          "end": 4.75,
+          "start_frame": 109,
+          "end_frame": 114
+        },
+        {
+          "action": "Jumping",
+          "start": 4.792,
+          "end": 5.417,
+          "start_frame": 115,
+          "end_frame": 130
+        }
+      ]
+    }
+  ]
+}

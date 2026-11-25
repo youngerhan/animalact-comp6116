@@ -1,0 +1,93 @@
+{
+  "video_id": "YNHUOACP",
+  "video": "YNHUOACP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spider",
+    "Insect"
+  ],
+  "list_animal_action": [
+    [
+      "Spider",
+      "Keeping still"
+    ],
+    [
+      "Spider",
+      "Attacking"
+    ],
+    [
+      "Insect",
+      "Attacking"
+    ],
+    [
+      "Insect",
+      "Flying"
+    ],
+    [
+      "Insect",
+      "Trapped"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spider",
+      "Keeping still"
+    ],
+    [
+      "Spider",
+      "Attacking"
+    ],
+    [
+      "Insect",
+      "Attacking"
+    ],
+    [
+      "Insect",
+      "Flying"
+    ],
+    [
+      "Insect",
+      "Trapped"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.204,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Attacking",
+          "start": 0.292,
+          "end": 0.917,
+          "start_frame": 7,
+          "end_frame": 22
+        }
+      ]
+    },
+    {
+      "animal": "Insect",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.292,
+          "end": 0.917,
+          "start_frame": 7,
+          "end_frame": 22
+        },
+        {
+          "action": "Trapped",
+          "start": 0.708,
+          "end": 0.917,
+          "start_frame": 17,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

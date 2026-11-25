@@ -1,0 +1,49 @@
+{
+  "video_id": "YVYLPLVZ",
+  "video": "YVYLPLVZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.019,
+          "end": 1.443,
+          "start_frame": 0,
+          "end_frame": 35
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.439,
+          "end": 8.468,
+          "start_frame": 35,
+          "end_frame": 203
+        }
+      ]
+    }
+  ]
+}

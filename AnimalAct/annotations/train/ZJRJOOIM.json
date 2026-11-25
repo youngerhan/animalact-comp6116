@@ -1,0 +1,34 @@
+{
+  "video_id": "ZJRJOOIM",
+  "video": "ZJRJOOIM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rhinoceros Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Rhinoceros Viper",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rhinoceros Viper",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rhinoceros Viper",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 11.125,
+          "start_frame": 0,
+          "end_frame": 267
+        }
+      ]
+    }
+  ]
+}

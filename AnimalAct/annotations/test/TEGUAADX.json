@@ -1,0 +1,71 @@
+{
+  "video_id": "TEGUAADX",
+  "video": "TEGUAADX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White-Backed Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Climbing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Shaking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Climbing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Shaking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White-Backed Woodpecker",
+      "actions": [
+        {
+          "action": "Shaking",
+          "start": 0.0,
+          "end": 0.476,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Climbing",
+          "start": 0.672,
+          "end": 0.8,
+          "start_frame": 16,
+          "end_frame": 19
+        },
+        {
+          "action": "Sensing",
+          "start": 0.931,
+          "end": 4.968,
+          "start_frame": 22,
+          "end_frame": 119
+        },
+        {
+          "action": "Climbing",
+          "start": 4.977,
+          "end": 5.512,
+          "start_frame": 119,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "BRRFXEOD",
+  "video": "BRRFXEOD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Common Snipe",
+      "Chirping"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Common Snipe",
+      "Chirping"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.122,
+          "end": 2.233,
+          "start_frame": 3,
+          "end_frame": 54
+        },
+        {
+          "action": "Chirping",
+          "start": 0.603,
+          "end": 6.316,
+          "start_frame": 14,
+          "end_frame": 152
+        },
+        {
+          "action": "Sensing",
+          "start": 2.058,
+          "end": 5.802,
+          "start_frame": 49,
+          "end_frame": 139
+        }
+      ]
+    }
+  ]
+}

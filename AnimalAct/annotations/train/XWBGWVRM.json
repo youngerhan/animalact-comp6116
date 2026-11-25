@@ -1,0 +1,34 @@
+{
+  "video_id": "XWBGWVRM",
+  "video": "XWBGWVRM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Spider",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spider",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.625,
+          "start_frame": 0,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

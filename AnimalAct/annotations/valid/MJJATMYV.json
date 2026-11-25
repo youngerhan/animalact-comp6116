@@ -1,0 +1,41 @@
+{
+  "video_id": "MJJATMYV",
+  "video": "MJJATMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Atheris Squamigera"
+  ],
+  "list_animal_action": [
+    [
+      "Atheris Squamigera",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Atheris Squamigera",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Atheris Squamigera",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.002,
+          "end": 0.604,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.183,
+          "end": 2.905,
+          "start_frame": 52,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

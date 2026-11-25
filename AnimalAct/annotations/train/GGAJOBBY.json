@@ -1,0 +1,49 @@
+{
+  "video_id": "GGAJOBBY",
+  "video": "GGAJOBBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giant Hornet"
+  ],
+  "list_animal_action": [
+    [
+      "Giant Hornet",
+      "Entering its nest"
+    ],
+    [
+      "Giant Hornet",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giant Hornet",
+      "Entering its nest"
+    ],
+    [
+      "Giant Hornet",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giant Hornet",
+      "actions": [
+        {
+          "action": "Entering its nest",
+          "start": 0.0,
+          "end": 0.417,
+          "start_frame": 0,
+          "end_frame": 10
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.257,
+          "start_frame": 0,
+          "end_frame": 102
+        }
+      ]
+    }
+  ]
+}

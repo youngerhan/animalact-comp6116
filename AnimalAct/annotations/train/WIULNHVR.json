@@ -1,0 +1,70 @@
+{
+  "video_id": "WIULNHVR",
+  "video": "WIULNHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake",
+    "King Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Rolling"
+    ],
+    [
+      "King Cobra",
+      "Biting"
+    ],
+    [
+      "Snake",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Rolling"
+    ],
+    [
+      "King Cobra",
+      "Biting"
+    ],
+    [
+      "Snake",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 8.595,
+          "start_frame": 0,
+          "end_frame": 206
+        },
+        {
+          "action": "Rolling",
+          "start": 5.665,
+          "end": 7.92,
+          "start_frame": 136,
+          "end_frame": 190
+        }
+      ]
+    },
+    {
+      "animal": "King Cobra",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 8.595,
+          "start_frame": 0,
+          "end_frame": 206
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "BATMCQDT",
+  "video": "BATMCQDT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nudibranch"
+  ],
+  "list_animal_action": [
+    [
+      "Nudibranch",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nudibranch",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nudibranch",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.709,
+          "start_frame": 0,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

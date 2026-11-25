@@ -1,0 +1,48 @@
+{
+  "video_id": "WKMOXMZL",
+  "video": "WKMOXMZL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greta Oto Glasswing Butterfly"
+  ],
+  "list_animal_action": [
+    [
+      "Greta Oto Glasswing Butterfly",
+      "Flapping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greta Oto Glasswing Butterfly",
+      "Flapping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greta Oto Glasswing Butterfly",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.101,
+          "end": 1.492,
+          "start_frame": 2,
+          "end_frame": 36
+        },
+        {
+          "action": "Flapping",
+          "start": 1.504,
+          "end": 3.965,
+          "start_frame": 36,
+          "end_frame": 95
+        },
+        {
+          "action": "Flapping",
+          "start": 4.02,
+          "end": 5.016,
+          "start_frame": 96,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

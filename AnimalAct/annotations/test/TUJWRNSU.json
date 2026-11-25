@@ -1,0 +1,34 @@
+{
+  "video_id": "TUJWRNSU",
+  "video": "TUJWRNSU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ostrich"
+  ],
+  "list_animal_action": [
+    [
+      "Ostrich",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ostrich",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ostrich",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 1.5,
+          "start_frame": 0,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

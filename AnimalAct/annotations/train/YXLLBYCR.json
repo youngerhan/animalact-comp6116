@@ -1,0 +1,34 @@
+{
+  "video_id": "YXLLBYCR",
+  "video": "YXLLBYCR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Starling Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Starling Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Starling Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Starling Bird",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 7.833,
+          "start_frame": 0,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

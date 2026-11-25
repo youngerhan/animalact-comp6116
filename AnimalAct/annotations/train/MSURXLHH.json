@@ -1,0 +1,34 @@
+{
+  "video_id": "MSURXLHH",
+  "video": "MSURXLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Water Lily Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Water Lily Frog",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Water Lily Frog",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Water Lily Frog",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.214,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "video_id": "URXIWTFT",
+  "video": "URXIWTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 4.875,
+          "start_frame": 0,
+          "end_frame": 117
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 0.25,
+          "end": 2.25,
+          "start_frame": 6,
+          "end_frame": 54
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.25,
+          "end": 2.25,
+          "start_frame": 6,
+          "end_frame": 54
+        },
+        {
+          "action": "Sensing",
+          "start": 2.25,
+          "end": 3.25,
+          "start_frame": 54,
+          "end_frame": 78
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 4.625,
+          "end": 6.417,
+          "start_frame": 111,
+          "end_frame": 154
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 4.625,
+          "end": 6.417,
+          "start_frame": 111,
+          "end_frame": 154
+        },
+        {
+          "action": "Drinking",
+          "start": 5.75,
+          "end": 6.417,
+          "start_frame": 138,
+          "end_frame": 154
+        }
+      ]
+    }
+  ]
+}

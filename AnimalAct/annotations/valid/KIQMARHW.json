@@ -1,0 +1,34 @@
+{
+  "video_id": "KIQMARHW",
+  "video": "KIQMARHW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Danaus Plexippus Monarch Butterfly"
+  ],
+  "list_animal_action": [
+    [
+      "Danaus Plexippus Monarch Butterfly",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Danaus Plexippus Monarch Butterfly",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Danaus Plexippus Monarch Butterfly",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

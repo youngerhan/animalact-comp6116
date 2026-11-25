@@ -1,0 +1,56 @@
+{
+  "video_id": "EHXIFXGD",
+  "video": "EHXIFXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dog"
+  ],
+  "list_animal_action": [
+    [
+      "Dog",
+      "Walking"
+    ],
+    [
+      "Dog",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dog",
+      "Walking"
+    ],
+    [
+      "Dog",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dog",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.009,
+          "end": 0.662,
+          "start_frame": 0,
+          "end_frame": 16
+        },
+        {
+          "action": "Walking",
+          "start": 0.916,
+          "end": 2.001,
+          "start_frame": 22,
+          "end_frame": 48
+        },
+        {
+          "action": "Attending",
+          "start": 0.945,
+          "end": 2.008,
+          "start_frame": 23,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

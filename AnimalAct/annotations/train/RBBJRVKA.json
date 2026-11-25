@@ -1,0 +1,63 @@
+{
+  "video_id": "RBBJRVKA",
+  "video": "RBBJRVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Attending"
+    ],
+    [
+      "Common Quail",
+      "Sensing"
+    ],
+    [
+      "Common Quail",
+      "Squatting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Attending"
+    ],
+    [
+      "Common Quail",
+      "Sensing"
+    ],
+    [
+      "Common Quail",
+      "Squatting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.0
+        },
+        {
+          "action": "Sensing",
+          "start": 2.0,
+          "end": 4.2
+        },
+        {
+          "action": "Squatting",
+          "start": 4.2,
+          "end": 6.6
+        },
+        {
+          "action": "Attending",
+          "start": 6.6,
+          "end": 10.0
+        }
+      ]
+    }
+  ]
+}

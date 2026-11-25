@@ -1,0 +1,34 @@
+{
+  "video_id": "FCEYQDFS",
+  "video": "FCEYQDFS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Annulated Tree Boa"
+  ],
+  "list_animal_action": [
+    [
+      "Annulated Tree Boa",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Annulated Tree Boa",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Annulated Tree Boa",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 13.834,
+          "start_frame": 0,
+          "end_frame": 332
+        }
+      ]
+    }
+  ]
+}

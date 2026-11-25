@@ -1,0 +1,49 @@
+{
+  "video_id": "CWXLMXRE",
+  "video": "CWXLMXRE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Great Egret",
+      "Attending"
+    ],
+    [
+      "Great Egret",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Egret",
+      "Attending"
+    ],
+    [
+      "Great Egret",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Egret",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 1.495,
+          "end": 4.125,
+          "start_frame": 36,
+          "end_frame": 99
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.721,
+          "end": 3.2,
+          "start_frame": 41,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

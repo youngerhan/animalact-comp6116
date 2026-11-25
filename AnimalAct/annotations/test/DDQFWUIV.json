@@ -1,0 +1,34 @@
+{
+  "video_id": "DDQFWUIV",
+  "video": "DDQFWUIV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Goldeneye"
+  ],
+  "list_animal_action": [
+    [
+      "Common Goldeneye",
+      "Doing A Backward Tilt"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Goldeneye",
+      "Doing A Backward Tilt"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Goldeneye",
+      "actions": [
+        {
+          "action": "Doing A Backward Tilt",
+          "start": 1.469,
+          "end": 2.969,
+          "start_frame": 35,
+          "end_frame": 71
+        }
+      ]
+    }
+  ]
+}

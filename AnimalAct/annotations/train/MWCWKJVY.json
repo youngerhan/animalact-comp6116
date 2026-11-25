@@ -1,0 +1,34 @@
+{
+  "video_id": "MWCWKJVY",
+  "video": "MWCWKJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Flapping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Flapping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.0,
+          "end": 1.594,
+          "start_frame": 0,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

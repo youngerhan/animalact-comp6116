@@ -1,0 +1,114 @@
+{
+  "video_id": "TJFPPFXO",
+  "video": "TJFPPFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Sensing"
+    ],
+    [
+      "Tit Bird",
+      "Flapping"
+    ],
+    [
+      "Tit Bird",
+      "Flying"
+    ],
+    [
+      "Tit Bird",
+      "Washing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Sensing"
+    ],
+    [
+      "Tit Bird",
+      "Flapping"
+    ],
+    [
+      "Tit Bird",
+      "Flying"
+    ],
+    [
+      "Tit Bird",
+      "Washing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.0,
+          "end": 0.82,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.333,
+          "start_frame": 0,
+          "end_frame": 128
+        },
+        {
+          "action": "Washing",
+          "start": 0.015,
+          "end": 0.822,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Washing",
+          "start": 1.608,
+          "end": 2.647,
+          "start_frame": 39,
+          "end_frame": 64
+        },
+        {
+          "action": "Flapping",
+          "start": 1.621,
+          "end": 2.64,
+          "start_frame": 39,
+          "end_frame": 63
+        },
+        {
+          "action": "Washing",
+          "start": 3.134,
+          "end": 4.289,
+          "start_frame": 75,
+          "end_frame": 103
+        },
+        {
+          "action": "Flapping",
+          "start": 3.137,
+          "end": 4.297,
+          "start_frame": 75,
+          "end_frame": 103
+        },
+        {
+          "action": "Flying",
+          "start": 4.937,
+          "end": 5.257,
+          "start_frame": 118,
+          "end_frame": 126
+        },
+        {
+          "action": "Flapping",
+          "start": 4.937,
+          "end": 5.259,
+          "start_frame": 118,
+          "end_frame": 126
+        }
+      ]
+    }
+  ]
+}

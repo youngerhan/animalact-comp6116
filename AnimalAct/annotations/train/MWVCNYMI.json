@@ -1,0 +1,34 @@
+{
+  "video_id": "MWVCNYMI",
+  "video": "MWVCNYMI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hoverfly"
+  ],
+  "list_animal_action": [
+    [
+      "Hoverfly",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hoverfly",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hoverfly",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.917,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

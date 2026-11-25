@@ -1,0 +1,49 @@
+{
+  "video_id": "FCCZMPKK",
+  "video": "FCCZMPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Jumping"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Jumping"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 0.333,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.333,
+          "start_frame": 0,
+          "end_frame": 8
+        }
+      ]
+    }
+  ]
+}

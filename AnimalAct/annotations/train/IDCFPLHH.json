@@ -1,0 +1,49 @@
+{
+  "video_id": "IDCFPLHH",
+  "video": "IDCFPLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Puffing its throat"
+    ],
+    [
+      "Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Puffing its throat"
+    ],
+    [
+      "Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Puffing its throat",
+          "start": 0.0,
+          "end": 3.594,
+          "start_frame": 0,
+          "end_frame": 86
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.594,
+          "start_frame": 0,
+          "end_frame": 86
+        }
+      ]
+    }
+  ]
+}

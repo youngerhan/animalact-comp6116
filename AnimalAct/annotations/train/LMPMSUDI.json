@@ -1,0 +1,49 @@
+{
+  "video_id": "LMPMSUDI",
+  "video": "LMPMSUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.614,
+          "start_frame": 0,
+          "end_frame": 39
+        },
+        {
+          "action": "Attending",
+          "start": 1.614,
+          "end": 1.917,
+          "start_frame": 39,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

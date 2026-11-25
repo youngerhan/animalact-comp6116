@@ -1,0 +1,71 @@
+{
+  "video_id": "DGNEDEWB",
+  "video": "DGNEDEWB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Philomachus Pugnax Ruff Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Walking"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Walking"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Philomachus Pugnax Ruff Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 0.512,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Walking",
+          "start": 0.103,
+          "end": 1.381,
+          "start_frame": 2,
+          "end_frame": 33
+        },
+        {
+          "action": "Preening",
+          "start": 1.056,
+          "end": 2.327,
+          "start_frame": 25,
+          "end_frame": 56
+        },
+        {
+          "action": "Flying",
+          "start": 1.383,
+          "end": 2.181,
+          "start_frame": 33,
+          "end_frame": 52
+        }
+      ]
+    }
+  ]
+}

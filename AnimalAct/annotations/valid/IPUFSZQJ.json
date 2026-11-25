@@ -1,0 +1,34 @@
+{
+  "video_id": "IPUFSZQJ",
+  "video": "IPUFSZQJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leaf Insect"
+  ],
+  "list_animal_action": [
+    [
+      "Leaf Insect",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leaf Insect",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leaf Insect",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.33,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

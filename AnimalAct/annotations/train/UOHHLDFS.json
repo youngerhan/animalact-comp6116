@@ -1,0 +1,49 @@
+{
+  "video_id": "UOHHLDFS",
+  "video": "UOHHLDFS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wild Red-Tailed Boa"
+  ],
+  "list_animal_action": [
+    [
+      "Wild Red-Tailed Boa",
+      "Keeping still"
+    ],
+    [
+      "Wild Red-Tailed Boa",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wild Red-Tailed Boa",
+      "Keeping still"
+    ],
+    [
+      "Wild Red-Tailed Boa",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wild Red-Tailed Boa",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.344,
+          "start_frame": 0,
+          "end_frame": 80
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.5,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

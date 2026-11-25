@@ -1,0 +1,34 @@
+{
+  "video_id": "OLZMPNQN",
+  "video": "OLZMPNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Thrush Nightingale Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Thrush Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Thrush Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Thrush Nightingale Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 5.208,
+          "start_frame": 0,
+          "end_frame": 125
+        }
+      ]
+    }
+  ]
+}

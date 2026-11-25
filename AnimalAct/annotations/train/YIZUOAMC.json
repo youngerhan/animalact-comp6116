@@ -1,0 +1,85 @@
+{
+  "video_id": "YIZUOAMC",
+  "video": "YIZUOAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young",
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Falling"
+    ],
+    [
+      "Lion Young",
+      "Hugging"
+    ],
+    [
+      "Lion Young",
+      "Sitting"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Falling"
+    ],
+    [
+      "Lion Young",
+      "Hugging"
+    ],
+    [
+      "Lion Young",
+      "Sitting"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.875,
+          "end": 5.0,
+          "start_frame": 21,
+          "end_frame": 120
+        },
+        {
+          "action": "Falling",
+          "start": 4.708,
+          "end": 5.25,
+          "start_frame": 113,
+          "end_frame": 126
+        }
+      ]
+    },
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Sitting",
+          "start": 1.067,
+          "end": 4.277,
+          "start_frame": 26,
+          "end_frame": 103
+        },
+        {
+          "action": "Walking",
+          "start": 5.083,
+          "end": 5.5,
+          "start_frame": 122,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

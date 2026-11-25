@@ -1,0 +1,34 @@
+{
+  "video_id": "NOQPJYTZ",
+  "video": "NOQPJYTZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greylag Goose"
+  ],
+  "list_animal_action": [
+    [
+      "Greylag Goose",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greylag Goose",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greylag Goose",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

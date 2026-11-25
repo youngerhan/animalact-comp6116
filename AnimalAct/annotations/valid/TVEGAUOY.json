@@ -1,0 +1,57 @@
+{
+  "video_id": "TVEGAUOY",
+  "video": "TVEGAUOY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Throated Dipper Bird"
+  ],
+  "list_animal_action": [
+    [
+      "White Throated Dipper Bird",
+      "Diving"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Chirping"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Throated Dipper Bird",
+      "Diving"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Chirping"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Throated Dipper Bird",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 2.417,
+          "start_frame": 0,
+          "end_frame": 58
+        },
+        {
+          "action": "Diving",
+          "start": 2.417,
+          "end": 4.208,
+          "start_frame": 58,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

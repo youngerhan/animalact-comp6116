@@ -1,0 +1,49 @@
+{
+  "video_id": "JTWBUFGA",
+  "video": "JTWBUFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Turning Around"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Turning Around"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Turning Around",
+          "start": 0.0,
+          "end": 0.419,
+          "start_frame": 0,
+          "end_frame": 10
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.419,
+          "start_frame": 0,
+          "end_frame": 10
+        }
+      ]
+    }
+  ]
+}

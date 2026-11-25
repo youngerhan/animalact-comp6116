@@ -1,0 +1,71 @@
+{
+  "video_id": "RCMPPPKK",
+  "video": "RCMPPPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.0,
+          "end": 0.083,
+          "start_frame": 0,
+          "end_frame": 2
+        },
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 2.625,
+          "start_frame": 0,
+          "end_frame": 63
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.583,
+          "end": 1.0,
+          "start_frame": 14,
+          "end_frame": 24
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.0,
+          "end": 1.167,
+          "start_frame": 24,
+          "end_frame": 28
+        }
+      ]
+    }
+  ]
+}

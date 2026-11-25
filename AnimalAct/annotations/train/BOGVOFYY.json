@@ -1,0 +1,34 @@
+{
+  "video_id": "BOGVOFYY",
+  "video": "BOGVOFYY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Clouded Monitor Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Clouded Monitor Lizard",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Clouded Monitor Lizard",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Clouded Monitor Lizard",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.108,
+          "start_frame": 0,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

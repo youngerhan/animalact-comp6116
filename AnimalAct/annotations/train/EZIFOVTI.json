@@ -1,0 +1,34 @@
+{
+  "video_id": "EZIFOVTI",
+  "video": "EZIFOVTI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Smew"
+  ],
+  "list_animal_action": [
+    [
+      "Smew",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Smew",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Smew",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 2.094,
+          "start_frame": 0,
+          "end_frame": 50
+        }
+      ]
+    }
+  ]
+}

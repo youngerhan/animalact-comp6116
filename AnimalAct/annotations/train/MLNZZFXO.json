@@ -1,0 +1,128 @@
+{
+  "video_id": "MLNZZFXO",
+  "video": "MLNZZFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Sensing"
+    ],
+    [
+      "Tit Bird",
+      "Flapping"
+    ],
+    [
+      "Tit Bird",
+      "Flying"
+    ],
+    [
+      "Tit Bird",
+      "Washing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Sensing"
+    ],
+    [
+      "Tit Bird",
+      "Flapping"
+    ],
+    [
+      "Tit Bird",
+      "Flying"
+    ],
+    [
+      "Tit Bird",
+      "Washing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.114,
+          "end": 0.876,
+          "start_frame": 3,
+          "end_frame": 21
+        },
+        {
+          "action": "Washing",
+          "start": 0.114,
+          "end": 0.876,
+          "start_frame": 3,
+          "end_frame": 21
+        },
+        {
+          "action": "Sensing",
+          "start": 0.801,
+          "end": 8.726,
+          "start_frame": 19,
+          "end_frame": 209
+        },
+        {
+          "action": "Flapping",
+          "start": 1.639,
+          "end": 2.208,
+          "start_frame": 39,
+          "end_frame": 53
+        },
+        {
+          "action": "Washing",
+          "start": 1.639,
+          "end": 2.215,
+          "start_frame": 39,
+          "end_frame": 53
+        },
+        {
+          "action": "Washing",
+          "start": 3.106,
+          "end": 4.498,
+          "start_frame": 75,
+          "end_frame": 108
+        },
+        {
+          "action": "Flapping",
+          "start": 3.106,
+          "end": 4.505,
+          "start_frame": 75,
+          "end_frame": 108
+        },
+        {
+          "action": "Flying",
+          "start": 5.036,
+          "end": 5.344,
+          "start_frame": 121,
+          "end_frame": 128
+        },
+        {
+          "action": "Flapping",
+          "start": 5.037,
+          "end": 5.351,
+          "start_frame": 121,
+          "end_frame": 128
+        },
+        {
+          "action": "Washing",
+          "start": 7.559,
+          "end": 8.726,
+          "start_frame": 181,
+          "end_frame": 209
+        },
+        {
+          "action": "Flapping",
+          "start": 7.574,
+          "end": 8.606,
+          "start_frame": 182,
+          "end_frame": 207
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "BALJQFFP",
+  "video": "BALJQFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Golden Orb Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Golden Orb Spider",
+      "Lying On Top"
+    ],
+    [
+      "Golden Orb Spider",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Golden Orb Spider",
+      "Lying On Top"
+    ],
+    [
+      "Golden Orb Spider",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Golden Orb Spider",
+      "actions": [
+        {
+          "action": "Lying On Top",
+          "start": 0.0,
+          "end": 2.765,
+          "start_frame": 0,
+          "end_frame": 66
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.775,
+          "end": 3.501,
+          "start_frame": 67,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

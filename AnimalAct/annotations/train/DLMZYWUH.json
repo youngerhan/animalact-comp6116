@@ -1,0 +1,49 @@
+{
+  "video_id": "DLMZYWUH",
+  "video": "DLMZYWUH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Landing"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Landing"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Sensing",
+          "start": 0.317,
+          "end": 0.523,
+          "start_frame": 8,
+          "end_frame": 13
+        }
+      ]
+    }
+  ]
+}

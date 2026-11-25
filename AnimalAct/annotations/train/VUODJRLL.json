@@ -1,0 +1,79 @@
+{
+  "video_id": "VUODJRLL",
+  "video": "VUODJRLL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mouse"
+  ],
+  "list_animal_action": [
+    [
+      "Mouse",
+      "Attending"
+    ],
+    [
+      "Mouse",
+      "Shaking Head"
+    ],
+    [
+      "Mouse",
+      "Running"
+    ],
+    [
+      "Mouse",
+      "Grooming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mouse",
+      "Attending"
+    ],
+    [
+      "Mouse",
+      "Shaking Head"
+    ],
+    [
+      "Mouse",
+      "Running"
+    ],
+    [
+      "Mouse",
+      "Grooming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mouse",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 0.711,
+          "end": 0.775,
+          "start_frame": 17,
+          "end_frame": 19
+        },
+        {
+          "action": "Running",
+          "start": 0.776,
+          "end": 1.651,
+          "start_frame": 19,
+          "end_frame": 40
+        },
+        {
+          "action": "Attending",
+          "start": 1.658,
+          "end": 2.345,
+          "start_frame": 40,
+          "end_frame": 56
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.344,
+          "end": 2.469,
+          "start_frame": 56,
+          "end_frame": 59
+        }
+      ]
+    }
+  ]
+}

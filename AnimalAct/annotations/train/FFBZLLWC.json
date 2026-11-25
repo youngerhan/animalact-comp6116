@@ -1,0 +1,41 @@
+{
+  "video_id": "FFBZLLWC",
+  "video": "FFBZLLWC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chameleon"
+  ],
+  "list_animal_action": [
+    [
+      "Chameleon",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chameleon",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chameleon",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.958,
+          "start_frame": 0,
+          "end_frame": 47
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.625,
+          "end": 7.5,
+          "start_frame": 111,
+          "end_frame": 180
+        }
+      ]
+    }
+  ]
+}

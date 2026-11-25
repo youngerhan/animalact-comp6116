@@ -1,0 +1,34 @@
+{
+  "video_id": "VHBOGTUB",
+  "video": "VHBOGTUB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Pond Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Western Pond Turtle",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Pond Turtle",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Pond Turtle",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

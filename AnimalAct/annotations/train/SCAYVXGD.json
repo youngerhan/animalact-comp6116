@@ -1,0 +1,64 @@
+{
+  "video_id": "SCAYVXGD",
+  "video": "SCAYVXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dog"
+  ],
+  "list_animal_action": [
+    [
+      "Dog",
+      "Walking"
+    ],
+    [
+      "Dog",
+      "Attending"
+    ],
+    [
+      "Dog",
+      "Yawning"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dog",
+      "Walking"
+    ],
+    [
+      "Dog",
+      "Attending"
+    ],
+    [
+      "Dog",
+      "Yawning"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dog",
+      "actions": [
+        {
+          "action": "Yawning",
+          "start": 0.0,
+          "end": 0.928,
+          "start_frame": 0,
+          "end_frame": 22
+        },
+        {
+          "action": "Walking",
+          "start": 1.663,
+          "end": 3.125,
+          "start_frame": 40,
+          "end_frame": 75
+        },
+        {
+          "action": "Attending",
+          "start": 2.238,
+          "end": 3.125,
+          "start_frame": 54,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

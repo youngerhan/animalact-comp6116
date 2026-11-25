@@ -1,0 +1,34 @@
+{
+  "video_id": "QRVSCDFS",
+  "video": "QRVSCDFS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wild Red-Tailed Boa"
+  ],
+  "list_animal_action": [
+    [
+      "Wild Red-Tailed Boa",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wild Red-Tailed Boa",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wild Red-Tailed Boa",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 9.368,
+          "start_frame": 0,
+          "end_frame": 225
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "QHWAHTLI",
+  "video": "QHWAHTLI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "House Cricket",
+    "Hairworm"
+  ],
+  "list_animal_action": [
+    [
+      "House Cricket",
+      "Keeping still"
+    ],
+    [
+      "Hairworm",
+      "Detaching As A Parasite"
+    ]
+  ],
+  "source_labels": [
+    [
+      "House Cricket",
+      "Keeping still"
+    ],
+    [
+      "Hairworm",
+      "Detaching As A Parasite"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "House Cricket",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 11.625,
+          "start_frame": 0,
+          "end_frame": 279
+        }
+      ]
+    },
+    {
+      "animal": "Hairworm",
+      "actions": [
+        {
+          "action": "Detaching As A Parasite",
+          "start": 0.637,
+          "end": 11.625,
+          "start_frame": 15,
+          "end_frame": 279
+        }
+      ]
+    }
+  ]
+}

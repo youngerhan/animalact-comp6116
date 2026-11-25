@@ -1,0 +1,41 @@
+{
+  "video_id": "WLJJMIWV",
+  "video": "WLJJMIWV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Whooper Swan"
+  ],
+  "list_animal_action": [
+    [
+      "Whooper Swan",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Whooper Swan",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Whooper Swan",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.375,
+          "end": 2.625,
+          "start_frame": 9,
+          "end_frame": 63
+        },
+        {
+          "action": "Preening",
+          "start": 4.875,
+          "end": 7.375,
+          "start_frame": 117,
+          "end_frame": 177
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "CCKWWDSN",
+  "video": "CCKWWDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Markhor Goat"
+  ],
+  "list_animal_action": [
+    [
+      "Markhor Goat",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Markhor Goat",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Markhor Goat",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 4.917,
+          "start_frame": 0,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

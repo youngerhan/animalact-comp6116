@@ -1,0 +1,34 @@
+{
+  "video_id": "IFUOAXGD",
+  "video": "IFUOAXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

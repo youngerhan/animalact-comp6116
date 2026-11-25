@@ -1,0 +1,49 @@
+{
+  "video_id": "DJCWVBQT",
+  "video": "DJCWVBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Weaver Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Weaver Ant",
+      "Moving"
+    ],
+    [
+      "Weaver Ant",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Weaver Ant",
+      "Moving"
+    ],
+    [
+      "Weaver Ant",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Weaver Ant",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 1.407,
+          "start_frame": 0,
+          "end_frame": 34
+        },
+        {
+          "action": "Moving",
+          "start": 1.407,
+          "end": 6.417,
+          "start_frame": 34,
+          "end_frame": 154
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "video_id": "SZUYVXDO",
+  "video": "SZUYVXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tiger",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Tiger",
+      "Fighting"
+    ],
+    [
+      "Lion",
+      "Fighting"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tiger",
+      "Fighting"
+    ],
+    [
+      "Lion",
+      "Fighting"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tiger",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.001,
+          "end": 1.417,
+          "start_frame": 0,
+          "end_frame": 34
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.001,
+          "end": 1.417,
+          "start_frame": 0,
+          "end_frame": 34
+        },
+        {
+          "action": "Attacking",
+          "start": 0.253,
+          "end": 1.417,
+          "start_frame": 6,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

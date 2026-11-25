@@ -1,0 +1,71 @@
+{
+  "video_id": "GPIDLFUP",
+  "video": "GPIDLFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Spitting Venom",
+          "start": 0.0,
+          "end": 0.246,
+          "start_frame": 0,
+          "end_frame": 6
+        },
+        {
+          "action": "Sensing",
+          "start": 0.545,
+          "end": 2.661,
+          "start_frame": 13,
+          "end_frame": 64
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.672,
+          "end": 4.847,
+          "start_frame": 64,
+          "end_frame": 116
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 5.937,
+          "end": 6.669,
+          "start_frame": 142,
+          "end_frame": 160
+        }
+      ]
+    }
+  ]
+}

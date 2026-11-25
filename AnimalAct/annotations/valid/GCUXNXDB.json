@@ -1,0 +1,49 @@
+{
+  "video_id": "GCUXNXDB",
+  "video": "GCUXNXDB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Postman Butterfly"
+  ],
+  "list_animal_action": [
+    [
+      "Postman Butterfly",
+      "Landing"
+    ],
+    [
+      "Postman Butterfly",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Postman Butterfly",
+      "Landing"
+    ],
+    [
+      "Postman Butterfly",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Postman Butterfly",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 3.645,
+          "start_frame": 0,
+          "end_frame": 87
+        },
+        {
+          "action": "Landing",
+          "start": 3.631,
+          "end": 5.209,
+          "start_frame": 87,
+          "end_frame": 125
+        }
+      ]
+    }
+  ]
+}

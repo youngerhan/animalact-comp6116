@@ -1,0 +1,32 @@
+{
+  "video_id": "MILRKZQJ",
+  "video": "MILRKZQJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hornbill"
+  ],
+  "list_animal_action": [
+    [
+      "Hornbill",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hornbill",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hornbill",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.2,
+          "end": 0.8
+        }
+      ]
+    }
+  ]
+}

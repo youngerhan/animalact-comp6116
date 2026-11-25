@@ -1,0 +1,34 @@
+{
+  "video_id": "GAGRMQCN",
+  "video": "GAGRMQCN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ibex"
+  ],
+  "list_animal_action": [
+    [
+      "Ibex",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ibex",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ibex",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

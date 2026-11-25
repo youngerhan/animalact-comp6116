@@ -1,0 +1,49 @@
+{
+  "video_id": "SBEOQVIQ",
+  "video": "SBEOQVIQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Firefly"
+  ],
+  "list_animal_action": [
+    [
+      "Firefly",
+      "Keeping still"
+    ],
+    [
+      "Firefly",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Firefly",
+      "Keeping still"
+    ],
+    [
+      "Firefly",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Firefly",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.781,
+          "start_frame": 0,
+          "end_frame": 19
+        },
+        {
+          "action": "Sensing",
+          "start": 0.44,
+          "end": 2.057,
+          "start_frame": 11,
+          "end_frame": 49
+        }
+      ]
+    }
+  ]
+}

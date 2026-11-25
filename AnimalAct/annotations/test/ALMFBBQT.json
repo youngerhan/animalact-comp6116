@@ -1,0 +1,55 @@
+{
+  "video_id": "ALMFBBQT",
+  "video": "ALMFBBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lizard",
+    "Oriental Whip Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Lizard",
+      "Being Eaten"
+    ],
+    [
+      "Oriental Whip Snake",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lizard",
+      "Being Eaten"
+    ],
+    [
+      "Oriental Whip Snake",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lizard",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.002,
+          "end": 0.917,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    },
+    {
+      "animal": "Oriental Whip Snake",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.46,
+          "end": 0.651,
+          "start_frame": 11,
+          "end_frame": 16
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "video_id": "GTHZMRAC",
+  "video": "GTHZMRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Agouti"
+  ],
+  "list_animal_action": [
+    [
+      "Agouti",
+      "Moving"
+    ],
+    [
+      "Agouti",
+      "Attending"
+    ],
+    [
+      "Agouti",
+      "Walking"
+    ],
+    [
+      "Agouti",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Agouti",
+      "Moving"
+    ],
+    [
+      "Agouti",
+      "Attending"
+    ],
+    [
+      "Agouti",
+      "Walking"
+    ],
+    [
+      "Agouti",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Agouti",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.958,
+          "start_frame": 0,
+          "end_frame": 23
+        },
+        {
+          "action": "Moving",
+          "start": 0.958,
+          "end": 2.0,
+          "start_frame": 23,
+          "end_frame": 48
+        },
+        {
+          "action": "Walking",
+          "start": 0.958,
+          "end": 2.0,
+          "start_frame": 23,
+          "end_frame": 48
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.0,
+          "end": 2.667,
+          "start_frame": 48,
+          "end_frame": 64
+        },
+        {
+          "action": "Attending",
+          "start": 2.0,
+          "end": 6.542,
+          "start_frame": 48,
+          "end_frame": 157
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.958,
+          "end": 6.542,
+          "start_frame": 71,
+          "end_frame": 157
+        },
+        {
+          "action": "Moving",
+          "start": 6.542,
+          "end": 7.667,
+          "start_frame": 157,
+          "end_frame": 184
+        }
+      ]
+    }
+  ]
+}

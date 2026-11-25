@@ -1,0 +1,49 @@
+{
+  "video_id": "XJQPBHCQ",
+  "video": "XJQPBHCQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gryllus Lineaticeps"
+  ],
+  "list_animal_action": [
+    [
+      "Gryllus Lineaticeps",
+      "Moving"
+    ],
+    [
+      "Gryllus Lineaticeps",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gryllus Lineaticeps",
+      "Moving"
+    ],
+    [
+      "Gryllus Lineaticeps",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gryllus Lineaticeps",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.875,
+          "start_frame": 0,
+          "end_frame": 117
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.917,
+          "start_frame": 0,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

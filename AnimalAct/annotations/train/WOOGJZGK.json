@@ -1,0 +1,41 @@
+{
+  "video_id": "WOOGJZGK",
+  "video": "WOOGJZGK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Diving Bell Water Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Diving Bell Water Spider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Diving Bell Water Spider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Diving Bell Water Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.915,
+          "start_frame": 0,
+          "end_frame": 22
+        },
+        {
+          "action": "Moving",
+          "start": 1.829,
+          "end": 3.863,
+          "start_frame": 44,
+          "end_frame": 93
+        }
+      ]
+    }
+  ]
+}

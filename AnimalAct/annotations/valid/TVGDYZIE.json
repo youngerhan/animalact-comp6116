@@ -1,0 +1,99 @@
+{
+  "video_id": "TVGDYZIE",
+  "video": "TVGDYZIE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Landing"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Landing"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.121,
+          "start_frame": 0,
+          "end_frame": 195
+        },
+        {
+          "action": "Flying",
+          "start": 0.342,
+          "end": 0.5,
+          "start_frame": 8,
+          "end_frame": 12
+        },
+        {
+          "action": "Flying",
+          "start": 0.982,
+          "end": 1.496,
+          "start_frame": 24,
+          "end_frame": 36
+        },
+        {
+          "action": "Landing",
+          "start": 1.24,
+          "end": 1.493,
+          "start_frame": 30,
+          "end_frame": 36
+        },
+        {
+          "action": "Flying",
+          "start": 1.996,
+          "end": 2.296,
+          "start_frame": 48,
+          "end_frame": 55
+        },
+        {
+          "action": "Landing",
+          "start": 2.302,
+          "end": 2.48,
+          "start_frame": 55,
+          "end_frame": 60
+        },
+        {
+          "action": "Flying",
+          "start": 2.805,
+          "end": 3.305,
+          "start_frame": 67,
+          "end_frame": 79
+        },
+        {
+          "action": "Landing",
+          "start": 3.316,
+          "end": 3.565,
+          "start_frame": 80,
+          "end_frame": 86
+        }
+      ]
+    }
+  ]
+}

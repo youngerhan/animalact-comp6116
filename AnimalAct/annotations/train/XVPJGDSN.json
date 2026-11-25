@@ -1,0 +1,55 @@
+{
+  "video_id": "XVPJGDSN",
+  "video": "XVPJGDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Markhor Goat",
+    "Snow Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Markhor Goat",
+      "Fleeing"
+    ],
+    [
+      "Snow Leopard",
+      "Chasing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Markhor Goat",
+      "Fleeing"
+    ],
+    [
+      "Snow Leopard",
+      "Chasing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Markhor Goat",
+      "actions": [
+        {
+          "action": "Fleeing",
+          "start": 0.0,
+          "end": 4.417,
+          "start_frame": 0,
+          "end_frame": 106
+        }
+      ]
+    },
+    {
+      "animal": "Snow Leopard",
+      "actions": [
+        {
+          "action": "Chasing",
+          "start": 0.0,
+          "end": 4.417,
+          "start_frame": 0,
+          "end_frame": 106
+        }
+      ]
+    }
+  ]
+}

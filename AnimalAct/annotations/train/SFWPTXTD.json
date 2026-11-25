@@ -1,0 +1,34 @@
+{
+  "video_id": "SFWPTXTD",
+  "video": "SFWPTXTD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Fly",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fly",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fly",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.22,
+          "end": 3.923,
+          "start_frame": 5,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

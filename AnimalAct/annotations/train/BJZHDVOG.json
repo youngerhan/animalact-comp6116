@@ -1,0 +1,34 @@
+{
+  "video_id": "BJZHDVOG",
+  "video": "BJZHDVOG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mojave Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Mojave Rattlesnake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mojave Rattlesnake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mojave Rattlesnake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.044,
+          "end": 10.711,
+          "start_frame": 1,
+          "end_frame": 257
+        }
+      ]
+    }
+  ]
+}

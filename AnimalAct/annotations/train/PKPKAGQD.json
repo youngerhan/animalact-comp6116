@@ -1,0 +1,34 @@
+{
+  "video_id": "PKPKAGQD",
+  "video": "PKPKAGQD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.469,
+          "start_frame": 0,
+          "end_frame": 35
+        }
+      ]
+    }
+  ]
+}

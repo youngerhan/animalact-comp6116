@@ -1,0 +1,56 @@
+{
+  "video_id": "USKIUVKA",
+  "video": "USKIUVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Attending"
+    ],
+    [
+      "Common Quail",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Attending"
+    ],
+    [
+      "Common Quail",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.136,
+          "end": 0.69,
+          "start_frame": 3,
+          "end_frame": 17
+        },
+        {
+          "action": "Running",
+          "start": 0.702,
+          "end": 2.996,
+          "start_frame": 17,
+          "end_frame": 72
+        },
+        {
+          "action": "Attending",
+          "start": 3.001,
+          "end": 3.333,
+          "start_frame": 72,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

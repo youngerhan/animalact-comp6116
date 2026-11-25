@@ -1,0 +1,34 @@
+{
+  "video_id": "EBUOHBQT",
+  "video": "EBUOHBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Sitting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Sitting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Sitting",
+          "start": 0.697,
+          "end": 1.833,
+          "start_frame": 17,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "QMSBTFXO",
+  "video": "QMSBTFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Preening"
+    ],
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Preening"
+    ],
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 8.219,
+          "start_frame": 2,
+          "end_frame": 197
+        },
+        {
+          "action": "Preening",
+          "start": 0.469,
+          "end": 1.844,
+          "start_frame": 11,
+          "end_frame": 44
+        },
+        {
+          "action": "Chirping",
+          "start": 3.344,
+          "end": 3.469,
+          "start_frame": 80,
+          "end_frame": 83
+        },
+        {
+          "action": "Chirping",
+          "start": 3.594,
+          "end": 8.094,
+          "start_frame": 86,
+          "end_frame": 194
+        }
+      ]
+    }
+  ]
+}

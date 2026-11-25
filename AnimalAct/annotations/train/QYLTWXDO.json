@@ -1,0 +1,47 @@
+{
+  "video_id": "QYLTWXDO",
+  "video": "QYLTWXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard",
+    "Porcupine"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Preying"
+    ],
+    [
+      "Porcupine",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Preying"
+    ],
+    [
+      "Porcupine",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": []
+    },
+    {
+      "animal": "Porcupine",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 0.835,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

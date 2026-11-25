@@ -1,0 +1,70 @@
+{
+  "video_id": "MRLKWXDO",
+  "video": "MRLKWXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Buffalo",
+    "Giraffe"
+  ],
+  "list_animal_action": [
+    [
+      "Buffalo",
+      "Sensing"
+    ],
+    [
+      "Buffalo",
+      "Walking"
+    ],
+    [
+      "Giraffe",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Buffalo",
+      "Sensing"
+    ],
+    [
+      "Buffalo",
+      "Walking"
+    ],
+    [
+      "Giraffe",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Buffalo",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    },
+    {
+      "animal": "Giraffe",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.305,
+          "start_frame": 0,
+          "end_frame": 31
+        }
+      ]
+    }
+  ]
+}

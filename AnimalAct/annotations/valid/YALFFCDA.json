@@ -1,0 +1,34 @@
+{
+  "video_id": "YALFFCDA",
+  "video": "YALFFCDA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Latrodectus Hersperus Western Widow Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Latrodectus Hersperus Western Widow Spider",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Latrodectus Hersperus Western Widow Spider",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Latrodectus Hersperus Western Widow Spider",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

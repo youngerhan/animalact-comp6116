@@ -1,0 +1,77 @@
+{
+  "video_id": "BFVDTXMC",
+  "video": "BFVDTXMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Woodpecker",
+      "Sensing"
+    ],
+    [
+      "Woodpecker",
+      "Pecking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Woodpecker",
+      "Sensing"
+    ],
+    [
+      "Woodpecker",
+      "Pecking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Woodpecker",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.056,
+          "end": 1.097,
+          "start_frame": 1,
+          "end_frame": 26
+        },
+        {
+          "action": "Pecking",
+          "start": 0.205,
+          "end": 0.712,
+          "start_frame": 5,
+          "end_frame": 17
+        },
+        {
+          "action": "Pecking",
+          "start": 1.13,
+          "end": 1.863,
+          "start_frame": 27,
+          "end_frame": 45
+        },
+        {
+          "action": "Sensing",
+          "start": 1.544,
+          "end": 2.93,
+          "start_frame": 37,
+          "end_frame": 70
+        },
+        {
+          "action": "Pecking",
+          "start": 2.072,
+          "end": 2.944,
+          "start_frame": 50,
+          "end_frame": 71
+        },
+        {
+          "action": "Sensing",
+          "start": 3.52,
+          "end": 4.476,
+          "start_frame": 84,
+          "end_frame": 107
+        }
+      ]
+    }
+  ]
+}

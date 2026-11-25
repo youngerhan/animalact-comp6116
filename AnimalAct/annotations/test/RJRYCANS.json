@@ -1,0 +1,49 @@
+{
+  "video_id": "RJRYCANS",
+  "video": "RJRYCANS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Orb Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Orb Spider",
+      "Lying On Top"
+    ],
+    [
+      "Orb Spider",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Orb Spider",
+      "Lying On Top"
+    ],
+    [
+      "Orb Spider",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Orb Spider",
+      "actions": [
+        {
+          "action": "Lying On Top",
+          "start": 0.0,
+          "end": 2.31,
+          "start_frame": 0,
+          "end_frame": 55
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.435,
+          "end": 3.214,
+          "start_frame": 58,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

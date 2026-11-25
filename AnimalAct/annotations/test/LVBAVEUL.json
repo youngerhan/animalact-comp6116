@@ -1,0 +1,49 @@
+{
+  "video_id": "LVBAVEUL",
+  "video": "LVBAVEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.834,
+          "start_frame": 0,
+          "end_frame": 188
+        },
+        {
+          "action": "Sensing",
+          "start": 7.625,
+          "end": 7.833,
+          "start_frame": 183,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

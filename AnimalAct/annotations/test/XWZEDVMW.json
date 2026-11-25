@@ -1,0 +1,49 @@
+{
+  "video_id": "XWZEDVMW",
+  "video": "XWZEDVMW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Buffalo"
+  ],
+  "list_animal_action": [
+    [
+      "Buffalo",
+      "Walking"
+    ],
+    [
+      "Buffalo",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Buffalo",
+      "Walking"
+    ],
+    [
+      "Buffalo",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Buffalo",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 16.708,
+          "start_frame": 0,
+          "end_frame": 401
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.97,
+          "end": 9.359,
+          "start_frame": 119,
+          "end_frame": 225
+        }
+      ]
+    }
+  ]
+}

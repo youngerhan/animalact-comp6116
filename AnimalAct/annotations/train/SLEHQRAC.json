@@ -1,0 +1,34 @@
+{
+  "video_id": "SLEHQRAC",
+  "video": "SLEHQRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tamandua"
+  ],
+  "list_animal_action": [
+    [
+      "Tamandua",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tamandua",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tamandua",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 8.208,
+          "start_frame": 0,
+          "end_frame": 197
+        }
+      ]
+    }
+  ]
+}

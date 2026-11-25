@@ -1,0 +1,34 @@
+{
+  "video_id": "NDGURHVR",
+  "video": "NDGURHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grass Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Grass Snake",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grass Snake",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grass Snake",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.037,
+          "end": 15.208,
+          "start_frame": 1,
+          "end_frame": 365
+        }
+      ]
+    }
+  ]
+}

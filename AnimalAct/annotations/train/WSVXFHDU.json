@@ -1,0 +1,41 @@
+{
+  "video_id": "WSVXFHDU",
+  "video": "WSVXFHDU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Australian Bowerbird"
+  ],
+  "list_animal_action": [
+    [
+      "Australian Bowerbird",
+      "Building nest"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Australian Bowerbird",
+      "Building nest"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Australian Bowerbird",
+      "actions": [
+        {
+          "action": "Building nest",
+          "start": 0.0,
+          "end": 0.875,
+          "start_frame": 0,
+          "end_frame": 21
+        },
+        {
+          "action": "Building nest",
+          "start": 1.5,
+          "end": 2.625,
+          "start_frame": 36,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

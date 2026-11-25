@@ -1,0 +1,34 @@
+{
+  "video_id": "BWBWOLHH",
+  "video": "BWBWOLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog Tadpole"
+  ],
+  "list_animal_action": [
+    [
+      "Frog Tadpole",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog Tadpole",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog Tadpole",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.708,
+          "start_frame": 0,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

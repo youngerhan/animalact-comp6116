@@ -1,0 +1,34 @@
+{
+  "video_id": "UBTQUHDU",
+  "video": "UBTQUHDU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Australian Bowerbird"
+  ],
+  "list_animal_action": [
+    [
+      "Australian Bowerbird",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Australian Bowerbird",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Australian Bowerbird",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.0,
+          "end": 0.917,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

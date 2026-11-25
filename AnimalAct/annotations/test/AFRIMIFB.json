@@ -1,0 +1,34 @@
+{
+  "video_id": "AFRIMIFB",
+  "video": "AFRIMIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tomato Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Tomato Frog",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tomato Frog",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tomato Frog",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 7.344,
+          "start_frame": 0,
+          "end_frame": 176
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "XZSKZIVA",
+  "video": "XZSKZIVA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eelgrass Sea Hare"
+  ],
+  "list_animal_action": [
+    [
+      "Eelgrass Sea Hare",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eelgrass Sea Hare",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eelgrass Sea Hare",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.214,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "video_id": "IQMIDLSQ",
+  "video": "IQMIDLSQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mistle Thrush"
+  ],
+  "list_animal_action": [
+    [
+      "Mistle Thrush",
+      "Flapping"
+    ],
+    [
+      "Mistle Thrush",
+      "Eating"
+    ],
+    [
+      "Mistle Thrush",
+      "Sensing"
+    ],
+    [
+      "Mistle Thrush",
+      "Moving"
+    ],
+    [
+      "Mistle Thrush",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mistle Thrush",
+      "Flapping"
+    ],
+    [
+      "Mistle Thrush",
+      "Eating"
+    ],
+    [
+      "Mistle Thrush",
+      "Sensing"
+    ],
+    [
+      "Mistle Thrush",
+      "Moving"
+    ],
+    [
+      "Mistle Thrush",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mistle Thrush",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.986,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Sensing",
+          "start": 0.01,
+          "end": 4.259,
+          "start_frame": 0,
+          "end_frame": 102
+        },
+        {
+          "action": "Eating",
+          "start": 4.155,
+          "end": 12.625,
+          "start_frame": 100,
+          "end_frame": 303
+        },
+        {
+          "action": "Flapping",
+          "start": 4.597,
+          "end": 5.75,
+          "start_frame": 110,
+          "end_frame": 138
+        },
+        {
+          "action": "Flapping",
+          "start": 7.102,
+          "end": 8.753,
+          "start_frame": 170,
+          "end_frame": 210
+        },
+        {
+          "action": "Flapping",
+          "start": 9.929,
+          "end": 12.625,
+          "start_frame": 238,
+          "end_frame": 303
+        },
+        {
+          "action": "Moving",
+          "start": 10.261,
+          "end": 12.625,
+          "start_frame": 246,
+          "end_frame": 303
+        }
+      ]
+    }
+  ]
+}

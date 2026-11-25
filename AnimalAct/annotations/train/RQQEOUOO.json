@@ -1,0 +1,140 @@
+{
+  "video_id": "RQQEOUOO",
+  "video": "RQQEOUOO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Icterine Warbler Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Icterine Warbler Bird",
+      "Chirping"
+    ],
+    [
+      "Icterine Warbler Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Icterine Warbler Bird",
+      "Chirping"
+    ],
+    [
+      "Icterine Warbler Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Icterine Warbler Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.5,
+          "end": 1.125,
+          "start_frame": 12,
+          "end_frame": 27
+        },
+        {
+          "action": "Sensing",
+          "start": 1.5,
+          "end": 2.0,
+          "start_frame": 36,
+          "end_frame": 48
+        },
+        {
+          "action": "Chirping",
+          "start": 1.875,
+          "end": 2.625,
+          "start_frame": 45,
+          "end_frame": 63
+        },
+        {
+          "action": "Sensing",
+          "start": 2.625,
+          "end": 3.375,
+          "start_frame": 63,
+          "end_frame": 81
+        },
+        {
+          "action": "Chirping",
+          "start": 3.375,
+          "end": 3.875,
+          "start_frame": 81,
+          "end_frame": 93
+        },
+        {
+          "action": "Sensing",
+          "start": 3.875,
+          "end": 4.375,
+          "start_frame": 93,
+          "end_frame": 105
+        },
+        {
+          "action": "Chirping",
+          "start": 4.375,
+          "end": 4.875,
+          "start_frame": 105,
+          "end_frame": 117
+        },
+        {
+          "action": "Chirping",
+          "start": 5.0,
+          "end": 6.0,
+          "start_frame": 120,
+          "end_frame": 144
+        },
+        {
+          "action": "Sensing",
+          "start": 6.0,
+          "end": 6.75,
+          "start_frame": 144,
+          "end_frame": 162
+        },
+        {
+          "action": "Chirping",
+          "start": 6.75,
+          "end": 7.125,
+          "start_frame": 162,
+          "end_frame": 171
+        },
+        {
+          "action": "Sensing",
+          "start": 7.25,
+          "end": 12.5,
+          "start_frame": 174,
+          "end_frame": 300
+        },
+        {
+          "action": "Chirping",
+          "start": 12.5,
+          "end": 13.25,
+          "start_frame": 300,
+          "end_frame": 318
+        },
+        {
+          "action": "Sensing",
+          "start": 13.25,
+          "end": 14.0,
+          "start_frame": 318,
+          "end_frame": 336
+        },
+        {
+          "action": "Chirping",
+          "start": 14.0,
+          "end": 14.75,
+          "start_frame": 336,
+          "end_frame": 354
+        },
+        {
+          "action": "Sensing",
+          "start": 14.75,
+          "end": 15.833,
+          "start_frame": 354,
+          "end_frame": 380
+        }
+      ]
+    }
+  ]
+}

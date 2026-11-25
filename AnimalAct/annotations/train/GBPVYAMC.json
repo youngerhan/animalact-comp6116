@@ -1,0 +1,64 @@
+{
+  "video_id": "GBPVYAMC",
+  "video": "GBPVYAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Yawning"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Yawning"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 12.333,
+          "start_frame": 0,
+          "end_frame": 296
+        },
+        {
+          "action": "Walking",
+          "start": 0.25,
+          "end": 4.071,
+          "start_frame": 6,
+          "end_frame": 98
+        },
+        {
+          "action": "Yawning",
+          "start": 12.625,
+          "end": 13.875,
+          "start_frame": 303,
+          "end_frame": 333
+        }
+      ]
+    }
+  ]
+}

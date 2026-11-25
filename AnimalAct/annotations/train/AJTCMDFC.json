@@ -1,0 +1,56 @@
+{
+  "video_id": "AJTCMDFC",
+  "video": "AJTCMDFC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Glossina Morsitans Morsitans"
+  ],
+  "list_animal_action": [
+    [
+      "Glossina Morsitans Morsitans",
+      "Lying On Top"
+    ],
+    [
+      "Glossina Morsitans Morsitans",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Glossina Morsitans Morsitans",
+      "Lying On Top"
+    ],
+    [
+      "Glossina Morsitans Morsitans",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Glossina Morsitans Morsitans",
+      "actions": [
+        {
+          "action": "Lying On Top",
+          "start": 0.0,
+          "end": 3.501,
+          "start_frame": 0,
+          "end_frame": 84
+        },
+        {
+          "action": "Sensing",
+          "start": 1.144,
+          "end": 2.165,
+          "start_frame": 27,
+          "end_frame": 52
+        },
+        {
+          "action": "Sensing",
+          "start": 2.729,
+          "end": 3.501,
+          "start_frame": 65,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

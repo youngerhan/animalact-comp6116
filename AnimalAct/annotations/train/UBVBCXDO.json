@@ -1,0 +1,55 @@
+{
+  "video_id": "UBVBCXDO",
+  "video": "UBVBCXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Porcupine",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Porcupine",
+      "Fleeing"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Porcupine",
+      "Fleeing"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Porcupine",
+      "actions": [
+        {
+          "action": "Fleeing",
+          "start": 0.0,
+          "end": 0.725,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Sitting",
+          "start": 0.731,
+          "end": 3.0,
+          "start_frame": 18,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

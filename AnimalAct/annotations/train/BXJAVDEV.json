@@ -1,0 +1,34 @@
+{
+  "video_id": "BXJAVDEV",
+  "video": "BXJAVDEV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Gecko",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gecko",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gecko",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 1.274,
+          "end": 2.001,
+          "start_frame": 31,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

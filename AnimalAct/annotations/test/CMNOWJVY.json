@@ -1,0 +1,41 @@
+{
+  "video_id": "CMNOWJVY",
+  "video": "CMNOWJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.528,
+          "end": 1.531,
+          "start_frame": 13,
+          "end_frame": 37
+        },
+        {
+          "action": "Eating",
+          "start": 1.713,
+          "end": 4.208,
+          "start_frame": 41,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

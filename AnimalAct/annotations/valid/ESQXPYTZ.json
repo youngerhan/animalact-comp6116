@@ -1,0 +1,122 @@
+{
+  "video_id": "ESQXPYTZ",
+  "video": "ESQXPYTZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greylag Goose"
+  ],
+  "list_animal_action": [
+    [
+      "Greylag Goose",
+      "Shaking Head"
+    ],
+    [
+      "Greylag Goose",
+      "Keeping still"
+    ],
+    [
+      "Greylag Goose",
+      "Sensing"
+    ],
+    [
+      "Greylag Goose",
+      "Walking"
+    ],
+    [
+      "Greylag Goose",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greylag Goose",
+      "Shaking Head"
+    ],
+    [
+      "Greylag Goose",
+      "Keeping still"
+    ],
+    [
+      "Greylag Goose",
+      "Sensing"
+    ],
+    [
+      "Greylag Goose",
+      "Walking"
+    ],
+    [
+      "Greylag Goose",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greylag Goose",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.371,
+          "start_frame": 0,
+          "end_frame": 57
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 4.078,
+          "start_frame": 0,
+          "end_frame": 98
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.208,
+          "start_frame": 0,
+          "end_frame": 197
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.168,
+          "end": 0.591,
+          "start_frame": 4,
+          "end_frame": 14
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.68,
+          "end": 4.187,
+          "start_frame": 64,
+          "end_frame": 100
+        },
+        {
+          "action": "Preening",
+          "start": 2.861,
+          "end": 7.009,
+          "start_frame": 69,
+          "end_frame": 168
+        },
+        {
+          "action": "Shaking Head",
+          "start": 4.197,
+          "end": 8.208,
+          "start_frame": 101,
+          "end_frame": 197
+        },
+        {
+          "action": "Walking",
+          "start": 4.238,
+          "end": 5.843,
+          "start_frame": 102,
+          "end_frame": 140
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.364,
+          "end": 8.208,
+          "start_frame": 153,
+          "end_frame": 197
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "ENZZFUDI",
+  "video": "ENZZFUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.604,
+          "start_frame": 0,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

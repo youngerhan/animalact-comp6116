@@ -1,0 +1,71 @@
+{
+  "video_id": "JBRANLHH",
+  "video": "JBRANLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Foam Nest Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Foam Nest Frog",
+      "Walking"
+    ],
+    [
+      "Foam Nest Frog",
+      "Hugging"
+    ],
+    [
+      "Foam Nest Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Foam Nest Frog",
+      "Walking"
+    ],
+    [
+      "Foam Nest Frog",
+      "Hugging"
+    ],
+    [
+      "Foam Nest Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Foam Nest Frog",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 6.706,
+          "start_frame": 0,
+          "end_frame": 161
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.707,
+          "start_frame": 0,
+          "end_frame": 161
+        },
+        {
+          "action": "Walking",
+          "start": 0.085,
+          "end": 3.586,
+          "start_frame": 2,
+          "end_frame": 86
+        },
+        {
+          "action": "Walking",
+          "start": 6.412,
+          "end": 6.708333,
+          "start_frame": 154,
+          "end_frame": 161
+        }
+      ]
+    }
+  ]
+}

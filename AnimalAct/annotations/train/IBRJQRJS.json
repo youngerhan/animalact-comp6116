@@ -1,0 +1,55 @@
+{
+  "video_id": "IBRJQRJS",
+  "video": "IBRJQRJS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mosquito Larva",
+    "Damselfly"
+  ],
+  "list_animal_action": [
+    [
+      "Mosquito Larva",
+      "Swimming"
+    ],
+    [
+      "Damselfly",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mosquito Larva",
+      "Swimming"
+    ],
+    [
+      "Damselfly",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mosquito Larva",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 1.459,
+          "start_frame": 0,
+          "end_frame": 35
+        }
+      ]
+    },
+    {
+      "animal": "Damselfly",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.504,
+          "end": 0.878,
+          "start_frame": 12,
+          "end_frame": 21
+        }
+      ]
+    }
+  ]
+}

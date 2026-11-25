@@ -1,0 +1,106 @@
+{
+  "video_id": "OUVXKFXO",
+  "video": "OUVXKFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Washing"
+    ],
+    [
+      "Tit Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Washing"
+    ],
+    [
+      "Tit Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Washing",
+          "start": 0.125,
+          "end": 0.875,
+          "start_frame": 3,
+          "end_frame": 21
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.875,
+          "end": 1.125,
+          "start_frame": 21,
+          "end_frame": 27
+        },
+        {
+          "action": "Sensing",
+          "start": 1.0,
+          "end": 1.875,
+          "start_frame": 24,
+          "end_frame": 45
+        },
+        {
+          "action": "Washing",
+          "start": 1.875,
+          "end": 3.375,
+          "start_frame": 45,
+          "end_frame": 81
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.25,
+          "end": 3.5,
+          "start_frame": 78,
+          "end_frame": 84
+        },
+        {
+          "action": "Sensing",
+          "start": 3.5,
+          "end": 4.5,
+          "start_frame": 84,
+          "end_frame": 108
+        },
+        {
+          "action": "Washing",
+          "start": 4.625,
+          "end": 5.875,
+          "start_frame": 111,
+          "end_frame": 141
+        },
+        {
+          "action": "Shaking Head",
+          "start": 5.625,
+          "end": 5.875,
+          "start_frame": 135,
+          "end_frame": 141
+        },
+        {
+          "action": "Sensing",
+          "start": 5.875,
+          "end": 6.208,
+          "start_frame": 141,
+          "end_frame": 149
+        }
+      ]
+    }
+  ]
+}

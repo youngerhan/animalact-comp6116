@@ -1,0 +1,101 @@
+{
+  "video_id": "RGVUEAMC",
+  "video": "RGVUEAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Playing"
+    ],
+    [
+      "Lion Young",
+      "Lying Down"
+    ],
+    [
+      "Lion Young",
+      "Biting"
+    ],
+    [
+      "Lion Young",
+      "Keeping still"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Playing"
+    ],
+    [
+      "Lion Young",
+      "Lying Down"
+    ],
+    [
+      "Lion Young",
+      "Biting"
+    ],
+    [
+      "Lion Young",
+      "Keeping still"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Playing",
+          "start": 0.024,
+          "end": 19.018,
+          "start_frame": 1,
+          "end_frame": 456
+        },
+        {
+          "action": "Biting",
+          "start": 0.865,
+          "end": 6.089,
+          "start_frame": 21,
+          "end_frame": 146
+        },
+        {
+          "action": "Lying Down",
+          "start": 5.086,
+          "end": 14.547,
+          "start_frame": 122,
+          "end_frame": 349
+        },
+        {
+          "action": "Biting",
+          "start": 7.002,
+          "end": 12.064,
+          "start_frame": 168,
+          "end_frame": 290
+        },
+        {
+          "action": "Keeping still",
+          "start": 12.096,
+          "end": 15.161,
+          "start_frame": 290,
+          "end_frame": 364
+        },
+        {
+          "action": "Walking",
+          "start": 13.115,
+          "end": 19.018,
+          "start_frame": 315,
+          "end_frame": 456
+        }
+      ]
+    }
+  ]
+}

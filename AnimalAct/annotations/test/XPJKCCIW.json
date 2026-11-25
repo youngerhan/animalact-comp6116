@@ -1,0 +1,55 @@
+{
+  "video_id": "XPJKCCIW",
+  "video": "XPJKCCIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salticidae Jumping Spider",
+    "Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Salticidae Jumping Spider",
+      "Attacking"
+    ],
+    [
+      "Aphid",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salticidae Jumping Spider",
+      "Attacking"
+    ],
+    [
+      "Aphid",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salticidae Jumping Spider",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.005,
+          "end": 0.391,
+          "start_frame": 0,
+          "end_frame": 9
+        }
+      ]
+    },
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

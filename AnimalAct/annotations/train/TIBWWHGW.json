@@ -1,0 +1,64 @@
+{
+  "video_id": "TIBWWHGW",
+  "video": "TIBWWHGW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Circus Aeruginosus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Circus Aeruginosus Bird",
+      "Shaking Head"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Sensing"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Circus Aeruginosus Bird",
+      "Shaking Head"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Sensing"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Circus Aeruginosus Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.001,
+          "end": 0.831,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Eating",
+          "start": 0.282,
+          "end": 0.625,
+          "start_frame": 7,
+          "end_frame": 15
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.832,
+          "end": 0.93,
+          "start_frame": 20,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "TZEXJLHH",
+  "video": "TZEXJLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "African Clawed Toad"
+  ],
+  "list_animal_action": [
+    [
+      "African Clawed Toad",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "African Clawed Toad",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "African Clawed Toad",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.042,
+          "end": 4.333,
+          "start_frame": 25,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

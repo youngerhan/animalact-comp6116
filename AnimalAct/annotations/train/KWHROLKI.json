@@ -1,0 +1,34 @@
+{
+  "video_id": "KWHROLKI",
+  "video": "KWHROLKI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Firebrat Insect"
+  ],
+  "list_animal_action": [
+    [
+      "Firebrat Insect",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Firebrat Insect",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Firebrat Insect",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.125,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

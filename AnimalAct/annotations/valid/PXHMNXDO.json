@@ -1,0 +1,55 @@
+{
+  "video_id": "PXHMNXDO",
+  "video": "PXHMNXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Zebra",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Zebra",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Zebra",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Zebra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.0,
+          "start_frame": 0,
+          "end_frame": 48
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.25,
+          "end": 2.0,
+          "start_frame": 6,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

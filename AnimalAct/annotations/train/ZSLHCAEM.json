@@ -1,0 +1,63 @@
+{
+  "video_id": "ZSLHCAEM",
+  "video": "ZSLHCAEM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lanius Excubitor"
+  ],
+  "list_animal_action": [
+    [
+      "Lanius Excubitor",
+      "Eating"
+    ],
+    [
+      "Lanius Excubitor",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lanius Excubitor",
+      "Eating"
+    ],
+    [
+      "Lanius Excubitor",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lanius Excubitor",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.5,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Sensing",
+          "start": 2.5,
+          "end": 4.542,
+          "start_frame": 60,
+          "end_frame": 109
+        },
+        {
+          "action": "Eating",
+          "start": 4.542,
+          "end": 6.417,
+          "start_frame": 109,
+          "end_frame": 154
+        },
+        {
+          "action": "Sensing",
+          "start": 6.417,
+          "end": 7.0,
+          "start_frame": 154,
+          "end_frame": 168
+        }
+      ]
+    }
+  ]
+}

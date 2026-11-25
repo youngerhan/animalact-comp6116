@@ -1,0 +1,55 @@
+{
+  "video_id": "JMORBUPH",
+  "video": "JMORBUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Larva",
+    "Great Diving Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Larva",
+      "Being Eaten"
+    ],
+    [
+      "Great Diving Beetle",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Larva",
+      "Being Eaten"
+    ],
+    [
+      "Great Diving Beetle",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Larva",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 5.833,
+          "start_frame": 0,
+          "end_frame": 140
+        }
+      ]
+    },
+    {
+      "animal": "Great Diving Beetle",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 5.833,
+          "start_frame": 0,
+          "end_frame": 140
+        }
+      ]
+    }
+  ]
+}

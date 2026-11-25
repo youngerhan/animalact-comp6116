@@ -1,0 +1,34 @@
+{
+  "video_id": "BIFKWBQT",
+  "video": "BIFKWBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greater Racket Tail Drongo"
+  ],
+  "list_animal_action": [
+    [
+      "Greater Racket Tail Drongo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greater Racket Tail Drongo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greater Racket Tail Drongo",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.417,
+          "end": 0.875,
+          "start_frame": 10,
+          "end_frame": 21
+        }
+      ]
+    }
+  ]
+}

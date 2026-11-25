@@ -1,0 +1,34 @@
+{
+  "video_id": "HWDUNZJZ",
+  "video": "HWDUNZJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.725,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

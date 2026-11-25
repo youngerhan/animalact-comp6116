@@ -1,0 +1,115 @@
+{
+  "video_id": "KAXFASBA",
+  "video": "KAXFASBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Running"
+    ],
+    [
+      "Bird",
+      "Keeping still"
+    ],
+    [
+      "Bird",
+      "Attending"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Running"
+    ],
+    [
+      "Bird",
+      "Keeping still"
+    ],
+    [
+      "Bird",
+      "Attending"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.719,
+          "start_frame": 0,
+          "end_frame": 137
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 5.833,
+          "start_frame": 0,
+          "end_frame": 140
+        },
+        {
+          "action": "Attending",
+          "start": 0.094,
+          "end": 5.719,
+          "start_frame": 2,
+          "end_frame": 137
+        },
+        {
+          "action": "Running",
+          "start": 0.344,
+          "end": 0.594,
+          "start_frame": 8,
+          "end_frame": 14
+        },
+        {
+          "action": "Running",
+          "start": 0.844,
+          "end": 1.219,
+          "start_frame": 20,
+          "end_frame": 29
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.469,
+          "end": 2.594,
+          "start_frame": 59,
+          "end_frame": 62
+        },
+        {
+          "action": "Running",
+          "start": 2.594,
+          "end": 2.719,
+          "start_frame": 62,
+          "end_frame": 65
+        },
+        {
+          "action": "Running",
+          "start": 2.844,
+          "end": 5.594,
+          "start_frame": 68,
+          "end_frame": 134
+        }
+      ]
+    }
+  ]
+}

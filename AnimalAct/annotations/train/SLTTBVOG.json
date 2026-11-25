@@ -1,0 +1,56 @@
+{
+  "video_id": "SLTTBVOG",
+  "video": "SLTTBVOG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mojave Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Mojave Rattlesnake",
+      "Keeping still"
+    ],
+    [
+      "Mojave Rattlesnake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mojave Rattlesnake",
+      "Keeping still"
+    ],
+    [
+      "Mojave Rattlesnake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mojave Rattlesnake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.004,
+          "end": 1.819,
+          "start_frame": 0,
+          "end_frame": 44
+        },
+        {
+          "action": "Sensing",
+          "start": 1.817,
+          "end": 5.22,
+          "start_frame": 44,
+          "end_frame": 125
+        },
+        {
+          "action": "Sensing",
+          "start": 7.683,
+          "end": 9.125,
+          "start_frame": 184,
+          "end_frame": 219
+        }
+      ]
+    }
+  ]
+}

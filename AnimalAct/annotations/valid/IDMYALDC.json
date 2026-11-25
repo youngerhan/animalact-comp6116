@@ -1,0 +1,64 @@
+{
+  "video_id": "IDMYALDC",
+  "video": "IDMYALDC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lampropeltis Zonata Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Lampropeltis Zonata Snake",
+      "Moving"
+    ],
+    [
+      "Lampropeltis Zonata Snake",
+      "Exploring"
+    ],
+    [
+      "Lampropeltis Zonata Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lampropeltis Zonata Snake",
+      "Moving"
+    ],
+    [
+      "Lampropeltis Zonata Snake",
+      "Exploring"
+    ],
+    [
+      "Lampropeltis Zonata Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lampropeltis Zonata Snake",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 3.939,
+          "start_frame": 0,
+          "end_frame": 95
+        },
+        {
+          "action": "Moving",
+          "start": 3.939,
+          "end": 9.916,
+          "start_frame": 95,
+          "end_frame": 238
+        },
+        {
+          "action": "Keeping still",
+          "start": 9.916,
+          "end": 13.333,
+          "start_frame": 238,
+          "end_frame": 320
+        }
+      ]
+    }
+  ]
+}

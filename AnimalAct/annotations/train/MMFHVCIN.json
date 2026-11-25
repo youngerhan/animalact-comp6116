@@ -1,0 +1,34 @@
+{
+  "video_id": "MMFHVCIN",
+  "video": "MMFHVCIN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alfalfa Leafcutting Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Alfalfa Leafcutting Bee",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alfalfa Leafcutting Bee",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alfalfa Leafcutting Bee",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 6.333,
+          "start_frame": 0,
+          "end_frame": 152
+        }
+      ]
+    }
+  ]
+}

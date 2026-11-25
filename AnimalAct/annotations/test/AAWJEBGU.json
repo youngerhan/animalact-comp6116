@@ -1,0 +1,84 @@
+{
+  "video_id": "AAWJEBGU",
+  "video": "AAWJEBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Honey Bee",
+    "Blue Orchard Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Honey Bee",
+      "Flying"
+    ],
+    [
+      "Honey Bee",
+      "Moving"
+    ],
+    [
+      "Blue Orchard Bee",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Honey Bee",
+      "Flying"
+    ],
+    [
+      "Honey Bee",
+      "Moving"
+    ],
+    [
+      "Blue Orchard Bee",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Honey Bee",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 1.473,
+          "start_frame": 0,
+          "end_frame": 35
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        },
+        {
+          "action": "Flying",
+          "start": 1.853,
+          "end": 2.9,
+          "start_frame": 44,
+          "end_frame": 70
+        },
+        {
+          "action": "Flying",
+          "start": 3.434,
+          "end": 4.125,
+          "start_frame": 82,
+          "end_frame": 99
+        }
+      ]
+    },
+    {
+      "animal": "Blue Orchard Bee",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

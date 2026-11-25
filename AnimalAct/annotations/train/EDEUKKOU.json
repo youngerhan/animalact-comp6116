@@ -1,0 +1,122 @@
+{
+  "video_id": "EDEUKKOU",
+  "video": "EDEUKKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Jumping"
+    ],
+    [
+      "Yellowhammer",
+      "Turning Around"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Spreading Wings"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Jumping"
+    ],
+    [
+      "Yellowhammer",
+      "Turning Around"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Spreading Wings"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.375,
+          "end": 0.875,
+          "start_frame": 9,
+          "end_frame": 21
+        },
+        {
+          "action": "Turning Around",
+          "start": 0.375,
+          "end": 1.042,
+          "start_frame": 9,
+          "end_frame": 25
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 0.5,
+          "end": 0.875,
+          "start_frame": 12,
+          "end_frame": 21
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 1.5,
+          "end": 2.625,
+          "start_frame": 36,
+          "end_frame": 63
+        },
+        {
+          "action": "Sensing",
+          "start": 2.75,
+          "end": 6.875,
+          "start_frame": 66,
+          "end_frame": 165
+        },
+        {
+          "action": "Chirping",
+          "start": 3.75,
+          "end": 6.75,
+          "start_frame": 90,
+          "end_frame": 162
+        },
+        {
+          "action": "Jumping",
+          "start": 7.0,
+          "end": 7.75,
+          "start_frame": 168,
+          "end_frame": 186
+        },
+        {
+          "action": "Turning Around",
+          "start": 7.0,
+          "end": 8.0,
+          "start_frame": 168,
+          "end_frame": 192
+        },
+        {
+          "action": "Sensing",
+          "start": 8.0,
+          "end": 11.5,
+          "start_frame": 192,
+          "end_frame": 276
+        }
+      ]
+    }
+  ]
+}

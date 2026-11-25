@@ -1,0 +1,78 @@
+{
+  "video_id": "WPLLSUXS",
+  "video": "WPLLSUXS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Necked Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Black Necked Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Necked Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Necked Spitting Cobra",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 7.344,
+          "start_frame": 0,
+          "end_frame": 176
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.844,
+          "start_frame": 0,
+          "end_frame": 188
+        },
+        {
+          "action": "Attending",
+          "start": 7.344,
+          "end": 27.094,
+          "start_frame": 176,
+          "end_frame": 650
+        },
+        {
+          "action": "Moving",
+          "start": 10.094,
+          "end": 10.219,
+          "start_frame": 242,
+          "end_frame": 245
+        },
+        {
+          "action": "Moving",
+          "start": 10.344,
+          "end": 27.344,
+          "start_frame": 248,
+          "end_frame": 656
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "SHTYNFUP",
+  "video": "SHTYNFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.022,
+          "end": 4.979,
+          "start_frame": 1,
+          "end_frame": 119
+        },
+        {
+          "action": "Attending",
+          "start": 2.908,
+          "end": 4.97,
+          "start_frame": 70,
+          "end_frame": 119
+        }
+      ]
+    }
+  ]
+}

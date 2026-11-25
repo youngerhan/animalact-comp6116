@@ -1,0 +1,34 @@
+{
+  "video_id": "OFCRXFGA",
+  "video": "OFCRXFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Bee",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bee",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bee",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.675,
+          "start_frame": 0,
+          "end_frame": 40
+        }
+      ]
+    }
+  ]
+}

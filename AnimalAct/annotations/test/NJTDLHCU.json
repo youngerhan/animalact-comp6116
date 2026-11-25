@@ -1,0 +1,34 @@
+{
+  "video_id": "NJTDLHCU",
+  "video": "NJTDLHCU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chaffinch Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Chaffinch Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chaffinch Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chaffinch Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

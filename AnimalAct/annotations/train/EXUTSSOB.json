@@ -1,0 +1,34 @@
+{
+  "video_id": "EXUTSSOB",
+  "video": "EXUTSSOB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nose-Horned Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Nose-Horned Viper",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nose-Horned Viper",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nose-Horned Viper",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.388,
+          "end": 4.417,
+          "start_frame": 9,
+          "end_frame": 106
+        }
+      ]
+    }
+  ]
+}

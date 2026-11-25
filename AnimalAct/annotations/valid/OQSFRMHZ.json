@@ -1,0 +1,56 @@
+{
+  "video_id": "OQSFRMHZ",
+  "video": "OQSFRMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Vipera Berus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Vipera Berus Snake",
+      "Moving"
+    ],
+    [
+      "Vipera Berus Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Vipera Berus Snake",
+      "Moving"
+    ],
+    [
+      "Vipera Berus Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Vipera Berus Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.032,
+          "end": 3.684,
+          "start_frame": 1,
+          "end_frame": 88
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.019,
+          "end": 5.964,
+          "start_frame": 96,
+          "end_frame": 143
+        },
+        {
+          "action": "Moving",
+          "start": 7.497,
+          "end": 10.099,
+          "start_frame": 180,
+          "end_frame": 242
+        }
+      ]
+    }
+  ]
+}

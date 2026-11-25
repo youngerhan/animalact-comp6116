@@ -1,0 +1,49 @@
+{
+  "video_id": "XRTBGHPH",
+  "video": "XRTBGHPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bumblebee"
+  ],
+  "list_animal_action": [
+    [
+      "Bumblebee",
+      "Eating"
+    ],
+    [
+      "Bumblebee",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bumblebee",
+      "Eating"
+    ],
+    [
+      "Bumblebee",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bumblebee",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 3.642,
+          "start_frame": 0,
+          "end_frame": 87
+        },
+        {
+          "action": "Eating",
+          "start": 3.66,
+          "end": 7.333,
+          "start_frame": 88,
+          "end_frame": 176
+        }
+      ]
+    }
+  ]
+}

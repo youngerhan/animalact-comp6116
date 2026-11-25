@@ -1,0 +1,34 @@
+{
+  "video_id": "TYDNGNSU",
+  "video": "TYDNGNSU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ostrich"
+  ],
+  "list_animal_action": [
+    [
+      "Ostrich",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ostrich",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ostrich",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 1.25,
+          "end": 1.833,
+          "start_frame": 30,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

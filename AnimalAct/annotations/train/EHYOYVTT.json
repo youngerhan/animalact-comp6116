@@ -1,0 +1,49 @@
+{
+  "video_id": "EHYOYVTT",
+  "video": "EHYOYVTT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leafcutter Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Leafcutter Ant",
+      "Eating"
+    ],
+    [
+      "Leafcutter Ant",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leafcutter Ant",
+      "Eating"
+    ],
+    [
+      "Leafcutter Ant",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leafcutter Ant",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 6.2,
+          "start_frame": 0,
+          "end_frame": 149
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 6.204,
+          "start_frame": 0,
+          "end_frame": 149
+        }
+      ]
+    }
+  ]
+}

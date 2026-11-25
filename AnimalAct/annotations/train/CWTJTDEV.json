@@ -1,0 +1,34 @@
+{
+  "video_id": "CWTJTDEV",
+  "video": "CWTJTDEV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Gecko",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gecko",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gecko",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

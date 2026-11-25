@@ -1,0 +1,79 @@
+{
+  "video_id": "HKQIKAMC",
+  "video": "HKQIKAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Barking"
+    ],
+    [
+      "Lion Young",
+      "Yawning"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Barking"
+    ],
+    [
+      "Lion Young",
+      "Yawning"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 11.892,
+          "start_frame": 0,
+          "end_frame": 285
+        },
+        {
+          "action": "Barking",
+          "start": 0.737,
+          "end": 7.071,
+          "start_frame": 18,
+          "end_frame": 170
+        },
+        {
+          "action": "Walking",
+          "start": 3.712,
+          "end": 7.983,
+          "start_frame": 89,
+          "end_frame": 192
+        },
+        {
+          "action": "Yawning",
+          "start": 15.248,
+          "end": 16.917,
+          "start_frame": 366,
+          "end_frame": 406
+        }
+      ]
+    }
+  ]
+}

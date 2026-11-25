@@ -1,0 +1,34 @@
+{
+  "video_id": "YHCNJBQT",
+  "video": "YHCNJBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Elegant Bronzeback Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Elegant Bronzeback Snake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Elegant Bronzeback Snake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Elegant Bronzeback Snake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.036,
+          "start_frame": 0,
+          "end_frame": 121
+        }
+      ]
+    }
+  ]
+}

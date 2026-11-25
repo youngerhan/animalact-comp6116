@@ -1,0 +1,56 @@
+{
+  "video_id": "ZOYRSZQJ",
+  "video": "ZOYRSZQJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Otter",
+      "Walking"
+    ],
+    [
+      "Otter",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Otter",
+      "Walking"
+    ],
+    [
+      "Otter",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Otter",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.094,
+          "start_frame": 0,
+          "end_frame": 50
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.092,
+          "end": 2.79,
+          "start_frame": 50,
+          "end_frame": 67
+        },
+        {
+          "action": "Walking",
+          "start": 2.792,
+          "end": 2.976,
+          "start_frame": 67,
+          "end_frame": 71
+        }
+      ]
+    }
+  ]
+}

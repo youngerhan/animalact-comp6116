@@ -1,0 +1,99 @@
+{
+  "video_id": "KYLZAPTK",
+  "video": "KYLZAPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.875,
+          "start_frame": 0,
+          "end_frame": 69
+        },
+        {
+          "action": "Chirping",
+          "start": 2.875,
+          "end": 6.5,
+          "start_frame": 69,
+          "end_frame": 156
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.5,
+          "end": 9.75,
+          "start_frame": 156,
+          "end_frame": 234
+        },
+        {
+          "action": "Chirping",
+          "start": 9.75,
+          "end": 11.25,
+          "start_frame": 234,
+          "end_frame": 270
+        },
+        {
+          "action": "Keeping still",
+          "start": 11.25,
+          "end": 12.5,
+          "start_frame": 270,
+          "end_frame": 300
+        },
+        {
+          "action": "Chirping",
+          "start": 12.5,
+          "end": 14.625,
+          "start_frame": 300,
+          "end_frame": 351
+        },
+        {
+          "action": "Keeping still",
+          "start": 14.625,
+          "end": 17.625,
+          "start_frame": 351,
+          "end_frame": 423
+        },
+        {
+          "action": "Flying",
+          "start": 17.625,
+          "end": 17.917,
+          "start_frame": 423,
+          "end_frame": 430
+        }
+      ]
+    }
+  ]
+}

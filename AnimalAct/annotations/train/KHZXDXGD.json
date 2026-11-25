@@ -1,0 +1,49 @@
+{
+  "video_id": "KHZXDXGD",
+  "video": "KHZXDXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bogong Moth"
+  ],
+  "list_animal_action": [
+    [
+      "Bogong Moth",
+      "Moving"
+    ],
+    [
+      "Bogong Moth",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bogong Moth",
+      "Moving"
+    ],
+    [
+      "Bogong Moth",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bogong Moth",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.675,
+          "start_frame": 0,
+          "end_frame": 16
+        },
+        {
+          "action": "Moving",
+          "start": 0.699,
+          "end": 2.033,
+          "start_frame": 17,
+          "end_frame": 49
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "JUUDQBQT",
+  "video": "JUUDQBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Bearded Draco"
+  ],
+  "list_animal_action": [
+    [
+      "Black Bearded Draco",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Bearded Draco",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Bearded Draco",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.208,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

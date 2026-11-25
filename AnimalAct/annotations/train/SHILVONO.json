@@ -1,0 +1,34 @@
+{
+  "video_id": "SHILVONO",
+  "video": "SHILVONO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wood Warbler"
+  ],
+  "list_animal_action": [
+    [
+      "Wood Warbler",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wood Warbler",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wood Warbler",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

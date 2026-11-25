@@ -1,0 +1,55 @@
+{
+  "video_id": "CEKBZTLI",
+  "video": "CEKBZTLI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hairworm",
+    "Wood Cricket"
+  ],
+  "list_animal_action": [
+    [
+      "Hairworm",
+      "Moving"
+    ],
+    [
+      "Wood Cricket",
+      "Drifting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hairworm",
+      "Moving"
+    ],
+    [
+      "Wood Cricket",
+      "Drifting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hairworm",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.772,
+          "start_frame": 0,
+          "end_frame": 115
+        }
+      ]
+    },
+    {
+      "animal": "Wood Cricket",
+      "actions": [
+        {
+          "action": "Drifting",
+          "start": 0.0,
+          "end": 4.454,
+          "start_frame": 0,
+          "end_frame": 107
+        }
+      ]
+    }
+  ]
+}

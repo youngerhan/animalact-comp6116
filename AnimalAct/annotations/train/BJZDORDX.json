@@ -1,0 +1,57 @@
+{
+  "video_id": "BJZDORDX",
+  "video": "BJZDORDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Crossbill"
+  ],
+  "list_animal_action": [
+    [
+      "Red Crossbill",
+      "Attending"
+    ],
+    [
+      "Red Crossbill",
+      "Flying"
+    ],
+    [
+      "Red Crossbill",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Crossbill",
+      "Attending"
+    ],
+    [
+      "Red Crossbill",
+      "Flying"
+    ],
+    [
+      "Red Crossbill",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Crossbill",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.082,
+          "end": 0.323,
+          "start_frame": 2,
+          "end_frame": 8
+        },
+        {
+          "action": "Flying",
+          "start": 0.115,
+          "end": 0.465,
+          "start_frame": 3,
+          "end_frame": 11
+        }
+      ]
+    }
+  ]
+}

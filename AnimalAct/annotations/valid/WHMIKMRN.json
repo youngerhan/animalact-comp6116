@@ -1,0 +1,130 @@
+{
+  "video_id": "WHMIKMRN",
+  "video": "WHMIKMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Shaking Head"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ],
+    [
+      "Mallard Duck",
+      "Attending"
+    ],
+    [
+      "Mallard Duck",
+      "Shaking"
+    ],
+    [
+      "Common Snipe",
+      "Attending"
+    ],
+    [
+      "Mallard Duck",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Shaking Head"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ],
+    [
+      "Mallard Duck",
+      "Attending"
+    ],
+    [
+      "Mallard Duck",
+      "Shaking"
+    ],
+    [
+      "Common Snipe",
+      "Attending"
+    ],
+    [
+      "Mallard Duck",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.0,
+          "end": 0.594,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Shaking",
+          "start": 0.0,
+          "end": 0.594,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 0.719,
+          "start_frame": 0,
+          "end_frame": 17
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.844,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    },
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.844,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Attending",
+          "start": 0.094,
+          "end": 0.844,
+          "start_frame": 2,
+          "end_frame": 20
+        },
+        {
+          "action": "Walking",
+          "start": 0.594,
+          "end": 0.719,
+          "start_frame": 14,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

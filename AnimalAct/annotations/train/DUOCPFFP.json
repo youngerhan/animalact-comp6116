@@ -1,0 +1,34 @@
+{
+  "video_id": "DUOCPFFP",
+  "video": "DUOCPFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.083,
+          "end": 2.625,
+          "start_frame": 2,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "JKZBCUIV",
+  "video": "JKZBCUIV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Goldeneye"
+  ],
+  "list_animal_action": [
+    [
+      "Common Goldeneye",
+      "Biting"
+    ],
+    [
+      "Common Goldeneye",
+      "Swimming In Circles"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Goldeneye",
+      "Biting"
+    ],
+    [
+      "Common Goldeneye",
+      "Swimming In Circles"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Goldeneye",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 11.125,
+          "start_frame": 0,
+          "end_frame": 267
+        },
+        {
+          "action": "Swimming In Circles",
+          "start": 0.0,
+          "end": 11.125,
+          "start_frame": 0,
+          "end_frame": 267
+        }
+      ]
+    }
+  ]
+}

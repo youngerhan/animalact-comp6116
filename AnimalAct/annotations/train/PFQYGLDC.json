@@ -1,0 +1,34 @@
+{
+  "video_id": "PFQYGLDC",
+  "video": "PFQYGLDC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lampropeltis Getula Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Lampropeltis Getula Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lampropeltis Getula Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lampropeltis Getula Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.028,
+          "end": 8.149,
+          "start_frame": 1,
+          "end_frame": 196
+        }
+      ]
+    }
+  ]
+}

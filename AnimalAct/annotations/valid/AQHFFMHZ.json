@@ -1,0 +1,34 @@
+{
+  "video_id": "AQHFFMHZ",
+  "video": "AQHFFMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Vipera Berus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Vipera Berus Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Vipera Berus Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Vipera Berus Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 5.125,
+          "start_frame": 0,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

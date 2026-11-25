@@ -1,0 +1,34 @@
+{
+  "video_id": "QUZLTXGD",
+  "video": "QUZLTXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Corroboree Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Corroboree Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Corroboree Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Corroboree Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.917,
+          "start_frame": 0,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

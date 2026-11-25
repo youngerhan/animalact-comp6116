@@ -1,0 +1,71 @@
+{
+  "video_id": "PBWLWEUL",
+  "video": "PBWLWEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.004,
+          "end": 9.416,
+          "start_frame": 0,
+          "end_frame": 226
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 9.484,
+          "end": 13.098,
+          "start_frame": 228,
+          "end_frame": 314
+        },
+        {
+          "action": "Sensing",
+          "start": 14.838,
+          "end": 16.084,
+          "start_frame": 356,
+          "end_frame": 386
+        },
+        {
+          "action": "Keeping still",
+          "start": 16.028,
+          "end": 16.991,
+          "start_frame": 385,
+          "end_frame": 408
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "BZSGJWUH",
+  "video": "BZSGJWUH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sleeping in its nest"
+    ],
+    [
+      "Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sleeping in its nest"
+    ],
+    [
+      "Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 2.503,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Sleeping in its nest",
+          "start": 0.002,
+          "end": 2.504,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

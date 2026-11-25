@@ -1,0 +1,49 @@
+{
+  "video_id": "LBVVBZJZ",
+  "video": "LBVVBZJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Walking"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Walking"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

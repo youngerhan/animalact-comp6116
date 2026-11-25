@@ -1,0 +1,34 @@
+{
+  "video_id": "GPQEHCNX",
+  "video": "GPQEHCNX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Urinating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Urinating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Urinating",
+          "start": 1.331,
+          "end": 8.016,
+          "start_frame": 32,
+          "end_frame": 192
+        }
+      ]
+    }
+  ]
+}

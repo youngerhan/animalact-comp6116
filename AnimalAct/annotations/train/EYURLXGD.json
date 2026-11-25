@@ -1,0 +1,34 @@
+{
+  "video_id": "EYURLXGD",
+  "video": "EYURLXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.234,
+          "end": 0.931,
+          "start_frame": 6,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

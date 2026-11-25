@@ -1,0 +1,63 @@
+{
+  "video_id": "MIKPNFXO",
+  "video": "MIKPNFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 11.469,
+          "start_frame": 0,
+          "end_frame": 275
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 13.844,
+          "start_frame": 0,
+          "end_frame": 332
+        },
+        {
+          "action": "Sensing",
+          "start": 11.719,
+          "end": 11.969,
+          "start_frame": 281,
+          "end_frame": 287
+        },
+        {
+          "action": "Sensing",
+          "start": 12.969,
+          "end": 13.094,
+          "start_frame": 311,
+          "end_frame": 314
+        }
+      ]
+    }
+  ]
+}

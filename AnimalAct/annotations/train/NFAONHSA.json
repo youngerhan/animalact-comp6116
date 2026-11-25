@@ -1,0 +1,194 @@
+{
+  "video_id": "NFAONHSA",
+  "video": "NFAONHSA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chaffinch Bird",
+    "Common Cuckoo Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Chaffinch Bird",
+      "Landing"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Flying"
+    ],
+    [
+      "Chaffinch Bird",
+      "Flying"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Sensing"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Startled"
+    ],
+    [
+      "Chaffinch Bird",
+      "Sensing"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Landing"
+    ],
+    [
+      "Chaffinch Bird",
+      "Startled"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chaffinch Bird",
+      "Landing"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Flying"
+    ],
+    [
+      "Chaffinch Bird",
+      "Flying"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Sensing"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Startled"
+    ],
+    [
+      "Chaffinch Bird",
+      "Sensing"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Landing"
+    ],
+    [
+      "Chaffinch Bird",
+      "Startled"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chaffinch Bird",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 3.083,
+          "end": 3.792,
+          "start_frame": 74,
+          "end_frame": 91
+        },
+        {
+          "action": "Landing",
+          "start": 3.792,
+          "end": 4.125,
+          "start_frame": 91,
+          "end_frame": 99
+        },
+        {
+          "action": "Sensing",
+          "start": 4.125,
+          "end": 4.292,
+          "start_frame": 99,
+          "end_frame": 103
+        },
+        {
+          "action": "Flying",
+          "start": 4.125,
+          "end": 4.5,
+          "start_frame": 99,
+          "end_frame": 108
+        },
+        {
+          "action": "Flying",
+          "start": 4.625,
+          "end": 4.958,
+          "start_frame": 111,
+          "end_frame": 119
+        },
+        {
+          "action": "Flying",
+          "start": 6.125,
+          "end": 6.958,
+          "start_frame": 147,
+          "end_frame": 167
+        }
+      ]
+    },
+    {
+      "animal": "Common Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.125,
+          "end": 0.875,
+          "start_frame": 3,
+          "end_frame": 21
+        },
+        {
+          "action": "Landing",
+          "start": 0.875,
+          "end": 0.958,
+          "start_frame": 21,
+          "end_frame": 23
+        },
+        {
+          "action": "Sensing",
+          "start": 0.958,
+          "end": 3.25,
+          "start_frame": 23,
+          "end_frame": 78
+        },
+        {
+          "action": "Startled",
+          "start": 3.25,
+          "end": 3.875,
+          "start_frame": 78,
+          "end_frame": 93
+        },
+        {
+          "action": "Sensing",
+          "start": 3.875,
+          "end": 4.625,
+          "start_frame": 93,
+          "end_frame": 111
+        },
+        {
+          "action": "Startled",
+          "start": 4.625,
+          "end": 4.958,
+          "start_frame": 111,
+          "end_frame": 119
+        },
+        {
+          "action": "Sensing",
+          "start": 4.958,
+          "end": 6.125,
+          "start_frame": 119,
+          "end_frame": 147
+        },
+        {
+          "action": "Startled",
+          "start": 6.125,
+          "end": 6.458,
+          "start_frame": 147,
+          "end_frame": 155
+        },
+        {
+          "action": "Sensing",
+          "start": 6.458,
+          "end": 7.833,
+          "start_frame": 155,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

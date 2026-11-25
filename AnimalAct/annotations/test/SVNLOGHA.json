@@ -1,0 +1,45 @@
+{
+  "video_id": "SVNLOGHA",
+  "video": "SVNLOGHA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nightingale Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Nightingale Bird",
+      "Attending"
+    ],
+    [
+      "Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nightingale Bird",
+      "Attending"
+    ],
+    [
+      "Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nightingale Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.6
+        },
+        {
+          "action": "Chirping",
+          "start": 1.6,
+          "end": 9.71
+        }
+      ]
+    }
+  ]
+}

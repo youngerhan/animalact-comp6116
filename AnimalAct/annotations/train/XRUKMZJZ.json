@@ -1,0 +1,56 @@
+{
+  "video_id": "XRUKMZJZ",
+  "video": "XRUKMZJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Chirping"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Chirping"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.002,
+          "end": 2.83,
+          "start_frame": 0,
+          "end_frame": 68
+        },
+        {
+          "action": "Chirping",
+          "start": 0.701,
+          "end": 1.31,
+          "start_frame": 17,
+          "end_frame": 31
+        },
+        {
+          "action": "Chirping",
+          "start": 1.493,
+          "end": 2.65,
+          "start_frame": 36,
+          "end_frame": 64
+        }
+      ]
+    }
+  ]
+}

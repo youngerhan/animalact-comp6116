@@ -1,0 +1,49 @@
+{
+  "video_id": "FERKDRAM",
+  "video": "FERKDRAM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nursery Web Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Nursery Web Spider",
+      "Sensing"
+    ],
+    [
+      "Nursery Web Spider",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nursery Web Spider",
+      "Sensing"
+    ],
+    [
+      "Nursery Web Spider",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nursery Web Spider",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.379,
+          "start_frame": 0,
+          "end_frame": 9
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.413,
+          "start_frame": 0,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

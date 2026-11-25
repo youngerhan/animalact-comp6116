@@ -1,0 +1,51 @@
+Python: D:\AnimalAct-package\AnimalAct-Reproducible-20261125\runtime\python.exe CUDA: True
+D:\AnimalAct-package\AnimalAct-Reproducible-20261125\runtime\Lib\site-packages\mmcv\cnn\bricks\transformer.py:33: UserWarning: Fail to import ``MultiScaleDeformableAttention`` from ``mmcv.ops.multi_scale_deform_attn``, You should install ``mmcv`` rather than ``mmcv-lite`` if you need this module. 
+  warnings.warn('Fail to import ``MultiScaleDeformableAttention`` from '
+{
+  "video": "D:\\AnimalAct-package\\AnimalAct-Reproducible-20261125\\AnimalAct\\videos\\valid\\FLBGMVYU.mp4",
+  "preprocessing": "training validation recipe (no evaluation-time ensemble)",
+  "start_frame": 22,
+  "end_frame_exclusive": 96,
+  "validation_threshold": 0.05,
+  "predicted_actions": [
+    {
+      "global_id": 114,
+      "name": "Walking",
+      "score": 0.999972939491272
+    },
+    {
+      "global_id": 87,
+      "name": "Sensing",
+      "score": 0.2538610100746155
+    }
+  ],
+  "top_scores": [
+    {
+      "global_id": 114,
+      "name": "Walking",
+      "score": 0.999972939491272
+    },
+    {
+      "global_id": 87,
+      "name": "Sensing",
+      "score": 0.2538610100746155
+    },
+    {
+      "global_id": 37,
+      "name": "Drinking",
+      "score": 0.0003406293108128011
+    },
+    {
+      "global_id": 89,
+      "name": "Shaking Head",
+      "score": 7.141901005525142e-05
+    },
+    {
+      "global_id": 70,
+      "name": "Moving",
+      "score": 7.031184941297397e-05
+    }
+  ]
+}
+
+Finished with exit code 0.

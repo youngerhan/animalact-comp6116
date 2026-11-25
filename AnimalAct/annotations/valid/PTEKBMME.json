@@ -1,0 +1,65 @@
+{
+  "video_id": "PTEKBMME",
+  "video": "PTEKBMME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Eating"
+    ],
+    [
+      "Common Crane",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Eating"
+    ],
+    [
+      "Common Crane",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.4
+        },
+        {
+          "action": "Eating",
+          "start": 2.4,
+          "end": 3.3
+        },
+        {
+          "action": "Walking",
+          "start": 3.3,
+          "end": 4.0
+        },
+        {
+          "action": "Eating",
+          "start": 4.0,
+          "end": 5.7
+        },
+        {
+          "action": "Walking",
+          "start": 5.7,
+          "end": 6.8
+        },
+        {
+          "action": "Eating",
+          "start": 6.8,
+          "end": 8.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "FWEUNBGU",
+  "video": "FWEUNBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Orchard Bee Larva"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Orchard Bee Larva",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Orchard Bee Larva",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Orchard Bee Larva",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 7.21,
+          "start_frame": 0,
+          "end_frame": 173
+        }
+      ]
+    }
+  ]
+}

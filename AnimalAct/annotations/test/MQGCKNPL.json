@@ -1,0 +1,56 @@
+{
+  "video_id": "MQGCKNPL",
+  "video": "MQGCKNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Backed Shrike Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Backed Shrike Bird",
+      "Attending"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Hopping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Backed Shrike Bird",
+      "Attending"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Hopping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Backed Shrike Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        },
+        {
+          "action": "Hopping",
+          "start": 0.094,
+          "end": 0.35,
+          "start_frame": 2,
+          "end_frame": 8
+        },
+        {
+          "action": "Hopping",
+          "start": 0.617,
+          "end": 0.708,
+          "start_frame": 15,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

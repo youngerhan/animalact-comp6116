@@ -1,0 +1,49 @@
+{
+  "video_id": "EOVXCAOX",
+  "video": "EOVXCAOX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leatherback Sea Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Leatherback Sea Turtle",
+      "Swimming"
+    ],
+    [
+      "Leatherback Sea Turtle",
+      "Surfacing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leatherback Sea Turtle",
+      "Swimming"
+    ],
+    [
+      "Leatherback Sea Turtle",
+      "Surfacing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leatherback Sea Turtle",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 10.5,
+          "start_frame": 0,
+          "end_frame": 252
+        },
+        {
+          "action": "Surfacing",
+          "start": 2.595,
+          "end": 4.224,
+          "start_frame": 62,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

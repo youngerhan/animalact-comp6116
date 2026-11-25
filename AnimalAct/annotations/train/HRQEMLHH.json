@@ -1,0 +1,34 @@
+{
+  "video_id": "HRQEMLHH",
+  "video": "HRQEMLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sand Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Sand Frog",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sand Frog",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sand Frog",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.268,
+          "start_frame": 0,
+          "end_frame": 30
+        }
+      ]
+    }
+  ]
+}

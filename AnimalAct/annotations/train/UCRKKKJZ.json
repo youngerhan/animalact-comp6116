@@ -1,0 +1,34 @@
+{
+  "video_id": "UCRKKKJZ",
+  "video": "UCRKKKJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Pine Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Western Pine Beetle",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Pine Beetle",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Pine Beetle",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.148,
+          "end": 0.877,
+          "start_frame": 4,
+          "end_frame": 21
+        }
+      ]
+    }
+  ]
+}

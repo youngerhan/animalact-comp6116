@@ -1,0 +1,56 @@
+{
+  "video_id": "NPOSFBQT",
+  "video": "NPOSFBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greater Mouse Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Greater Mouse Deer",
+      "Keeping still"
+    ],
+    [
+      "Greater Mouse Deer",
+      "Licking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greater Mouse Deer",
+      "Keeping still"
+    ],
+    [
+      "Greater Mouse Deer",
+      "Licking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greater Mouse Deer",
+      "actions": [
+        {
+          "action": "Licking",
+          "start": 0.001,
+          "end": 0.852,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.853,
+          "end": 1.507,
+          "start_frame": 20,
+          "end_frame": 36
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.294,
+          "end": 2.625,
+          "start_frame": 55,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

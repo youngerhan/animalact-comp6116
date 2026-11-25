@@ -1,0 +1,34 @@
+{
+  "video_id": "ELKHEJNO",
+  "video": "ELKHEJNO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Gecko",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gecko",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gecko",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.209,
+          "start_frame": 0,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "VJLHLSDT",
+  "video": "VJLHLSDT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Boreal Owl"
+  ],
+  "list_animal_action": [
+    [
+      "Boreal Owl",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Boreal Owl",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Boreal Owl",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.697,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

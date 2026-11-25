@@ -1,0 +1,34 @@
+{
+  "video_id": "KFGJJCEI",
+  "video": "KFGJJCEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 0.175,
+          "start_frame": 0,
+          "end_frame": 4
+        }
+      ]
+    }
+  ]
+}

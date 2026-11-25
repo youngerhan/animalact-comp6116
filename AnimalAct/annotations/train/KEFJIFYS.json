@@ -1,0 +1,49 @@
+{
+  "video_id": "KEFJIFYS",
+  "video": "KEFJIFYS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Keeping still"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Keeping still"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

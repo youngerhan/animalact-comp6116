@@ -1,0 +1,34 @@
+{
+  "video_id": "OGXAWQDT",
+  "video": "OGXAWQDT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nudibranch"
+  ],
+  "list_animal_action": [
+    [
+      "Nudibranch",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nudibranch",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nudibranch",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.271,
+          "end": 2.075,
+          "start_frame": 7,
+          "end_frame": 50
+        }
+      ]
+    }
+  ]
+}

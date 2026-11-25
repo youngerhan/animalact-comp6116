@@ -1,0 +1,34 @@
+{
+  "video_id": "KTVQMFNJ",
+  "video": "KTVQMFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.417,
+          "start_frame": 0,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

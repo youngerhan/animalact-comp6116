@@ -1,0 +1,77 @@
+{
+  "video_id": "CMBEEAMC",
+  "video": "CMBEEAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young",
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Yawning"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Yawning"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.583,
+          "start_frame": 0,
+          "end_frame": 38
+        },
+        {
+          "action": "Sensing",
+          "start": 1.583,
+          "end": 5.667,
+          "start_frame": 38,
+          "end_frame": 136
+        },
+        {
+          "action": "Walking",
+          "start": 5.667,
+          "end": 8.792,
+          "start_frame": 136,
+          "end_frame": 211
+        }
+      ]
+    },
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Yawning",
+          "start": 10.0,
+          "end": 10.125,
+          "start_frame": 240,
+          "end_frame": 243
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "XNJWHONO",
+  "video": "XNJWHONO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wood Warbler"
+  ],
+  "list_animal_action": [
+    [
+      "Wood Warbler",
+      "Chirping"
+    ],
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wood Warbler",
+      "Chirping"
+    ],
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wood Warbler",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.344,
+          "start_frame": 0,
+          "end_frame": 80
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

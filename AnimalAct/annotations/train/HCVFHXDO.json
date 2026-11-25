@@ -1,0 +1,55 @@
+{
+  "video_id": "HCVFHXDO",
+  "video": "HCVFHXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rhinoceros",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Rhinoceros",
+      "Moving"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rhinoceros",
+      "Moving"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rhinoceros",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.713,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.005,
+          "end": 2.716,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

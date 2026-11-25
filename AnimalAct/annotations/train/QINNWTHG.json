@@ -1,0 +1,49 @@
+{
+  "video_id": "QINNWTHG",
+  "video": "QINNWTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red River Hog"
+  ],
+  "list_animal_action": [
+    [
+      "Red River Hog",
+      "Walking"
+    ],
+    [
+      "Red River Hog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red River Hog",
+      "Walking"
+    ],
+    [
+      "Red River Hog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red River Hog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.292,
+          "end": 1.125,
+          "start_frame": 7,
+          "end_frame": 27
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.125,
+          "end": 2.25,
+          "start_frame": 27,
+          "end_frame": 54
+        }
+      ]
+    }
+  ]
+}

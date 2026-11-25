@@ -1,0 +1,34 @@
+{
+  "video_id": "RKPONIVA",
+  "video": "RKPONIVA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eelgrass Sea Hare"
+  ],
+  "list_animal_action": [
+    [
+      "Eelgrass Sea Hare",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eelgrass Sea Hare",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eelgrass Sea Hare",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.071,
+          "end": 4.125,
+          "start_frame": 26,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

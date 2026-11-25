@@ -1,0 +1,34 @@
+{
+  "video_id": "KWZPOCIW",
+  "video": "KWZPOCIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salticidae Jumping Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Salticidae Jumping Spider",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salticidae Jumping Spider",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salticidae Jumping Spider",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.424,
+          "end": 0.784,
+          "start_frame": 10,
+          "end_frame": 19
+        }
+      ]
+    }
+  ]
+}

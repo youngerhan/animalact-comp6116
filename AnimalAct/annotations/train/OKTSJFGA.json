@@ -1,0 +1,49 @@
+{
+  "video_id": "OKTSJFGA",
+  "video": "OKTSJFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Walking"
+    ],
+    [
+      "Wolf",
+      "Turning Around"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Walking"
+    ],
+    [
+      "Wolf",
+      "Turning Around"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Turning Around",
+          "start": 0.667,
+          "end": 2.501,
+          "start_frame": 16,
+          "end_frame": 60
+        },
+        {
+          "action": "Walking",
+          "start": 4.449,
+          "end": 11.5,
+          "start_frame": 107,
+          "end_frame": 276
+        }
+      ]
+    }
+  ]
+}

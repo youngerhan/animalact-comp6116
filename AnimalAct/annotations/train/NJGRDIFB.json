@@ -1,0 +1,34 @@
+{
+  "video_id": "NJGRDIFB",
+  "video": "NJGRDIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Eyed Tree Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Eyed Tree Frog",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Eyed Tree Frog",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Eyed Tree Frog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.125,
+          "start_frame": 0,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

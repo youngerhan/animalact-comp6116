@@ -1,0 +1,34 @@
+{
+  "video_id": "GHZRQTEK",
+  "video": "GHZRQTEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "African Penguin"
+  ],
+  "list_animal_action": [
+    [
+      "African Penguin",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "African Penguin",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "African Penguin",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.077,
+          "end": 0.766,
+          "start_frame": 2,
+          "end_frame": 18
+        }
+      ]
+    }
+  ]
+}

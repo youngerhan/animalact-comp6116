@@ -1,0 +1,34 @@
+{
+  "video_id": "ZUKMHRAC",
+  "video": "ZUKMHRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Capuchin Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Capuchin Monkey",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Capuchin Monkey",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Capuchin Monkey",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.003,
+          "end": 2.625,
+          "start_frame": 0,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

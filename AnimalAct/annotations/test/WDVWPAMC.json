@@ -1,0 +1,70 @@
+{
+  "video_id": "WDVWPAMC",
+  "video": "WDVWPAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 4.583,
+          "end": 5.958,
+          "start_frame": 110,
+          "end_frame": 143
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.333,
+          "end": 5.833,
+          "start_frame": 8,
+          "end_frame": 140
+        },
+        {
+          "action": "Sensing",
+          "start": 3.0,
+          "end": 3.917,
+          "start_frame": 72,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

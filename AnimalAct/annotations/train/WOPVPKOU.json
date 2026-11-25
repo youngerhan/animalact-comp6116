@@ -1,0 +1,49 @@
+{
+  "video_id": "WOPVPKOU",
+  "video": "WOPVPKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer Young"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer Young",
+      "Spreading Wings"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer Young",
+      "Spreading Wings"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 10.719,
+          "start_frame": 0,
+          "end_frame": 257
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 6.719,
+          "end": 6.844,
+          "start_frame": 161,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

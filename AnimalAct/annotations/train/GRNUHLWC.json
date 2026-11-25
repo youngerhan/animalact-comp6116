@@ -1,0 +1,56 @@
+{
+  "video_id": "GRNUHLWC",
+  "video": "GRNUHLWC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chameleon"
+  ],
+  "list_animal_action": [
+    [
+      "Chameleon",
+      "Keeping still"
+    ],
+    [
+      "Chameleon",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chameleon",
+      "Keeping still"
+    ],
+    [
+      "Chameleon",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chameleon",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.834,
+          "start_frame": 0,
+          "end_frame": 68
+        },
+        {
+          "action": "Walking",
+          "start": 2.877,
+          "end": 4.043,
+          "start_frame": 69,
+          "end_frame": 97
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.088,
+          "end": 6.5,
+          "start_frame": 98,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "ZDREGBQT",
+  "video": "ZDREGBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Attending"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Hugging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Attending"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Hugging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 2.775,
+          "start_frame": 0,
+          "end_frame": 67
+        },
+        {
+          "action": "Attending",
+          "start": 2.773,
+          "end": 3.886,
+          "start_frame": 67,
+          "end_frame": 93
+        }
+      ]
+    }
+  ]
+}

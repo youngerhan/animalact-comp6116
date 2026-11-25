@@ -1,0 +1,41 @@
+{
+  "video_id": "WKNXSWMK",
+  "video": "WKNXSWMK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Many Horned Adder"
+  ],
+  "list_animal_action": [
+    [
+      "Many Horned Adder",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Many Horned Adder",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Many Horned Adder",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.844,
+          "start_frame": 0,
+          "end_frame": 116
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.696,
+          "end": 7.0,
+          "start_frame": 137,
+          "end_frame": 168
+        }
+      ]
+    }
+  ]
+}

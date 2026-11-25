@@ -1,0 +1,79 @@
+{
+  "video_id": "GMLHMPKK",
+  "video": "GMLHMPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Landing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Landing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.741,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Landing",
+          "start": 0.005,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Walking",
+          "start": 0.633,
+          "end": 3.125,
+          "start_frame": 15,
+          "end_frame": 75
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.856,
+          "end": 1.239,
+          "start_frame": 21,
+          "end_frame": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "LGNRPMHZ",
+  "video": "LGNRPMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Natrix Natrix Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Natrix Natrix Snake",
+      "Attending"
+    ],
+    [
+      "Natrix Natrix Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Natrix Natrix Snake",
+      "Attending"
+    ],
+    [
+      "Natrix Natrix Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Natrix Natrix Snake",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 4.659,
+          "start_frame": 0,
+          "end_frame": 112
+        },
+        {
+          "action": "Moving",
+          "start": 4.671,
+          "end": 6.833,
+          "start_frame": 112,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

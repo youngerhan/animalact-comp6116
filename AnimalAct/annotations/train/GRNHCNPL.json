@@ -1,0 +1,77 @@
+{
+  "video_id": "GRNHCNPL",
+  "video": "GRNHCNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Backed Shrike Bird Young",
+    "Red-Backed Shrike Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Chirping"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Sensing"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Turning Around"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Chirping"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Sensing"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Turning Around"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Backed Shrike Bird Young",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 0.375,
+          "start_frame": 0,
+          "end_frame": 9
+        }
+      ]
+    },
+    {
+      "animal": "Red-Backed Shrike Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.375,
+          "start_frame": 0,
+          "end_frame": 9
+        },
+        {
+          "action": "Turning Around",
+          "start": 0.333,
+          "end": 1.0,
+          "start_frame": 8,
+          "end_frame": 24
+        },
+        {
+          "action": "Sensing",
+          "start": 0.75,
+          "end": 1.208,
+          "start_frame": 18,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

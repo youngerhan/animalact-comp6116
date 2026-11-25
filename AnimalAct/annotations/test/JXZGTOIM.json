@@ -1,0 +1,41 @@
+{
+  "video_id": "JXZGTOIM",
+  "video": "JXZGTOIM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sidewinder Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Sidewinder Rattlesnake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sidewinder Rattlesnake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sidewinder Rattlesnake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.112,
+          "start_frame": 0,
+          "end_frame": 3
+        },
+        {
+          "action": "Sensing",
+          "start": 0.651,
+          "end": 1.725,
+          "start_frame": 16,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

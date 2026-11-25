@@ -1,0 +1,34 @@
+{
+  "video_id": "JTFXCNJC",
+  "video": "JTFXCNJC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Stag Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Stag Beetle",
+      "Falling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Stag Beetle",
+      "Falling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Stag Beetle",
+      "actions": [
+        {
+          "action": "Falling",
+          "start": 0.164,
+          "end": 1.205,
+          "start_frame": 4,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "AFEGAIQQ",
+  "video": "AFEGAIQQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Planarian Schmidtea Mediterranea Flatworm"
+  ],
+  "list_animal_action": [
+    [
+      "Planarian Schmidtea Mediterranea Flatworm",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Planarian Schmidtea Mediterranea Flatworm",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Planarian Schmidtea Mediterranea Flatworm",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 5.417,
+          "start_frame": 0,
+          "end_frame": 130
+        }
+      ]
+    }
+  ]
+}

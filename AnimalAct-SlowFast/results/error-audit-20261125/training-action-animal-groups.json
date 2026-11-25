@@ -1,0 +1,15 @@
+{
+  "Walking": {
+    "Bird": 127,
+    "Mammal": 128,
+    "Reptile": 35,
+    "Amphibian": 23
+  },
+  "Moving": {
+    "Reptile": 101,
+    "Insect": 145,
+    "Bird": 3,
+    "Amphibian": 19,
+    "Mammal": 4
+  }
+}

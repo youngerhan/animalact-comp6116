@@ -1,0 +1,49 @@
+{
+  "video_id": "MKBKHAEY",
+  "video": "MKBKHAEY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Playing"
+    ],
+    [
+      "Lion",
+      "Hugging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Playing"
+    ],
+    [
+      "Lion",
+      "Hugging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Playing",
+          "start": 0.0,
+          "end": 5.004,
+          "start_frame": 0,
+          "end_frame": 120
+        },
+        {
+          "action": "Hugging",
+          "start": 1.568,
+          "end": 5.011,
+          "start_frame": 38,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

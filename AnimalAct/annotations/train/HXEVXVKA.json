@@ -1,0 +1,49 @@
+{
+  "video_id": "HXEVXVKA",
+  "video": "HXEVXVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Sensing"
+    ],
+    [
+      "Common Quail",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Sensing"
+    ],
+    [
+      "Common Quail",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.801,
+          "start_frame": 0,
+          "end_frame": 139
+        },
+        {
+          "action": "Sensing",
+          "start": 5.865,
+          "end": 8.833,
+          "start_frame": 141,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

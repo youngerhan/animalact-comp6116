@@ -1,0 +1,34 @@
+{
+  "video_id": "NEQXOFNJ",
+  "video": "NEQXOFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.007,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        }
+      ]
+    }
+  ]
+}

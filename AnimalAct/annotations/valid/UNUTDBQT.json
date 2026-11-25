@@ -1,0 +1,55 @@
+{
+  "video_id": "UNUTDBQT",
+  "video": "UNUTDBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Praying Mantis",
+    "Ladybug"
+  ],
+  "list_animal_action": [
+    [
+      "Praying Mantis",
+      "Eating"
+    ],
+    [
+      "Ladybug",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Praying Mantis",
+      "Eating"
+    ],
+    [
+      "Ladybug",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Praying Mantis",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 1.992,
+          "end": 2.926,
+          "start_frame": 48,
+          "end_frame": 70
+        }
+      ]
+    },
+    {
+      "animal": "Ladybug",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 2.926,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

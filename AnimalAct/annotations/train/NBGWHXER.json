@@ -1,0 +1,34 @@
+{
+  "video_id": "NBGWHXER",
+  "video": "NBGWHXER.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Daddy Longlegs Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Daddy Longlegs Spider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Daddy Longlegs Spider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Daddy Longlegs Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.002,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

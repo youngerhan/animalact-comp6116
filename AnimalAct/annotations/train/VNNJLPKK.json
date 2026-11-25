@@ -1,0 +1,131 @@
+{
+  "video_id": "VNNJLPKK",
+  "video": "VNNJLPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Flying"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Eating"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Spreading Wings"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Flying"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Eating"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Spreading Wings"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.594,
+          "end": 1.344,
+          "start_frame": 14,
+          "end_frame": 32
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 0.594,
+          "end": 1.344,
+          "start_frame": 14,
+          "end_frame": 32
+        },
+        {
+          "action": "Landing",
+          "start": 0.594,
+          "end": 1.344,
+          "start_frame": 14,
+          "end_frame": 32
+        },
+        {
+          "action": "Flying",
+          "start": 0.719,
+          "end": 1.344,
+          "start_frame": 17,
+          "end_frame": 32
+        },
+        {
+          "action": "Walking",
+          "start": 1.719,
+          "end": 6.969,
+          "start_frame": 41,
+          "end_frame": 167
+        },
+        {
+          "action": "Sensing",
+          "start": 3.469,
+          "end": 7.094,
+          "start_frame": 83,
+          "end_frame": 170
+        },
+        {
+          "action": "Eating",
+          "start": 3.719,
+          "end": 4.094,
+          "start_frame": 89,
+          "end_frame": 98
+        },
+        {
+          "action": "Eating",
+          "start": 4.344,
+          "end": 6.844,
+          "start_frame": 104,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "video_id": "POWOQGCS",
+  "video": "POWOQGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giraffe"
+  ],
+  "list_animal_action": [
+    [
+      "Giraffe",
+      "Fighting"
+    ],
+    [
+      "Giraffe",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giraffe",
+      "Fighting"
+    ],
+    [
+      "Giraffe",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giraffe",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.018,
+          "end": 4.708,
+          "start_frame": 0,
+          "end_frame": 113
+        },
+        {
+          "action": "Attacking",
+          "start": 0.335,
+          "end": 0.831,
+          "start_frame": 8,
+          "end_frame": 20
+        },
+        {
+          "action": "Attacking",
+          "start": 1.502,
+          "end": 2.332,
+          "start_frame": 36,
+          "end_frame": 56
+        },
+        {
+          "action": "Attacking",
+          "start": 3.334,
+          "end": 3.836,
+          "start_frame": 80,
+          "end_frame": 92
+        },
+        {
+          "action": "Attacking",
+          "start": 4.336,
+          "end": 4.708,
+          "start_frame": 104,
+          "end_frame": 113
+        }
+      ]
+    }
+  ]
+}

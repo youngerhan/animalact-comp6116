@@ -1,0 +1,49 @@
+{
+  "video_id": "FXXCMVYU",
+  "video": "FXXCMVYU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Walking"
+    ],
+    [
+      "Leopard",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Walking"
+    ],
+    [
+      "Leopard",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 7.125,
+          "start_frame": 0,
+          "end_frame": 171
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 7.125,
+          "start_frame": 0,
+          "end_frame": 171
+        }
+      ]
+    }
+  ]
+}

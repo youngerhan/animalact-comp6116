@@ -1,0 +1,81 @@
+{
+  "run": "runs\\wholeframe224",
+  "epoch": 7,
+  "selected": "zoom1.15+flip+windows",
+  "valid_variants": [
+    {
+      "variant": "zoom1.00",
+      "zoom": 1.0,
+      "tta": false,
+      "windows": 1,
+      "crops": 1,
+      "threshold": 0.2,
+      "valid_mAP": 0.4237042527286216,
+      "valid_macro_F1": 0.4131105726420082,
+      "valid_macro_F1_per_class_threshold": 0.46407602700324757,
+      "valid_mAP_positives_ge_20": 0.5080113706289892
+    },
+    {
+      "variant": "zoom1.15",
+      "zoom": 1.15,
+      "tta": false,
+      "windows": 1,
+      "crops": 1,
+      "threshold": 0.2,
+      "valid_mAP": 0.4237042527286216,
+      "valid_macro_F1": 0.4131105726420082,
+      "valid_macro_F1_per_class_threshold": 0.46407602700324757,
+      "valid_mAP_positives_ge_20": 0.5080113706289892
+    },
+    {
+      "variant": "zoom1.15+flip",
+      "zoom": 1.15,
+      "tta": true,
+      "windows": 1,
+      "crops": 1,
+      "threshold": 0.15,
+      "valid_mAP": 0.42716872285578705,
+      "valid_macro_F1": 0.4218668106146871,
+      "valid_macro_F1_per_class_threshold": 0.471180731921532,
+      "valid_mAP_positives_ge_20": 0.511250378102607
+    },
+    {
+      "variant": "zoom1.15+flip+3crop",
+      "zoom": 1.15,
+      "tta": true,
+      "windows": 1,
+      "crops": 3,
+      "threshold": 0.15,
+      "valid_mAP": 0.42716872285578705,
+      "valid_macro_F1": 0.4218668106146871,
+      "valid_macro_F1_per_class_threshold": 0.471180731921532,
+      "valid_mAP_positives_ge_20": 0.511250378102607
+    },
+    {
+      "variant": "zoom1.15+flip+windows",
+      "zoom": 1.15,
+      "tta": true,
+      "windows": 3,
+      "crops": 1,
+      "threshold": 0.25,
+      "valid_mAP": 0.4319294831605652,
+      "valid_macro_F1": 0.41774629553562004,
+      "valid_macro_F1_per_class_threshold": 0.48209382322143995,
+      "valid_mAP_positives_ge_20": 0.5120292487754701
+    }
+  ],
+  "test": {
+    "clips": 946,
+    "mAP": 0.43222679074142495,
+    "macro_F1": 0.4074167597233423,
+    "macro_F1_per_class_threshold": 0.410249499933449,
+    "mAP_positives_ge_10": 0.519720362079667,
+    "mAP_positives_ge_20": 0.5806189401232905,
+    "threshold": 0.25
+  },
+  "test_short_mAP": 0.4050352729095928,
+  "reference": {
+    "mAP": 0.40862803703586936,
+    "macro_F1": 0.3624373985567462
+  }
+}

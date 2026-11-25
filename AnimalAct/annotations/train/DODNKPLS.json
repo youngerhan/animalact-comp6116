@@ -1,0 +1,169 @@
+{
+  "video_id": "DODNKPLS",
+  "video": "DODNKPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Spreading Wings"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Landing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Flying"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Eating"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Shaking Head"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Spreading Wings"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Landing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Flying"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Eating"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Shaking Head"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 14.844,
+          "start_frame": 0,
+          "end_frame": 356
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 15.469,
+          "start_frame": 0,
+          "end_frame": 371
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 15.469,
+          "start_frame": 0,
+          "end_frame": 371
+        },
+        {
+          "action": "Eating",
+          "start": 1.094,
+          "end": 1.219,
+          "start_frame": 26,
+          "end_frame": 29
+        },
+        {
+          "action": "Sensing",
+          "start": 1.219,
+          "end": 1.344,
+          "start_frame": 29,
+          "end_frame": 32
+        },
+        {
+          "action": "Landing",
+          "start": 11.719,
+          "end": 11.844,
+          "start_frame": 281,
+          "end_frame": 284
+        },
+        {
+          "action": "Flying",
+          "start": 11.719,
+          "end": 11.969,
+          "start_frame": 281,
+          "end_frame": 287
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 11.719,
+          "end": 12.594,
+          "start_frame": 281,
+          "end_frame": 302
+        },
+        {
+          "action": "Preening",
+          "start": 11.969,
+          "end": 12.094,
+          "start_frame": 287,
+          "end_frame": 290
+        },
+        {
+          "action": "Shaking Head",
+          "start": 14.219,
+          "end": 14.344,
+          "start_frame": 341,
+          "end_frame": 344
+        }
+      ]
+    }
+  ]
+}

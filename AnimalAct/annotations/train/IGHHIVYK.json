@@ -1,0 +1,34 @@
+{
+  "video_id": "IGHHIVYK",
+  "video": "IGHHIVYK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wormlion Larva"
+  ],
+  "list_animal_action": [
+    [
+      "Wormlion Larva",
+      "Digging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wormlion Larva",
+      "Digging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wormlion Larva",
+      "actions": [
+        {
+          "action": "Digging",
+          "start": 1.843,
+          "end": 2.486,
+          "start_frame": 44,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

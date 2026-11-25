@@ -1,0 +1,55 @@
+{
+  "video_id": "YSWGBGCS",
+  "video": "YSWGBGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dog",
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Dog",
+      "Keeping still"
+    ],
+    [
+      "Leopard",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dog",
+      "Keeping still"
+    ],
+    [
+      "Leopard",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.417,
+          "start_frame": 0,
+          "end_frame": 10
+        }
+      ]
+    },
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.167,
+          "end": 0.417,
+          "start_frame": 4,
+          "end_frame": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "LFCVATHG",
+  "video": "LFCVATHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sooty Mangabey"
+  ],
+  "list_animal_action": [
+    [
+      "Sooty Mangabey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sooty Mangabey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sooty Mangabey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 10.5,
+          "start_frame": 0,
+          "end_frame": 252
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "DPFJYBGG",
+  "video": "DPFJYBGG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Citrine Wagtail"
+  ],
+  "list_animal_action": [
+    [
+      "Citrine Wagtail",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Citrine Wagtail",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Citrine Wagtail",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.417,
+          "start_frame": 0,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

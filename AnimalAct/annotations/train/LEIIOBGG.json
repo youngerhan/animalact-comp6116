@@ -1,0 +1,64 @@
+{
+  "video_id": "LEIIOBGG",
+  "video": "LEIIOBGG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Citrine Wagtail"
+  ],
+  "list_animal_action": [
+    [
+      "Citrine Wagtail",
+      "Preening"
+    ],
+    [
+      "Citrine Wagtail",
+      "Shaking"
+    ],
+    [
+      "Citrine Wagtail",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Citrine Wagtail",
+      "Preening"
+    ],
+    [
+      "Citrine Wagtail",
+      "Shaking"
+    ],
+    [
+      "Citrine Wagtail",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Citrine Wagtail",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 0.25,
+          "start_frame": 0,
+          "end_frame": 6
+        },
+        {
+          "action": "Shaking",
+          "start": 3.125,
+          "end": 3.75,
+          "start_frame": 75,
+          "end_frame": 90
+        },
+        {
+          "action": "Preening",
+          "start": 4.625,
+          "end": 4.875,
+          "start_frame": 111,
+          "end_frame": 117
+        }
+      ]
+    }
+  ]
+}

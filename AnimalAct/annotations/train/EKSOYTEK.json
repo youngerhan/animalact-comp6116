@@ -1,0 +1,41 @@
+{
+  "video_id": "EKSOYTEK",
+  "video": "EKSOYTEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sri Lankan Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Sri Lankan Leopard",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sri Lankan Leopard",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sri Lankan Leopard",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.001,
+          "end": 0.089,
+          "start_frame": 0,
+          "end_frame": 2
+        },
+        {
+          "action": "Attending",
+          "start": 0.783,
+          "end": 0.833333,
+          "start_frame": 19,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "DKMGAJKU",
+  "video": "DKMGAJKU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eagle"
+  ],
+  "list_animal_action": [
+    [
+      "Eagle",
+      "Attending"
+    ],
+    [
+      "Eagle",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eagle",
+      "Attending"
+    ],
+    [
+      "Eagle",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eagle",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.746,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.759,
+          "end": 3.917,
+          "start_frame": 18,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

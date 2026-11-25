@@ -1,0 +1,34 @@
+{
+  "video_id": "IPLSNVOG",
+  "video": "IPLSNVOG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mojave Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Mojave Rattlesnake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mojave Rattlesnake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mojave Rattlesnake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.125,
+          "start_frame": 0,
+          "end_frame": 195
+        }
+      ]
+    }
+  ]
+}

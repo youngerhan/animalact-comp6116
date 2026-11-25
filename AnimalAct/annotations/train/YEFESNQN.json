@@ -1,0 +1,41 @@
+{
+  "video_id": "YEFESNQN",
+  "video": "YEFESNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Reed Bunting Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Reed Bunting Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Reed Bunting Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Reed Bunting Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 0.792,
+          "start_frame": 0,
+          "end_frame": 19
+        },
+        {
+          "action": "Chirping",
+          "start": 1.5,
+          "end": 1.75,
+          "start_frame": 36,
+          "end_frame": 42
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "video_id": "DPHIQVEI",
+  "video": "DPHIQVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anas Platyrhynchos Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Anas Platyrhynchos Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Preening"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Washing"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anas Platyrhynchos Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Preening"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Washing"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anas Platyrhynchos Bird",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.301,
+          "end": 0.628,
+          "start_frame": 7,
+          "end_frame": 15
+        },
+        {
+          "action": "Washing",
+          "start": 0.472,
+          "end": 2.428,
+          "start_frame": 11,
+          "end_frame": 58
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.112,
+          "end": 2.086,
+          "start_frame": 27,
+          "end_frame": 50
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 1.409,
+          "end": 1.796,
+          "start_frame": 34,
+          "end_frame": 43
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.101,
+          "end": 2.607,
+          "start_frame": 50,
+          "end_frame": 63
+        },
+        {
+          "action": "Preening",
+          "start": 2.421,
+          "end": 3.633,
+          "start_frame": 58,
+          "end_frame": 87
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.629,
+          "end": 3.417,
+          "start_frame": 63,
+          "end_frame": 82
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 4.161,
+          "end": 4.399,
+          "start_frame": 100,
+          "end_frame": 106
+        },
+        {
+          "action": "Washing",
+          "start": 4.251,
+          "end": 7.88,
+          "start_frame": 102,
+          "end_frame": 189
+        },
+        {
+          "action": "Preening",
+          "start": 5.032,
+          "end": 6.549,
+          "start_frame": 121,
+          "end_frame": 157
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 5.173,
+          "end": 6.095,
+          "start_frame": 124,
+          "end_frame": 146
+        },
+        {
+          "action": "Shaking Head",
+          "start": 5.418,
+          "end": 6.623,
+          "start_frame": 130,
+          "end_frame": 159
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 7.122,
+          "end": 7.434,
+          "start_frame": 171,
+          "end_frame": 178
+        },
+        {
+          "action": "Shaking Head",
+          "start": 7.322,
+          "end": 7.709,
+          "start_frame": 176,
+          "end_frame": 185
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 8.356,
+          "end": 8.445,
+          "start_frame": 201,
+          "end_frame": 203
+        },
+        {
+          "action": "Washing",
+          "start": 8.527,
+          "end": 11.833,
+          "start_frame": 205,
+          "end_frame": 284
+        },
+        {
+          "action": "Shaking Head",
+          "start": 9.591,
+          "end": 9.896,
+          "start_frame": 230,
+          "end_frame": 238
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 9.695,
+          "end": 9.978,
+          "start_frame": 233,
+          "end_frame": 239
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 10.922,
+          "end": 11.086,
+          "start_frame": 262,
+          "end_frame": 266
+        }
+      ]
+    }
+  ]
+}

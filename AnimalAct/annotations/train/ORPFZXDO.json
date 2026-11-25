@@ -1,0 +1,55 @@
+{
+  "video_id": "ORPFZXDO",
+  "video": "ORPFZXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tiger",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Tiger",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tiger",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tiger",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.0,
+          "end": 1.39,
+          "start_frame": 0,
+          "end_frame": 33
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Barking",
+          "start": 1.401,
+          "end": 1.745,
+          "start_frame": 34,
+          "end_frame": 42
+        }
+      ]
+    }
+  ]
+}

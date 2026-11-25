@@ -1,0 +1,34 @@
+{
+  "video_id": "WALEWCNX",
+  "video": "WALEWCNX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

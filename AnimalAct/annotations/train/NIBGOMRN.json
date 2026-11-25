@@ -1,0 +1,79 @@
+{
+  "video_id": "NIBGOMRN",
+  "video": "NIBGOMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Common Snipe",
+      "Shaking Head"
+    ],
+    [
+      "Common Snipe",
+      "Flying"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Common Snipe",
+      "Shaking Head"
+    ],
+    [
+      "Common Snipe",
+      "Flying"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.0,
+          "end": 0.25,
+          "start_frame": 0,
+          "end_frame": 6
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.125,
+          "start_frame": 0,
+          "end_frame": 171
+        },
+        {
+          "action": "Sensing",
+          "start": 7.0,
+          "end": 7.417,
+          "start_frame": 168,
+          "end_frame": 178
+        },
+        {
+          "action": "Flying",
+          "start": 7.417,
+          "end": 7.833,
+          "start_frame": 178,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

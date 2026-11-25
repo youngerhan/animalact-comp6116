@@ -1,0 +1,55 @@
+{
+  "video_id": "PCEATCEI",
+  "video": "PCEATCEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.159,
+          "start_frame": 0,
+          "end_frame": 4
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.889,
+          "end": 1.2,
+          "start_frame": 21,
+          "end_frame": 29
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.551,
+          "end": 2.173,
+          "start_frame": 37,
+          "end_frame": 52
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.4,
+          "end": 2.508,
+          "start_frame": 58,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

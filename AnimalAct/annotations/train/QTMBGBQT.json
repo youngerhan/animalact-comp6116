@@ -1,0 +1,49 @@
+{
+  "video_id": "QTMBGBQT",
+  "video": "QTMBGBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Elegant Bronzeback Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Elegant Bronzeback Snake",
+      "Moving"
+    ],
+    [
+      "Elegant Bronzeback Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Elegant Bronzeback Snake",
+      "Moving"
+    ],
+    [
+      "Elegant Bronzeback Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Elegant Bronzeback Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.002,
+          "end": 0.202,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Moving",
+          "start": 0.202,
+          "end": 2.91,
+          "start_frame": 5,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

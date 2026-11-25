@@ -1,0 +1,55 @@
+{
+  "video_id": "RQHBYHAQ",
+  "video": "RQHBYHAQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montagu'S Harrier",
+    "Montagu'S Harrier Young"
+  ],
+  "list_animal_action": [
+    [
+      "Montagu'S Harrier",
+      "Sensing"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Resting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montagu'S Harrier",
+      "Sensing"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Resting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montagu'S Harrier",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    },
+    {
+      "animal": "Montagu'S Harrier Young",
+      "actions": [
+        {
+          "action": "Resting",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "VRIEKMHZ",
+  "video": "VRIEKMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Vipera Berus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Vipera Berus Snake",
+      "Sensing"
+    ],
+    [
+      "Vipera Berus Snake",
+      "Moving"
+    ],
+    [
+      "Vipera Berus Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Vipera Berus Snake",
+      "Sensing"
+    ],
+    [
+      "Vipera Berus Snake",
+      "Moving"
+    ],
+    [
+      "Vipera Berus Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Vipera Berus Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.629,
+          "start_frame": 0,
+          "end_frame": 39
+        },
+        {
+          "action": "Sensing",
+          "start": 1.677,
+          "end": 3.4,
+          "start_frame": 40,
+          "end_frame": 82
+        },
+        {
+          "action": "Moving",
+          "start": 3.47,
+          "end": 9.504,
+          "start_frame": 83,
+          "end_frame": 228
+        }
+      ]
+    }
+  ]
+}

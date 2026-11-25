@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "date": "2026-11-25",
+  "platform": "Windows x64",
+  "python": "3.11.18",
+  "torch": "2.7.1+cu128",
+  "gpu": "RTX 5060 Ti 8 GB",
+  "staging_directory": "D:\\AnimalAct-package\\AnimalAct-Reproducible-20261125",
+  "checks": [
+    {
+      "entrypoint": "VERIFY_RESULTS.cmd",
+      "exit_code": 0
+    },
+    {
+      "entrypoint": "REPRODUCE_BLEND.cmd",
+      "exit_code": 0
+    },
+    {
+      "entrypoint": "PREDICT_DEMO.cmd",
+      "exit_code": 0
+    },
+    {
+      "entrypoint": "TRAIN_SMOKE.cmd",
+      "exit_code": 0
+    }
+  ],
+  "installation": "All pinned dependencies installed from local wheelhouse; pip check passed.",
+  "limitations": "Not a second physical computer; no macOS/Linux installation test; full formal training not repeated.",
+  "original_data_and_weights_unchanged": true,
+  "baseline_import_fix": "Restored train_epoch import in train.py and nn/time imports in runtime.py; source project and bundle both fixed and smoke-tested.",
+  "all_eight_checkpoint_configuration_check": "passed dry-run; full eight-model inference was not repeated"
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "WSPRUJYD",
+  "video": "WSPRUJYD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chrysoperla Rufilabris Green Lacewing Larva",
+    "Aphis Fabae Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Chrysoperla Rufilabris Green Lacewing Larva",
+      "Biting"
+    ],
+    [
+      "Aphis Fabae Aphid",
+      "Struggling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chrysoperla Rufilabris Green Lacewing Larva",
+      "Biting"
+    ],
+    [
+      "Aphis Fabae Aphid",
+      "Struggling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chrysoperla Rufilabris Green Lacewing Larva",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 3.214,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    },
+    {
+      "animal": "Aphis Fabae Aphid",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 0.0,
+          "end": 3.214,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

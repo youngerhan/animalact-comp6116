@@ -1,0 +1,49 @@
+{
+  "video_id": "TGSUOEUL",
+  "video": "TGSUOEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Spitting Venom",
+          "start": 0.0,
+          "end": 0.454,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Sensing",
+          "start": 1.207,
+          "end": 4.365,
+          "start_frame": 29,
+          "end_frame": 105
+        }
+      ]
+    }
+  ]
+}

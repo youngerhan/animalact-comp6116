@@ -1,0 +1,70 @@
+{
+  "video_id": "UKTFKMRN",
+  "video": "UKTFKMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Shaking"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Shaking"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.125,
+          "start_frame": 0,
+          "end_frame": 27
+        }
+      ]
+    },
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.792,
+          "start_frame": 0,
+          "end_frame": 19
+        },
+        {
+          "action": "Shaking",
+          "start": 0.667,
+          "end": 1.125,
+          "start_frame": 16,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

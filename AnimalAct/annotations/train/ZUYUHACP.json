@@ -1,0 +1,34 @@
+{
+  "video_id": "ZUYUHACP",
+  "video": "ZUYUHACP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Araneus Diadematus Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Araneus Diadematus Spider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Araneus Diadematus Spider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Araneus Diadematus Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.819,
+          "end": 5.125,
+          "start_frame": 20,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "AHTCDBME",
+  "video": "AHTCDBME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.518,
+          "end": 3.094,
+          "start_frame": 12,
+          "end_frame": 74
+        },
+        {
+          "action": "Walking",
+          "start": 1.503,
+          "end": 4.333,
+          "start_frame": 36,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

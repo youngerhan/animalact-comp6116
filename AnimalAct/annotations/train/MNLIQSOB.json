@@ -1,0 +1,49 @@
+{
+  "video_id": "MNLIQSOB",
+  "video": "MNLIQSOB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montpellier Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Montpellier Snake",
+      "Keeping still"
+    ],
+    [
+      "Montpellier Snake",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montpellier Snake",
+      "Keeping still"
+    ],
+    [
+      "Montpellier Snake",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montpellier Snake",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 5.336,
+          "start_frame": 0,
+          "end_frame": 128
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.039,
+          "end": 5.372,
+          "start_frame": 1,
+          "end_frame": 129
+        }
+      ]
+    }
+  ]
+}

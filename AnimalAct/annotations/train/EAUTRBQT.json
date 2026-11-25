@@ -1,0 +1,34 @@
+{
+  "video_id": "EAUTRBQT",
+  "video": "EAUTRBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greater Mouse Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Greater Mouse Deer",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greater Mouse Deer",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greater Mouse Deer",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.333,
+          "end": 5.917,
+          "start_frame": 32,
+          "end_frame": 142
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "RPZLHQTX",
+  "video": "RPZLHQTX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turdus Merula Blackbird"
+  ],
+  "list_animal_action": [
+    [
+      "Turdus Merula Blackbird",
+      "Washing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turdus Merula Blackbird",
+      "Washing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turdus Merula Blackbird",
+      "actions": [
+        {
+          "action": "Washing",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

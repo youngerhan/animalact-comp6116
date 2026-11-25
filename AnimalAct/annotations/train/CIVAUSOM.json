@@ -1,0 +1,34 @@
+{
+  "video_id": "CIVAUSOM",
+  "video": "CIVAUSOM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 7.5,
+          "start_frame": 0,
+          "end_frame": 180
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "WVZWFONO",
+  "video": "WVZWFONO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wood Warbler"
+  ],
+  "list_animal_action": [
+    [
+      "Wood Warbler",
+      "Turning Around"
+    ],
+    [
+      "Wood Warbler",
+      "Chirping"
+    ],
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wood Warbler",
+      "Turning Around"
+    ],
+    [
+      "Wood Warbler",
+      "Chirping"
+    ],
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wood Warbler",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.399,
+          "start_frame": 0,
+          "end_frame": 58
+        },
+        {
+          "action": "Sensing",
+          "start": 0.007,
+          "end": 11.917,
+          "start_frame": 0,
+          "end_frame": 286
+        },
+        {
+          "action": "Turning Around",
+          "start": 4.85,
+          "end": 8.54,
+          "start_frame": 116,
+          "end_frame": 205
+        },
+        {
+          "action": "Chirping",
+          "start": 9.326,
+          "end": 11.917,
+          "start_frame": 224,
+          "end_frame": 286
+        }
+      ]
+    }
+  ]
+}

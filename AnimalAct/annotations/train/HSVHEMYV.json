@@ -1,0 +1,34 @@
+{
+  "video_id": "HSVHEMYV",
+  "video": "HSVHEMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Atheris Squamigera"
+  ],
+  "list_animal_action": [
+    [
+      "Atheris Squamigera",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Atheris Squamigera",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Atheris Squamigera",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.595,
+          "end": 1.864,
+          "start_frame": 14,
+          "end_frame": 45
+        }
+      ]
+    }
+  ]
+}

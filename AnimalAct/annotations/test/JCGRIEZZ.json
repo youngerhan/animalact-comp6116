@@ -1,0 +1,49 @@
+{
+  "video_id": "JCGRIEZZ",
+  "video": "JCGRIEZZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sambar Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Sambar Deer",
+      "Attending"
+    ],
+    [
+      "Sambar Deer",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sambar Deer",
+      "Attending"
+    ],
+    [
+      "Sambar Deer",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sambar Deer",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.102,
+          "start_frame": 0,
+          "end_frame": 50
+        },
+        {
+          "action": "Attending",
+          "start": 2.261,
+          "end": 3.106,
+          "start_frame": 54,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "video_id": "LKAWCPTK",
+  "video": "LKAWCPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 4.0,
+          "start_frame": 0,
+          "end_frame": 96
+        },
+        {
+          "action": "Attending",
+          "start": 4.0,
+          "end": 5.5,
+          "start_frame": 96,
+          "end_frame": 132
+        },
+        {
+          "action": "Chirping",
+          "start": 5.5,
+          "end": 9.0,
+          "start_frame": 132,
+          "end_frame": 216
+        },
+        {
+          "action": "Attending",
+          "start": 9.0,
+          "end": 10.25,
+          "start_frame": 216,
+          "end_frame": 246
+        },
+        {
+          "action": "Chirping",
+          "start": 10.25,
+          "end": 10.75,
+          "start_frame": 246,
+          "end_frame": 258
+        }
+      ]
+    }
+  ]
+}

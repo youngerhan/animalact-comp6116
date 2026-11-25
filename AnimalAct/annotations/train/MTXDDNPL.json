@@ -1,0 +1,56 @@
+{
+  "video_id": "MTXDDNPL",
+  "video": "MTXDDNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Backed Shrike Bird Young"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Keeping still"
+    ],
+    [
+      "Red-Backed Shrike Bird Young",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Keeping still"
+    ],
+    [
+      "Red-Backed Shrike Bird Young",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Backed Shrike Bird Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.198,
+          "end": 1.019,
+          "start_frame": 5,
+          "end_frame": 24
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.206,
+          "end": 0.328,
+          "start_frame": 5,
+          "end_frame": 8
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.756,
+          "end": 0.891,
+          "start_frame": 18,
+          "end_frame": 21
+        }
+      ]
+    }
+  ]
+}

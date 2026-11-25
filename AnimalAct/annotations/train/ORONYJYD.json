@@ -1,0 +1,63 @@
+{
+  "video_id": "ORONYJYD",
+  "video": "ORONYJYD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aphis Fabae Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Aphis Fabae Aphid",
+      "Sensing"
+    ],
+    [
+      "Aphis Fabae Aphid",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aphis Fabae Aphid",
+      "Sensing"
+    ],
+    [
+      "Aphis Fabae Aphid",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aphis Fabae Aphid",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.083,
+          "end": 0.523,
+          "start_frame": 2,
+          "end_frame": 13
+        },
+        {
+          "action": "Sensing",
+          "start": 0.303,
+          "end": 0.699,
+          "start_frame": 7,
+          "end_frame": 17
+        },
+        {
+          "action": "Moving",
+          "start": 0.704,
+          "end": 2.625,
+          "start_frame": 17,
+          "end_frame": 63
+        },
+        {
+          "action": "Sensing",
+          "start": 0.942,
+          "end": 1.427,
+          "start_frame": 23,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

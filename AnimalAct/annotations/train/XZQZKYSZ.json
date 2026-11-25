@@ -1,0 +1,64 @@
+{
+  "video_id": "XZQZKYSZ",
+  "video": "XZQZKYSZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fruit Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Fruit Fly",
+      "Performing copulatory mounting"
+    ],
+    [
+      "Fruit Fly",
+      "Fighting"
+    ],
+    [
+      "Fruit Fly",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fruit Fly",
+      "Performing copulatory mounting"
+    ],
+    [
+      "Fruit Fly",
+      "Fighting"
+    ],
+    [
+      "Fruit Fly",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fruit Fly",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 9.417,
+          "start_frame": 0,
+          "end_frame": 226
+        },
+        {
+          "action": "Performing copulatory mounting",
+          "start": 0.0,
+          "end": 9.416667,
+          "start_frame": 0,
+          "end_frame": 226
+        },
+        {
+          "action": "Moving",
+          "start": 1.173,
+          "end": 4.377,
+          "start_frame": 28,
+          "end_frame": 105
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "video_id": "TGWXIXDO",
+  "video": "TGWXIXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Buffalo",
+    "Giraffe"
+  ],
+  "list_animal_action": [
+    [
+      "Buffalo",
+      "Walking"
+    ],
+    [
+      "Giraffe",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Buffalo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Giraffe",
+      "Walking"
+    ],
+    [
+      "Buffalo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Buffalo",
+      "Walking"
+    ],
+    [
+      "Giraffe",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Buffalo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Giraffe",
+      "Walking"
+    ],
+    [
+      "Buffalo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Buffalo",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 6.417,
+          "start_frame": 0,
+          "end_frame": 154
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 3.308,
+          "end": 4.165,
+          "start_frame": 79,
+          "end_frame": 100
+        },
+        {
+          "action": "Sensing",
+          "start": 4.154,
+          "end": 6.417,
+          "start_frame": 100,
+          "end_frame": 154
+        }
+      ]
+    },
+    {
+      "animal": "Giraffe",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.293,
+          "start_frame": 0,
+          "end_frame": 79
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 3.308,
+          "end": 4.165,
+          "start_frame": 79,
+          "end_frame": 100
+        }
+      ]
+    }
+  ]
+}

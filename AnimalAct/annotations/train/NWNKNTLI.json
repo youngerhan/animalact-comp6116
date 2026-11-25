@@ -1,0 +1,34 @@
+{
+  "video_id": "NWNKNTLI",
+  "video": "NWNKNTLI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "House Cricket"
+  ],
+  "list_animal_action": [
+    [
+      "House Cricket",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "House Cricket",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "House Cricket",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.708,
+          "start_frame": 0,
+          "end_frame": 113
+        }
+      ]
+    }
+  ]
+}

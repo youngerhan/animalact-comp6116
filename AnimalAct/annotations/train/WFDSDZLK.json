@@ -1,0 +1,41 @@
+{
+  "video_id": "WFDSDZLK",
+  "video": "WFDSDZLK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Water Rail Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Water Rail Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Water Rail Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Water Rail Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 1.125,
+          "end": 1.708,
+          "start_frame": 27,
+          "end_frame": 41
+        },
+        {
+          "action": "Chirping",
+          "start": 3.208,
+          "end": 3.792,
+          "start_frame": 77,
+          "end_frame": 91
+        }
+      ]
+    }
+  ]
+}

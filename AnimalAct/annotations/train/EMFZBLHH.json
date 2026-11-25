@@ -1,0 +1,34 @@
+{
+  "video_id": "EMFZBLHH",
+  "video": "EMFZBLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Banded Rubber Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Banded Rubber Frog",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Banded Rubber Frog",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Banded Rubber Frog",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.344,
+          "start_frame": 0,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

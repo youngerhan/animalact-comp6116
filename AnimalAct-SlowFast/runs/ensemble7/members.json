@@ -1,0 +1,58 @@
+{
+  "members": [
+    "runs\\main-all-uniform224",
+    "runs\\ablate-all-posweight",
+    "runs\\ft256",
+    "runs\\seed123-all-uniform224",
+    "runs\\ablate-l34-sqrt2",
+    "runs\\wholeframe224",
+    "runs\\wf256"
+  ],
+  "threshold": 0.3,
+  "per_class_thresholds": [
+    0.6,
+    0.25,
+    0.1,
+    0.4,
+    0.1,
+    0.45,
+    0.05,
+    0.35,
+    0.35,
+    0.5,
+    0.25,
+    0.2,
+    0.85,
+    0.15,
+    0.3,
+    0.3,
+    0.6,
+    0.35,
+    0.3,
+    0.3,
+    0.1,
+    0.4,
+    0.25,
+    0.15,
+    0.25,
+    0.55,
+    0.25,
+    0.6,
+    0.2,
+    0.3,
+    0.15
+  ],
+  "valid": {
+    "mAP": 0.4647970837138072,
+    "macro_F1": 0.45778027346274264,
+    "macro_F1_per_class_threshold": 0.5225807323357836,
+    "mAP_positives_ge_20": 0.5512347831062613
+  },
+  "test": {
+    "mAP": 0.48138600865780135,
+    "macro_F1": 0.4621287308295435,
+    "macro_F1_per_class_threshold": 0.4544504909065919,
+    "mAP_positives_ge_10": 0.5679627201750932,
+    "mAP_positives_ge_20": 0.6254047773908469
+  }
+}

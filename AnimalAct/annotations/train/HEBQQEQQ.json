@@ -1,0 +1,41 @@
+{
+  "video_id": "HEBQQEQQ",
+  "video": "HEBQQEQQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leaf-Tailed Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Leaf-Tailed Gecko",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leaf-Tailed Gecko",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leaf-Tailed Gecko",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.92,
+          "start_frame": 0,
+          "end_frame": 46
+        },
+        {
+          "action": "Walking",
+          "start": 1.962,
+          "end": 4.125,
+          "start_frame": 47,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

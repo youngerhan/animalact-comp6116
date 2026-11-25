@@ -1,0 +1,64 @@
+{
+  "video_id": "XAKTTXGD",
+  "video": "XAKTTXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mountain Pygmy Possum"
+  ],
+  "list_animal_action": [
+    [
+      "Mountain Pygmy Possum",
+      "Shaking"
+    ],
+    [
+      "Mountain Pygmy Possum",
+      "Eating"
+    ],
+    [
+      "Mountain Pygmy Possum",
+      "Turning Around"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mountain Pygmy Possum",
+      "Shaking"
+    ],
+    [
+      "Mountain Pygmy Possum",
+      "Eating"
+    ],
+    [
+      "Mountain Pygmy Possum",
+      "Turning Around"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mountain Pygmy Possum",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.083,
+          "start_frame": 0,
+          "end_frame": 98
+        },
+        {
+          "action": "Shaking",
+          "start": 0.0,
+          "end": 4.333,
+          "start_frame": 0,
+          "end_frame": 104
+        },
+        {
+          "action": "Turning Around",
+          "start": 3.833,
+          "end": 3.958,
+          "start_frame": 92,
+          "end_frame": 95
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "video_id": "ROOHIGCS",
+  "video": "ROOHIGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Retaliating"
+    ],
+    [
+      "Lion",
+      "Shaking Head"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Retaliating"
+    ],
+    [
+      "Lion",
+      "Shaking Head"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.0,
+          "end": 2.263,
+          "start_frame": 0,
+          "end_frame": 54
+        },
+        {
+          "action": "Barking",
+          "start": 0.0,
+          "end": 9.022,
+          "start_frame": 0,
+          "end_frame": 217
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 12.856,
+          "start_frame": 0,
+          "end_frame": 309
+        },
+        {
+          "action": "Retaliating",
+          "start": 0.369,
+          "end": 2.281,
+          "start_frame": 9,
+          "end_frame": 55
+        },
+        {
+          "action": "Startled",
+          "start": 0.379,
+          "end": 5.519,
+          "start_frame": 9,
+          "end_frame": 132
+        },
+        {
+          "action": "Retreating",
+          "start": 1.411,
+          "end": 5.519,
+          "start_frame": 34,
+          "end_frame": 132
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.908,
+          "end": 12.856,
+          "start_frame": 214,
+          "end_frame": 309
+        },
+        {
+          "action": "Shaking Head",
+          "start": 10.006,
+          "end": 10.877,
+          "start_frame": 240,
+          "end_frame": 261
+        },
+        {
+          "action": "Sensing",
+          "start": 12.856,
+          "end": 16.5,
+          "start_frame": 309,
+          "end_frame": 396
+        },
+        {
+          "action": "Walking",
+          "start": 12.865,
+          "end": 16.5,
+          "start_frame": 309,
+          "end_frame": 396
+        },
+        {
+          "action": "Sitting",
+          "start": 15.904,
+          "end": 16.5,
+          "start_frame": 382,
+          "end_frame": 396
+        }
+      ]
+    }
+  ]
+}

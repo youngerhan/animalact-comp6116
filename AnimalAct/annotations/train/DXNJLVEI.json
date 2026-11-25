@@ -1,0 +1,34 @@
+{
+  "video_id": "DXNJLVEI",
+  "video": "DXNJLVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Ochropus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Ochropus Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Ochropus Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Ochropus Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.25,
+          "end": 1.917,
+          "start_frame": 30,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

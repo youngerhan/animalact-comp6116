@@ -1,0 +1,34 @@
+{
+  "video_id": "GCFJNLHH",
+  "video": "GCFJNLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Desert Rain Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Desert Rain Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Desert Rain Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Desert Rain Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "VQDRLLQI",
+  "video": "VQDRLLQI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rhesus Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Rhesus Macaque",
+      "Climbing"
+    ],
+    [
+      "Rhesus Macaque",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rhesus Macaque",
+      "Climbing"
+    ],
+    [
+      "Rhesus Macaque",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rhesus Macaque",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.0,
+          "end": 2.125,
+          "start_frame": 0,
+          "end_frame": 51
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.004,
+          "end": 2.125,
+          "start_frame": 0,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

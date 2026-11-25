@@ -1,0 +1,34 @@
+{
+  "video_id": "KDFRHGIW",
+  "video": "KDFRHGIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 6.505,
+          "start_frame": 0,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "DPPAKEUL",
+  "video": "DPPAKEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Spitting Venom",
+          "start": 0.458,
+          "end": 0.792,
+          "start_frame": 11,
+          "end_frame": 19
+        },
+        {
+          "action": "Sensing",
+          "start": 3.25,
+          "end": 3.333,
+          "start_frame": 78,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

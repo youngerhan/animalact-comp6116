@@ -1,0 +1,49 @@
+{
+  "video_id": "ZWIXWDAL",
+  "video": "ZWIXWDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Sensing"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Sensing"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.016,
+          "end": 16.917,
+          "start_frame": 0,
+          "end_frame": 406
+        },
+        {
+          "action": "Sensing",
+          "start": 0.023,
+          "end": 16.917,
+          "start_frame": 1,
+          "end_frame": 406
+        }
+      ]
+    }
+  ]
+}

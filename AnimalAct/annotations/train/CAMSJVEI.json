@@ -1,0 +1,64 @@
+{
+  "video_id": "CAMSJVEI",
+  "video": "CAMSJVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anas Platyrhynchos Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Anas Platyrhynchos Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Preening"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anas Platyrhynchos Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Preening"
+    ],
+    [
+      "Anas Platyrhynchos Bird",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anas Platyrhynchos Bird",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.431,
+          "end": 0.9,
+          "start_frame": 10,
+          "end_frame": 22
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.9,
+          "end": 1.199,
+          "start_frame": 22,
+          "end_frame": 29
+        },
+        {
+          "action": "Preening",
+          "start": 1.4,
+          "end": 2.6,
+          "start_frame": 34,
+          "end_frame": 62
+        }
+      ]
+    }
+  ]
+}

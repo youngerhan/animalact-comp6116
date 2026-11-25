@@ -1,0 +1,86 @@
+{
+  "video_id": "XVRHSXYT",
+  "video": "XVRHSXYT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Flapping"
+    ],
+    [
+      "Raven",
+      "Shaking Head"
+    ],
+    [
+      "Raven",
+      "Rubbing its head"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Flapping"
+    ],
+    [
+      "Raven",
+      "Shaking Head"
+    ],
+    [
+      "Raven",
+      "Rubbing its head"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.009,
+          "end": 1.8,
+          "start_frame": 0,
+          "end_frame": 43
+        },
+        {
+          "action": "Rubbing its head",
+          "start": 1.828,
+          "end": 5.455,
+          "start_frame": 44,
+          "end_frame": 131
+        },
+        {
+          "action": "Shaking Head",
+          "start": 5.479,
+          "end": 6.177,
+          "start_frame": 131,
+          "end_frame": 148
+        },
+        {
+          "action": "Sensing",
+          "start": 6.186,
+          "end": 8.412,
+          "start_frame": 148,
+          "end_frame": 202
+        },
+        {
+          "action": "Flapping",
+          "start": 6.621,
+          "end": 8.412,
+          "start_frame": 159,
+          "end_frame": 202
+        }
+      ]
+    }
+  ]
+}

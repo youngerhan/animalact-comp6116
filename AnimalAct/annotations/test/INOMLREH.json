@@ -1,0 +1,34 @@
+{
+  "video_id": "INOMLREH",
+  "video": "INOMLREH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flapping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flapping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.219,
+          "end": 1.344,
+          "start_frame": 5,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Python: D:\AnimalAct-package\AnimalAct-Reproducible-20261125\runtime\python.exe CUDA: True
+{'mAP': 0.4837818839325396, 'macro_F1': 0.4667171048085274, 'threshold': 0.15}
+Output: D:\AnimalAct-package\AnimalAct-Reproducible-20261125\reproduced\blend-20261125-163143-377727
+
+Finished with exit code 0.

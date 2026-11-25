@@ -1,0 +1,49 @@
+{
+  "video_id": "KZBLYIQR",
+  "video": "KZBLYIQR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mongoose"
+  ],
+  "list_animal_action": [
+    [
+      "Mongoose",
+      "Retreating"
+    ],
+    [
+      "Mongoose",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mongoose",
+      "Retreating"
+    ],
+    [
+      "Mongoose",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mongoose",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 1.473,
+          "end": 2.406,
+          "start_frame": 35,
+          "end_frame": 58
+        },
+        {
+          "action": "Retreating",
+          "start": 2.404,
+          "end": 3.211,
+          "start_frame": 58,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

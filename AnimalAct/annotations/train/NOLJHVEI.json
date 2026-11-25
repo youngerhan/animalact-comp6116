@@ -1,0 +1,86 @@
+{
+  "video_id": "NOLJHVEI",
+  "video": "NOLJHVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Calidris Apina Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Calidris Apina Bird",
+      "Preening"
+    ],
+    [
+      "Calidris Apina Bird",
+      "Shaking Head"
+    ],
+    [
+      "Calidris Apina Bird",
+      "Keeping still"
+    ],
+    [
+      "Calidris Apina Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Calidris Apina Bird",
+      "Preening"
+    ],
+    [
+      "Calidris Apina Bird",
+      "Shaking Head"
+    ],
+    [
+      "Calidris Apina Bird",
+      "Keeping still"
+    ],
+    [
+      "Calidris Apina Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Calidris Apina Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 1.5,
+          "start_frame": 0,
+          "end_frame": 36
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.417,
+          "start_frame": 0,
+          "end_frame": 130
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.125,
+          "end": 1.625,
+          "start_frame": 27,
+          "end_frame": 39
+        },
+        {
+          "action": "Sensing",
+          "start": 1.375,
+          "end": 2.5,
+          "start_frame": 33,
+          "end_frame": 60
+        },
+        {
+          "action": "Preening",
+          "start": 2.875,
+          "end": 5.417,
+          "start_frame": 69,
+          "end_frame": 130
+        }
+      ]
+    }
+  ]
+}

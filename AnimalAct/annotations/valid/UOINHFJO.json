@@ -1,0 +1,34 @@
+{
+  "video_id": "UOINHFJO",
+  "video": "UOINHFJO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.125,
+          "start_frame": 0,
+          "end_frame": 3
+        }
+      ]
+    }
+  ]
+}

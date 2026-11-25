@@ -1,0 +1,56 @@
+{
+  "video_id": "CJOBIXGD",
+  "video": "CJOBIXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Drinking"
+    ],
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Drinking"
+    ],
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.01,
+          "end": 0.761,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Sensing",
+          "start": 0.825,
+          "end": 2.651,
+          "start_frame": 20,
+          "end_frame": 64
+        },
+        {
+          "action": "Drinking",
+          "start": 2.687,
+          "end": 3.424,
+          "start_frame": 64,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

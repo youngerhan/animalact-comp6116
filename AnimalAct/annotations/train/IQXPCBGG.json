@@ -1,0 +1,34 @@
+{
+  "video_id": "IQXPCBGG",
+  "video": "IQXPCBGG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Citrine Wagtail"
+  ],
+  "list_animal_action": [
+    [
+      "Citrine Wagtail",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Citrine Wagtail",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Citrine Wagtail",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

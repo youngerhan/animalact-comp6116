@@ -1,0 +1,34 @@
+{
+  "video_id": "GZBDRRTZ",
+  "video": "GZBDRRTZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eyelash Pit Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Eyelash Pit Viper",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eyelash Pit Viper",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eyelash Pit Viper",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.708,
+          "start_frame": 0,
+          "end_frame": 113
+        }
+      ]
+    }
+  ]
+}

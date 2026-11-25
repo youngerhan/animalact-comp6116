@@ -1,0 +1,41 @@
+{
+  "video_id": "VRJOBCIW",
+  "video": "VRJOBCIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salticidae Jumping Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Salticidae Jumping Spider",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salticidae Jumping Spider",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salticidae Jumping Spider",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.779,
+          "end": 0.941,
+          "start_frame": 19,
+          "end_frame": 23
+        },
+        {
+          "action": "Sensing",
+          "start": 1.39,
+          "end": 1.556,
+          "start_frame": 33,
+          "end_frame": 37
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "SRBOCJBD",
+  "video": "SRBOCJBD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grasshopper Warbler"
+  ],
+  "list_animal_action": [
+    [
+      "Grasshopper Warbler",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grasshopper Warbler",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grasshopper Warbler",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

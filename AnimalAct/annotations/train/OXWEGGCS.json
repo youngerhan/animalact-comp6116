@@ -1,0 +1,139 @@
+{
+  "video_id": "OXWEGGCS",
+  "video": "OXWEGGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Standing"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Shaking Head"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Standing"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Shaking Head"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Standing",
+          "start": 0.0,
+          "end": 3.44,
+          "start_frame": 0,
+          "end_frame": 83
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.453,
+          "start_frame": 0,
+          "end_frame": 83
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.453,
+          "start_frame": 0,
+          "end_frame": 83
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.253,
+          "end": 0.92,
+          "start_frame": 6,
+          "end_frame": 22
+        },
+        {
+          "action": "Walking",
+          "start": 3.46,
+          "end": 11.625,
+          "start_frame": 83,
+          "end_frame": 279
+        },
+        {
+          "action": "Sensing",
+          "start": 3.466,
+          "end": 11.625,
+          "start_frame": 83,
+          "end_frame": 279
+        },
+        {
+          "action": "Barking",
+          "start": 6.412,
+          "end": 10.838,
+          "start_frame": 154,
+          "end_frame": 260
+        },
+        {
+          "action": "Sitting",
+          "start": 6.446,
+          "end": 7.552,
+          "start_frame": 155,
+          "end_frame": 181
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "IRFBPMHZ",
+  "video": "IRFBPMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Coronella Austriaca Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Coronella Austriaca Snake",
+      "Sensing"
+    ],
+    [
+      "Coronella Austriaca Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Coronella Austriaca Snake",
+      "Sensing"
+    ],
+    [
+      "Coronella Austriaca Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Coronella Austriaca Snake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.417,
+          "start_frame": 0,
+          "end_frame": 202
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 8.417,
+          "start_frame": 0,
+          "end_frame": 202
+        }
+      ]
+    }
+  ]
+}

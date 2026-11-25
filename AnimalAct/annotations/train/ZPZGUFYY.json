@@ -1,0 +1,34 @@
+{
+  "video_id": "ZPZGUFYY",
+  "video": "ZPZGUFYY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Clouded Monitor Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Clouded Monitor Lizard",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Clouded Monitor Lizard",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Clouded Monitor Lizard",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.334,
+          "start_frame": 0,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "video_id": "ZQQXLMYV",
+  "video": "ZQQXLMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Atheris Nitschei Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Atheris Nitschei Viper",
+      "Attacking"
+    ],
+    [
+      "Atheris Nitschei Viper",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Atheris Nitschei Viper",
+      "Attacking"
+    ],
+    [
+      "Atheris Nitschei Viper",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Atheris Nitschei Viper",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.583,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Attacking",
+          "start": 0.625,
+          "end": 1.542,
+          "start_frame": 15,
+          "end_frame": 37
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.583,
+          "end": 4.125,
+          "start_frame": 38,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

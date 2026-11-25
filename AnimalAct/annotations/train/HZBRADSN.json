@@ -1,0 +1,55 @@
+{
+  "video_id": "HZBRADSN",
+  "video": "HZBRADSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Markhor Goat",
+    "Snow Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Markhor Goat",
+      "Fleeing"
+    ],
+    [
+      "Snow Leopard",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Markhor Goat",
+      "Fleeing"
+    ],
+    [
+      "Snow Leopard",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Markhor Goat",
+      "actions": [
+        {
+          "action": "Fleeing",
+          "start": 0.0,
+          "end": 6.49,
+          "start_frame": 0,
+          "end_frame": 156
+        }
+      ]
+    },
+    {
+      "animal": "Snow Leopard",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 6.496,
+          "start_frame": 0,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "ZXCMUMHZ",
+  "video": "ZXCMUMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Zamenis Longissiumus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Zamenis Longissiumus Snake",
+      "Performing copulatory mounting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Zamenis Longissiumus Snake",
+      "Performing copulatory mounting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Zamenis Longissiumus Snake",
+      "actions": [
+        {
+          "action": "Performing copulatory mounting",
+          "start": 0.0,
+          "end": 9.969,
+          "start_frame": 0,
+          "end_frame": 239
+        }
+      ]
+    }
+  ]
+}

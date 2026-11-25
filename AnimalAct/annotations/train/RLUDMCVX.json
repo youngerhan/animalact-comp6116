@@ -1,0 +1,34 @@
+{
+  "video_id": "RLUDMCVX",
+  "video": "RLUDMCVX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Whooper Swan"
+  ],
+  "list_animal_action": [
+    [
+      "Whooper Swan",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Whooper Swan",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Whooper Swan",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.094,
+          "end": 3.594,
+          "start_frame": 2,
+          "end_frame": 86
+        }
+      ]
+    }
+  ]
+}

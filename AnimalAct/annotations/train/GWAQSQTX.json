@@ -1,0 +1,34 @@
+{
+  "video_id": "GWAQSQTX",
+  "video": "GWAQSQTX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turdus Merula Blackbird"
+  ],
+  "list_animal_action": [
+    [
+      "Turdus Merula Blackbird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turdus Merula Blackbird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turdus Merula Blackbird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.725,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

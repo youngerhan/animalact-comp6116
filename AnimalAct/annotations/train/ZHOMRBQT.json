@@ -1,0 +1,49 @@
+{
+  "video_id": "ZHOMRBQT",
+  "video": "ZHOMRBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Attending"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Attending"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.51,
+          "start_frame": 0,
+          "end_frame": 36
+        },
+        {
+          "action": "Attending",
+          "start": 1.522,
+          "end": 2.708,
+          "start_frame": 37,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

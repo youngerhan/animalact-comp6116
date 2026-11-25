@@ -1,0 +1,64 @@
+{
+  "video_id": "FBJJVKOU",
+  "video": "FBJJVKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Walking"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ],
+    [
+      "Yellowhammer",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Walking"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ],
+    [
+      "Yellowhammer",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.137,
+          "end": 1.018,
+          "start_frame": 3,
+          "end_frame": 24
+        },
+        {
+          "action": "Walking",
+          "start": 0.371,
+          "end": 0.968,
+          "start_frame": 9,
+          "end_frame": 23
+        },
+        {
+          "action": "Sharing Food",
+          "start": 0.483,
+          "end": 1.015,
+          "start_frame": 12,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

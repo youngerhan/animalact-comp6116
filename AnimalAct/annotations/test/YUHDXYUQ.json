@@ -1,0 +1,55 @@
+{
+  "video_id": "YUHDXYUQ",
+  "video": "YUHDXYUQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Formica Accreta",
+    "Polyergus Mexicanus"
+  ],
+  "list_animal_action": [
+    [
+      "Formica Accreta",
+      "Exploring"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Grooming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Formica Accreta",
+      "Exploring"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Grooming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Formica Accreta",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.896,
+          "end": 2.508,
+          "start_frame": 22,
+          "end_frame": 60
+        }
+      ]
+    },
+    {
+      "animal": "Polyergus Mexicanus",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 0.655,
+          "end": 1.694,
+          "start_frame": 16,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "TWRBSCVX",
+  "video": "TWRBSCVX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Whooper Swan"
+  ],
+  "list_animal_action": [
+    [
+      "Whooper Swan",
+      "Flapping"
+    ],
+    [
+      "Whooper Swan",
+      "Dancing On Water"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Whooper Swan",
+      "Flapping"
+    ],
+    [
+      "Whooper Swan",
+      "Dancing On Water"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Whooper Swan",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.167,
+          "end": 3.917,
+          "start_frame": 4,
+          "end_frame": 94
+        },
+        {
+          "action": "Dancing On Water",
+          "start": 0.333,
+          "end": 3.458,
+          "start_frame": 8,
+          "end_frame": 83
+        }
+      ]
+    }
+  ]
+}

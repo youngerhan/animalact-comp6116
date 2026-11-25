@@ -1,0 +1,34 @@
+{
+  "video_id": "DQKVTAFG",
+  "video": "DQKVTAFG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Phyllium Giganteum"
+  ],
+  "list_animal_action": [
+    [
+      "Phyllium Giganteum",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Phyllium Giganteum",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Phyllium Giganteum",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.001,
+          "end": 1.516,
+          "start_frame": 0,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

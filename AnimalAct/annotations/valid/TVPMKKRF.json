@@ -1,0 +1,49 @@
+{
+  "video_id": "TVPMKKRF",
+  "video": "TVPMKKRF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dispholidus Typus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dispholidus Typus Snake",
+      "Attending"
+    ],
+    [
+      "Dispholidus Typus Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dispholidus Typus Snake",
+      "Attending"
+    ],
+    [
+      "Dispholidus Typus Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dispholidus Typus Snake",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 9.0,
+          "start_frame": 0,
+          "end_frame": 216
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 9.0,
+          "start_frame": 0,
+          "end_frame": 216
+        }
+      ]
+    }
+  ]
+}

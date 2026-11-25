@@ -1,0 +1,56 @@
+{
+  "video_id": "AJGOVQWI",
+  "video": "AJGOVQWI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Garganey"
+  ],
+  "list_animal_action": [
+    [
+      "Garganey",
+      "Swimming"
+    ],
+    [
+      "Garganey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Garganey",
+      "Swimming"
+    ],
+    [
+      "Garganey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Garganey",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 6.703,
+          "start_frame": 0,
+          "end_frame": 161
+        },
+        {
+          "action": "Sensing",
+          "start": 1.189,
+          "end": 2.536,
+          "start_frame": 29,
+          "end_frame": 61
+        },
+        {
+          "action": "Sensing",
+          "start": 3.435,
+          "end": 4.157,
+          "start_frame": 82,
+          "end_frame": 100
+        }
+      ]
+    }
+  ]
+}

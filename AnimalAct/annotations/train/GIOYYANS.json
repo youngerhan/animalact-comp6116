@@ -1,0 +1,70 @@
+{
+  "video_id": "GIOYYANS",
+  "video": "GIOYYANS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Orb Spider",
+    "Crane Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Orb Spider",
+      "Keeping still"
+    ],
+    [
+      "Orb Spider",
+      "Sensing"
+    ],
+    [
+      "Crane Fly",
+      "Immobilized"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Orb Spider",
+      "Keeping still"
+    ],
+    [
+      "Orb Spider",
+      "Sensing"
+    ],
+    [
+      "Crane Fly",
+      "Immobilized"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Orb Spider",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.333,
+          "start_frame": 0,
+          "end_frame": 104
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.333,
+          "start_frame": 0,
+          "end_frame": 104
+        }
+      ]
+    },
+    {
+      "animal": "Crane Fly",
+      "actions": [
+        {
+          "action": "Immobilized",
+          "start": 0.0,
+          "end": 4.333,
+          "start_frame": 0,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

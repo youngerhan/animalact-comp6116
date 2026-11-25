@@ -1,0 +1,34 @@
+{
+  "video_id": "WAKTPZON",
+  "video": "WAKTPZON.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Reticulated Python"
+  ],
+  "list_animal_action": [
+    [
+      "Reticulated Python",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Reticulated Python",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Reticulated Python",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.512,
+          "start_frame": 0,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "video_id": "HTDWTDFS",
+  "video": "HTDWTDFS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wild Red-Tailed Boa"
+  ],
+  "list_animal_action": [
+    [
+      "Wild Red-Tailed Boa",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wild Red-Tailed Boa",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wild Red-Tailed Boa",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.719,
+          "end": 0.969,
+          "start_frame": 17,
+          "end_frame": 23
+        },
+        {
+          "action": "Moving",
+          "start": 1.344,
+          "end": 1.594,
+          "start_frame": 32,
+          "end_frame": 38
+        },
+        {
+          "action": "Moving",
+          "start": 1.719,
+          "end": 1.844,
+          "start_frame": 41,
+          "end_frame": 44
+        },
+        {
+          "action": "Moving",
+          "start": 1.969,
+          "end": 2.969,
+          "start_frame": 47,
+          "end_frame": 71
+        },
+        {
+          "action": "Moving",
+          "start": 3.094,
+          "end": 10.094,
+          "start_frame": 74,
+          "end_frame": 242
+        }
+      ]
+    }
+  ]
+}

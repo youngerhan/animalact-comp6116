@@ -1,0 +1,34 @@
+{
+  "video_id": "FIMHCFKM",
+  "video": "FIMHCFKM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Meerkat"
+  ],
+  "list_animal_action": [
+    [
+      "Meerkat",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Meerkat",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Meerkat",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

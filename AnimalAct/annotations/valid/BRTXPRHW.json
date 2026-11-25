@@ -1,0 +1,34 @@
+{
+  "video_id": "BRTXPRHW",
+  "video": "BRTXPRHW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Danaus Plexippus Monarch Butterfly Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Danaus Plexippus Monarch Butterfly Caterpillar",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Danaus Plexippus Monarch Butterfly Caterpillar",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Danaus Plexippus Monarch Butterfly Caterpillar",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.333,
+          "start_frame": 0,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

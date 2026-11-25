@@ -1,0 +1,85 @@
+{
+  "video_id": "ECYUQAMC",
+  "video": "ECYUQAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Playing"
+    ],
+    [
+      "Lion Young",
+      "Showing Affection"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Playing"
+    ],
+    [
+      "Lion Young",
+      "Showing Affection"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Playing",
+          "start": 0.0,
+          "end": 4.292,
+          "start_frame": 0,
+          "end_frame": 103
+        },
+        {
+          "action": "Walking",
+          "start": 2.083,
+          "end": 6.833,
+          "start_frame": 50,
+          "end_frame": 164
+        },
+        {
+          "action": "Showing Affection",
+          "start": 4.283,
+          "end": 5.949,
+          "start_frame": 103,
+          "end_frame": 143
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 2.292,
+          "end": 6.833,
+          "start_frame": 55,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

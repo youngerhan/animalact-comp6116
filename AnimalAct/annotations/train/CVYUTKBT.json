@@ -1,0 +1,49 @@
+{
+  "video_id": "CVYUTKBT",
+  "video": "CVYUTKBT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Shorebird"
+  ],
+  "list_animal_action": [
+    [
+      "Shorebird",
+      "Walking"
+    ],
+    [
+      "Shorebird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Shorebird",
+      "Walking"
+    ],
+    [
+      "Shorebird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Shorebird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 6.0,
+          "start_frame": 0,
+          "end_frame": 144
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 6.009,
+          "start_frame": 0,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

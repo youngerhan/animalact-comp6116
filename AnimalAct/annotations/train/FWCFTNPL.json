@@ -1,0 +1,49 @@
+{
+  "video_id": "FWCFTNPL",
+  "video": "FWCFTNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Manipulating Object"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Manipulating Object"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Manipulating Object",
+          "start": 0.0,
+          "end": 2.917,
+          "start_frame": 0,
+          "end_frame": 70
+        },
+        {
+          "action": "Walking",
+          "start": 0.125,
+          "end": 2.917,
+          "start_frame": 3,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

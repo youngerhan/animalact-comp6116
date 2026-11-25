@@ -1,0 +1,85 @@
+{
+  "video_id": "RYBUAPTK",
+  "video": "RYBUAPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.333,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Chirping",
+          "start": 0.333,
+          "end": 1.083,
+          "start_frame": 8,
+          "end_frame": 26
+        },
+        {
+          "action": "Attending",
+          "start": 1.083,
+          "end": 1.458,
+          "start_frame": 26,
+          "end_frame": 35
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.458,
+          "end": 4.042,
+          "start_frame": 35,
+          "end_frame": 97
+        },
+        {
+          "action": "Chirping",
+          "start": 4.042,
+          "end": 8.042,
+          "start_frame": 97,
+          "end_frame": 193
+        },
+        {
+          "action": "Attending",
+          "start": 8.042,
+          "end": 8.333,
+          "start_frame": 193,
+          "end_frame": 200
+        }
+      ]
+    }
+  ]
+}

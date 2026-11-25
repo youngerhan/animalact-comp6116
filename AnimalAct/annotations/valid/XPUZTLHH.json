@@ -1,0 +1,49 @@
+{
+  "video_id": "XPUZTLHH",
+  "video": "XPUZTLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog Tadpole"
+  ],
+  "list_animal_action": [
+    [
+      "Frog Tadpole",
+      "Keeping still"
+    ],
+    [
+      "Frog Tadpole",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog Tadpole",
+      "Keeping still"
+    ],
+    [
+      "Frog Tadpole",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog Tadpole",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        },
+        {
+          "action": "Moving",
+          "start": 1.128,
+          "end": 1.741,
+          "start_frame": 27,
+          "end_frame": 42
+        }
+      ]
+    }
+  ]
+}

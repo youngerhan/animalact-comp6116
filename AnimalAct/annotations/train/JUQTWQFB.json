@@ -1,0 +1,49 @@
+{
+  "video_id": "JUQTWQFB",
+  "video": "JUQTWQFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "California Newt"
+  ],
+  "list_animal_action": [
+    [
+      "California Newt",
+      "Moving"
+    ],
+    [
+      "California Newt",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "California Newt",
+      "Moving"
+    ],
+    [
+      "California Newt",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "California Newt",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.839,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

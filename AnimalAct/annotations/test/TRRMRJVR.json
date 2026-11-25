@@ -1,0 +1,34 @@
+{
+  "video_id": "TRRMRJVR",
+  "video": "TRRMRJVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Little Crake Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Little Crake Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Little Crake Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Little Crake Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.625,
+          "start_frame": 0,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

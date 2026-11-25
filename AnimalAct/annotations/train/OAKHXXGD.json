@@ -1,0 +1,49 @@
+{
+  "video_id": "OAKHXXGD",
+  "video": "OAKHXXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Kangaroo",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Kangaroo",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.001,
+          "end": 0.672,
+          "start_frame": 0,
+          "end_frame": 16
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.532,
+          "end": 0.937,
+          "start_frame": 13,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "video_id": "FEGAKMRN",
+  "video": "FEGAKMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Shaking Head"
+    ],
+    [
+      "Common Snipe",
+      "Flapping"
+    ],
+    [
+      "Common Snipe",
+      "Doing A Face Dip"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ],
+    [
+      "Mallard Duck",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ],
+    [
+      "Mallard Duck",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Flapping"
+    ],
+    [
+      "Common Snipe",
+      "Attending"
+    ],
+    [
+      "Mallard Duck",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Flapping Tail"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Shaking Head"
+    ],
+    [
+      "Common Snipe",
+      "Flapping"
+    ],
+    [
+      "Common Snipe",
+      "Doing A Face Dip"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ],
+    [
+      "Mallard Duck",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ],
+    [
+      "Mallard Duck",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Flapping"
+    ],
+    [
+      "Common Snipe",
+      "Attending"
+    ],
+    [
+      "Mallard Duck",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Flapping Tail"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        },
+        {
+          "action": "Flapping",
+          "start": 0.875,
+          "end": 1.292,
+          "start_frame": 21,
+          "end_frame": 31
+        },
+        {
+          "action": "Walking",
+          "start": 1.375,
+          "end": 4.125,
+          "start_frame": 33,
+          "end_frame": 99
+        },
+        {
+          "action": "Preening",
+          "start": 1.625,
+          "end": 2.875,
+          "start_frame": 39,
+          "end_frame": 69
+        },
+        {
+          "action": "Attending",
+          "start": 2.708,
+          "end": 4.708,
+          "start_frame": 65,
+          "end_frame": 113
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.75,
+          "end": 3.125,
+          "start_frame": 66,
+          "end_frame": 75
+        },
+        {
+          "action": "Sensing",
+          "start": 3.0,
+          "end": 3.5,
+          "start_frame": 72,
+          "end_frame": 84
+        },
+        {
+          "action": "Preening",
+          "start": 3.375,
+          "end": 5.5,
+          "start_frame": 81,
+          "end_frame": 132
+        },
+        {
+          "action": "Sensing",
+          "start": 5.5,
+          "end": 6.0,
+          "start_frame": 132,
+          "end_frame": 144
+        },
+        {
+          "action": "Attending",
+          "start": 7.208,
+          "end": 8.5,
+          "start_frame": 173,
+          "end_frame": 204
+        },
+        {
+          "action": "Sensing",
+          "start": 7.875,
+          "end": 8.375,
+          "start_frame": 189,
+          "end_frame": 201
+        },
+        {
+          "action": "Flapping Tail",
+          "start": 8.375,
+          "end": 8.875,
+          "start_frame": 201,
+          "end_frame": 213
+        },
+        {
+          "action": "Flapping",
+          "start": 8.375,
+          "end": 8.875,
+          "start_frame": 201,
+          "end_frame": 213
+        },
+        {
+          "action": "Attending",
+          "start": 10.5,
+          "end": 11.458,
+          "start_frame": 252,
+          "end_frame": 275
+        }
+      ]
+    },
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Eating",
+          "start": 0.375,
+          "end": 0.875,
+          "start_frame": 9,
+          "end_frame": 21
+        },
+        {
+          "action": "Walking",
+          "start": 0.875,
+          "end": 1.375,
+          "start_frame": 21,
+          "end_frame": 33
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 1.5,
+          "end": 1.792,
+          "start_frame": 36,
+          "end_frame": 43
+        },
+        {
+          "action": "Eating",
+          "start": 1.5,
+          "end": 2.125,
+          "start_frame": 36,
+          "end_frame": 51
+        },
+        {
+          "action": "Flapping",
+          "start": 1.625,
+          "end": 2.0,
+          "start_frame": 39,
+          "end_frame": 48
+        },
+        {
+          "action": "Preening",
+          "start": 1.788,
+          "end": 9.329,
+          "start_frame": 43,
+          "end_frame": 224
+        },
+        {
+          "action": "Walking",
+          "start": 2.5,
+          "end": 3.5,
+          "start_frame": 60,
+          "end_frame": 84
+        },
+        {
+          "action": "Flapping",
+          "start": 5.125,
+          "end": 5.375,
+          "start_frame": 123,
+          "end_frame": 129
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 6.25,
+          "end": 6.5,
+          "start_frame": 150,
+          "end_frame": 156
+        },
+        {
+          "action": "Sensing",
+          "start": 7.125,
+          "end": 7.625,
+          "start_frame": 171,
+          "end_frame": 183
+        },
+        {
+          "action": "Walking",
+          "start": 7.125,
+          "end": 8.5,
+          "start_frame": 171,
+          "end_frame": 204
+        },
+        {
+          "action": "Flapping",
+          "start": 7.375,
+          "end": 7.625,
+          "start_frame": 177,
+          "end_frame": 183
+        },
+        {
+          "action": "Walking",
+          "start": 8.875,
+          "end": 9.5,
+          "start_frame": 213,
+          "end_frame": 228
+        },
+        {
+          "action": "Attending",
+          "start": 9.5,
+          "end": 11.5,
+          "start_frame": 228,
+          "end_frame": 276
+        },
+        {
+          "action": "Walking",
+          "start": 10.5,
+          "end": 11.5,
+          "start_frame": 252,
+          "end_frame": 276
+        }
+      ]
+    }
+  ]
+}

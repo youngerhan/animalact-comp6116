@@ -1,0 +1,34 @@
+{
+  "video_id": "JURJIUBE",
+  "video": "JURJIUBE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anisolabis Maritima"
+  ],
+  "list_animal_action": [
+    [
+      "Anisolabis Maritima",
+      "Digging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anisolabis Maritima",
+      "Digging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anisolabis Maritima",
+      "actions": [
+        {
+          "action": "Digging",
+          "start": 0.0,
+          "end": 2.385,
+          "start_frame": 0,
+          "end_frame": 57
+        }
+      ]
+    }
+  ]
+}

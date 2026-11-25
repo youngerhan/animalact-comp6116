@@ -1,0 +1,289 @@
+{
+  "threshold": 0.15,
+  "review_split": "valid",
+  "selection": "targeted, not a random prevalence sample",
+  "splits": {
+    "valid": {
+      "TP": 903,
+      "FP": 1000,
+      "FN": 520,
+      "error_clips": 731,
+      "clips": 912,
+      "FP_annotation_context": {
+        "zero_temporal_overlap": 913,
+        "label_absent_from_video_annotations": 641,
+        "label_elsewhere_in_video": 359,
+        "any_temporal_overlap": 87
+      },
+      "cooccurring_FN_FP": [
+        {
+          "missed": "Sensing",
+          "extra": "Eating",
+          "clips": 21
+        },
+        {
+          "missed": "Attending",
+          "extra": "Sensing",
+          "clips": 20
+        },
+        {
+          "missed": "Keeping still",
+          "extra": "Sensing",
+          "clips": 18
+        },
+        {
+          "missed": "Eating",
+          "extra": "Sensing",
+          "clips": 16
+        },
+        {
+          "missed": "Eating",
+          "extra": "Keeping still",
+          "clips": 15
+        },
+        {
+          "missed": "Sensing",
+          "extra": "Keeping still",
+          "clips": 15
+        },
+        {
+          "missed": "Preening",
+          "extra": "Sensing",
+          "clips": 13
+        },
+        {
+          "missed": "Keeping still",
+          "extra": "Moving",
+          "clips": 13
+        },
+        {
+          "missed": "Shaking Head",
+          "extra": "Keeping still",
+          "clips": 13
+        },
+        {
+          "missed": "Eating",
+          "extra": "Attending",
+          "clips": 12
+        },
+        {
+          "missed": "Moving",
+          "extra": "Keeping still",
+          "clips": 11
+        },
+        {
+          "missed": "Preening",
+          "extra": "Keeping still",
+          "clips": 10
+        },
+        {
+          "missed": "Eating",
+          "extra": "Walking",
+          "clips": 9
+        },
+        {
+          "missed": "Shaking Head",
+          "extra": "Walking",
+          "clips": 9
+        },
+        {
+          "missed": "Keeping still",
+          "extra": "Eating",
+          "clips": 8
+        },
+        {
+          "missed": "Attending",
+          "extra": "Walking",
+          "clips": 8
+        },
+        {
+          "missed": "Sensing",
+          "extra": "Walking",
+          "clips": 8
+        },
+        {
+          "missed": "Landing",
+          "extra": "Eating",
+          "clips": 8
+        },
+        {
+          "missed": "Moving",
+          "extra": "Sensing",
+          "clips": 7
+        },
+        {
+          "missed": "Attending",
+          "extra": "Keeping still",
+          "clips": 7
+        }
+      ],
+      "duration_groups": [
+        {
+          "min_exclusive": 0,
+          "max_inclusive": 1,
+          "clips": 295,
+          "recall": 0.5835095137420718
+        },
+        {
+          "min_exclusive": 1,
+          "max_inclusive": 3,
+          "clips": 325,
+          "recall": 0.6821862348178138
+        },
+        {
+          "min_exclusive": 3,
+          "max_inclusive": 10,
+          "clips": 246,
+          "recall": 0.6408268733850129
+        },
+        {
+          "min_exclusive": 10,
+          "max_inclusive": null,
+          "clips": 46,
+          "recall": 0.6086956521739131
+        }
+      ]
+    },
+    "test": {
+      "TP": 1106,
+      "FP": 1083,
+      "FN": 474,
+      "error_clips": 750,
+      "clips": 946,
+      "FP_annotation_context": {
+        "zero_temporal_overlap": 977,
+        "label_absent_from_video_annotations": 670,
+        "label_elsewhere_in_video": 413,
+        "any_temporal_overlap": 106
+      },
+      "cooccurring_FN_FP": [
+        {
+          "missed": "Attending",
+          "extra": "Sensing",
+          "clips": 14
+        },
+        {
+          "missed": "Preening",
+          "extra": "Shaking",
+          "clips": 14
+        },
+        {
+          "missed": "Sensing",
+          "extra": "Attending",
+          "clips": 13
+        },
+        {
+          "missed": "Sensing",
+          "extra": "Keeping still",
+          "clips": 13
+        },
+        {
+          "missed": "Doing A Face Dip",
+          "extra": "Attending",
+          "clips": 12
+        },
+        {
+          "missed": "Preening",
+          "extra": "Attending",
+          "clips": 12
+        },
+        {
+          "missed": "Preening",
+          "extra": "Eating",
+          "clips": 12
+        },
+        {
+          "missed": "Sensing",
+          "extra": "Walking",
+          "clips": 11
+        },
+        {
+          "missed": "Walking",
+          "extra": "Sensing",
+          "clips": 11
+        },
+        {
+          "missed": "Preening",
+          "extra": "Sensing",
+          "clips": 11
+        },
+        {
+          "missed": "Sensing",
+          "extra": "Eating",
+          "clips": 10
+        },
+        {
+          "missed": "Walking",
+          "extra": "Keeping still",
+          "clips": 10
+        },
+        {
+          "missed": "Keeping still",
+          "extra": "Sensing",
+          "clips": 10
+        },
+        {
+          "missed": "Moving",
+          "extra": "Keeping still",
+          "clips": 10
+        },
+        {
+          "missed": "Eating",
+          "extra": "Sensing",
+          "clips": 10
+        },
+        {
+          "missed": "Doing A Face Dip",
+          "extra": "Landing",
+          "clips": 9
+        },
+        {
+          "missed": "Doing A Face Dip",
+          "extra": "Sensing",
+          "clips": 9
+        },
+        {
+          "missed": "Doing A Face Dip",
+          "extra": "Swimming",
+          "clips": 9
+        },
+        {
+          "missed": "Running",
+          "extra": "Walking",
+          "clips": 9
+        },
+        {
+          "missed": "Walking",
+          "extra": "Moving",
+          "clips": 9
+        }
+      ],
+      "duration_groups": [
+        {
+          "min_exclusive": 0,
+          "max_inclusive": 1,
+          "clips": 328,
+          "recall": 0.6462093862815884
+        },
+        {
+          "min_exclusive": 1,
+          "max_inclusive": 3,
+          "clips": 314,
+          "recall": 0.7400379506641366
+        },
+        {
+          "min_exclusive": 3,
+          "max_inclusive": 10,
+          "clips": 263,
+          "recall": 0.7294117647058823
+        },
+        {
+          "min_exclusive": 10,
+          "max_inclusive": null,
+          "clips": 41,
+          "recall": 0.6486486486486487
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "BHSJGBQT",
+  "video": "BHSJGBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Plantain Squirrel"
+  ],
+  "list_animal_action": [
+    [
+      "Plantain Squirrel",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Plantain Squirrel",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Plantain Squirrel",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.003,
+          "end": 1.412,
+          "start_frame": 0,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

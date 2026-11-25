@@ -1,0 +1,106 @@
+{
+  "video_id": "TCRXXGCS",
+  "video": "TCRXXGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Walking",
+          "start": 0.708,
+          "end": 3.75,
+          "start_frame": 17,
+          "end_frame": 90
+        },
+        {
+          "action": "Attending",
+          "start": 3.417,
+          "end": 4.625,
+          "start_frame": 82,
+          "end_frame": 111
+        },
+        {
+          "action": "Sensing",
+          "start": 3.5,
+          "end": 4.625,
+          "start_frame": 84,
+          "end_frame": 111
+        },
+        {
+          "action": "Sitting",
+          "start": 4.042,
+          "end": 4.625,
+          "start_frame": 97,
+          "end_frame": 111
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 4.583,
+          "end": 4.625,
+          "start_frame": 110,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

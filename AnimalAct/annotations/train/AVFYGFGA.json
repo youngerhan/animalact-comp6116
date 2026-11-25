@@ -1,0 +1,49 @@
+{
+  "video_id": "AVFYGFGA",
+  "video": "AVFYGFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wildebeest"
+  ],
+  "list_animal_action": [
+    [
+      "Wildebeest",
+      "Eating"
+    ],
+    [
+      "Wildebeest",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wildebeest",
+      "Eating"
+    ],
+    [
+      "Wildebeest",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wildebeest",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.755,
+          "start_frame": 0,
+          "end_frame": 138
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 5.755,
+          "start_frame": 0,
+          "end_frame": 138
+        }
+      ]
+    }
+  ]
+}

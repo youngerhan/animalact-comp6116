@@ -1,0 +1,49 @@
+{
+  "video_id": "FZWVMYMI",
+  "video": "FZWVMYMI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Attending"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Attending"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Washing",
+          "start": 0.0,
+          "end": 2.469,
+          "start_frame": 0,
+          "end_frame": 59
+        },
+        {
+          "action": "Attending",
+          "start": 1.126,
+          "end": 2.625,
+          "start_frame": 27,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

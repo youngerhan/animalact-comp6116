@@ -1,0 +1,34 @@
+{
+  "video_id": "VXTCCQCN",
+  "video": "VXTCCQCN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ibex"
+  ],
+  "list_animal_action": [
+    [
+      "Ibex",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ibex",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ibex",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

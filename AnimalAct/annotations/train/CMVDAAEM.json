@@ -1,0 +1,41 @@
+{
+  "video_id": "CMVDAAEM",
+  "video": "CMVDAAEM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lanius Excubitor"
+  ],
+  "list_animal_action": [
+    [
+      "Lanius Excubitor",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lanius Excubitor",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lanius Excubitor",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.069,
+          "end": 0.723,
+          "start_frame": 2,
+          "end_frame": 17
+        },
+        {
+          "action": "Eating",
+          "start": 1.391,
+          "end": 2.034,
+          "start_frame": 33,
+          "end_frame": 49
+        }
+      ]
+    }
+  ]
+}

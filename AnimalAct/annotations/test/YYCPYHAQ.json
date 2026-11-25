@@ -1,0 +1,34 @@
+{
+  "video_id": "YYCPYHAQ",
+  "video": "YYCPYHAQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montagu'S Harrier Young"
+  ],
+  "list_animal_action": [
+    [
+      "Montagu'S Harrier Young",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montagu'S Harrier Young",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montagu'S Harrier Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.001,
+          "end": 0.917,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

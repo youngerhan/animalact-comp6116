@@ -1,0 +1,49 @@
+{
+  "video_id": "ZHYWYXGD",
+  "video": "ZHYWYXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.008,
+          "end": 1.972,
+          "start_frame": 0,
+          "end_frame": 47
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 1.967,
+          "end": 3.501,
+          "start_frame": 47,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

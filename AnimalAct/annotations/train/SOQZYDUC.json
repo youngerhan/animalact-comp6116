@@ -1,0 +1,55 @@
+{
+  "video_id": "SOQZYDUC",
+  "video": "SOQZYDUC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Promecognathus Crassus Beetle",
+    "Xystocheir Dissecta Millipede"
+  ],
+  "list_animal_action": [
+    [
+      "Promecognathus Crassus Beetle",
+      "Moving"
+    ],
+    [
+      "Xystocheir Dissecta Millipede",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Promecognathus Crassus Beetle",
+      "Moving"
+    ],
+    [
+      "Xystocheir Dissecta Millipede",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Promecognathus Crassus Beetle",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.397,
+          "end": 2.333,
+          "start_frame": 34,
+          "end_frame": 56
+        }
+      ]
+    },
+    {
+      "animal": "Xystocheir Dissecta Millipede",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "FTTWKATH",
+  "video": "FTTWKATH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Graphocephala Atropunctata Sharpshooter"
+  ],
+  "list_animal_action": [
+    [
+      "Graphocephala Atropunctata Sharpshooter",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Graphocephala Atropunctata Sharpshooter",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Graphocephala Atropunctata Sharpshooter",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 1.399,
+          "end": 3.005,
+          "start_frame": 34,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

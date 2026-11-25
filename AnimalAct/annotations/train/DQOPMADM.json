@@ -1,0 +1,49 @@
+{
+  "video_id": "DQOPMADM",
+  "video": "DQOPMADM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aesculapian Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aesculapian Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 19.844,
+          "start_frame": 0,
+          "end_frame": 476
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.094,
+          "end": 19.344,
+          "start_frame": 2,
+          "end_frame": 464
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "VORGYMYV",
+  "video": "VORGYMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gorilla"
+  ],
+  "list_animal_action": [
+    [
+      "Gorilla",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gorilla",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gorilla",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.225,
+          "start_frame": 0,
+          "end_frame": 125
+        }
+      ]
+    }
+  ]
+}

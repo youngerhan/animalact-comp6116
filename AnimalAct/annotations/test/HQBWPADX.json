@@ -1,0 +1,49 @@
+{
+  "video_id": "HQBWPADX",
+  "video": "HQBWPADX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White-Backed Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White-Backed Woodpecker",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.0,
+          "end": 0.27,
+          "start_frame": 0,
+          "end_frame": 6
+        },
+        {
+          "action": "Sensing",
+          "start": 0.267,
+          "end": 3.344,
+          "start_frame": 6,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

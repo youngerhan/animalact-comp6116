@@ -1,0 +1,34 @@
+{
+  "video_id": "UVESAPAB",
+  "video": "UVESAPAB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dice Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dice Snake",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dice Snake",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dice Snake",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 1.03,
+          "start_frame": 0,
+          "end_frame": 25
+        }
+      ]
+    }
+  ]
+}

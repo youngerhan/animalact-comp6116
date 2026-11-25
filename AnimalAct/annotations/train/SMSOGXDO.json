@@ -1,0 +1,70 @@
+{
+  "video_id": "SMSOGXDO",
+  "video": "SMSOGXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rhinoceros",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Rhinoceros",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Rhinoceros",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rhinoceros",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Rhinoceros",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rhinoceros",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.363,
+          "start_frame": 0,
+          "end_frame": 9
+        },
+        {
+          "action": "Walking",
+          "start": 0.368,
+          "end": 1.354,
+          "start_frame": 9,
+          "end_frame": 32
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Fleeing",
+          "start": 0.694,
+          "end": 1.625,
+          "start_frame": 17,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "KVDQHFAU",
+  "video": "KVDQHFAU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cockroach",
+    "Jeweled Cockroach Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Cockroach",
+      "Grooming"
+    ],
+    [
+      "Jeweled Cockroach Wasp",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cockroach",
+      "Grooming"
+    ],
+    [
+      "Jeweled Cockroach Wasp",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cockroach",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 0.0,
+          "end": 9.0,
+          "start_frame": 0,
+          "end_frame": 216
+        }
+      ]
+    },
+    {
+      "animal": "Jeweled Cockroach Wasp",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 9.0,
+          "start_frame": 0,
+          "end_frame": 216
+        }
+      ]
+    }
+  ]
+}

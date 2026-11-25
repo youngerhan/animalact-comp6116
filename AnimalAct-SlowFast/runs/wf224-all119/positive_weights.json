@@ -1,0 +1,716 @@
+[
+  {
+    "global_id": 0,
+    "name": "Abseiling",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 1,
+    "name": "Attacking",
+    "positive_weight": 6.0,
+    "train_positives": 54
+  },
+  {
+    "global_id": 2,
+    "name": "Attending",
+    "positive_weight": 2.5306299710377385,
+    "train_positives": 636
+  },
+  {
+    "global_id": 3,
+    "name": "Barking",
+    "positive_weight": 6.0,
+    "train_positives": 46
+  },
+  {
+    "global_id": 4,
+    "name": "Being Carried",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 5,
+    "name": "Being Carried In Mouth",
+    "positive_weight": 6.0,
+    "train_positives": 5
+  },
+  {
+    "global_id": 6,
+    "name": "Being Dragged",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 7,
+    "name": "Being Eaten",
+    "positive_weight": 6.0,
+    "train_positives": 24
+  },
+  {
+    "global_id": 8,
+    "name": "Biting",
+    "positive_weight": 6.0,
+    "train_positives": 76
+  },
+  {
+    "global_id": 9,
+    "name": "Building nest",
+    "positive_weight": 6.0,
+    "train_positives": 11
+  },
+  {
+    "global_id": 10,
+    "name": "Calling",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 11,
+    "name": "Camouflaging",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 12,
+    "name": "Carrying",
+    "positive_weight": 6.0,
+    "train_positives": 5
+  },
+  {
+    "global_id": 13,
+    "name": "Carrying In Mouth",
+    "positive_weight": 6.0,
+    "train_positives": 32
+  },
+  {
+    "global_id": 14,
+    "name": "Chasing",
+    "positive_weight": 6.0,
+    "train_positives": 6
+  },
+  {
+    "global_id": 15,
+    "name": "Chirping",
+    "positive_weight": 2.8506085301647546,
+    "train_positives": 516
+  },
+  {
+    "global_id": 16,
+    "name": "Climbing",
+    "positive_weight": 6.0,
+    "train_positives": 30
+  },
+  {
+    "global_id": 17,
+    "name": "Coiling",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 18,
+    "name": "Competing For Dominance",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 19,
+    "name": "Dancing",
+    "positive_weight": 6.0,
+    "train_positives": 7
+  },
+  {
+    "global_id": 20,
+    "name": "Dancing On Water",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 21,
+    "name": "Dead",
+    "positive_weight": 6.0,
+    "train_positives": 7
+  },
+  {
+    "global_id": 22,
+    "name": "Defecating",
+    "positive_weight": 6.0,
+    "train_positives": 3
+  },
+  {
+    "global_id": 23,
+    "name": "Defensive Rearing",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 24,
+    "name": "Detaching As A Parasite",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 25,
+    "name": "Digging",
+    "positive_weight": 6.0,
+    "train_positives": 14
+  },
+  {
+    "global_id": 26,
+    "name": "Displaying Defensive Pose",
+    "positive_weight": 6.0,
+    "train_positives": 76
+  },
+  {
+    "global_id": 27,
+    "name": "Disturbing Another Animal",
+    "positive_weight": 6.0,
+    "train_positives": 101
+  },
+  {
+    "global_id": 28,
+    "name": "Diving",
+    "positive_weight": 6.0,
+    "train_positives": 9
+  },
+  {
+    "global_id": 29,
+    "name": "Doing A Back Kick",
+    "positive_weight": 6.0,
+    "train_positives": 3
+  },
+  {
+    "global_id": 30,
+    "name": "Doing A Backward Tilt",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 31,
+    "name": "Doing A Chin Dip",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 32,
+    "name": "Doing A Face Dip",
+    "positive_weight": 6.0,
+    "train_positives": 62
+  },
+  {
+    "global_id": 33,
+    "name": "Doing A Neck Raise",
+    "positive_weight": 6.0,
+    "train_positives": 14
+  },
+  {
+    "global_id": 34,
+    "name": "Doing A Side Tilt",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 35,
+    "name": "Doing somersault",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 36,
+    "name": "Drifting",
+    "positive_weight": 6.0,
+    "train_positives": 8
+  },
+  {
+    "global_id": 37,
+    "name": "Drinking",
+    "positive_weight": 5.231392728472799,
+    "train_positives": 166
+  },
+  {
+    "global_id": 38,
+    "name": "Dying",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 39,
+    "name": "Eating",
+    "positive_weight": 3.255537154984978,
+    "train_positives": 406
+  },
+  {
+    "global_id": 40,
+    "name": "Entering its nest",
+    "positive_weight": 6.0,
+    "train_positives": 6
+  },
+  {
+    "global_id": 41,
+    "name": "Escaping",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 42,
+    "name": "Exiting Cocoon",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 43,
+    "name": "Exiting Nest",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 44,
+    "name": "Exploring",
+    "positive_weight": 6.0,
+    "train_positives": 63
+  },
+  {
+    "global_id": 45,
+    "name": "Falling",
+    "positive_weight": 6.0,
+    "train_positives": 16
+  },
+  {
+    "global_id": 46,
+    "name": "Fighting",
+    "positive_weight": 6.0,
+    "train_positives": 92
+  },
+  {
+    "global_id": 47,
+    "name": "Flapping",
+    "positive_weight": 5.755274833211452,
+    "train_positives": 138
+  },
+  {
+    "global_id": 48,
+    "name": "Flapping Tail",
+    "positive_weight": 6.0,
+    "train_positives": 24
+  },
+  {
+    "global_id": 49,
+    "name": "Fleeing",
+    "positive_weight": 6.0,
+    "train_positives": 16
+  },
+  {
+    "global_id": 50,
+    "name": "Flying",
+    "positive_weight": 5.151505769763481,
+    "train_positives": 171
+  },
+  {
+    "global_id": 51,
+    "name": "Giving Birth",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 52,
+    "name": "Gliding",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 53,
+    "name": "Grooming",
+    "positive_weight": 6.0,
+    "train_positives": 30
+  },
+  {
+    "global_id": 54,
+    "name": "Hanging",
+    "positive_weight": 6.0,
+    "train_positives": 6
+  },
+  {
+    "global_id": 55,
+    "name": "Having A Flehmen Response",
+    "positive_weight": 6.0,
+    "train_positives": 3
+  },
+  {
+    "global_id": 56,
+    "name": "Hissing",
+    "positive_weight": 6.0,
+    "train_positives": 9
+  },
+  {
+    "global_id": 57,
+    "name": "Holding Hands",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 58,
+    "name": "Hopping",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 59,
+    "name": "Hugging",
+    "positive_weight": 6.0,
+    "train_positives": 35
+  },
+  {
+    "global_id": 60,
+    "name": "Immobilized",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 61,
+    "name": "Jumping",
+    "positive_weight": 6.0,
+    "train_positives": 100
+  },
+  {
+    "global_id": 62,
+    "name": "Keeping still",
+    "positive_weight": 1.746141797789619,
+    "train_positives": 1163
+  },
+  {
+    "global_id": 63,
+    "name": "Landing",
+    "positive_weight": 6.0,
+    "train_positives": 85
+  },
+  {
+    "global_id": 64,
+    "name": "Laying Eggs",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 65,
+    "name": "Leaning",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 66,
+    "name": "Licking",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 67,
+    "name": "Lying Down",
+    "positive_weight": 6.0,
+    "train_positives": 10
+  },
+  {
+    "global_id": 68,
+    "name": "Lying On Top",
+    "positive_weight": 6.0,
+    "train_positives": 14
+  },
+  {
+    "global_id": 69,
+    "name": "Manipulating Object",
+    "positive_weight": 6.0,
+    "train_positives": 13
+  },
+  {
+    "global_id": 70,
+    "name": "Moving",
+    "positive_weight": 3.4757093600523556,
+    "train_positives": 360
+  },
+  {
+    "global_id": 71,
+    "name": "Pecking",
+    "positive_weight": 6.0,
+    "train_positives": 15
+  },
+  {
+    "global_id": 72,
+    "name": "Performing Sexual Display",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 73,
+    "name": "Performing copulatory mounting",
+    "positive_weight": 6.0,
+    "train_positives": 7
+  },
+  {
+    "global_id": 74,
+    "name": "Playing",
+    "positive_weight": 6.0,
+    "train_positives": 16
+  },
+  {
+    "global_id": 75,
+    "name": "Playing Dead",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 76,
+    "name": "Preening",
+    "positive_weight": 4.6635600425566945,
+    "train_positives": 207
+  },
+  {
+    "global_id": 77,
+    "name": "Preying",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 78,
+    "name": "Puffing its throat",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 79,
+    "name": "Rattling",
+    "positive_weight": 6.0,
+    "train_positives": 3
+  },
+  {
+    "global_id": 80,
+    "name": "Resting",
+    "positive_weight": 6.0,
+    "train_positives": 5
+  },
+  {
+    "global_id": 81,
+    "name": "Retaliating",
+    "positive_weight": 6.0,
+    "train_positives": 12
+  },
+  {
+    "global_id": 82,
+    "name": "Retreating",
+    "positive_weight": 6.0,
+    "train_positives": 20
+  },
+  {
+    "global_id": 83,
+    "name": "Rolling",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 84,
+    "name": "Rubbing its head",
+    "positive_weight": 6.0,
+    "train_positives": 9
+  },
+  {
+    "global_id": 85,
+    "name": "Running",
+    "positive_weight": 6.0,
+    "train_positives": 86
+  },
+  {
+    "global_id": 86,
+    "name": "Running On Water",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 87,
+    "name": "Sensing",
+    "positive_weight": 1.694854829988941,
+    "train_positives": 1216
+  },
+  {
+    "global_id": 88,
+    "name": "Shaking",
+    "positive_weight": 6.0,
+    "train_positives": 47
+  },
+  {
+    "global_id": 89,
+    "name": "Shaking Head",
+    "positive_weight": 5.494126906395242,
+    "train_positives": 151
+  },
+  {
+    "global_id": 90,
+    "name": "Sharing Food",
+    "positive_weight": 6.0,
+    "train_positives": 30
+  },
+  {
+    "global_id": 91,
+    "name": "Showing Affection",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 92,
+    "name": "Sinking",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 93,
+    "name": "Sitting",
+    "positive_weight": 6.0,
+    "train_positives": 25
+  },
+  {
+    "global_id": 94,
+    "name": "Sleeping",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 95,
+    "name": "Sleeping in its nest",
+    "positive_weight": 6.0,
+    "train_positives": 4
+  },
+  {
+    "global_id": 96,
+    "name": "Spitting Venom",
+    "positive_weight": 6.0,
+    "train_positives": 33
+  },
+  {
+    "global_id": 97,
+    "name": "Spreading Wings",
+    "positive_weight": 6.0,
+    "train_positives": 37
+  },
+  {
+    "global_id": 98,
+    "name": "Squatting",
+    "positive_weight": 6.0,
+    "train_positives": 3
+  },
+  {
+    "global_id": 99,
+    "name": "Standing",
+    "positive_weight": 6.0,
+    "train_positives": 33
+  },
+  {
+    "global_id": 100,
+    "name": "Standing in alert",
+    "positive_weight": 6.0,
+    "train_positives": 5
+  },
+  {
+    "global_id": 101,
+    "name": "Startled",
+    "positive_weight": 6.0,
+    "train_positives": 27
+  },
+  {
+    "global_id": 102,
+    "name": "Stinging",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 103,
+    "name": "Struggling",
+    "positive_weight": 6.0,
+    "train_positives": 14
+  },
+  {
+    "global_id": 104,
+    "name": "Surfacing",
+    "positive_weight": 6.0,
+    "train_positives": 4
+  },
+  {
+    "global_id": 105,
+    "name": "Swaying",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 106,
+    "name": "Swimming",
+    "positive_weight": 6.0,
+    "train_positives": 80
+  },
+  {
+    "global_id": 107,
+    "name": "Swimming In Circles",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 108,
+    "name": "Tail Swishing",
+    "positive_weight": 6.0,
+    "train_positives": 3
+  },
+  {
+    "global_id": 109,
+    "name": "Trapped",
+    "positive_weight": 6.0,
+    "train_positives": 2
+  },
+  {
+    "global_id": 110,
+    "name": "Turning Around",
+    "positive_weight": 6.0,
+    "train_positives": 46
+  },
+  {
+    "global_id": 111,
+    "name": "Undergoing Chrysalis",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 112,
+    "name": "Unmounting",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 113,
+    "name": "Urinating",
+    "positive_weight": 6.0,
+    "train_positives": 3
+  },
+  {
+    "global_id": 114,
+    "name": "Walking",
+    "positive_weight": 2.4703368398993897,
+    "train_positives": 663
+  },
+  {
+    "global_id": 115,
+    "name": "Washing",
+    "positive_weight": 6.0,
+    "train_positives": 73
+  },
+  {
+    "global_id": 116,
+    "name": "Wrapping Itself Around Prey",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 117,
+    "name": "Wrapping Prey",
+    "positive_weight": 6.0,
+    "train_positives": 1
+  },
+  {
+    "global_id": 118,
+    "name": "Yawning",
+    "positive_weight": 6.0,
+    "train_positives": 8
+  }
+]

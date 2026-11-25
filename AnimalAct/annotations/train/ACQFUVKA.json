@@ -1,0 +1,78 @@
+{
+  "video_id": "ACQFUVKA",
+  "video": "ACQFUVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Attending"
+    ],
+    [
+      "Common Quail",
+      "Running"
+    ],
+    [
+      "Common Quail",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Attending"
+    ],
+    [
+      "Common Quail",
+      "Running"
+    ],
+    [
+      "Common Quail",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.206,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Walking",
+          "start": 0.221,
+          "end": 0.945,
+          "start_frame": 5,
+          "end_frame": 23
+        },
+        {
+          "action": "Attending",
+          "start": 0.914,
+          "end": 1.762,
+          "start_frame": 22,
+          "end_frame": 42
+        },
+        {
+          "action": "Running",
+          "start": 1.854,
+          "end": 4.214,
+          "start_frame": 44,
+          "end_frame": 101
+        },
+        {
+          "action": "Attending",
+          "start": 4.205,
+          "end": 5.632,
+          "start_frame": 101,
+          "end_frame": 135
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "QDOYQSOB",
+  "video": "QDOYQSOB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nose-Horned Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Nose-Horned Viper",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nose-Horned Viper",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nose-Horned Viper",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.041,
+          "end": 9.352,
+          "start_frame": 1,
+          "end_frame": 224
+        }
+      ]
+    }
+  ]
+}

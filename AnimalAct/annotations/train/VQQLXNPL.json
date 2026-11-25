@@ -1,0 +1,55 @@
+{
+  "video_id": "VQQLXNPL",
+  "video": "VQQLXNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Backed Shrike Bird Young",
+    "Red-Backed Shrike Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Keeping still"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Keeping still"
+    ],
+    [
+      "Red-Backed Shrike Bird",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Backed Shrike Bird Young",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    },
+    {
+      "animal": "Red-Backed Shrike Bird",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        }
+      ]
+    }
+  ]
+}

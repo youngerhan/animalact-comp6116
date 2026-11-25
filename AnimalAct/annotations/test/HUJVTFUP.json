@@ -1,0 +1,49 @@
+{
+  "video_id": "HUJVTFUP",
+  "video": "HUJVTFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Spitting Venom",
+          "start": 0.223,
+          "end": 0.661,
+          "start_frame": 5,
+          "end_frame": 16
+        },
+        {
+          "action": "Sensing",
+          "start": 0.873,
+          "end": 3.09,
+          "start_frame": 21,
+          "end_frame": 74
+        }
+      ]
+    }
+  ]
+}

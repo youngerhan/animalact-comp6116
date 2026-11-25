@@ -1,0 +1,55 @@
+{
+  "video_id": "QOZTQGCS",
+  "video": "QOZTQGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dog",
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Dog",
+      "Startled"
+    ],
+    [
+      "Leopard",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dog",
+      "Startled"
+    ],
+    [
+      "Leopard",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dog",
+      "actions": [
+        {
+          "action": "Startled",
+          "start": 0.167,
+          "end": 1.333,
+          "start_frame": 4,
+          "end_frame": 32
+        }
+      ]
+    },
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.0,
+          "end": 1.067,
+          "start_frame": 0,
+          "end_frame": 26
+        }
+      ]
+    }
+  ]
+}

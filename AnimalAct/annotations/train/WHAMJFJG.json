@@ -1,0 +1,49 @@
+{
+  "video_id": "WHAMJFJG",
+  "video": "WHAMJFJG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sumatran Serow"
+  ],
+  "list_animal_action": [
+    [
+      "Sumatran Serow",
+      "Sensing"
+    ],
+    [
+      "Sumatran Serow",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sumatran Serow",
+      "Sensing"
+    ],
+    [
+      "Sumatran Serow",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sumatran Serow",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.958,
+          "end": 5.292,
+          "start_frame": 23,
+          "end_frame": 127
+        },
+        {
+          "action": "Walking",
+          "start": 5.333,
+          "end": 11.125,
+          "start_frame": 128,
+          "end_frame": 267
+        }
+      ]
+    }
+  ]
+}

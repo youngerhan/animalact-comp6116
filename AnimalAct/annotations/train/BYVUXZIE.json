@@ -1,0 +1,56 @@
+{
+  "video_id": "BYVUXZIE",
+  "video": "BYVUXZIE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.65,
+          "end": 1.85,
+          "start_frame": 16,
+          "end_frame": 44
+        },
+        {
+          "action": "Moving",
+          "start": 2.041,
+          "end": 2.5,
+          "start_frame": 49,
+          "end_frame": 60
+        },
+        {
+          "action": "Eating",
+          "start": 2.735,
+          "end": 3.003,
+          "start_frame": 66,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

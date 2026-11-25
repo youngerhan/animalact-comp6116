@@ -1,0 +1,137 @@
+{
+  "video_id": "OOKBUHAQ",
+  "video": "OOKBUHAQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montagu'S Harrier",
+    "Montagu'S Harrier Young"
+  ],
+  "list_animal_action": [
+    [
+      "Montagu'S Harrier",
+      "Landing"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Sensing"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Attending"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Keeping still"
+    ],
+    [
+      "Montagu'S Harrier",
+      "Carrying In Mouth"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Spreading Wings"
+    ],
+    [
+      "Montagu'S Harrier",
+      "Spreading Wings"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montagu'S Harrier",
+      "Landing"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Sensing"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Attending"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Keeping still"
+    ],
+    [
+      "Montagu'S Harrier",
+      "Carrying In Mouth"
+    ],
+    [
+      "Montagu'S Harrier Young",
+      "Spreading Wings"
+    ],
+    [
+      "Montagu'S Harrier",
+      "Spreading Wings"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montagu'S Harrier",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 4.094,
+          "end": 5.469,
+          "start_frame": 98,
+          "end_frame": 131
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 4.344,
+          "end": 4.969,
+          "start_frame": 104,
+          "end_frame": 119
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 4.344,
+          "end": 4.969,
+          "start_frame": 104,
+          "end_frame": 119
+        }
+      ]
+    },
+    {
+      "animal": "Montagu'S Harrier Young",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.594,
+          "start_frame": 0,
+          "end_frame": 86
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 4.344,
+          "end": 4.78,
+          "start_frame": 104,
+          "end_frame": 115
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.344,
+          "end": 7.594,
+          "start_frame": 104,
+          "end_frame": 182
+        },
+        {
+          "action": "Attending",
+          "start": 4.344,
+          "end": 7.844,
+          "start_frame": 104,
+          "end_frame": 188
+        },
+        {
+          "action": "Sensing",
+          "start": 4.469,
+          "end": 7.594,
+          "start_frame": 107,
+          "end_frame": 182
+        }
+      ]
+    }
+  ]
+}

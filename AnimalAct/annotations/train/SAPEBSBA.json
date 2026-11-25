@@ -1,0 +1,41 @@
+{
+  "video_id": "SAPEBSBA",
+  "video": "SAPEBSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.016,
+          "end": 0.198,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Eating",
+          "start": 0.713,
+          "end": 1.211,
+          "start_frame": 17,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

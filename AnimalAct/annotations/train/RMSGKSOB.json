@@ -1,0 +1,49 @@
+{
+  "video_id": "RMSGKSOB",
+  "video": "RMSGKSOB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montpellier Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Montpellier Snake",
+      "Moving"
+    ],
+    [
+      "Montpellier Snake",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montpellier Snake",
+      "Moving"
+    ],
+    [
+      "Montpellier Snake",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montpellier Snake",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.534,
+          "end": 4.571,
+          "start_frame": 13,
+          "end_frame": 110
+        },
+        {
+          "action": "Moving",
+          "start": 4.584,
+          "end": 5.708,
+          "start_frame": 110,
+          "end_frame": 137
+        }
+      ]
+    }
+  ]
+}

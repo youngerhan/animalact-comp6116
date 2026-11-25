@@ -1,0 +1,63 @@
+{
+  "video_id": "IQMLNLBD",
+  "video": "IQMLNLBD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Botaurus Stellaris Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Botaurus Stellaris Bird",
+      "Keeping still"
+    ],
+    [
+      "Botaurus Stellaris Bird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Botaurus Stellaris Bird",
+      "Keeping still"
+    ],
+    [
+      "Botaurus Stellaris Bird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Botaurus Stellaris Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.314,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Attending",
+          "start": 0.7,
+          "end": 4.721,
+          "start_frame": 17,
+          "end_frame": 113
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.704,
+          "end": 4.718,
+          "start_frame": 17,
+          "end_frame": 113
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.191,
+          "end": 5.625,
+          "start_frame": 125,
+          "end_frame": 135
+        }
+      ]
+    }
+  ]
+}

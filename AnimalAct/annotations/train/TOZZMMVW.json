@@ -1,0 +1,107 @@
+{
+  "video_id": "TOZZMMVW",
+  "video": "TOZZMMVW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eurasian Wren Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Eurasian Wren Bird",
+      "Urinating"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Keeping still"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Chirping"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eurasian Wren Bird",
+      "Urinating"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Keeping still"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Chirping"
+    ],
+    [
+      "Eurasian Wren Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eurasian Wren Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 4.365,
+          "start_frame": 0,
+          "end_frame": 105
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.365,
+          "start_frame": 0,
+          "end_frame": 105
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.479,
+          "end": 4.76,
+          "start_frame": 107,
+          "end_frame": 114
+        },
+        {
+          "action": "Chirping",
+          "start": 4.989,
+          "end": 9.25,
+          "start_frame": 120,
+          "end_frame": 222
+        },
+        {
+          "action": "Sensing",
+          "start": 6.246,
+          "end": 9.104,
+          "start_frame": 150,
+          "end_frame": 218
+        },
+        {
+          "action": "Keeping still",
+          "start": 9.79,
+          "end": 11.921,
+          "start_frame": 235,
+          "end_frame": 286
+        },
+        {
+          "action": "Sensing",
+          "start": 11.993,
+          "end": 18.125,
+          "start_frame": 288,
+          "end_frame": 435
+        },
+        {
+          "action": "Urinating",
+          "start": 16.504,
+          "end": 16.826,
+          "start_frame": 396,
+          "end_frame": 404
+        }
+      ]
+    }
+  ]
+}

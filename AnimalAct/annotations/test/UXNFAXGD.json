@@ -1,0 +1,34 @@
+{
+  "video_id": "UXNFAXGD",
+  "video": "UXNFAXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dog"
+  ],
+  "list_animal_action": [
+    [
+      "Dog",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dog",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dog",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.708,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

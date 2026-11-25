@@ -1,0 +1,167 @@
+{
+  "video_id": "MPRQAPLS",
+  "video": "MPRQAPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret",
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Biting"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Grey Heron",
+      "Eating"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Eating"
+    ],
+    [
+      "Grey Heron",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Biting"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Grey Heron",
+      "Eating"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Eating"
+    ],
+    [
+      "Grey Heron",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.75,
+          "start_frame": 0,
+          "end_frame": 66
+        },
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 4.25,
+          "start_frame": 0,
+          "end_frame": 102
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.5,
+          "start_frame": 0,
+          "end_frame": 156
+        },
+        {
+          "action": "Preening",
+          "start": 0.875,
+          "end": 6.5,
+          "start_frame": 21,
+          "end_frame": 156
+        }
+      ]
+    },
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.25,
+          "start_frame": 0,
+          "end_frame": 6
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.5,
+          "start_frame": 0,
+          "end_frame": 156
+        },
+        {
+          "action": "Preening",
+          "start": 1.375,
+          "end": 2.625,
+          "start_frame": 33,
+          "end_frame": 63
+        },
+        {
+          "action": "Attending",
+          "start": 3.0,
+          "end": 6.5,
+          "start_frame": 72,
+          "end_frame": 156
+        },
+        {
+          "action": "Eating",
+          "start": 6.13,
+          "end": 6.505,
+          "start_frame": 147,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

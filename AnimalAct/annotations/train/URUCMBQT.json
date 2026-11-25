@@ -1,0 +1,34 @@
+{
+  "video_id": "URUCMBQT",
+  "video": "URUCMBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Shield Bug"
+  ],
+  "list_animal_action": [
+    [
+      "Shield Bug",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Shield Bug",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Shield Bug",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.001,
+          "end": 1.125,
+          "start_frame": 0,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

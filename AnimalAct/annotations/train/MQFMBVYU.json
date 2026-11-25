@@ -1,0 +1,34 @@
+{
+  "video_id": "MQFMBVYU",
+  "video": "MQFMBVYU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.407,
+          "start_frame": 0,
+          "end_frame": 106
+        }
+      ]
+    }
+  ]
+}

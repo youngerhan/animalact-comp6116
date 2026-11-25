@@ -1,0 +1,77 @@
+{
+  "video_id": "BSCIGUFF",
+  "video": "BSCIGUFF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Buzzard"
+  ],
+  "list_animal_action": [
+    [
+      "Common Buzzard",
+      "Sensing"
+    ],
+    [
+      "Common Buzzard",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Buzzard",
+      "Sensing"
+    ],
+    [
+      "Common Buzzard",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Buzzard",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.293,
+          "end": 2.293,
+          "start_frame": 7,
+          "end_frame": 55
+        },
+        {
+          "action": "Sensing",
+          "start": 0.799,
+          "end": 1.566,
+          "start_frame": 19,
+          "end_frame": 38
+        },
+        {
+          "action": "Sensing",
+          "start": 1.803,
+          "end": 2.315,
+          "start_frame": 43,
+          "end_frame": 56
+        },
+        {
+          "action": "Eating",
+          "start": 2.298,
+          "end": 2.929,
+          "start_frame": 55,
+          "end_frame": 70
+        },
+        {
+          "action": "Sensing",
+          "start": 2.915,
+          "end": 4.487,
+          "start_frame": 70,
+          "end_frame": 108
+        },
+        {
+          "action": "Eating",
+          "start": 3.427,
+          "end": 4.52,
+          "start_frame": 82,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

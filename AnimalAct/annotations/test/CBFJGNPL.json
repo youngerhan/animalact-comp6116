@@ -1,0 +1,49 @@
+{
+  "video_id": "CBFJGNPL",
+  "video": "CBFJGNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Langur",
+      "Manipulating Object"
+    ],
+    [
+      "Grey Langur",
+      "Carrying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Langur",
+      "Manipulating Object"
+    ],
+    [
+      "Grey Langur",
+      "Carrying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Langur",
+      "actions": [
+        {
+          "action": "Manipulating Object",
+          "start": 0.0,
+          "end": 2.458,
+          "start_frame": 0,
+          "end_frame": 59
+        },
+        {
+          "action": "Carrying",
+          "start": 0.333,
+          "end": 2.625,
+          "start_frame": 8,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

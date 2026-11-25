@@ -1,0 +1,34 @@
+{
+  "video_id": "KWWKFSOM",
+  "video": "KWWKFSOM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Gliding"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Gliding"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Gliding",
+          "start": 0.0,
+          "end": 3.005,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

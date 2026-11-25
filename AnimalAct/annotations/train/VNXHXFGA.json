@@ -1,0 +1,70 @@
+{
+  "video_id": "VNXHXFGA",
+  "video": "VNXHXFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caribou",
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Caribou",
+      "Running"
+    ],
+    [
+      "Wolf",
+      "Running"
+    ],
+    [
+      "Caribou",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caribou",
+      "Running"
+    ],
+    [
+      "Wolf",
+      "Running"
+    ],
+    [
+      "Caribou",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caribou",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 7.125,
+          "start_frame": 0,
+          "end_frame": 171
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 7.125,
+          "start_frame": 0,
+          "end_frame": 171
+        }
+      ]
+    },
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.083,
+          "end": 6.833,
+          "start_frame": 2,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

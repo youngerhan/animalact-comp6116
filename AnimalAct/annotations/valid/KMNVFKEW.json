@@ -1,0 +1,34 @@
+{
+  "video_id": "KMNVFKEW",
+  "video": "KMNVFKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Basilisk Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Common Basilisk Lizard",
+      "Running On Water"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Basilisk Lizard",
+      "Running On Water"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Basilisk Lizard",
+      "actions": [
+        {
+          "action": "Running On Water",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "GBHDCXGD",
+  "video": "GBHDCXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Moving"
+    ],
+    [
+      "Kangaroo",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Moving"
+    ],
+    [
+      "Kangaroo",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.083,
+          "end": 3.208,
+          "start_frame": 2,
+          "end_frame": 77
+        },
+        {
+          "action": "Eating",
+          "start": 1.042,
+          "end": 3.208,
+          "start_frame": 25,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

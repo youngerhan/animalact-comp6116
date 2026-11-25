@@ -1,0 +1,115 @@
+{
+  "video_id": "JCCMOVEI",
+  "video": "JCCMOVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gallinago Gallinago Bird",
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Gallinago Gallinago Bird",
+      "Walking"
+    ],
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Shaking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Flapping"
+    ],
+    [
+      "Duck",
+      "Shaking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gallinago Gallinago Bird",
+      "Walking"
+    ],
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Shaking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Flapping"
+    ],
+    [
+      "Duck",
+      "Shaking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gallinago Gallinago Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Shaking",
+          "start": 0.0,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Flapping",
+          "start": 0.004,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Eating",
+          "start": 1.283,
+          "end": 2.221,
+          "start_frame": 31,
+          "end_frame": 53
+        }
+      ]
+    },
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.01,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Shaking",
+          "start": 1.338,
+          "end": 2.221,
+          "start_frame": 32,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

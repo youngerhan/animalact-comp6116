@@ -1,0 +1,49 @@
+{
+  "video_id": "RJFYGVTI",
+  "video": "RJFYGVTI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Smew"
+  ],
+  "list_animal_action": [
+    [
+      "Smew",
+      "Attending"
+    ],
+    [
+      "Smew",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Smew",
+      "Attending"
+    ],
+    [
+      "Smew",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Smew",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 1.909,
+          "end": 7.833,
+          "start_frame": 46,
+          "end_frame": 188
+        },
+        {
+          "action": "Attending",
+          "start": 1.919,
+          "end": 7.833,
+          "start_frame": 46,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

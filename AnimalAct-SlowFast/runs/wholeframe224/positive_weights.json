@@ -1,0 +1,188 @@
+[
+  {
+    "global_id": 1,
+    "name": "Attacking",
+    "positive_weight": 6.0,
+    "train_positives": 47
+  },
+  {
+    "global_id": 2,
+    "name": "Attending",
+    "positive_weight": 2.44,
+    "train_positives": 625
+  },
+  {
+    "global_id": 7,
+    "name": "Being Eaten",
+    "positive_weight": 6.0,
+    "train_positives": 23
+  },
+  {
+    "global_id": 8,
+    "name": "Biting",
+    "positive_weight": 6.0,
+    "train_positives": 69
+  },
+  {
+    "global_id": 13,
+    "name": "Carrying In Mouth",
+    "positive_weight": 6.0,
+    "train_positives": 28
+  },
+  {
+    "global_id": 15,
+    "name": "Chirping",
+    "positive_weight": 2.7304309034084597,
+    "train_positives": 514
+  },
+  {
+    "global_id": 16,
+    "name": "Climbing",
+    "positive_weight": 6.0,
+    "train_positives": 30
+  },
+  {
+    "global_id": 26,
+    "name": "Displaying Defensive Pose",
+    "positive_weight": 6.0,
+    "train_positives": 75
+  },
+  {
+    "global_id": 27,
+    "name": "Disturbing Another Animal",
+    "positive_weight": 6.0,
+    "train_positives": 99
+  },
+  {
+    "global_id": 32,
+    "name": "Doing A Face Dip",
+    "positive_weight": 6.0,
+    "train_positives": 61
+  },
+  {
+    "global_id": 37,
+    "name": "Drinking",
+    "positive_weight": 5.049752469181039,
+    "train_positives": 164
+  },
+  {
+    "global_id": 39,
+    "name": "Eating",
+    "positive_weight": 3.1670896502612425,
+    "train_positives": 394
+  },
+  {
+    "global_id": 44,
+    "name": "Exploring",
+    "positive_weight": 6.0,
+    "train_positives": 62
+  },
+  {
+    "global_id": 46,
+    "name": "Fighting",
+    "positive_weight": 6.0,
+    "train_positives": 90
+  },
+  {
+    "global_id": 47,
+    "name": "Flapping",
+    "positive_weight": 5.672351586342649,
+    "train_positives": 131
+  },
+  {
+    "global_id": 50,
+    "name": "Flying",
+    "positive_weight": 5.0658243837618935,
+    "train_positives": 163
+  },
+  {
+    "global_id": 53,
+    "name": "Grooming",
+    "positive_weight": 6.0,
+    "train_positives": 28
+  },
+  {
+    "global_id": 59,
+    "name": "Hugging",
+    "positive_weight": 6.0,
+    "train_positives": 29
+  },
+  {
+    "global_id": 61,
+    "name": "Jumping",
+    "positive_weight": 6.0,
+    "train_positives": 96
+  },
+  {
+    "global_id": 62,
+    "name": "Keeping still",
+    "positive_weight": 1.6720147091975375,
+    "train_positives": 1145
+  },
+  {
+    "global_id": 63,
+    "name": "Landing",
+    "positive_weight": 6.0,
+    "train_positives": 81
+  },
+  {
+    "global_id": 70,
+    "name": "Moving",
+    "positive_weight": 3.352946990503542,
+    "train_positives": 355
+  },
+  {
+    "global_id": 76,
+    "name": "Preening",
+    "positive_weight": 4.5293323443029125,
+    "train_positives": 202
+  },
+  {
+    "global_id": 85,
+    "name": "Running",
+    "positive_weight": 6.0,
+    "train_positives": 83
+  },
+  {
+    "global_id": 87,
+    "name": "Sensing",
+    "positive_weight": 1.652414022878132,
+    "train_positives": 1165
+  },
+  {
+    "global_id": 88,
+    "name": "Shaking",
+    "positive_weight": 6.0,
+    "train_positives": 44
+  },
+  {
+    "global_id": 89,
+    "name": "Shaking Head",
+    "positive_weight": 5.307333156576788,
+    "train_positives": 149
+  },
+  {
+    "global_id": 96,
+    "name": "Spitting Venom",
+    "positive_weight": 6.0,
+    "train_positives": 33
+  },
+  {
+    "global_id": 106,
+    "name": "Swimming",
+    "positive_weight": 6.0,
+    "train_positives": 78
+  },
+  {
+    "global_id": 110,
+    "name": "Turning Around",
+    "positive_weight": 6.0,
+    "train_positives": 44
+  },
+  {
+    "global_id": 114,
+    "name": "Walking",
+    "positive_weight": 2.419687911674843,
+    "train_positives": 634
+  }
+]

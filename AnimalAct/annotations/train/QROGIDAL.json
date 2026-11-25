@@ -1,0 +1,86 @@
+{
+  "video_id": "QROGIDAL",
+  "video": "QROGIDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Landing"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Flying"
+    ],
+    [
+      "Grey Heron",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Landing"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Flying"
+    ],
+    [
+      "Grey Heron",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 1.75,
+          "start_frame": 0,
+          "end_frame": 42
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.708,
+          "start_frame": 0,
+          "end_frame": 185
+        },
+        {
+          "action": "Landing",
+          "start": 1.75,
+          "end": 3.125,
+          "start_frame": 42,
+          "end_frame": 75
+        },
+        {
+          "action": "Sensing",
+          "start": 3.125,
+          "end": 7.708,
+          "start_frame": 75,
+          "end_frame": 185
+        },
+        {
+          "action": "Flying",
+          "start": 5.125,
+          "end": 6.667,
+          "start_frame": 123,
+          "end_frame": 160
+        }
+      ]
+    }
+  ]
+}

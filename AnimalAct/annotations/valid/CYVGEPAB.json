@@ -1,0 +1,34 @@
+{
+  "video_id": "CYVGEPAB",
+  "video": "CYVGEPAB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dice Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dice Snake",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dice Snake",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dice Snake",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.034,
+          "end": 15.625,
+          "start_frame": 1,
+          "end_frame": 375
+        }
+      ]
+    }
+  ]
+}

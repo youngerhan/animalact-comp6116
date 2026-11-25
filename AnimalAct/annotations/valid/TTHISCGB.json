@@ -1,0 +1,49 @@
+{
+  "video_id": "TTHISCGB",
+  "video": "TTHISCGB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rain Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Rain Frog",
+      "Moving"
+    ],
+    [
+      "Rain Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rain Frog",
+      "Moving"
+    ],
+    [
+      "Rain Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rain Frog",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.844,
+          "start_frame": 0,
+          "end_frame": 68
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.844,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

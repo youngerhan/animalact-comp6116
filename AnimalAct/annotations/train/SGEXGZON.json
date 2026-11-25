@@ -1,0 +1,34 @@
+{
+  "video_id": "SGEXGZON",
+  "video": "SGEXGZON.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Deer",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Deer",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Deer",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.005,
+          "end": 5.917,
+          "start_frame": 0,
+          "end_frame": 142
+        }
+      ]
+    }
+  ]
+}

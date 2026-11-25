@@ -1,0 +1,34 @@
+{
+  "video_id": "IMMPKLHH",
+  "video": "IMMPKLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snouted Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Snouted Cobra",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snouted Cobra",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snouted Cobra",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

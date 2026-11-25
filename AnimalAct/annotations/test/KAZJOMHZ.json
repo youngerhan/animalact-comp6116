@@ -1,0 +1,49 @@
+{
+  "video_id": "KAZJOMHZ",
+  "video": "KAZJOMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Vipera Berus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Vipera Berus Snake",
+      "Sensing"
+    ],
+    [
+      "Vipera Berus Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Vipera Berus Snake",
+      "Sensing"
+    ],
+    [
+      "Vipera Berus Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Vipera Berus Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.11,
+          "end": 2.284,
+          "start_frame": 3,
+          "end_frame": 55
+        },
+        {
+          "action": "Sensing",
+          "start": 2.294,
+          "end": 4.023,
+          "start_frame": 55,
+          "end_frame": 97
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "IKFURVEI",
+  "video": "IKFURVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Charadrius Dubius Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Charadrius Dubius Bird",
+      "Doing A Neck Raise"
+    ],
+    [
+      "Charadrius Dubius Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Charadrius Dubius Bird",
+      "Doing A Neck Raise"
+    ],
+    [
+      "Charadrius Dubius Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Charadrius Dubius Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 10.833,
+          "start_frame": 0,
+          "end_frame": 260
+        },
+        {
+          "action": "Doing A Neck Raise",
+          "start": 0.5,
+          "end": 1.125,
+          "start_frame": 12,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

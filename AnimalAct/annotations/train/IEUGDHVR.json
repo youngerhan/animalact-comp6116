@@ -1,0 +1,48 @@
+{
+  "video_id": "IEUGDHVR",
+  "video": "IEUGDHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dice Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dice Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dice Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dice Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.094,
+          "start_frame": 0,
+          "end_frame": 2
+        },
+        {
+          "action": "Moving",
+          "start": 1.844,
+          "end": 1.969,
+          "start_frame": 44,
+          "end_frame": 47
+        },
+        {
+          "action": "Moving",
+          "start": 2.094,
+          "end": 4.5,
+          "start_frame": 50,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

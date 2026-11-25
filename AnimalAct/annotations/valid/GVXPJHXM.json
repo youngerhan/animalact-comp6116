@@ -1,0 +1,63 @@
+{
+  "video_id": "GVXPJHXM",
+  "video": "GVXPJHXM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dendroaspis Polylepis Black Mamba"
+  ],
+  "list_animal_action": [
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Moving"
+    ],
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Moving"
+    ],
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dendroaspis Polylepis Black Mamba",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.499,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Moving",
+          "start": 0.499,
+          "end": 0.753,
+          "start_frame": 12,
+          "end_frame": 18
+        },
+        {
+          "action": "Attending",
+          "start": 0.766,
+          "end": 1.618,
+          "start_frame": 18,
+          "end_frame": 39
+        },
+        {
+          "action": "Moving",
+          "start": 1.626,
+          "end": 5.016,
+          "start_frame": 39,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

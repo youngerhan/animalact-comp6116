@@ -1,0 +1,55 @@
+{
+  "video_id": "AURUBCIW",
+  "video": "AURUBCIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salticidae Jumping Spider",
+    "Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Salticidae Jumping Spider",
+      "Attacking"
+    ],
+    [
+      "Aphid",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salticidae Jumping Spider",
+      "Attacking"
+    ],
+    [
+      "Aphid",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salticidae Jumping Spider",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.285,
+          "end": 0.572,
+          "start_frame": 7,
+          "end_frame": 14
+        }
+      ]
+    },
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.44,
+          "end": 2.216,
+          "start_frame": 11,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

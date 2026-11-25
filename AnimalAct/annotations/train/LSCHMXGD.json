@@ -1,0 +1,49 @@
+{
+  "video_id": "LSCHMXGD",
+  "video": "LSCHMXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Keeping still"
+    ],
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Keeping still"
+    ],
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        },
+        {
+          "action": "Eating",
+          "start": 0.208,
+          "end": 2.333,
+          "start_frame": 5,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

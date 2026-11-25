@@ -1,0 +1,84 @@
+{
+  "video_id": "EJUCEYUQ",
+  "video": "EJUCEYUQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Formica Accreta",
+    "Polyergus Mexicanus"
+  ],
+  "list_animal_action": [
+    [
+      "Formica Accreta",
+      "Moving"
+    ],
+    [
+      "Formica Accreta",
+      "Sharing Food"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Formica Accreta",
+      "Moving"
+    ],
+    [
+      "Formica Accreta",
+      "Sharing Food"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Formica Accreta",
+      "actions": [
+        {
+          "action": "Sharing Food",
+          "start": 0.0,
+          "end": 8.012,
+          "start_frame": 0,
+          "end_frame": 192
+        },
+        {
+          "action": "Moving",
+          "start": 0.178,
+          "end": 2.186,
+          "start_frame": 4,
+          "end_frame": 52
+        },
+        {
+          "action": "Moving",
+          "start": 4.773,
+          "end": 6.617,
+          "start_frame": 115,
+          "end_frame": 159
+        },
+        {
+          "action": "Moving",
+          "start": 7.259,
+          "end": 8.012,
+          "start_frame": 174,
+          "end_frame": 192
+        }
+      ]
+    },
+    {
+      "animal": "Polyergus Mexicanus",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 8.012,
+          "start_frame": 0,
+          "end_frame": 192
+        }
+      ]
+    }
+  ]
+}

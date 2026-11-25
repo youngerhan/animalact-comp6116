@@ -1,0 +1,34 @@
+{
+  "video_id": "HUTBVVCR",
+  "video": "HUTBVVCR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tortoise"
+  ],
+  "list_animal_action": [
+    [
+      "Tortoise",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tortoise",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tortoise",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.442,
+          "end": 1.775,
+          "start_frame": 11,
+          "end_frame": 43
+        }
+      ]
+    }
+  ]
+}

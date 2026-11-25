@@ -1,0 +1,40 @@
+{
+  "video": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\FLBGMVYU.mp4",
+  "start_frame": 22,
+  "end_frame_exclusive": 96,
+  "validation_threshold": 0.15,
+  "predicted_actions": [
+    {
+      "global_id": 114,
+      "name": "Walking",
+      "score": 0.9192084670066833
+    }
+  ],
+  "top_scores": [
+    {
+      "global_id": 114,
+      "name": "Walking",
+      "score": 0.9192084670066833
+    },
+    {
+      "global_id": 70,
+      "name": "Moving",
+      "score": 0.08961381763219833
+    },
+    {
+      "global_id": 87,
+      "name": "Sensing",
+      "score": 0.0629042387008667
+    },
+    {
+      "global_id": 39,
+      "name": "Eating",
+      "score": 0.04232459142804146
+    },
+    {
+      "global_id": 37,
+      "name": "Drinking",
+      "score": 0.023962024599313736
+    }
+  ]
+}

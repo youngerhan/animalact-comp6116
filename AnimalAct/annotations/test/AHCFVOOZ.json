@@ -1,0 +1,56 @@
+{
+  "video_id": "AHCFVOOZ",
+  "video": "AHCFVOOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Spider",
+      "Exploring"
+    ],
+    [
+      "Spider",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spider",
+      "Exploring"
+    ],
+    [
+      "Spider",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 3.137,
+          "start_frame": 0,
+          "end_frame": 75
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.137,
+          "end": 3.416,
+          "start_frame": 75,
+          "end_frame": 82
+        },
+        {
+          "action": "Exploring",
+          "start": 3.488,
+          "end": 6.617,
+          "start_frame": 84,
+          "end_frame": 159
+        }
+      ]
+    }
+  ]
+}

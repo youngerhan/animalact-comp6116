@@ -1,0 +1,34 @@
+{
+  "video_id": "KLNCRBRS",
+  "video": "KLNCRBRS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Apis Mellifera Honey Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Apis Mellifera Honey Bee",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Apis Mellifera Honey Bee",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Apis Mellifera Honey Bee",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 7.708,
+          "start_frame": 0,
+          "end_frame": 185
+        }
+      ]
+    }
+  ]
+}

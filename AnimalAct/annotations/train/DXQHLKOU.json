@@ -1,0 +1,64 @@
+{
+  "video_id": "DXQHLKOU",
+  "video": "DXQHLKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Attending"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Attending"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 4.469,
+          "start_frame": 0,
+          "end_frame": 107
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 4.594,
+          "start_frame": 0,
+          "end_frame": 110
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.594,
+          "start_frame": 0,
+          "end_frame": 110
+        }
+      ]
+    }
+  ]
+}

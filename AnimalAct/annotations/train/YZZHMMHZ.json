@@ -1,0 +1,34 @@
+{
+  "video_id": "YZZHMMHZ",
+  "video": "YZZHMMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Coronella Austriaca Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Coronella Austriaca Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Coronella Austriaca Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Coronella Austriaca Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.007,
+          "end": 8.395,
+          "start_frame": 0,
+          "end_frame": 201
+        }
+      ]
+    }
+  ]
+}

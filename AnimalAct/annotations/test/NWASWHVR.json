@@ -1,0 +1,34 @@
+{
+  "video_id": "NWASWHVR",
+  "video": "NWASWHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dice Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dice Snake",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dice Snake",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dice Snake",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.026,
+          "end": 10.589,
+          "start_frame": 1,
+          "end_frame": 254
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "video_id": "BQOEHVEI",
+  "video": "BQOEHVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gallinago Gallinago Bird",
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Gallinago Gallinago Bird",
+      "Walking"
+    ],
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Duck",
+      "Walking"
+    ],
+    [
+      "Duck",
+      "Shaking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Preening"
+    ],
+    [
+      "Duck",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gallinago Gallinago Bird",
+      "Walking"
+    ],
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Duck",
+      "Walking"
+    ],
+    [
+      "Duck",
+      "Shaking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Preening"
+    ],
+    [
+      "Duck",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gallinago Gallinago Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 2.94,
+          "end": 3.403,
+          "start_frame": 71,
+          "end_frame": 82
+        }
+      ]
+    },
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.085,
+          "start_frame": 0,
+          "end_frame": 26
+        },
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 3.237,
+          "start_frame": 0,
+          "end_frame": 78
+        },
+        {
+          "action": "Attending",
+          "start": 1.084,
+          "end": 2.585,
+          "start_frame": 26,
+          "end_frame": 62
+        },
+        {
+          "action": "Shaking",
+          "start": 2.581,
+          "end": 3.423,
+          "start_frame": 62,
+          "end_frame": 82
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.14,
+          "end": 3.423,
+          "start_frame": 75,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

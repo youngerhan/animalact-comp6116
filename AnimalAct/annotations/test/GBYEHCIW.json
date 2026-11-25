@@ -1,0 +1,34 @@
+{
+  "video_id": "GBYEHCIW",
+  "video": "GBYEHCIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salticidae Jumping Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Salticidae Jumping Spider",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salticidae Jumping Spider",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salticidae Jumping Spider",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.164,
+          "end": 0.36,
+          "start_frame": 4,
+          "end_frame": 9
+        }
+      ]
+    }
+  ]
+}

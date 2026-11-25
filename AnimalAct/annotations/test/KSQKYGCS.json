@@ -1,0 +1,139 @@
+{
+  "video_id": "KSQKYGCS",
+  "video": "KSQKYGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Standing"
+    ],
+    [
+      "Lion",
+      "Shaking Head"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Standing"
+    ],
+    [
+      "Lion",
+      "Shaking Head"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.823,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 6.15,
+          "start_frame": 0,
+          "end_frame": 148
+        },
+        {
+          "action": "Standing",
+          "start": 0.0,
+          "end": 11.208,
+          "start_frame": 0,
+          "end_frame": 269
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.138,
+          "end": 5.302,
+          "start_frame": 27,
+          "end_frame": 127
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.693,
+          "end": 3.368,
+          "start_frame": 65,
+          "end_frame": 81
+        },
+        {
+          "action": "Retreating",
+          "start": 4.364,
+          "end": 8.483,
+          "start_frame": 105,
+          "end_frame": 204
+        },
+        {
+          "action": "Sensing",
+          "start": 6.144,
+          "end": 11.208,
+          "start_frame": 147,
+          "end_frame": 269
+        },
+        {
+          "action": "Sitting",
+          "start": 8.496,
+          "end": 10.579,
+          "start_frame": 204,
+          "end_frame": 254
+        }
+      ]
+    }
+  ]
+}

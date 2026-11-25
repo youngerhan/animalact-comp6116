@@ -1,0 +1,34 @@
+{
+  "video_id": "YRFMOXEC",
+  "video": "YRFMOXEC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Habronattus Clypeatus"
+  ],
+  "list_animal_action": [
+    [
+      "Habronattus Clypeatus",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Habronattus Clypeatus",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Habronattus Clypeatus",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.709,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

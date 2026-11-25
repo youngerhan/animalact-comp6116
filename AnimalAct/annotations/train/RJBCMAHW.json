@@ -1,0 +1,34 @@
+{
+  "video_id": "RJBCMAHW",
+  "video": "RJBCMAHW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Crane Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Crane Fly",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Crane Fly",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Crane Fly",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 9.125,
+          "start_frame": 0,
+          "end_frame": 219
+        }
+      ]
+    }
+  ]
+}

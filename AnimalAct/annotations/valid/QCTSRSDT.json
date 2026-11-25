@@ -1,0 +1,49 @@
+{
+  "video_id": "QCTSRSDT",
+  "video": "QCTSRSDT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Boreal Owl"
+  ],
+  "list_animal_action": [
+    [
+      "Boreal Owl",
+      "Flying"
+    ],
+    [
+      "Boreal Owl",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Boreal Owl",
+      "Flying"
+    ],
+    [
+      "Boreal Owl",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Boreal Owl",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.094,
+          "start_frame": 0,
+          "end_frame": 122
+        },
+        {
+          "action": "Flying",
+          "start": 5.344,
+          "end": 5.719,
+          "start_frame": 128,
+          "end_frame": 137
+        }
+      ]
+    }
+  ]
+}

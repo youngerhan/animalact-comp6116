@@ -1,0 +1,55 @@
+{
+  "video_id": "WCJMFHSA",
+  "video": "WCJMFHSA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chaffinch Bird",
+    "Common Cuckoo Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Chaffinch Bird",
+      "Chirping"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chaffinch Bird",
+      "Chirping"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chaffinch Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 3.5,
+          "end": 4.625,
+          "start_frame": 84,
+          "end_frame": 111
+        }
+      ]
+    },
+    {
+      "animal": "Common Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 9.5,
+          "start_frame": 0,
+          "end_frame": 228
+        }
+      ]
+    }
+  ]
+}

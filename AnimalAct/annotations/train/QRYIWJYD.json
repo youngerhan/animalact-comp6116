@@ -1,0 +1,64 @@
+{
+  "video_id": "QRYIWJYD",
+  "video": "QRYIWJYD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aphis Fabae Alates"
+  ],
+  "list_animal_action": [
+    [
+      "Aphis Fabae Alates",
+      "Flying"
+    ],
+    [
+      "Aphis Fabae Alates",
+      "Sensing"
+    ],
+    [
+      "Aphis Fabae Alates",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aphis Fabae Alates",
+      "Flying"
+    ],
+    [
+      "Aphis Fabae Alates",
+      "Sensing"
+    ],
+    [
+      "Aphis Fabae Alates",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aphis Fabae Alates",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.012,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.012,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Flying",
+          "start": 0.445,
+          "end": 1.17,
+          "start_frame": 11,
+          "end_frame": 28
+        }
+      ]
+    }
+  ]
+}

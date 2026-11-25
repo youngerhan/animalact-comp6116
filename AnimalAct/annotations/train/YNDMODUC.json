@@ -1,0 +1,55 @@
+{
+  "video_id": "YNDMODUC",
+  "video": "YNDMODUC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Xystocheir Dissecta Millipede",
+    "Promecognathus Crassus Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Xystocheir Dissecta Millipede",
+      "Coiling"
+    ],
+    [
+      "Promecognathus Crassus Beetle",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Xystocheir Dissecta Millipede",
+      "Coiling"
+    ],
+    [
+      "Promecognathus Crassus Beetle",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Xystocheir Dissecta Millipede",
+      "actions": [
+        {
+          "action": "Coiling",
+          "start": 0.0,
+          "end": 6.505,
+          "start_frame": 0,
+          "end_frame": 156
+        }
+      ]
+    },
+    {
+      "animal": "Promecognathus Crassus Beetle",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 6.505,
+          "start_frame": 0,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "TJNBTUPH",
+  "video": "TJNBTUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Ramshorn Snail"
+  ],
+  "list_animal_action": [
+    [
+      "Great Ramshorn Snail",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Ramshorn Snail",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Ramshorn Snail",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.333,
+          "start_frame": 0,
+          "end_frame": 128
+        }
+      ]
+    }
+  ]
+}

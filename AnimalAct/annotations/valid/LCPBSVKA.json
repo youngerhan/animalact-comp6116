@@ -1,0 +1,49 @@
+{
+  "video_id": "LCPBSVKA",
+  "video": "LCPBSVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Eating"
+    ],
+    [
+      "Common Quail",
+      "Standing in alert"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Eating"
+    ],
+    [
+      "Common Quail",
+      "Standing in alert"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.5,
+          "end": 2.75,
+          "start_frame": 12,
+          "end_frame": 66
+        },
+        {
+          "action": "Standing in alert",
+          "start": 2.75,
+          "end": 8.833,
+          "start_frame": 66,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "KWQZZYUQ",
+  "video": "KWQZZYUQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Polyergus Mexicanus"
+  ],
+  "list_animal_action": [
+    [
+      "Polyergus Mexicanus",
+      "Moving"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Exploring"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Polyergus Mexicanus",
+      "Moving"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Exploring"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Polyergus Mexicanus",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.508,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 2.508,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.508,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

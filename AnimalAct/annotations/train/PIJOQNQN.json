@@ -1,0 +1,93 @@
+{
+  "video_id": "PIJOQNQN",
+  "video": "PIJOQNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Whinchat Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Whinchat Bird",
+      "Attending"
+    ],
+    [
+      "Whinchat Bird",
+      "Chirping"
+    ],
+    [
+      "Whinchat Bird",
+      "Keeping still"
+    ],
+    [
+      "Whinchat Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Whinchat Bird",
+      "Attending"
+    ],
+    [
+      "Whinchat Bird",
+      "Chirping"
+    ],
+    [
+      "Whinchat Bird",
+      "Keeping still"
+    ],
+    [
+      "Whinchat Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Whinchat Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.012,
+          "end": 0.514,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Sensing",
+          "start": 0.058,
+          "end": 3.815,
+          "start_frame": 1,
+          "end_frame": 92
+        },
+        {
+          "action": "Attending",
+          "start": 0.876,
+          "end": 2.971,
+          "start_frame": 21,
+          "end_frame": 71
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.886,
+          "end": 2.985,
+          "start_frame": 21,
+          "end_frame": 72
+        },
+        {
+          "action": "Chirping",
+          "start": 3.157,
+          "end": 4.354,
+          "start_frame": 76,
+          "end_frame": 104
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.344,
+          "end": 5.357,
+          "start_frame": 104,
+          "end_frame": 129
+        }
+      ]
+    }
+  ]
+}

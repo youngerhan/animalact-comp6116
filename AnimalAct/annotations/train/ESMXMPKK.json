@@ -1,0 +1,173 @@
+{
+  "video_id": "ESMXMPKK",
+  "video": "ESMXMPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Flying"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Eating"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Spreading Wings"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Flying"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Eating"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Spreading Wings"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.614,
+          "end": 1.934,
+          "start_frame": 15,
+          "end_frame": 46
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.661,
+          "end": 1.912,
+          "start_frame": 16,
+          "end_frame": 46
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 0.929,
+          "end": 2.45,
+          "start_frame": 22,
+          "end_frame": 59
+        },
+        {
+          "action": "Landing",
+          "start": 0.935,
+          "end": 1.808,
+          "start_frame": 22,
+          "end_frame": 43
+        },
+        {
+          "action": "Walking",
+          "start": 1.326,
+          "end": 2.166,
+          "start_frame": 32,
+          "end_frame": 52
+        },
+        {
+          "action": "Sensing",
+          "start": 2.139,
+          "end": 5.035,
+          "start_frame": 51,
+          "end_frame": 121
+        },
+        {
+          "action": "Walking",
+          "start": 4.09,
+          "end": 12.722,
+          "start_frame": 98,
+          "end_frame": 305
+        },
+        {
+          "action": "Eating",
+          "start": 5.094,
+          "end": 6.969,
+          "start_frame": 122,
+          "end_frame": 167
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 7.38,
+          "end": 8.439,
+          "start_frame": 177,
+          "end_frame": 203
+        },
+        {
+          "action": "Flying",
+          "start": 7.469,
+          "end": 9.264,
+          "start_frame": 179,
+          "end_frame": 222
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 7.469,
+          "end": 9.579,
+          "start_frame": 179,
+          "end_frame": 230
+        },
+        {
+          "action": "Landing",
+          "start": 7.8,
+          "end": 8.238,
+          "start_frame": 187,
+          "end_frame": 198
+        },
+        {
+          "action": "Landing",
+          "start": 8.57,
+          "end": 8.903,
+          "start_frame": 206,
+          "end_frame": 214
+        },
+        {
+          "action": "Eating",
+          "start": 10.075,
+          "end": 12.722,
+          "start_frame": 242,
+          "end_frame": 305
+        }
+      ]
+    }
+  ]
+}

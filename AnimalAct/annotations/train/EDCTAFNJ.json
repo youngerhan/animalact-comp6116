@@ -1,0 +1,34 @@
+{
+  "video_id": "EDCTAFNJ",
+  "video": "EDCTAFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Diving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Diving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Diving",
+          "start": 0.001,
+          "end": 0.339,
+          "start_frame": 0,
+          "end_frame": 8
+        }
+      ]
+    }
+  ]
+}

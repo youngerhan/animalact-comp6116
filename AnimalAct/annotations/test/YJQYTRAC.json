@@ -1,0 +1,34 @@
+{
+  "video_id": "YJQYTRAC",
+  "video": "YJQYTRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Agouti"
+  ],
+  "list_animal_action": [
+    [
+      "Agouti",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Agouti",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Agouti",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

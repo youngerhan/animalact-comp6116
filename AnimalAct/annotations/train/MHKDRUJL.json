@@ -1,0 +1,49 @@
+{
+  "video_id": "MHKDRUJL",
+  "video": "MHKDRUJL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Penguin"
+  ],
+  "list_animal_action": [
+    [
+      "Penguin",
+      "Shaking Head"
+    ],
+    [
+      "Penguin",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Penguin",
+      "Shaking Head"
+    ],
+    [
+      "Penguin",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Penguin",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.0,
+          "end": 2.219,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.219,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

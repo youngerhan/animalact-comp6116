@@ -1,0 +1,56 @@
+{
+  "video_id": "EMHTLVTI",
+  "video": "EMHTLVTI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Smew"
+  ],
+  "list_animal_action": [
+    [
+      "Smew",
+      "Attending"
+    ],
+    [
+      "Smew",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Smew",
+      "Attending"
+    ],
+    [
+      "Smew",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Smew",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.11,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        },
+        {
+          "action": "Attending",
+          "start": 1.254,
+          "end": 1.917,
+          "start_frame": 30,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

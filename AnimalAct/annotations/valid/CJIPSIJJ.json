@@ -1,0 +1,55 @@
+{
+  "video_id": "CJIPSIJJ",
+  "video": "CJIPSIJJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spectacled Cobra",
+    "King Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Spectacled Cobra",
+      "Being Eaten"
+    ],
+    [
+      "King Cobra",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spectacled Cobra",
+      "Being Eaten"
+    ],
+    [
+      "King Cobra",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spectacled Cobra",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 19.905,
+          "start_frame": 0,
+          "end_frame": 478
+        }
+      ]
+    },
+    {
+      "animal": "King Cobra",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 16.583,
+          "end": 19.917,
+          "start_frame": 398,
+          "end_frame": 478
+        }
+      ]
+    }
+  ]
+}

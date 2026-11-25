@@ -1,0 +1,55 @@
+{
+  "video_id": "AWPJUDUC",
+  "video": "AWPJUDUC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Xystocheir Dissecta Millipede",
+    "Promecognathus Crassus Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Xystocheir Dissecta Millipede",
+      "Keeping still"
+    ],
+    [
+      "Promecognathus Crassus Beetle",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Xystocheir Dissecta Millipede",
+      "Keeping still"
+    ],
+    [
+      "Promecognathus Crassus Beetle",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Xystocheir Dissecta Millipede",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 8.879,
+          "end": 9.242,
+          "start_frame": 213,
+          "end_frame": 222
+        }
+      ]
+    },
+    {
+      "animal": "Promecognathus Crassus Beetle",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 8.594,
+          "start_frame": 0,
+          "end_frame": 206
+        }
+      ]
+    }
+  ]
+}

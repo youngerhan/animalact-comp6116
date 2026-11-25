@@ -1,0 +1,49 @@
+{
+  "video_id": "OFRACHXM",
+  "video": "OFRACHXM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dendroaspis Polylepis Black Mamba"
+  ],
+  "list_animal_action": [
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Attending"
+    ],
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Attending"
+    ],
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dendroaspis Polylepis Black Mamba",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.005,
+          "end": 9.861,
+          "start_frame": 0,
+          "end_frame": 237
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.014,
+          "end": 9.862,
+          "start_frame": 0,
+          "end_frame": 237
+        }
+      ]
+    }
+  ]
+}

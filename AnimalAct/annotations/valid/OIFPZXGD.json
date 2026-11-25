@@ -1,0 +1,49 @@
+{
+  "video_id": "OIFPZXGD",
+  "video": "OIFPZXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.002,
+          "end": 2.002,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Eating",
+          "start": 2.004,
+          "end": 3.71,
+          "start_frame": 48,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "EDGIHGJU",
+  "video": "EDGIHGJU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Wasp",
+      "Digging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wasp",
+      "Digging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wasp",
+      "actions": [
+        {
+          "action": "Digging",
+          "start": 0.0,
+          "end": 4.04,
+          "start_frame": 0,
+          "end_frame": 97
+        }
+      ]
+    }
+  ]
+}

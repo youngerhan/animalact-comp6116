@@ -1,0 +1,49 @@
+{
+  "video_id": "INFPVLHH",
+  "video": "INFPVLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rain Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Rain Frog",
+      "Keeping still"
+    ],
+    [
+      "Rain Frog",
+      "Hugging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rain Frog",
+      "Keeping still"
+    ],
+    [
+      "Rain Frog",
+      "Hugging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rain Frog",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 3.719,
+          "start_frame": 0,
+          "end_frame": 89
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

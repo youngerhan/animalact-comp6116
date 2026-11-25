@@ -1,0 +1,45 @@
+{
+  "video": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\AJDDHWBO.mp4",
+  "start_frame": 23,
+  "end_frame_exclusive": 168,
+  "validation_threshold": 0.15,
+  "predicted_actions": [
+    {
+      "global_id": 87,
+      "name": "Sensing",
+      "score": 0.2525683641433716
+    },
+    {
+      "global_id": 39,
+      "name": "Eating",
+      "score": 0.1589561253786087
+    }
+  ],
+  "top_scores": [
+    {
+      "global_id": 87,
+      "name": "Sensing",
+      "score": 0.2525683641433716
+    },
+    {
+      "global_id": 39,
+      "name": "Eating",
+      "score": 0.1589561253786087
+    },
+    {
+      "global_id": 114,
+      "name": "Walking",
+      "score": 0.08464395254850388
+    },
+    {
+      "global_id": 76,
+      "name": "Preening",
+      "score": 0.05389915779232979
+    },
+    {
+      "global_id": 2,
+      "name": "Attending",
+      "score": 0.01609087362885475
+    }
+  ]
+}

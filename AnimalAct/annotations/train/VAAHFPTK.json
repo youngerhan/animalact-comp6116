@@ -1,0 +1,106 @@
+{
+  "video_id": "VAAHFPTK",
+  "video": "VAAHFPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.5,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Chirping",
+          "start": 2.5,
+          "end": 4.25,
+          "start_frame": 60,
+          "end_frame": 102
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.25,
+          "end": 5.75,
+          "start_frame": 102,
+          "end_frame": 138
+        },
+        {
+          "action": "Chirping",
+          "start": 5.75,
+          "end": 7.0,
+          "start_frame": 138,
+          "end_frame": 168
+        },
+        {
+          "action": "Keeping still",
+          "start": 7.0,
+          "end": 12.875,
+          "start_frame": 168,
+          "end_frame": 309
+        },
+        {
+          "action": "Attending",
+          "start": 7.5,
+          "end": 9.0,
+          "start_frame": 180,
+          "end_frame": 216
+        },
+        {
+          "action": "Attending",
+          "start": 10.0,
+          "end": 11.75,
+          "start_frame": 240,
+          "end_frame": 282
+        },
+        {
+          "action": "Chirping",
+          "start": 12.875,
+          "end": 14.75,
+          "start_frame": 309,
+          "end_frame": 354
+        },
+        {
+          "action": "Keeping still",
+          "start": 14.75,
+          "end": 15.625,
+          "start_frame": 354,
+          "end_frame": 375
+        }
+      ]
+    }
+  ]
+}

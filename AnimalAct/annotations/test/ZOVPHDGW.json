@@ -1,0 +1,56 @@
+{
+  "video_id": "ZOVPHDGW",
+  "video": "ZOVPHDGW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Stock Dove"
+  ],
+  "list_animal_action": [
+    [
+      "Stock Dove",
+      "Sensing"
+    ],
+    [
+      "Stock Dove",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Stock Dove",
+      "Sensing"
+    ],
+    [
+      "Stock Dove",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Stock Dove",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 9.0,
+          "start_frame": 0,
+          "end_frame": 216
+        },
+        {
+          "action": "Walking",
+          "start": 4.167,
+          "end": 4.75,
+          "start_frame": 100,
+          "end_frame": 114
+        },
+        {
+          "action": "Walking",
+          "start": 6.292,
+          "end": 6.667,
+          "start_frame": 151,
+          "end_frame": 160
+        }
+      ]
+    }
+  ]
+}

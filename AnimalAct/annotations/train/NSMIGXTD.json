@@ -1,0 +1,49 @@
+{
+  "video_id": "NSMIGXTD",
+  "video": "NSMIGXTD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cryptic Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Cryptic Mantis",
+      "Lying On Top"
+    ],
+    [
+      "Cryptic Mantis",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cryptic Mantis",
+      "Lying On Top"
+    ],
+    [
+      "Cryptic Mantis",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cryptic Mantis",
+      "actions": [
+        {
+          "action": "Lying On Top",
+          "start": 0.0,
+          "end": 12.625,
+          "start_frame": 0,
+          "end_frame": 303
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 12.625,
+          "start_frame": 0,
+          "end_frame": 303
+        }
+      ]
+    }
+  ]
+}

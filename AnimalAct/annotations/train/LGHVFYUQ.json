@@ -1,0 +1,34 @@
+{
+  "video_id": "LGHVFYUQ",
+  "video": "LGHVFYUQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Polyergus Mexicanus"
+  ],
+  "list_animal_action": [
+    [
+      "Polyergus Mexicanus",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Polyergus Mexicanus",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Polyergus Mexicanus",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.542,
+          "end": 1.458,
+          "start_frame": 13,
+          "end_frame": 35
+        }
+      ]
+    }
+  ]
+}

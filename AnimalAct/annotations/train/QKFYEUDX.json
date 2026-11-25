@@ -1,0 +1,64 @@
+{
+  "video_id": "QKFYEUDX",
+  "video": "QKFYEUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Socotra Cormorant"
+  ],
+  "list_animal_action": [
+    [
+      "Socotra Cormorant",
+      "Flying"
+    ],
+    [
+      "Socotra Cormorant",
+      "Walking"
+    ],
+    [
+      "Socotra Cormorant",
+      "Flapping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Socotra Cormorant",
+      "Flying"
+    ],
+    [
+      "Socotra Cormorant",
+      "Walking"
+    ],
+    [
+      "Socotra Cormorant",
+      "Flapping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Socotra Cormorant",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

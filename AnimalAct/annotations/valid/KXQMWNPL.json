@@ -1,0 +1,48 @@
+{
+  "video_id": "KXQMWNPL",
+  "video": "KXQMWNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Squirrel"
+  ],
+  "list_animal_action": [
+    [
+      "Squirrel",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Squirrel",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Squirrel",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.042,
+          "end": 0.417,
+          "start_frame": 1,
+          "end_frame": 10
+        },
+        {
+          "action": "Jumping",
+          "start": 0.625,
+          "end": 0.958,
+          "start_frame": 15,
+          "end_frame": 23
+        },
+        {
+          "action": "Jumping",
+          "start": 1.25,
+          "end": 1.583,
+          "start_frame": 30,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

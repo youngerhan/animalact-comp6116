@@ -1,0 +1,55 @@
+{
+  "video_id": "DEMAPHEB",
+  "video": "DEMAPHEB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cotesia Glomerata Wasp",
+    "Cabbage White Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Cotesia Glomerata Wasp",
+      "Moving"
+    ],
+    [
+      "Cabbage White Caterpillar",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cotesia Glomerata Wasp",
+      "Moving"
+    ],
+    [
+      "Cabbage White Caterpillar",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cotesia Glomerata Wasp",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.004,
+          "end": 4.708,
+          "start_frame": 0,
+          "end_frame": 113
+        }
+      ]
+    },
+    {
+      "animal": "Cabbage White Caterpillar",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.708,
+          "start_frame": 0,
+          "end_frame": 113
+        }
+      ]
+    }
+  ]
+}

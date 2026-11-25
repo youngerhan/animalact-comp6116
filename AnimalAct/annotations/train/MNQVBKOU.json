@@ -1,0 +1,130 @@
+{
+  "video_id": "MNQVBKOU",
+  "video": "MNQVBKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer",
+    "Yellowhammer Young"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Eating"
+    ],
+    [
+      "Yellowhammer",
+      "Jumping"
+    ],
+    [
+      "Yellowhammer Young",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ],
+    [
+      "Yellowhammer",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Eating"
+    ],
+    [
+      "Yellowhammer",
+      "Jumping"
+    ],
+    [
+      "Yellowhammer Young",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ],
+    [
+      "Yellowhammer",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.094,
+          "end": 0.344,
+          "start_frame": 2,
+          "end_frame": 8
+        },
+        {
+          "action": "Eating",
+          "start": 0.094,
+          "end": 6.594,
+          "start_frame": 2,
+          "end_frame": 158
+        },
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 6.594,
+          "start_frame": 2,
+          "end_frame": 158
+        },
+        {
+          "action": "Sharing Food",
+          "start": 0.344,
+          "end": 6.594,
+          "start_frame": 8,
+          "end_frame": 158
+        },
+        {
+          "action": "Jumping",
+          "start": 6.594,
+          "end": 6.719,
+          "start_frame": 158,
+          "end_frame": 161
+        }
+      ]
+    },
+    {
+      "animal": "Yellowhammer Young",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 6.844,
+          "start_frame": 0,
+          "end_frame": 164
+        },
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 6.594,
+          "start_frame": 2,
+          "end_frame": 158
+        }
+      ]
+    }
+  ]
+}

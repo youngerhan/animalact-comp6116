@@ -1,0 +1,78 @@
+{
+  "video_id": "GNNOPSBA",
+  "video": "GNNOPSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Drinking"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Drinking"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.549,
+          "start_frame": 0,
+          "end_frame": 61
+        },
+        {
+          "action": "Drinking",
+          "start": 0.123,
+          "end": 1.637,
+          "start_frame": 3,
+          "end_frame": 39
+        },
+        {
+          "action": "Washing",
+          "start": 2.825,
+          "end": 3.529,
+          "start_frame": 68,
+          "end_frame": 85
+        },
+        {
+          "action": "Drinking",
+          "start": 2.977,
+          "end": 3.936,
+          "start_frame": 71,
+          "end_frame": 94
+        },
+        {
+          "action": "Sensing",
+          "start": 3.576,
+          "end": 4.917,
+          "start_frame": 86,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

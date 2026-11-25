@@ -1,0 +1,34 @@
+{
+  "video_id": "KOHXJLSK",
+  "video": "KOHXJLSK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Turtle",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turtle",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turtle",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

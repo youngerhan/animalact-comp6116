@@ -1,0 +1,34 @@
+{
+  "video_id": "KZXWZKDQ",
+  "video": "KZXWZKDQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Great Egret",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Egret",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Egret",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.986,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

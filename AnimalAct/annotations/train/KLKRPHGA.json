@@ -1,0 +1,70 @@
+{
+  "video_id": "KLKRPHGA",
+  "video": "KLKRPHGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Meerkat",
+    "Meerkat"
+  ],
+  "list_animal_action": [
+    [
+      "Meerkat",
+      "Walking"
+    ],
+    [
+      "Meerkat",
+      "Attending"
+    ],
+    [
+      "Meerkat",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Meerkat",
+      "Walking"
+    ],
+    [
+      "Meerkat",
+      "Attending"
+    ],
+    [
+      "Meerkat",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Meerkat",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.208,
+          "end": 1.042,
+          "start_frame": 5,
+          "end_frame": 25
+        }
+      ]
+    },
+    {
+      "animal": "Meerkat",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.5,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.5,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "TOGTVRAC",
+  "video": "TOGTVRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Blacked Squirrel Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Climbing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Climbing"
+    ],
+    [
+      "Red-Blacked Squirrel Monkey",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Blacked Squirrel Monkey",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.294,
+          "end": 0.753,
+          "start_frame": 7,
+          "end_frame": 18
+        },
+        {
+          "action": "Jumping",
+          "start": 0.794,
+          "end": 1.669,
+          "start_frame": 19,
+          "end_frame": 40
+        }
+      ]
+    }
+  ]
+}

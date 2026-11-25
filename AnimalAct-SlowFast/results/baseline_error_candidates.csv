@@ -1,0 +1,25 @@
+﻿error,video,start_frame,end_frame_exclusive,class,score,annotated_actions
+false_positive,AnimalAct\videos\test\YYLMUTFT.mp4,643,776,Drinking,0.9942920207977295,Displaying Defensive Pose | Disturbing Another Animal | Fighting | Sensing
+false_positive,AnimalAct\videos\test\YYLMUTFT.mp4,645,774,Drinking,0.9942920207977295,Displaying Defensive Pose | Disturbing Another Animal | Fighting | Sensing
+false_positive,AnimalAct\videos\test\BFWTXDAL.mp4,46,89,Swimming,0.9789553880691528,Doing A Face Dip | Keeping still
+false_positive,AnimalAct\videos\test\BFWTXDAL.mp4,0,89,Swimming,0.972933828830719,Doing A Face Dip | Keeping still
+false_positive,AnimalAct\videos\test\YYLMUTFT.mp4,0,1377,Disturbing Another Animal,0.9712384939193726,Displaying Defensive Pose | Drinking | Sensing
+false_positive,AnimalAct\videos\test\BFWTXDAL.mp4,35,86,Swimming,0.970520555973053,Doing A Face Dip | Keeping still
+false_positive,AnimalAct\videos\test\OLFVKTFT.mp4,511,600,Drinking,0.9669140577316284,Displaying Defensive Pose | Disturbing Another Animal | Fighting
+false_positive,AnimalAct\videos\test\YYLMUTFT.mp4,779,1377,Disturbing Another Animal,0.9657061100006104,Displaying Defensive Pose | Drinking | Sensing
+false_positive,AnimalAct\videos\test\YZYSDKDQ.mp4,0,167,Moving,0.9647224545478821,Flying
+false_positive,AnimalAct\videos\test\PNOSLPTK.mp4,627,645,Keeping still,0.9638481140136719,Chirping
+false_positive,AnimalAct\videos\test\VPDAGPLS.mp4,0,168,Walking,0.961605966091156,Attending | Keeping still | Sensing
+false_positive,AnimalAct\videos\test\BFWTXDAL.mp4,24,56,Swimming,0.9608049392700195,Doing A Face Dip | Eating | Keeping still | Shaking Head
+false_negative,AnimalAct\videos\test\TEGUAADX.mp4,0,11,Shaking,4.006369272246957e-05,Shaking
+false_negative,AnimalAct\videos\test\TXOFDSBA.mp4,0,8,Displaying Defensive Pose,7.141901005525142e-05,Displaying Defensive Pose
+false_negative,AnimalAct\videos\test\VPDAGPLS.mp4,0,34,Running,9.17019642656669e-05,Attending | Keeping still | Running | Sensing
+false_negative,AnimalAct\videos\test\GPPSZAMC.mp4,0,57,Running,0.0002611903182696551,Running | Sensing | Walking
+false_negative,AnimalAct\videos\test\WULDHVEI.mp4,0,39,Chirping,0.00029365462251007557,Chirping | Keeping still
+false_negative,AnimalAct\videos\test\CJOBIXGD.mp4,64,82,Drinking,0.000414069538237527,Drinking
+false_negative,AnimalAct\videos\test\VPDAGPLS.mp4,131,168,Running,0.00043904531048610806,Attending | Flapping | Keeping still | Running | Sensing
+false_negative,AnimalAct\videos\test\GPPSZAMC.mp4,0,66,Running,0.0005274784052744508,Running | Sensing | Walking
+false_negative,AnimalAct\videos\test\CJOBIXGD.mp4,0,18,Drinking,0.0005420927773229778,Drinking
+false_negative,AnimalAct\videos\test\KMIRBFAU.mp4,26,54,Attending,0.0005463420529849827,Attending | Keeping still
+false_negative,AnimalAct\videos\test\GQRWFJKQ.mp4,0,132,Being Eaten,0.0006047102506272495,Being Eaten | Eating
+false_negative,AnimalAct\videos\test\VPDAGPLS.mp4,123,152,Running,0.0006589401164092124,Attending | Flapping | Keeping still | Running | Sensing

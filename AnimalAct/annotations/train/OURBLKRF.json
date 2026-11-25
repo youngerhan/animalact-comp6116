@@ -1,0 +1,41 @@
+{
+  "video_id": "OURBLKRF",
+  "video": "OURBLKRF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dispholidus Typus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dispholidus Typus Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dispholidus Typus Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dispholidus Typus Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.797,
+          "start_frame": 0,
+          "end_frame": 115
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.09,
+          "end": 5.703,
+          "start_frame": 122,
+          "end_frame": 137
+        }
+      ]
+    }
+  ]
+}

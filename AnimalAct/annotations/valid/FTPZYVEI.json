@@ -1,0 +1,49 @@
+{
+  "video_id": "FTPZYVEI",
+  "video": "FTPZYVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anthus Pratensis Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Anthus Pratensis Bird",
+      "Sensing"
+    ],
+    [
+      "Anthus Pratensis Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anthus Pratensis Bird",
+      "Sensing"
+    ],
+    [
+      "Anthus Pratensis Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anthus Pratensis Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.477,
+          "start_frame": 0,
+          "end_frame": 35
+        },
+        {
+          "action": "Walking",
+          "start": 1.48,
+          "end": 1.917,
+          "start_frame": 36,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

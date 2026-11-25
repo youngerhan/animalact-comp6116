@@ -1,0 +1,34 @@
+{
+  "video_id": "UAAMXDPR",
+  "video": "UAAMXDPR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cougar"
+  ],
+  "list_animal_action": [
+    [
+      "Cougar",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cougar",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cougar",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.708,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

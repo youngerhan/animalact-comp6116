@@ -1,0 +1,41 @@
+{
+  "video_id": "GKBZIEUV",
+  "video": "GKBZIEUV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 5.386,
+          "start_frame": 0,
+          "end_frame": 129
+        },
+        {
+          "action": "Moving",
+          "start": 7.436,
+          "end": 13.625,
+          "start_frame": 178,
+          "end_frame": 327
+        }
+      ]
+    }
+  ]
+}

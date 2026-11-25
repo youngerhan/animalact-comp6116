@@ -1,0 +1,49 @@
+{
+  "video_id": "WBYDJUDX",
+  "video": "WBYDJUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Socotra Cormorant"
+  ],
+  "list_animal_action": [
+    [
+      "Socotra Cormorant",
+      "Keeping still"
+    ],
+    [
+      "Socotra Cormorant",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Socotra Cormorant",
+      "Keeping still"
+    ],
+    [
+      "Socotra Cormorant",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Socotra Cormorant",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.094,
+          "start_frame": 0,
+          "end_frame": 170
+        },
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 7.094,
+          "start_frame": 0,
+          "end_frame": 170
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "video_id": "MOLMEPTK",
+  "video": "MOLMEPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 11.469,
+          "start_frame": 0,
+          "end_frame": 275
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 12.094,
+          "start_frame": 0,
+          "end_frame": 290
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 12.094,
+          "start_frame": 0,
+          "end_frame": 290
+        },
+        {
+          "action": "Shaking Head",
+          "start": 6.719,
+          "end": 8.094,
+          "start_frame": 161,
+          "end_frame": 194
+        }
+      ]
+    }
+  ]
+}

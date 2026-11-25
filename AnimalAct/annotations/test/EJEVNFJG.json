@@ -1,0 +1,34 @@
+{
+  "video_id": "EJEVNFJG",
+  "video": "EJEVNFJG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sambar Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Sambar Deer",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sambar Deer",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sambar Deer",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        }
+      ]
+    }
+  ]
+}

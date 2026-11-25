@@ -1,0 +1,137 @@
+{
+  "video_id": "TOGFUPLS",
+  "video": "TOGFUPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret",
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Shaking Head"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Shaking Head"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.125,
+          "start_frame": 0,
+          "end_frame": 3
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.125,
+          "end": 0.5,
+          "start_frame": 3,
+          "end_frame": 12
+        },
+        {
+          "action": "Sensing",
+          "start": 0.5,
+          "end": 1.375,
+          "start_frame": 12,
+          "end_frame": 33
+        },
+        {
+          "action": "Attending",
+          "start": 1.375,
+          "end": 2.125,
+          "start_frame": 33,
+          "end_frame": 51
+        },
+        {
+          "action": "Walking",
+          "start": 1.375,
+          "end": 4.125,
+          "start_frame": 33,
+          "end_frame": 99
+        }
+      ]
+    },
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        },
+        {
+          "action": "Walking",
+          "start": 2.125,
+          "end": 4.125,
+          "start_frame": 51,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

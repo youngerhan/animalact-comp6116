@@ -1,0 +1,49 @@
+{
+  "video_id": "IAUDMIFB",
+  "video": "IAUDMIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mimic Poison Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Mimic Poison Frog",
+      "Lying On Top"
+    ],
+    [
+      "Mimic Poison Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mimic Poison Frog",
+      "Lying On Top"
+    ],
+    [
+      "Mimic Poison Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mimic Poison Frog",
+      "actions": [
+        {
+          "action": "Lying On Top",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

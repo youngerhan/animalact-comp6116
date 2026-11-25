@@ -1,0 +1,99 @@
+{
+  "video_id": "QOSMKPKK",
+  "video": "QOSMKPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 1.4
+        },
+        {
+          "action": "Drinking",
+          "start": 1.4,
+          "end": 1.9
+        },
+        {
+          "action": "Walking",
+          "start": 1.9,
+          "end": 2.1
+        },
+        {
+          "action": "Drinking",
+          "start": 2.1,
+          "end": 3.9
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.9,
+          "end": 5.3
+        },
+        {
+          "action": "Shaking Head",
+          "start": 5.3,
+          "end": 5.9
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.9,
+          "end": 7.2
+        },
+        {
+          "action": "Walking",
+          "start": 7.2,
+          "end": 8.33
+        }
+      ]
+    }
+  ]
+}

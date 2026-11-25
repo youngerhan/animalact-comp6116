@@ -1,0 +1,34 @@
+{
+  "video_id": "VACYHLHH",
+  "video": "VACYHLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sand Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Sand Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sand Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sand Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.926,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "video_id": "XNPRBPTK",
+  "video": "XNPRBPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Defecating"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Defecating"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Attending",
+          "start": 0.833,
+          "end": 1.167,
+          "start_frame": 20,
+          "end_frame": 28
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.167,
+          "end": 2.542,
+          "start_frame": 28,
+          "end_frame": 61
+        },
+        {
+          "action": "Chirping",
+          "start": 2.542,
+          "end": 3.083,
+          "start_frame": 61,
+          "end_frame": 74
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.083,
+          "end": 4.917,
+          "start_frame": 74,
+          "end_frame": 118
+        },
+        {
+          "action": "Chirping",
+          "start": 4.917,
+          "end": 7.0,
+          "start_frame": 118,
+          "end_frame": 168
+        },
+        {
+          "action": "Keeping still",
+          "start": 7.0,
+          "end": 9.333,
+          "start_frame": 168,
+          "end_frame": 224
+        },
+        {
+          "action": "Attending",
+          "start": 9.333,
+          "end": 10.875,
+          "start_frame": 224,
+          "end_frame": 261
+        },
+        {
+          "action": "Chirping",
+          "start": 10.875,
+          "end": 13.083,
+          "start_frame": 261,
+          "end_frame": 314
+        },
+        {
+          "action": "Keeping still",
+          "start": 13.083,
+          "end": 15.583,
+          "start_frame": 314,
+          "end_frame": 374
+        },
+        {
+          "action": "Sensing",
+          "start": 15.583,
+          "end": 16.208,
+          "start_frame": 374,
+          "end_frame": 389
+        },
+        {
+          "action": "Chirping",
+          "start": 16.208,
+          "end": 17.75,
+          "start_frame": 389,
+          "end_frame": 426
+        },
+        {
+          "action": "Keeping still",
+          "start": 17.75,
+          "end": 19.917,
+          "start_frame": 426,
+          "end_frame": 478
+        },
+        {
+          "action": "Attending",
+          "start": 19.917,
+          "end": 20.083,
+          "start_frame": 478,
+          "end_frame": 482
+        },
+        {
+          "action": "Chirping",
+          "start": 20.083,
+          "end": 20.667,
+          "start_frame": 482,
+          "end_frame": 496
+        },
+        {
+          "action": "Keeping still",
+          "start": 20.667,
+          "end": 21.208,
+          "start_frame": 496,
+          "end_frame": 509
+        },
+        {
+          "action": "Defecating",
+          "start": 21.208,
+          "end": 21.375,
+          "start_frame": 509,
+          "end_frame": 513
+        },
+        {
+          "action": "Keeping still",
+          "start": 21.375,
+          "end": 23.917,
+          "start_frame": 513,
+          "end_frame": 574
+        },
+        {
+          "action": "Sensing",
+          "start": 23.917,
+          "end": 25.167,
+          "start_frame": 574,
+          "end_frame": 604
+        },
+        {
+          "action": "Keeping still",
+          "start": 25.167,
+          "end": 27.5,
+          "start_frame": 604,
+          "end_frame": 660
+        },
+        {
+          "action": "Chirping",
+          "start": 27.5,
+          "end": 29.25,
+          "start_frame": 660,
+          "end_frame": 702
+        },
+        {
+          "action": "Keeping still",
+          "start": 29.25,
+          "end": 31.333,
+          "start_frame": 702,
+          "end_frame": 752
+        },
+        {
+          "action": "Sensing",
+          "start": 31.333,
+          "end": 32.875,
+          "start_frame": 752,
+          "end_frame": 789
+        },
+        {
+          "action": "Chirping",
+          "start": 32.875,
+          "end": 33.333,
+          "start_frame": 789,
+          "end_frame": 800
+        },
+        {
+          "action": "Keeping still",
+          "start": 33.333,
+          "end": 34.875,
+          "start_frame": 800,
+          "end_frame": 837
+        },
+        {
+          "action": "Chirping",
+          "start": 34.875,
+          "end": 36.667,
+          "start_frame": 837,
+          "end_frame": 880
+        },
+        {
+          "action": "Keeping still",
+          "start": 36.667,
+          "end": 38.75,
+          "start_frame": 880,
+          "end_frame": 930
+        },
+        {
+          "action": "Attending",
+          "start": 38.75,
+          "end": 39.083,
+          "start_frame": 930,
+          "end_frame": 938
+        },
+        {
+          "action": "Chirping",
+          "start": 39.083,
+          "end": 39.458,
+          "start_frame": 938,
+          "end_frame": 947
+        },
+        {
+          "action": "Attending",
+          "start": 39.458,
+          "end": 41.833,
+          "start_frame": 947,
+          "end_frame": 1004
+        },
+        {
+          "action": "Chirping",
+          "start": 41.833,
+          "end": 43.417,
+          "start_frame": 1004,
+          "end_frame": 1042
+        },
+        {
+          "action": "Keeping still",
+          "start": 43.417,
+          "end": 45.583,
+          "start_frame": 1042,
+          "end_frame": 1094
+        },
+        {
+          "action": "Attending",
+          "start": 45.583,
+          "end": 46.917,
+          "start_frame": 1094,
+          "end_frame": 1126
+        },
+        {
+          "action": "Chirping",
+          "start": 46.917,
+          "end": 47.167,
+          "start_frame": 1126,
+          "end_frame": 1132
+        },
+        {
+          "action": "Keeping still",
+          "start": 47.167,
+          "end": 48.75,
+          "start_frame": 1132,
+          "end_frame": 1170
+        },
+        {
+          "action": "Attending",
+          "start": 48.75,
+          "end": 49.833,
+          "start_frame": 1170,
+          "end_frame": 1196
+        },
+        {
+          "action": "Chirping",
+          "start": 49.833,
+          "end": 50.625,
+          "start_frame": 1196,
+          "end_frame": 1215
+        },
+        {
+          "action": "Attending",
+          "start": 50.625,
+          "end": 51.125,
+          "start_frame": 1215,
+          "end_frame": 1227
+        }
+      ]
+    }
+  ]
+}

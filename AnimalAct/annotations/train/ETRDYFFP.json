@@ -1,0 +1,34 @@
+{
+  "video_id": "ETRDYFFP",
+  "video": "ETRDYFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Pangolin"
+  ],
+  "list_animal_action": [
+    [
+      "Pangolin",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Pangolin",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Pangolin",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.009,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

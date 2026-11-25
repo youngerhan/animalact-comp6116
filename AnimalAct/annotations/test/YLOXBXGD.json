@@ -1,0 +1,34 @@
+{
+  "video_id": "YLOXBXGD",
+  "video": "YLOXBXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

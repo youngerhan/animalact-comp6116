@@ -1,0 +1,34 @@
+{
+  "video_id": "ZMDXQGBP",
+  "video": "ZMDXQGBP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Brown-Banded Cockroach"
+  ],
+  "list_animal_action": [
+    [
+      "Brown-Banded Cockroach",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Brown-Banded Cockroach",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Brown-Banded Cockroach",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 10.711,
+          "start_frame": 0,
+          "end_frame": 257
+        }
+      ]
+    }
+  ]
+}

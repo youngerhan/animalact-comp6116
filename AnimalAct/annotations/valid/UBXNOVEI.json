@@ -1,0 +1,55 @@
+{
+  "video_id": "UBXNOVEI",
+  "video": "UBXNOVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Glareola Bird",
+    "Numenius Arquata Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ],
+    [
+      "Numenius Arquata Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ],
+    [
+      "Numenius Arquata Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Glareola Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.918,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    },
+    {
+      "animal": "Numenius Arquata Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.459,
+          "end": 0.918,
+          "start_frame": 11,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

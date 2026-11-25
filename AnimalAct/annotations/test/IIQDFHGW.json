@@ -1,0 +1,64 @@
+{
+  "video_id": "IIQDFHGW",
+  "video": "IIQDFHGW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Circus Aeruginosus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Circus Aeruginosus Bird",
+      "Sharing Food"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Sensing"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Circus Aeruginosus Bird",
+      "Sharing Food"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Sensing"
+    ],
+    [
+      "Circus Aeruginosus Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Circus Aeruginosus Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.844,
+          "start_frame": 0,
+          "end_frame": 44
+        },
+        {
+          "action": "Sharing Food",
+          "start": 0.0,
+          "end": 2.208,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Eating",
+          "start": 0.094,
+          "end": 0.219,
+          "start_frame": 2,
+          "end_frame": 5
+        }
+      ]
+    }
+  ]
+}

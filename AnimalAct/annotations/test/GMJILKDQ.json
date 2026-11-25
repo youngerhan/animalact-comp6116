@@ -1,0 +1,71 @@
+{
+  "video_id": "GMJILKDQ",
+  "video": "GMJILKDQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Great Egret",
+      "Landing"
+    ],
+    [
+      "Great Egret",
+      "Flying"
+    ],
+    [
+      "Great Egret",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Egret",
+      "Landing"
+    ],
+    [
+      "Great Egret",
+      "Flying"
+    ],
+    [
+      "Great Egret",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Egret",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 0.75,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Landing",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        },
+        {
+          "action": "Sensing",
+          "start": 4.5,
+          "end": 9.5,
+          "start_frame": 108,
+          "end_frame": 228
+        },
+        {
+          "action": "Flying",
+          "start": 9.5,
+          "end": 16.708,
+          "start_frame": 228,
+          "end_frame": 401
+        }
+      ]
+    }
+  ]
+}

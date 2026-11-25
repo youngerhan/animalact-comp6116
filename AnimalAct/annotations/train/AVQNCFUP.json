@@ -1,0 +1,49 @@
+{
+  "video_id": "AVQNCFUP",
+  "video": "AVQNCFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.006,
+          "end": 2.683,
+          "start_frame": 0,
+          "end_frame": 64
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 3.153,
+          "end": 4.002,
+          "start_frame": 76,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

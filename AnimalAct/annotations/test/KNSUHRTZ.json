@@ -1,0 +1,34 @@
+{
+  "video_id": "KNSUHRTZ",
+  "video": "KNSUHRTZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Coral Mimic Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Coral Mimic Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Coral Mimic Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Coral Mimic Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 12.469,
+          "start_frame": 0,
+          "end_frame": 299
+        }
+      ]
+    }
+  ]
+}

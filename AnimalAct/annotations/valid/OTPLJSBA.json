@@ -1,0 +1,45 @@
+{
+  "video_id": "OTPLJSBA",
+  "video": "OTPLJSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.3,
+          "end": 0.8
+        },
+        {
+          "action": "Chirping",
+          "start": 0.8,
+          "end": 1.5
+        }
+      ]
+    }
+  ]
+}

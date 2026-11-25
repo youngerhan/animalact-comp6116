@@ -1,0 +1,34 @@
+{
+  "video_id": "BTMSQLZD",
+  "video": "BTMSQLZD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mosquito"
+  ],
+  "list_animal_action": [
+    [
+      "Mosquito",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mosquito",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mosquito",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.179,
+          "start_frame": 0,
+          "end_frame": 76
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "MQFCTIFB",
+  "video": "MQFCTIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Darwin'S Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Darwin'S Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Darwin'S Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Darwin'S Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.71,
+          "start_frame": 0,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

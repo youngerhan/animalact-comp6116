@@ -1,0 +1,49 @@
+{
+  "video_id": "CHQDOEUL",
+  "video": "CHQDOEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Spitting Venom",
+          "start": 0.367,
+          "end": 3.031,
+          "start_frame": 9,
+          "end_frame": 73
+        },
+        {
+          "action": "Sensing",
+          "start": 3.052,
+          "end": 5.721,
+          "start_frame": 73,
+          "end_frame": 137
+        }
+      ]
+    }
+  ]
+}

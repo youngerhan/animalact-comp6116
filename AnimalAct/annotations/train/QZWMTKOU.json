@@ -1,0 +1,116 @@
+{
+  "video_id": "QZWMTKOU",
+  "video": "QZWMTKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer Young",
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer Young",
+      "Eating"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ],
+    [
+      "Yellowhammer",
+      "Carrying In Mouth"
+    ],
+    [
+      "Yellowhammer",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer Young",
+      "Eating"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ],
+    [
+      "Yellowhammer",
+      "Carrying In Mouth"
+    ],
+    [
+      "Yellowhammer",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer Young",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 2.9,
+          "end": 17.0
+        },
+        {
+          "action": "Sensing",
+          "start": 17.2,
+          "end": 22.92
+        }
+      ]
+    },
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.8
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 2.9,
+          "end": 3.4
+        },
+        {
+          "action": "Sharing Food",
+          "start": 2.9,
+          "end": 17.0
+        },
+        {
+          "action": "Walking",
+          "start": 17.2,
+          "end": 18.2
+        },
+        {
+          "action": "Sensing",
+          "start": 18.2,
+          "end": 22.92
+        }
+      ]
+    }
+  ]
+}

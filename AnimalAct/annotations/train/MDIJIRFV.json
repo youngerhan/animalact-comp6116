@@ -1,0 +1,34 @@
+{
+  "video_id": "MDIJIRFV",
+  "video": "MDIJIRFV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mountain Yellow-Legged Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Mountain Yellow-Legged Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mountain Yellow-Legged Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mountain Yellow-Legged Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.981,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

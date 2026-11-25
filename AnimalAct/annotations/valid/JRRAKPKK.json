@@ -1,0 +1,94 @@
+{
+  "video_id": "JRRAKPKK",
+  "video": "JRRAKPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 12.724,
+          "start_frame": 0,
+          "end_frame": 305
+        },
+        {
+          "action": "Preening",
+          "start": 0.726,
+          "end": 3.594,
+          "start_frame": 17,
+          "end_frame": 86
+        },
+        {
+          "action": "Walking",
+          "start": 2.853,
+          "end": 7.56,
+          "start_frame": 68,
+          "end_frame": 181
+        },
+        {
+          "action": "Drinking",
+          "start": 4.224,
+          "end": 8.559,
+          "start_frame": 101,
+          "end_frame": 205
+        },
+        {
+          "action": "Shaking Head",
+          "start": 4.824,
+          "end": 11.952,
+          "start_frame": 116,
+          "end_frame": 287
+        }
+      ]
+    }
+  ]
+}

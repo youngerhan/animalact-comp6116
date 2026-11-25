@@ -1,0 +1,70 @@
+{
+  "video_id": "GNCBFXGD",
+  "video": "GNCBFXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo",
+    "Dog"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Falling"
+    ],
+    [
+      "Dog",
+      "Biting"
+    ],
+    [
+      "Dog",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Falling"
+    ],
+    [
+      "Dog",
+      "Biting"
+    ],
+    [
+      "Dog",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Falling",
+          "start": 4.368,
+          "end": 5.125,
+          "start_frame": 105,
+          "end_frame": 123
+        }
+      ]
+    },
+    {
+      "animal": "Dog",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.009,
+          "end": 2.953,
+          "start_frame": 0,
+          "end_frame": 71
+        },
+        {
+          "action": "Biting",
+          "start": 2.953,
+          "end": 5.125,
+          "start_frame": 71,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

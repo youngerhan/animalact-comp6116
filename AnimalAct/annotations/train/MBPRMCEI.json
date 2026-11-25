@@ -1,0 +1,49 @@
+{
+  "video_id": "MBPRMCEI",
+  "video": "MBPRMCEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Retaliating"
+    ],
+    [
+      "Ant",
+      "Being Dragged"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Retaliating"
+    ],
+    [
+      "Ant",
+      "Being Dragged"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Retaliating",
+          "start": 0.0,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Being Dragged",
+          "start": 0.0,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

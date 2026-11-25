@@ -1,0 +1,166 @@
+{
+  "video_id": "FRIETCJH",
+  "video": "FRIETCJH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aphid",
+    "Wasp",
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Aphid",
+      "Sensing"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ],
+    [
+      "Aphid",
+      "Biting"
+    ],
+    [
+      "Wasp",
+      "Biting"
+    ],
+    [
+      "Wasp",
+      "Carrying In Mouth"
+    ],
+    [
+      "Ant",
+      "Sensing"
+    ],
+    [
+      "Aphid",
+      "Being Carried In Mouth"
+    ],
+    [
+      "Ant",
+      "Keeping still"
+    ],
+    [
+      "Wasp",
+      "Being Carried In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aphid",
+      "Sensing"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ],
+    [
+      "Aphid",
+      "Biting"
+    ],
+    [
+      "Wasp",
+      "Biting"
+    ],
+    [
+      "Wasp",
+      "Carrying In Mouth"
+    ],
+    [
+      "Ant",
+      "Sensing"
+    ],
+    [
+      "Aphid",
+      "Being Carried In Mouth"
+    ],
+    [
+      "Ant",
+      "Keeping still"
+    ],
+    [
+      "Wasp",
+      "Being Carried In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 9.836,
+          "start_frame": 0,
+          "end_frame": 236
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 15.834,
+          "start_frame": 0,
+          "end_frame": 380
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 15.834,
+          "start_frame": 0,
+          "end_frame": 380
+        },
+        {
+          "action": "Being Carried In Mouth",
+          "start": 9.856,
+          "end": 15.834,
+          "start_frame": 237,
+          "end_frame": 380
+        }
+      ]
+    },
+    {
+      "animal": "Wasp",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 2.015,
+          "end": 9.823,
+          "start_frame": 48,
+          "end_frame": 236
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 9.84,
+          "end": 15.834,
+          "start_frame": 236,
+          "end_frame": 380
+        },
+        {
+          "action": "Being Carried In Mouth",
+          "start": 9.852,
+          "end": 15.834,
+          "start_frame": 236,
+          "end_frame": 380
+        }
+      ]
+    },
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.791,
+          "start_frame": 0,
+          "end_frame": 67
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 15.834,
+          "start_frame": 0,
+          "end_frame": 380
+        }
+      ]
+    }
+  ]
+}

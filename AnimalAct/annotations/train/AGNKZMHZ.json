@@ -1,0 +1,48 @@
+{
+  "video_id": "AGNKZMHZ",
+  "video": "AGNKZMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Vipera Berus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Vipera Berus Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Vipera Berus Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Vipera Berus Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.995,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.503,
+          "end": 1.872,
+          "start_frame": 36,
+          "end_frame": 45
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.969,
+          "end": 2.453,
+          "start_frame": 47,
+          "end_frame": 59
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "FGJBJBQT",
+  "video": "FGJBJBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Weaver Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Weaver Ant",
+      "Carrying In Mouth"
+    ],
+    [
+      "Weaver Ant",
+      "Sensing"
+    ],
+    [
+      "Weaver Ant",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Weaver Ant",
+      "Carrying In Mouth"
+    ],
+    [
+      "Weaver Ant",
+      "Sensing"
+    ],
+    [
+      "Weaver Ant",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Weaver Ant",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.0,
+          "end": 1.123,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.124,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.125,
+          "start_frame": 0,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

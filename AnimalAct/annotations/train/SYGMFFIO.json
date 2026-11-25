@@ -1,0 +1,34 @@
+{
+  "video_id": "SYGMFFIO",
+  "video": "SYGMFFIO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Grouse"
+  ],
+  "list_animal_action": [
+    [
+      "Black Grouse",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Grouse",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Grouse",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.072,
+          "end": 13.859,
+          "start_frame": 2,
+          "end_frame": 333
+        }
+      ]
+    }
+  ]
+}

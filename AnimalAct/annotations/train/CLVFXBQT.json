@@ -1,0 +1,34 @@
+{
+  "video_id": "CLVFXBQT",
+  "video": "CLVFXBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.708,
+          "end": 1.75,
+          "start_frame": 17,
+          "end_frame": 42
+        }
+      ]
+    }
+  ]
+}

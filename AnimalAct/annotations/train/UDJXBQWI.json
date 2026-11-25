@@ -1,0 +1,34 @@
+{
+  "video_id": "UDJXBQWI",
+  "video": "UDJXBQWI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Garganey"
+  ],
+  "list_animal_action": [
+    [
+      "Garganey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Garganey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Garganey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.833,
+          "start_frame": 0,
+          "end_frame": 116
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "KIYRFSBA",
+  "video": "KIYRFSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.611,
+          "start_frame": 0,
+          "end_frame": 39
+        },
+        {
+          "action": "Walking",
+          "start": 0.939,
+          "end": 4.682,
+          "start_frame": 23,
+          "end_frame": 112
+        },
+        {
+          "action": "Flapping",
+          "start": 4.678,
+          "end": 5.721,
+          "start_frame": 112,
+          "end_frame": 137
+        }
+      ]
+    }
+  ]
+}

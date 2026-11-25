@@ -1,0 +1,34 @@
+{
+  "video_id": "UHHDHMGJ",
+  "video": "UHHDHMGJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Glass Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Glass Frog",
+      "Doing A Back Kick"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Glass Frog",
+      "Doing A Back Kick"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Glass Frog",
+      "actions": [
+        {
+          "action": "Doing A Back Kick",
+          "start": 0.292,
+          "end": 1.625,
+          "start_frame": 7,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

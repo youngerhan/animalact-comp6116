@@ -1,0 +1,49 @@
+{
+  "video_id": "LSXFYLHH",
+  "video": "LSXFYLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.715,
+          "start_frame": 0,
+          "end_frame": 89
+        },
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 5.469,
+          "start_frame": 0,
+          "end_frame": 131
+        }
+      ]
+    }
+  ]
+}

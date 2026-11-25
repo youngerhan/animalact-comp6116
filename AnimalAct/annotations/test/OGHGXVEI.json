@@ -1,0 +1,50 @@
+{
+  "video_id": "OGHGXVEI",
+  "video": "OGHGXVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Erythropus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Erythropus Bird",
+      "Keeping still"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Erythropus Bird",
+      "Keeping still"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Erythropus Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.917,
+          "start_frame": 0,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

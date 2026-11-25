@@ -1,0 +1,137 @@
+{
+  "video_id": "BGMYAHSA",
+  "video": "BGMYAHSA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Cuckoo Bird",
+    "Chaffinch Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Cuckoo Bird",
+      "Flying"
+    ],
+    [
+      "Chaffinch Bird",
+      "Attending"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Attending"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Keeping still"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Sensing"
+    ],
+    [
+      "Chaffinch Bird",
+      "Chirping"
+    ],
+    [
+      "Chaffinch Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Cuckoo Bird",
+      "Flying"
+    ],
+    [
+      "Chaffinch Bird",
+      "Attending"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Attending"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Keeping still"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Sensing"
+    ],
+    [
+      "Chaffinch Bird",
+      "Chirping"
+    ],
+    [
+      "Chaffinch Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.32,
+          "start_frame": 0,
+          "end_frame": 56
+        },
+        {
+          "action": "Sensing",
+          "start": 2.391,
+          "end": 11.417,
+          "start_frame": 57,
+          "end_frame": 274
+        },
+        {
+          "action": "Attending",
+          "start": 2.485,
+          "end": 7.031,
+          "start_frame": 60,
+          "end_frame": 169
+        },
+        {
+          "action": "Attending",
+          "start": 8.704,
+          "end": 11.417,
+          "start_frame": 209,
+          "end_frame": 274
+        }
+      ]
+    },
+    {
+      "animal": "Chaffinch Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 2.804,
+          "end": 5.131,
+          "start_frame": 67,
+          "end_frame": 123
+        },
+        {
+          "action": "Attending",
+          "start": 3.451,
+          "end": 5.068,
+          "start_frame": 83,
+          "end_frame": 122
+        },
+        {
+          "action": "Chirping",
+          "start": 7.589,
+          "end": 10.29,
+          "start_frame": 182,
+          "end_frame": 247
+        },
+        {
+          "action": "Attending",
+          "start": 8.405,
+          "end": 10.392,
+          "start_frame": 202,
+          "end_frame": 249
+        }
+      ]
+    }
+  ]
+}

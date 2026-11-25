@@ -1,0 +1,34 @@
+{
+  "video_id": "SMLRJXGD",
+  "video": "SMLRJXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dog"
+  ],
+  "list_animal_action": [
+    [
+      "Dog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.214,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

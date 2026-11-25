@@ -1,0 +1,56 @@
+{
+  "video_id": "ZLOLEBXG",
+  "video": "ZLOLEBXG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Chirping"
+    ],
+    [
+      "Common Crane",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Chirping"
+    ],
+    [
+      "Common Crane",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 13.469,
+          "start_frame": 0,
+          "end_frame": 323
+        },
+        {
+          "action": "Sensing",
+          "start": 6.094,
+          "end": 8.969,
+          "start_frame": 146,
+          "end_frame": 215
+        },
+        {
+          "action": "Sensing",
+          "start": 9.094,
+          "end": 13.469,
+          "start_frame": 218,
+          "end_frame": 323
+        }
+      ]
+    }
+  ]
+}

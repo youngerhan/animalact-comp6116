@@ -1,0 +1,34 @@
+{
+  "video_id": "FETWZXDO",
+  "video": "FETWZXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rhinoceros"
+  ],
+  "list_animal_action": [
+    [
+      "Rhinoceros",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rhinoceros",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rhinoceros",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.917,
+          "start_frame": 0,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

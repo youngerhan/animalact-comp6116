@@ -1,0 +1,34 @@
+{
+  "video_id": "EWQSVNQN",
+  "video": "EWQSVNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chaffinch Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Chaffinch Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chaffinch Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chaffinch Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.001,
+          "end": 2.142,
+          "start_frame": 0,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

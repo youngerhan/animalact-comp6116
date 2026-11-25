@@ -1,0 +1,34 @@
+{
+  "video_id": "CZMIYZQU",
+  "video": "CZMIYZQU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard Gecko",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard Gecko",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard Gecko",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 9.36,
+          "start_frame": 0,
+          "end_frame": 225
+        }
+      ]
+    }
+  ]
+}

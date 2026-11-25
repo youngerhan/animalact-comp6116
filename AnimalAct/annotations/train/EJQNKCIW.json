@@ -1,0 +1,34 @@
+{
+  "video_id": "EJQNKCIW",
+  "video": "EJQNKCIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salticidae Jumping Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Salticidae Jumping Spider",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salticidae Jumping Spider",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salticidae Jumping Spider",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.107,
+          "end": 0.209,
+          "start_frame": 3,
+          "end_frame": 5
+        }
+      ]
+    }
+  ]
+}

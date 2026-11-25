@@ -1,0 +1,49 @@
+{
+  "video_id": "BBSQLLQI",
+  "video": "BBSQLLQI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rhesus Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Rhesus Macaque",
+      "Sensing"
+    ],
+    [
+      "Rhesus Macaque",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rhesus Macaque",
+      "Sensing"
+    ],
+    [
+      "Rhesus Macaque",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rhesus Macaque",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.282,
+          "end": 1.64,
+          "start_frame": 7,
+          "end_frame": 39
+        },
+        {
+          "action": "Sensing",
+          "start": 1.594,
+          "end": 4.878,
+          "start_frame": 38,
+          "end_frame": 117
+        }
+      ]
+    }
+  ]
+}

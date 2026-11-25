@@ -1,0 +1,41 @@
+{
+  "video_id": "FDYRGRLL",
+  "video": "FDYRGRLL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mouse"
+  ],
+  "list_animal_action": [
+    [
+      "Mouse",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mouse",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mouse",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.42,
+          "end": 0.653,
+          "start_frame": 10,
+          "end_frame": 16
+        },
+        {
+          "action": "Walking",
+          "start": 1.115,
+          "end": 1.835,
+          "start_frame": 27,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

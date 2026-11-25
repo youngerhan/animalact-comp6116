@@ -1,0 +1,34 @@
+{
+  "video_id": "CJTABRSU",
+  "video": "CJTABRSU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.0,
+          "end": 5.917,
+          "start_frame": 0,
+          "end_frame": 142
+        }
+      ]
+    }
+  ]
+}

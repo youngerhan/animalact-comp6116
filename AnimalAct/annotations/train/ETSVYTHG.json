@@ -1,0 +1,41 @@
+{
+  "video_id": "ETSVYTHG",
+  "video": "ETSVYTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellow-Backed Duiker"
+  ],
+  "list_animal_action": [
+    [
+      "Yellow-Backed Duiker",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellow-Backed Duiker",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellow-Backed Duiker",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.012,
+          "end": 5.179,
+          "start_frame": 0,
+          "end_frame": 124
+        },
+        {
+          "action": "Exploring",
+          "start": 6.66,
+          "end": 12.722,
+          "start_frame": 160,
+          "end_frame": 305
+        }
+      ]
+    }
+  ]
+}

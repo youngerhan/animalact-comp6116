@@ -1,0 +1,34 @@
+{
+  "video_id": "UACLROOZ",
+  "video": "UACLROOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Spider",
+      "Building nest"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spider",
+      "Building nest"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Building nest",
+          "start": 0.351,
+          "end": 1.944,
+          "start_frame": 8,
+          "end_frame": 47
+        }
+      ]
+    }
+  ]
+}

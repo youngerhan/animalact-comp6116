@@ -1,0 +1,56 @@
+{
+  "video_id": "FZKFSEUL",
+  "video": "FZKFSEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.969,
+          "start_frame": 0,
+          "end_frame": 95
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 4.094,
+          "end": 4.719,
+          "start_frame": 98,
+          "end_frame": 113
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.844,
+          "end": 6.094,
+          "start_frame": 116,
+          "end_frame": 146
+        }
+      ]
+    }
+  ]
+}

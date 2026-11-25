@@ -1,0 +1,49 @@
+{
+  "video_id": "OSBRCVTI",
+  "video": "OSBRCVTI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Smew"
+  ],
+  "list_animal_action": [
+    [
+      "Smew",
+      "Flapping"
+    ],
+    [
+      "Smew",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Smew",
+      "Flapping"
+    ],
+    [
+      "Smew",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Smew",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.352,
+          "end": 3.959,
+          "start_frame": 8,
+          "end_frame": 95
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 1.922,
+          "end": 3.688,
+          "start_frame": 46,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "video_id": "ATHWRTFT",
+  "video": "ATHWRTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Fighting"
+    ],
+    [
+      "Flamingo",
+      "Walking"
+    ],
+    [
+      "Flamingo",
+      "Preening"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Fighting"
+    ],
+    [
+      "Flamingo",
+      "Walking"
+    ],
+    [
+      "Flamingo",
+      "Preening"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.02,
+          "end": 3.321,
+          "start_frame": 0,
+          "end_frame": 80
+        },
+        {
+          "action": "Drinking",
+          "start": 3.701,
+          "end": 7.262,
+          "start_frame": 89,
+          "end_frame": 174
+        },
+        {
+          "action": "Fighting",
+          "start": 7.594,
+          "end": 7.719,
+          "start_frame": 182,
+          "end_frame": 185
+        },
+        {
+          "action": "Fighting",
+          "start": 8.523,
+          "end": 11.744,
+          "start_frame": 205,
+          "end_frame": 282
+        },
+        {
+          "action": "Drinking",
+          "start": 9.823,
+          "end": 11.684,
+          "start_frame": 236,
+          "end_frame": 280
+        },
+        {
+          "action": "Drinking",
+          "start": 12.564,
+          "end": 38.772,
+          "start_frame": 302,
+          "end_frame": 931
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 22.067,
+          "end": 24.808,
+          "start_frame": 530,
+          "end_frame": 595
+        },
+        {
+          "action": "Fighting",
+          "start": 23.307,
+          "end": 26.208,
+          "start_frame": 559,
+          "end_frame": 629
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 24.828,
+          "end": 25.628,
+          "start_frame": 596,
+          "end_frame": 615
+        },
+        {
+          "action": "Sensing",
+          "start": 32.59,
+          "end": 35.791,
+          "start_frame": 782,
+          "end_frame": 859
+        },
+        {
+          "action": "Walking",
+          "start": 39.719,
+          "end": 40.094,
+          "start_frame": 953,
+          "end_frame": 962
+        },
+        {
+          "action": "Walking",
+          "start": 40.594,
+          "end": 42.344,
+          "start_frame": 974,
+          "end_frame": 1016
+        },
+        {
+          "action": "Preening",
+          "start": 41.969,
+          "end": 42.094,
+          "start_frame": 1007,
+          "end_frame": 1010
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 41.969,
+          "end": 42.094,
+          "start_frame": 1007,
+          "end_frame": 1010
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 41.969,
+          "end": 42.094,
+          "start_frame": 1007,
+          "end_frame": 1010
+        }
+      ]
+    }
+  ]
+}

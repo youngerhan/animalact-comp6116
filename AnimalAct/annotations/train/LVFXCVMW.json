@@ -1,0 +1,55 @@
+{
+  "video_id": "LVFXCVMW",
+  "video": "LVFXCVMW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Russell'S Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Russell'S Viper",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Russell'S Viper",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Russell'S Viper",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.448,
+          "end": 2.705,
+          "start_frame": 35,
+          "end_frame": 65
+        },
+        {
+          "action": "Moving",
+          "start": 6.304,
+          "end": 6.762,
+          "start_frame": 151,
+          "end_frame": 162
+        },
+        {
+          "action": "Moving",
+          "start": 8.168,
+          "end": 9.307,
+          "start_frame": 196,
+          "end_frame": 223
+        },
+        {
+          "action": "Moving",
+          "start": 10.393,
+          "end": 10.883,
+          "start_frame": 249,
+          "end_frame": 261
+        }
+      ]
+    }
+  ]
+}

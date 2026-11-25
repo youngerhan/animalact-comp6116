@@ -1,0 +1,49 @@
+{
+  "video_id": "UPWNCKEW",
+  "video": "UPWNCKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Pelican"
+  ],
+  "list_animal_action": [
+    [
+      "Pelican",
+      "Doing A Backward Tilt"
+    ],
+    [
+      "Pelican",
+      "Yawning"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Pelican",
+      "Doing A Backward Tilt"
+    ],
+    [
+      "Pelican",
+      "Yawning"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Pelican",
+      "actions": [
+        {
+          "action": "Doing A Backward Tilt",
+          "start": 0.004,
+          "end": 1.398,
+          "start_frame": 0,
+          "end_frame": 34
+        },
+        {
+          "action": "Yawning",
+          "start": 1.921,
+          "end": 2.342,
+          "start_frame": 46,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

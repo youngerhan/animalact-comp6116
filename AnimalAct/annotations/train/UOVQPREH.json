@@ -1,0 +1,49 @@
+{
+  "video_id": "UOVQPREH",
+  "video": "UOVQPREH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.042,
+          "start_frame": 0,
+          "end_frame": 193
+        },
+        {
+          "action": "Eating",
+          "start": 0.004,
+          "end": 8.038,
+          "start_frame": 0,
+          "end_frame": 193
+        }
+      ]
+    }
+  ]
+}

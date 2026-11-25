@@ -1,0 +1,64 @@
+{
+  "video_id": "MMSWNBQT",
+  "video": "MMSWNBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fruit Bat"
+  ],
+  "list_animal_action": [
+    [
+      "Fruit Bat",
+      "Hugging"
+    ],
+    [
+      "Fruit Bat",
+      "Grooming"
+    ],
+    [
+      "Fruit Bat",
+      "Hanging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fruit Bat",
+      "Hugging"
+    ],
+    [
+      "Fruit Bat",
+      "Grooming"
+    ],
+    [
+      "Fruit Bat",
+      "Hanging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fruit Bat",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 3.386,
+          "start_frame": 0,
+          "end_frame": 81
+        },
+        {
+          "action": "Grooming",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        },
+        {
+          "action": "Hanging",
+          "start": 0.0,
+          "end": 3.417,
+          "start_frame": 0,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

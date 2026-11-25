@@ -1,0 +1,34 @@
+{
+  "video_id": "GODTWAFG",
+  "video": "GODTWAFG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Phyllium Giganteum"
+  ],
+  "list_animal_action": [
+    [
+      "Phyllium Giganteum",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Phyllium Giganteum",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Phyllium Giganteum",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.5,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

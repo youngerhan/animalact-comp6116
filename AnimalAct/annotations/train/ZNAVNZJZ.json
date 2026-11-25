@@ -1,0 +1,62 @@
+{
+  "video_id": "ZNAVNZJZ",
+  "video": "ZNAVNZJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Eagle",
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Eagle",
+      "Walking"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Eagle",
+      "Walking"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Eagle",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.987,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    },
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.001,
+          "end": 0.222,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Sensing",
+          "start": 1.147,
+          "end": 1.333,
+          "start_frame": 28,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

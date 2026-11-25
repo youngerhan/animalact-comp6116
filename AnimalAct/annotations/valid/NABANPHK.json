@@ -1,0 +1,49 @@
+{
+  "video_id": "NABANPHK",
+  "video": "NABANPHK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Azure Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Azure Tit Bird",
+      "Flying"
+    ],
+    [
+      "Azure Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Azure Tit Bird",
+      "Flying"
+    ],
+    [
+      "Azure Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Azure Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.75,
+          "start_frame": 0,
+          "end_frame": 90
+        },
+        {
+          "action": "Flying",
+          "start": 3.75,
+          "end": 4.125,
+          "start_frame": 90,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

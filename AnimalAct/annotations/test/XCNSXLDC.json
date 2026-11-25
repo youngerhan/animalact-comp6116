@@ -1,0 +1,49 @@
+{
+  "video_id": "XCNSXLDC",
+  "video": "XCNSXLDC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lampropeltis Zonata Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Lampropeltis Zonata Snake",
+      "Moving"
+    ],
+    [
+      "Lampropeltis Zonata Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lampropeltis Zonata Snake",
+      "Moving"
+    ],
+    [
+      "Lampropeltis Zonata Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lampropeltis Zonata Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 6.458,
+          "start_frame": 0,
+          "end_frame": 155
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.5,
+          "end": 9.917,
+          "start_frame": 156,
+          "end_frame": 238
+        }
+      ]
+    }
+  ]
+}

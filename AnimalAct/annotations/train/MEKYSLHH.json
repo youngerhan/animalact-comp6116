@@ -1,0 +1,49 @@
+{
+  "video_id": "MEKYSLHH",
+  "video": "MEKYSLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Keeping still"
+    ],
+    [
+      "Frog",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Keeping still"
+    ],
+    [
+      "Frog",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.523,
+          "start_frame": 0,
+          "end_frame": 13
+        },
+        {
+          "action": "Jumping",
+          "start": 0.292,
+          "end": 0.523,
+          "start_frame": 7,
+          "end_frame": 13
+        }
+      ]
+    }
+  ]
+}

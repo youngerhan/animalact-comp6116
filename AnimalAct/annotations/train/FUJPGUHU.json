@@ -1,0 +1,41 @@
+{
+  "video_id": "FUJPGUHU",
+  "video": "FUJPGUHU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bluethroat"
+  ],
+  "list_animal_action": [
+    [
+      "Bluethroat",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bluethroat",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bluethroat",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.594,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Attending",
+          "start": 0.815,
+          "end": 3.844,
+          "start_frame": 20,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

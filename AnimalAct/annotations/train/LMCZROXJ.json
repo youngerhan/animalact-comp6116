@@ -1,0 +1,34 @@
+{
+  "video_id": "LMCZROXJ",
+  "video": "LMCZROXJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Lizard",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lizard",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lizard",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.5,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

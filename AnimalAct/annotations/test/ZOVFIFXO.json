@@ -1,0 +1,107 @@
+{
+  "video_id": "ZOVFIFXO",
+  "video": "ZOVFIFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Washing"
+    ],
+    [
+      "Tit Bird",
+      "Flapping"
+    ],
+    [
+      "Tit Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Washing"
+    ],
+    [
+      "Tit Bird",
+      "Flapping"
+    ],
+    [
+      "Tit Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.125,
+          "start_frame": 0,
+          "end_frame": 3
+        },
+        {
+          "action": "Washing",
+          "start": 0.125,
+          "end": 1.375,
+          "start_frame": 3,
+          "end_frame": 33
+        },
+        {
+          "action": "Flapping",
+          "start": 0.25,
+          "end": 1.375,
+          "start_frame": 6,
+          "end_frame": 33
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.375,
+          "end": 1.625,
+          "start_frame": 33,
+          "end_frame": 39
+        },
+        {
+          "action": "Sensing",
+          "start": 1.625,
+          "end": 2.75,
+          "start_frame": 39,
+          "end_frame": 66
+        },
+        {
+          "action": "Flapping",
+          "start": 2.75,
+          "end": 3.5,
+          "start_frame": 66,
+          "end_frame": 84
+        },
+        {
+          "action": "Washing",
+          "start": 2.75,
+          "end": 3.5,
+          "start_frame": 66,
+          "end_frame": 84
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.25,
+          "end": 3.625,
+          "start_frame": 78,
+          "end_frame": 87
+        }
+      ]
+    }
+  ]
+}

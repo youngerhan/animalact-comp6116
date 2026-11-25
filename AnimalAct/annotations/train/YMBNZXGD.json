@@ -1,0 +1,34 @@
+{
+  "video_id": "YMBNZXGD",
+  "video": "YMBNZXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Having A Flehmen Response"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Having A Flehmen Response"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Having A Flehmen Response",
+          "start": 0.0,
+          "end": 3.708,
+          "start_frame": 0,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "XRAOWZIE",
+  "video": "XRAOWZIE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Landing"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Landing"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.0,
+          "end": 0.24,
+          "start_frame": 0,
+          "end_frame": 6
+        },
+        {
+          "action": "Eating",
+          "start": 0.246,
+          "end": 0.44,
+          "start_frame": 6,
+          "end_frame": 11
+        }
+      ]
+    }
+  ]
+}

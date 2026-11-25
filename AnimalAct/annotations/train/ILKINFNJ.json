@@ -1,0 +1,34 @@
+{
+  "video_id": "ILKINFNJ",
+  "video": "ILKINFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Falling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Falling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Falling",
+          "start": 0.081,
+          "end": 0.708,
+          "start_frame": 2,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

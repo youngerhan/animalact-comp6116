@@ -1,0 +1,86 @@
+{
+  "video_id": "ZNAIJPKK",
+  "video": "ZNAIJPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Flying"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Flying"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Flying",
+          "start": 0.75,
+          "end": 1.458,
+          "start_frame": 18,
+          "end_frame": 35
+        },
+        {
+          "action": "Landing",
+          "start": 1.25,
+          "end": 1.875,
+          "start_frame": 30,
+          "end_frame": 45
+        },
+        {
+          "action": "Walking",
+          "start": 1.875,
+          "end": 3.625,
+          "start_frame": 45,
+          "end_frame": 87
+        },
+        {
+          "action": "Sensing",
+          "start": 2.0,
+          "end": 3.625,
+          "start_frame": 48,
+          "end_frame": 87
+        }
+      ]
+    }
+  ]
+}

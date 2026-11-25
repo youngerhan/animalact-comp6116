@@ -1,0 +1,32 @@
+{
+  "video_id": "SUMCRXFE",
+  "video": "SUMCRXFE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tern"
+  ],
+  "list_animal_action": [
+    [
+      "Tern",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tern",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tern",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 2.21
+        }
+      ]
+    }
+  ]
+}

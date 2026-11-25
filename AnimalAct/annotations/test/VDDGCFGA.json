@@ -1,0 +1,55 @@
+{
+  "video_id": "VDDGCFGA",
+  "video": "VDDGCFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wild Dog",
+    "Wildebeest"
+  ],
+  "list_animal_action": [
+    [
+      "Wild Dog",
+      "Running"
+    ],
+    [
+      "Wildebeest",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wild Dog",
+      "Running"
+    ],
+    [
+      "Wildebeest",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wild Dog",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    },
+    {
+      "animal": "Wildebeest",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "RPTWVAMC",
+  "video": "RPTWVAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "WMBMDDGW",
+  "video": "WMBMDDGW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Stock Dove"
+  ],
+  "list_animal_action": [
+    [
+      "Stock Dove",
+      "Flying"
+    ],
+    [
+      "Stock Dove",
+      "Jumping"
+    ],
+    [
+      "Stock Dove",
+      "Spreading Wings"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Stock Dove",
+      "Flying"
+    ],
+    [
+      "Stock Dove",
+      "Jumping"
+    ],
+    [
+      "Stock Dove",
+      "Spreading Wings"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Stock Dove",
+      "actions": [
+        {
+          "action": "Spreading Wings",
+          "start": 0.125,
+          "end": 0.792,
+          "start_frame": 3,
+          "end_frame": 19
+        },
+        {
+          "action": "Jumping",
+          "start": 0.167,
+          "end": 0.583,
+          "start_frame": 4,
+          "end_frame": 14
+        },
+        {
+          "action": "Flying",
+          "start": 0.167,
+          "end": 0.667,
+          "start_frame": 4,
+          "end_frame": 16
+        }
+      ]
+    }
+  ]
+}

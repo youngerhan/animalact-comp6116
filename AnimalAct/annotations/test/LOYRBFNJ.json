@@ -1,0 +1,34 @@
+{
+  "video_id": "LOYRBFNJ",
+  "video": "LOYRBFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Calling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Calling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Calling",
+          "start": 0.0,
+          "end": 1.125,
+          "start_frame": 0,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

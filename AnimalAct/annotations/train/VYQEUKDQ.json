@@ -1,0 +1,49 @@
+{
+  "video_id": "VYQEUKDQ",
+  "video": "VYQEUKDQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Great Egret",
+      "Flying"
+    ],
+    [
+      "Great Egret",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Egret",
+      "Flying"
+    ],
+    [
+      "Great Egret",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Egret",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.142,
+          "end": 3.62,
+          "start_frame": 3,
+          "end_frame": 87
+        },
+        {
+          "action": "Flying",
+          "start": 3.646,
+          "end": 11.301,
+          "start_frame": 88,
+          "end_frame": 271
+        }
+      ]
+    }
+  ]
+}

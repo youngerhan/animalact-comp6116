@@ -1,0 +1,34 @@
+{
+  "video_id": "HHFOINQN",
+  "video": "HHFOINQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "European Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "European Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "European Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "European Robin Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 4.833,
+          "start_frame": 0,
+          "end_frame": 116
+        }
+      ]
+    }
+  ]
+}

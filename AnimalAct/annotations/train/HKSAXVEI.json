@@ -1,0 +1,64 @@
+{
+  "video_id": "HKSAXVEI",
+  "video": "HKSAXVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Glareola Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Glareola Bird",
+      "Sensing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Preening"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Glareola Bird",
+      "Sensing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Preening"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Glareola Bird",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.0,
+          "end": 1.134,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Preening",
+          "start": 1.163,
+          "end": 2.538,
+          "start_frame": 28,
+          "end_frame": 61
+        },
+        {
+          "action": "Sensing",
+          "start": 2.528,
+          "end": 5.533,
+          "start_frame": 61,
+          "end_frame": 133
+        }
+      ]
+    }
+  ]
+}

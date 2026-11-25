@@ -1,0 +1,143 @@
+{
+  "video_id": "JQRZSUDI",
+  "video": "JQRZSUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Attending"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ],
+    [
+      "Robin Bird",
+      "Shaking Head"
+    ],
+    [
+      "Robin Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Attending"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ],
+    [
+      "Robin Bird",
+      "Shaking Head"
+    ],
+    [
+      "Robin Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.533,
+          "start_frame": 0,
+          "end_frame": 13
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.534,
+          "end": 0.755,
+          "start_frame": 13,
+          "end_frame": 18
+        },
+        {
+          "action": "Attending",
+          "start": 0.545,
+          "end": 3.115,
+          "start_frame": 13,
+          "end_frame": 75
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.787,
+          "end": 3.113,
+          "start_frame": 19,
+          "end_frame": 75
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.089,
+          "end": 3.44,
+          "start_frame": 74,
+          "end_frame": 83
+        },
+        {
+          "action": "Chirping",
+          "start": 3.586,
+          "end": 7.596,
+          "start_frame": 86,
+          "end_frame": 182
+        },
+        {
+          "action": "Shaking Head",
+          "start": 7.596,
+          "end": 8.141,
+          "start_frame": 182,
+          "end_frame": 195
+        },
+        {
+          "action": "Sensing",
+          "start": 7.623,
+          "end": 10.709,
+          "start_frame": 183,
+          "end_frame": 257
+        },
+        {
+          "action": "Attending",
+          "start": 7.883,
+          "end": 10.552,
+          "start_frame": 189,
+          "end_frame": 253
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.104,
+          "end": 9.619,
+          "start_frame": 194,
+          "end_frame": 231
+        },
+        {
+          "action": "Shaking Head",
+          "start": 9.691,
+          "end": 10.733,
+          "start_frame": 233,
+          "end_frame": 258
+        },
+        {
+          "action": "Chirping",
+          "start": 11.06,
+          "end": 14.125,
+          "start_frame": 265,
+          "end_frame": 339
+        }
+      ]
+    }
+  ]
+}

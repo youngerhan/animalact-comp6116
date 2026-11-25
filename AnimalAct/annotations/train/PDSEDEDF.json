@@ -1,0 +1,34 @@
+{
+  "video_id": "PDSEDEDF",
+  "video": "PDSEDEDF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caretta Caretta Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Caretta Caretta Turtle",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caretta Caretta Turtle",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caretta Caretta Turtle",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.008,
+          "end": 3.302,
+          "start_frame": 0,
+          "end_frame": 79
+        }
+      ]
+    }
+  ]
+}

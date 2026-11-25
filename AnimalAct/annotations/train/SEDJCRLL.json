@@ -1,0 +1,94 @@
+{
+  "video_id": "SEDJCRLL",
+  "video": "SEDJCRLL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mouse"
+  ],
+  "list_animal_action": [
+    [
+      "Mouse",
+      "Attending"
+    ],
+    [
+      "Mouse",
+      "Shaking Head"
+    ],
+    [
+      "Mouse",
+      "Grooming"
+    ],
+    [
+      "Mouse",
+      "Turning Around"
+    ],
+    [
+      "Mouse",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mouse",
+      "Attending"
+    ],
+    [
+      "Mouse",
+      "Shaking Head"
+    ],
+    [
+      "Mouse",
+      "Grooming"
+    ],
+    [
+      "Mouse",
+      "Turning Around"
+    ],
+    [
+      "Mouse",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mouse",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 0.0,
+          "end": 1.413,
+          "start_frame": 0,
+          "end_frame": 34
+        },
+        {
+          "action": "Attending",
+          "start": 1.53,
+          "end": 1.874,
+          "start_frame": 37,
+          "end_frame": 45
+        },
+        {
+          "action": "Turning Around",
+          "start": 2.061,
+          "end": 2.74,
+          "start_frame": 49,
+          "end_frame": 66
+        },
+        {
+          "action": "Running",
+          "start": 2.892,
+          "end": 3.518,
+          "start_frame": 69,
+          "end_frame": 84
+        },
+        {
+          "action": "Shaking Head",
+          "start": 4.349,
+          "end": 4.507,
+          "start_frame": 104,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

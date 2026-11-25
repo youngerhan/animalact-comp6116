@@ -1,0 +1,64 @@
+{
+  "video_id": "PPCXHPKK",
+  "video": "PPCXHPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.004,
+          "end": 0.448,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Walking",
+          "start": 0.419,
+          "end": 1.286,
+          "start_frame": 10,
+          "end_frame": 31
+        },
+        {
+          "action": "Preening",
+          "start": 1.673,
+          "end": 1.841,
+          "start_frame": 40,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

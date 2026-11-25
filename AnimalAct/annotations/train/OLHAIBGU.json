@@ -1,0 +1,55 @@
+{
+  "video_id": "OLHAIBGU",
+  "video": "OLHAIBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Orchard Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Orchard Bee",
+      "Building nest"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Orchard Bee",
+      "Building nest"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Orchard Bee",
+      "actions": [
+        {
+          "action": "Building nest",
+          "start": 0.029,
+          "end": 0.207,
+          "start_frame": 1,
+          "end_frame": 5
+        },
+        {
+          "action": "Building nest",
+          "start": 0.809,
+          "end": 2.469,
+          "start_frame": 19,
+          "end_frame": 59
+        },
+        {
+          "action": "Building nest",
+          "start": 3.022,
+          "end": 6.733,
+          "start_frame": 73,
+          "end_frame": 162
+        },
+        {
+          "action": "Building nest",
+          "start": 6.906,
+          "end": 8.188,
+          "start_frame": 166,
+          "end_frame": 197
+        }
+      ]
+    }
+  ]
+}

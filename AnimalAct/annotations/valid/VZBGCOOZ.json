@@ -1,0 +1,70 @@
+{
+  "video_id": "VZBGCOOZ",
+  "video": "VZBGCOOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Moth",
+    "Western Widow Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Moth",
+      "Trapped"
+    ],
+    [
+      "Western Widow Spider",
+      "Moving"
+    ],
+    [
+      "Moth",
+      "Struggling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Moth",
+      "Trapped"
+    ],
+    [
+      "Western Widow Spider",
+      "Moving"
+    ],
+    [
+      "Moth",
+      "Struggling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Moth",
+      "actions": [
+        {
+          "action": "Trapped",
+          "start": 0.0,
+          "end": 1.407,
+          "start_frame": 0,
+          "end_frame": 34
+        },
+        {
+          "action": "Struggling",
+          "start": 0.0,
+          "end": 1.417,
+          "start_frame": 0,
+          "end_frame": 34
+        }
+      ]
+    },
+    {
+      "animal": "Western Widow Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.417,
+          "start_frame": 0,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

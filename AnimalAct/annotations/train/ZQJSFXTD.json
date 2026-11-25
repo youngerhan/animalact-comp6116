@@ -1,0 +1,49 @@
+{
+  "video_id": "ZQJSFXTD",
+  "video": "ZQJSFXTD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cryptic Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Cryptic Mantis",
+      "Jumping"
+    ],
+    [
+      "Cryptic Mantis",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cryptic Mantis",
+      "Jumping"
+    ],
+    [
+      "Cryptic Mantis",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cryptic Mantis",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.112,
+          "end": 0.845,
+          "start_frame": 3,
+          "end_frame": 20
+        },
+        {
+          "action": "Sensing",
+          "start": 0.874,
+          "end": 2.242,
+          "start_frame": 21,
+          "end_frame": 54
+        }
+      ]
+    }
+  ]
+}

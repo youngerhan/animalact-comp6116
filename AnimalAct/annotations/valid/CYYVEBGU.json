@@ -1,0 +1,34 @@
+{
+  "video_id": "CYYVEBGU",
+  "video": "CYYVEBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Orchard Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Orchard Bee",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Orchard Bee",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Orchard Bee",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.763,
+          "start_frame": 0,
+          "end_frame": 18
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "DSYAZKTR",
+  "video": "DSYAZKTR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mouse"
+  ],
+  "list_animal_action": [
+    [
+      "Mouse",
+      "Attending"
+    ],
+    [
+      "Mouse",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mouse",
+      "Attending"
+    ],
+    [
+      "Mouse",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mouse",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.001,
+          "end": 0.637,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.003,
+          "end": 0.632,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Attending",
+          "start": 0.936,
+          "end": 2.717,
+          "start_frame": 22,
+          "end_frame": 65
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.946,
+          "end": 2.717,
+          "start_frame": 23,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

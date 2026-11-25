@@ -1,0 +1,49 @@
+{
+  "video_id": "DTRGWKJZ",
+  "video": "DTRGWKJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Pine Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Western Pine Beetle",
+      "Moving"
+    ],
+    [
+      "Western Pine Beetle",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Pine Beetle",
+      "Moving"
+    ],
+    [
+      "Western Pine Beetle",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Pine Beetle",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.917,
+          "start_frame": 0,
+          "end_frame": 94
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.917,
+          "start_frame": 0,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

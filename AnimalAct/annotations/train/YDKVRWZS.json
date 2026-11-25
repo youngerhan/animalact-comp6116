@@ -1,0 +1,49 @@
+{
+  "video_id": "YDKVRWZS",
+  "video": "YDKVRWZS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Carolina Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Carolina Duck",
+      "Turning Around"
+    ],
+    [
+      "Carolina Duck",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Carolina Duck",
+      "Turning Around"
+    ],
+    [
+      "Carolina Duck",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Carolina Duck",
+      "actions": [
+        {
+          "action": "Turning Around",
+          "start": 0.012,
+          "end": 13.125,
+          "start_frame": 0,
+          "end_frame": 315
+        },
+        {
+          "action": "Swimming",
+          "start": 12.884,
+          "end": 13.125,
+          "start_frame": 309,
+          "end_frame": 315
+        }
+      ]
+    }
+  ]
+}

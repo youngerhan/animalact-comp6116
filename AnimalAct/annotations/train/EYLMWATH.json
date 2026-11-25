@@ -1,0 +1,49 @@
+{
+  "video_id": "EYLMWATH",
+  "video": "EYLMWATH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Homalodisca Vitripennis Sharpshooter"
+  ],
+  "list_animal_action": [
+    [
+      "Homalodisca Vitripennis Sharpshooter",
+      "Keeping still"
+    ],
+    [
+      "Homalodisca Vitripennis Sharpshooter",
+      "Turning Around"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Homalodisca Vitripennis Sharpshooter",
+      "Keeping still"
+    ],
+    [
+      "Homalodisca Vitripennis Sharpshooter",
+      "Turning Around"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Homalodisca Vitripennis Sharpshooter",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.921,
+          "start_frame": 0,
+          "end_frame": 22
+        },
+        {
+          "action": "Turning Around",
+          "start": 0.921,
+          "end": 1.725,
+          "start_frame": 22,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

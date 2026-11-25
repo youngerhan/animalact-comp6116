@@ -1,0 +1,49 @@
+{
+  "video_id": "ERJBYBQT",
+  "video": "ERJBYBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Weaver Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Weaver Ant",
+      "Moving"
+    ],
+    [
+      "Weaver Ant",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Weaver Ant",
+      "Moving"
+    ],
+    [
+      "Weaver Ant",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Weaver Ant",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        },
+        {
+          "action": "Moving",
+          "start": 0.388,
+          "end": 1.917,
+          "start_frame": 9,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

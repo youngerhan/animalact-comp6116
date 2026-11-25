@@ -1,0 +1,49 @@
+{
+  "video_id": "BVWVEGDO",
+  "video": "BVWVEGDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "California Oak Moth Larva"
+  ],
+  "list_animal_action": [
+    [
+      "California Oak Moth Larva",
+      "Moving"
+    ],
+    [
+      "California Oak Moth Larva",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "California Oak Moth Larva",
+      "Moving"
+    ],
+    [
+      "California Oak Moth Larva",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "California Oak Moth Larva",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.901,
+          "start_frame": 0,
+          "end_frame": 70
+        },
+        {
+          "action": "Landing",
+          "start": 2.909,
+          "end": 4.625,
+          "start_frame": 70,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

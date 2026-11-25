@@ -1,0 +1,34 @@
+{
+  "video_id": "LCQNROTL",
+  "video": "LCQNROTL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Great Snipe",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Snipe",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Snipe",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 5.016,
+          "start_frame": 0,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

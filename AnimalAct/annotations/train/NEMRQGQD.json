@@ -1,0 +1,34 @@
+{
+  "video_id": "NEMRQGQD",
+  "video": "NEMRQGQD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 1.009,
+          "end": 1.384,
+          "start_frame": 24,
+          "end_frame": 33
+        }
+      ]
+    }
+  ]
+}

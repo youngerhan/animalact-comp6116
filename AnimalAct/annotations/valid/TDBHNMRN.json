@@ -1,0 +1,76 @@
+{
+  "video_id": "TDBHNMRN",
+  "video": "TDBHNMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Bird",
+    "Common Snipe",
+    "Mallard Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Bird",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Bird",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    },
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    },
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

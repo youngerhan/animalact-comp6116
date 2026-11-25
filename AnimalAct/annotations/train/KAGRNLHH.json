@@ -1,0 +1,34 @@
+{
+  "video_id": "KAGRNLHH",
+  "video": "KAGRNLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfrog"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfrog",
+      "Turning Around"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfrog",
+      "Turning Around"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfrog",
+      "actions": [
+        {
+          "action": "Turning Around",
+          "start": 0.0,
+          "end": 1.594,
+          "start_frame": 0,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

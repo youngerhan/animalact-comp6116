@@ -1,0 +1,49 @@
+{
+  "video_id": "QQADZADM",
+  "video": "QQADZADM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aesculapian Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aesculapian Snake",
+      "actions": [
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.011,
+          "end": 7.268,
+          "start_frame": 0,
+          "end_frame": 174
+        },
+        {
+          "action": "Moving",
+          "start": 0.074,
+          "end": 7.262,
+          "start_frame": 2,
+          "end_frame": 174
+        }
+      ]
+    }
+  ]
+}

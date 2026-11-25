@@ -1,0 +1,71 @@
+{
+  "video_id": "CDMKMLLG",
+  "video": "CDMKMLLG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Three-Toed Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Three-Toed Woodpecker",
+      "Pecking"
+    ],
+    [
+      "Three-Toed Woodpecker",
+      "Preening"
+    ],
+    [
+      "Three-Toed Woodpecker",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Three-Toed Woodpecker",
+      "Pecking"
+    ],
+    [
+      "Three-Toed Woodpecker",
+      "Preening"
+    ],
+    [
+      "Three-Toed Woodpecker",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Three-Toed Woodpecker",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.126,
+          "end": 1.381,
+          "start_frame": 3,
+          "end_frame": 33
+        },
+        {
+          "action": "Preening",
+          "start": 2.736,
+          "end": 3.385,
+          "start_frame": 66,
+          "end_frame": 81
+        },
+        {
+          "action": "Pecking",
+          "start": 4.547,
+          "end": 6.217,
+          "start_frame": 109,
+          "end_frame": 149
+        },
+        {
+          "action": "Sensing",
+          "start": 7.765,
+          "end": 9.319,
+          "start_frame": 186,
+          "end_frame": 224
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "JNWRVJIR",
+  "video": "JNWRVJIR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alauda Arvensis Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Alauda Arvensis Bird",
+      "Walking"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Attending"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alauda Arvensis Bird",
+      "Walking"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Attending"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alauda Arvensis Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.273,
+          "start_frame": 0,
+          "end_frame": 55
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.286,
+          "end": 5.721,
+          "start_frame": 55,
+          "end_frame": 137
+        },
+        {
+          "action": "Attending",
+          "start": 2.291,
+          "end": 5.721,
+          "start_frame": 55,
+          "end_frame": 137
+        }
+      ]
+    }
+  ]
+}

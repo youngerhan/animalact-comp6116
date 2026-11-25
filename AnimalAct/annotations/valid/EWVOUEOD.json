@@ -1,0 +1,41 @@
+{
+  "video_id": "EWVOUEOD",
+  "video": "EWVOUEOD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.271,
+          "end": 0.523,
+          "start_frame": 7,
+          "end_frame": 13
+        },
+        {
+          "action": "Sensing",
+          "start": 1.309,
+          "end": 1.634,
+          "start_frame": 31,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

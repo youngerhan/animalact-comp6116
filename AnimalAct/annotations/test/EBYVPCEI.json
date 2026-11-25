@@ -1,0 +1,49 @@
+{
+  "video_id": "EBYVPCEI",
+  "video": "EBYVPCEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Retaliating"
+    ],
+    [
+      "Ant",
+      "Being Dragged"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Retaliating"
+    ],
+    [
+      "Ant",
+      "Being Dragged"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Retaliating",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Being Dragged",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

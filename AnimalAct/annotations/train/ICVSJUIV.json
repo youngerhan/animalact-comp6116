@@ -1,0 +1,56 @@
+{
+  "video_id": "ICVSJUIV",
+  "video": "ICVSJUIV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Goldeneye"
+  ],
+  "list_animal_action": [
+    [
+      "Common Goldeneye",
+      "Doing A Side Tilt"
+    ],
+    [
+      "Common Goldeneye",
+      "Doing A Chin Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Goldeneye",
+      "Doing A Side Tilt"
+    ],
+    [
+      "Common Goldeneye",
+      "Doing A Chin Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Goldeneye",
+      "actions": [
+        {
+          "action": "Doing A Side Tilt",
+          "start": 1.25,
+          "end": 7.25,
+          "start_frame": 30,
+          "end_frame": 174
+        },
+        {
+          "action": "Doing A Chin Dip",
+          "start": 8.25,
+          "end": 9.25,
+          "start_frame": 198,
+          "end_frame": 222
+        },
+        {
+          "action": "Doing A Chin Dip",
+          "start": 11.5,
+          "end": 12.75,
+          "start_frame": 276,
+          "end_frame": 306
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "DYWDIOOZ",
+  "video": "DYWDIOOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Widow Spider",
+    "Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Western Widow Spider",
+      "Eating"
+    ],
+    [
+      "Beetle",
+      "Trapped"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Widow Spider",
+      "Eating"
+    ],
+    [
+      "Beetle",
+      "Trapped"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Widow Spider",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.414,
+          "start_frame": 0,
+          "end_frame": 58
+        }
+      ]
+    },
+    {
+      "animal": "Beetle",
+      "actions": [
+        {
+          "action": "Trapped",
+          "start": 0.0,
+          "end": 2.413,
+          "start_frame": 0,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

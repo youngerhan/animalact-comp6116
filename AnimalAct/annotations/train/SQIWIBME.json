@@ -1,0 +1,34 @@
+{
+  "video_id": "SQIWIBME",
+  "video": "SQIWIBME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.002,
+          "end": 0.916667,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

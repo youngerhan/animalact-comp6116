@@ -1,0 +1,64 @@
+{
+  "video_id": "IPOZIPKK",
+  "video": "IPOZIPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.061,
+          "end": 1.681,
+          "start_frame": 1,
+          "end_frame": 40
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.749,
+          "end": 2.097,
+          "start_frame": 42,
+          "end_frame": 50
+        },
+        {
+          "action": "Walking",
+          "start": 1.977,
+          "end": 4.333,
+          "start_frame": 47,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

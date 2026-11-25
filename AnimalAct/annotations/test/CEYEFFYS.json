@@ -1,0 +1,34 @@
+{
+  "video_id": "CEYEFFYS",
+  "video": "CEYEFFYS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Turtle",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turtle",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turtle",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 7.094,
+          "start_frame": 0,
+          "end_frame": 170
+        }
+      ]
+    }
+  ]
+}

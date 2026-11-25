@@ -1,0 +1,78 @@
+{
+  "video_id": "VLUPOACP",
+  "video": "VLUPOACP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Insect",
+    "Araneus Diadematus Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Insect",
+      "Struggling"
+    ],
+    [
+      "Insect",
+      "Attacking"
+    ],
+    [
+      "Araneus Diadematus Spider",
+      "Attacking"
+    ],
+    [
+      "Araneus Diadematus Spider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Insect",
+      "Struggling"
+    ],
+    [
+      "Insect",
+      "Attacking"
+    ],
+    [
+      "Araneus Diadematus Spider",
+      "Attacking"
+    ],
+    [
+      "Araneus Diadematus Spider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Insect",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 0.0,
+          "end": 2.417,
+          "start_frame": 0,
+          "end_frame": 58
+        },
+        {
+          "action": "Attacking",
+          "start": 0.0,
+          "end": 2.417,
+          "start_frame": 0,
+          "end_frame": 58
+        }
+      ]
+    },
+    {
+      "animal": "Araneus Diadematus Spider",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.0,
+          "end": 0.61,
+          "start_frame": 0,
+          "end_frame": 15
+        }
+      ]
+    }
+  ]
+}

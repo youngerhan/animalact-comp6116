@@ -1,0 +1,34 @@
+{
+  "video_id": "MKIRCRAC",
+  "video": "MKIRCRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Nosed Coati"
+  ],
+  "list_animal_action": [
+    [
+      "White Nosed Coati",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Nosed Coati",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Nosed Coati",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

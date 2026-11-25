@@ -1,0 +1,41 @@
+{
+  "video_id": "BDBYTOXJ",
+  "video": "BDBYTOXJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Rattlesnake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rattlesnake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rattlesnake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.003,
+          "end": 0.437,
+          "start_frame": 0,
+          "end_frame": 10
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.04,
+          "end": 2.824,
+          "start_frame": 25,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

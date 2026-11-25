@@ -1,0 +1,64 @@
+{
+  "video_id": "OKQDJVKA",
+  "video": "OKQDJVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Running"
+    ],
+    [
+      "Common Quail",
+      "Sensing"
+    ],
+    [
+      "Common Quail",
+      "Squatting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Running"
+    ],
+    [
+      "Common Quail",
+      "Sensing"
+    ],
+    [
+      "Common Quail",
+      "Squatting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.094,
+          "start_frame": 0,
+          "end_frame": 194
+        },
+        {
+          "action": "Squatting",
+          "start": 0.0,
+          "end": 8.344,
+          "start_frame": 0,
+          "end_frame": 200
+        },
+        {
+          "action": "Running",
+          "start": 8.344,
+          "end": 8.844,
+          "start_frame": 200,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

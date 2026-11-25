@@ -1,0 +1,34 @@
+{
+  "video_id": "WLBGIBLQ",
+  "video": "WLBGIBLQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Texas Brown Tarantula"
+  ],
+  "list_animal_action": [
+    [
+      "Texas Brown Tarantula",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Texas Brown Tarantula",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Texas Brown Tarantula",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.523,
+          "start_frame": 0,
+          "end_frame": 13
+        }
+      ]
+    }
+  ]
+}

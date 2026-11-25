@@ -1,0 +1,56 @@
+{
+  "video_id": "NHNRKYSZ",
+  "video": "NHNRKYSZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fruit Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Fruit Fly",
+      "Performing copulatory mounting"
+    ],
+    [
+      "Fruit Fly",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fruit Fly",
+      "Performing copulatory mounting"
+    ],
+    [
+      "Fruit Fly",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fruit Fly",
+      "actions": [
+        {
+          "action": "Performing copulatory mounting",
+          "start": 0.0,
+          "end": 13.417,
+          "start_frame": 0,
+          "end_frame": 322
+        },
+        {
+          "action": "Moving",
+          "start": 0.667,
+          "end": 2.417,
+          "start_frame": 16,
+          "end_frame": 58
+        },
+        {
+          "action": "Moving",
+          "start": 6.078,
+          "end": 7.578,
+          "start_frame": 146,
+          "end_frame": 182
+        }
+      ]
+    }
+  ]
+}

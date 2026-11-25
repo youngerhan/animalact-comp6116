@@ -1,0 +1,71 @@
+{
+  "video_id": "QLWHJKOU",
+  "video": "QLWHJKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Keeping still"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Keeping still"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.458,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Sensing",
+          "start": 0.458,
+          "end": 1.125,
+          "start_frame": 11,
+          "end_frame": 27
+        },
+        {
+          "action": "Chirping",
+          "start": 1.125,
+          "end": 1.333,
+          "start_frame": 27,
+          "end_frame": 32
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.333,
+          "end": 4.0,
+          "start_frame": 32,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

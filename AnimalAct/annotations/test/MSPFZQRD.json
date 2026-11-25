@@ -1,0 +1,49 @@
+{
+  "video_id": "MSPFZQRD",
+  "video": "MSPFZQRD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jerusalam Cricket"
+  ],
+  "list_animal_action": [
+    [
+      "Jerusalam Cricket",
+      "Keeping still"
+    ],
+    [
+      "Jerusalam Cricket",
+      "Shaking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jerusalam Cricket",
+      "Keeping still"
+    ],
+    [
+      "Jerusalam Cricket",
+      "Shaking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jerusalam Cricket",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.205,
+          "start_frame": 0,
+          "end_frame": 77
+        },
+        {
+          "action": "Shaking",
+          "start": 0.941,
+          "end": 3.203,
+          "start_frame": 23,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

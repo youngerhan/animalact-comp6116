@@ -1,0 +1,34 @@
+{
+  "video_id": "FAHDZLHH",
+  "video": "FAHDZLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.594,
+          "start_frame": 0,
+          "end_frame": 62
+        }
+      ]
+    }
+  ]
+}

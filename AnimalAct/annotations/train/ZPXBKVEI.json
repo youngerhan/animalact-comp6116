@@ -1,0 +1,149 @@
+{
+  "video_id": "ZPXBKVEI",
+  "video": "ZPXBKVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Duck",
+    "Anas Crecca Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Duck",
+      "Keeping still"
+    ],
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Preening"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Duck",
+      "Keeping still"
+    ],
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Preening"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.558,
+          "start_frame": 0,
+          "end_frame": 37
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.563,
+          "start_frame": 0,
+          "end_frame": 38
+        },
+        {
+          "action": "Preening",
+          "start": 1.558,
+          "end": 2.721,
+          "start_frame": 37,
+          "end_frame": 65
+        },
+        {
+          "action": "Attending",
+          "start": 2.729,
+          "end": 3.73,
+          "start_frame": 65,
+          "end_frame": 90
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.738,
+          "end": 3.747,
+          "start_frame": 66,
+          "end_frame": 90
+        },
+        {
+          "action": "Preening",
+          "start": 3.717,
+          "end": 5.109,
+          "start_frame": 89,
+          "end_frame": 123
+        },
+        {
+          "action": "Attending",
+          "start": 5.343,
+          "end": 9.222,
+          "start_frame": 128,
+          "end_frame": 221
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.463,
+          "end": 8.417,
+          "start_frame": 155,
+          "end_frame": 202
+        }
+      ]
+    },
+    {
+      "animal": "Anas Crecca Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.085,
+          "end": 0.894,
+          "start_frame": 2,
+          "end_frame": 21
+        },
+        {
+          "action": "Preening",
+          "start": 1.188,
+          "end": 4.053,
+          "start_frame": 29,
+          "end_frame": 97
+        },
+        {
+          "action": "Preening",
+          "start": 4.764,
+          "end": 6.118,
+          "start_frame": 114,
+          "end_frame": 147
+        },
+        {
+          "action": "Eating",
+          "start": 6.263,
+          "end": 7.229,
+          "start_frame": 150,
+          "end_frame": 173
+        }
+      ]
+    }
+  ]
+}

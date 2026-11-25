@@ -1,0 +1,41 @@
+{
+  "video_id": "KZLMYPKK",
+  "video": "KZLMYPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 1.475,
+          "start_frame": 0,
+          "end_frame": 35
+        },
+        {
+          "action": "Drinking",
+          "start": 1.928,
+          "end": 3.71,
+          "start_frame": 46,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

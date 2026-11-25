@@ -1,0 +1,55 @@
+{
+  "video_id": "UJLTWYMI",
+  "video": "UJLTWYMI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hoverfly Young",
+    "Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Hoverfly Young",
+      "Keeping still"
+    ],
+    [
+      "Aphid",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hoverfly Young",
+      "Keeping still"
+    ],
+    [
+      "Aphid",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hoverfly Young",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.023,
+          "start_frame": 0,
+          "end_frame": 97
+        }
+      ]
+    },
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.023,
+          "start_frame": 0,
+          "end_frame": 97
+        }
+      ]
+    }
+  ]
+}

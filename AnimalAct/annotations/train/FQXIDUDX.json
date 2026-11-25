@@ -1,0 +1,34 @@
+{
+  "video_id": "FQXIDUDX",
+  "video": "FQXIDUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Elephant"
+  ],
+  "list_animal_action": [
+    [
+      "Elephant",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Elephant",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Elephant",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.273,
+          "end": 7.708,
+          "start_frame": 7,
+          "end_frame": 185
+        }
+      ]
+    }
+  ]
+}

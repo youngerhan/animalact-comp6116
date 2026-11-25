@@ -1,0 +1,100 @@
+{
+  "video_id": "OZSQHVEI",
+  "video": "OZSQHVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird",
+    "Gallinago Gallinago Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Running"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Running"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 15.417,
+          "start_frame": 0,
+          "end_frame": 370
+        },
+        {
+          "action": "Walking",
+          "start": 7.167,
+          "end": 12.833,
+          "start_frame": 172,
+          "end_frame": 308
+        },
+        {
+          "action": "Running",
+          "start": 13.458,
+          "end": 14.458,
+          "start_frame": 323,
+          "end_frame": 347
+        }
+      ]
+    },
+    {
+      "animal": "Gallinago Gallinago Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 15.417,
+          "start_frame": 0,
+          "end_frame": 370
+        },
+        {
+          "action": "Running",
+          "start": 5.208,
+          "end": 5.958,
+          "start_frame": 125,
+          "end_frame": 143
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "MTAADTHG",
+  "video": "MTAADTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Campbell'S Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Campbell'S Monkey",
+      "Attending"
+    ],
+    [
+      "Campbell'S Monkey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Campbell'S Monkey",
+      "Attending"
+    ],
+    [
+      "Campbell'S Monkey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Campbell'S Monkey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.975,
+          "start_frame": 0,
+          "end_frame": 47
+        },
+        {
+          "action": "Attending",
+          "start": 1.975,
+          "end": 4.84,
+          "start_frame": 47,
+          "end_frame": 116
+        }
+      ]
+    }
+  ]
+}

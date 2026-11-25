@@ -1,0 +1,34 @@
+{
+  "video_id": "LLVDSKTR",
+  "video": "LLVDSKTR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Northern Pacific Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Northern Pacific Rattlesnake",
+      "Rattling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Northern Pacific Rattlesnake",
+      "Rattling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Northern Pacific Rattlesnake",
+      "actions": [
+        {
+          "action": "Rattling",
+          "start": 0.0,
+          "end": 4.209,
+          "start_frame": 0,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

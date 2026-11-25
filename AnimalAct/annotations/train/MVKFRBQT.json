@@ -1,0 +1,34 @@
+{
+  "video_id": "MVKFRBQT",
+  "video": "MVKFRBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 13.208,
+          "start_frame": 0,
+          "end_frame": 317
+        }
+      ]
+    }
+  ]
+}

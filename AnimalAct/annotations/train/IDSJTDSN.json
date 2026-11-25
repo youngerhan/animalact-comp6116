@@ -1,0 +1,34 @@
+{
+  "video_id": "IDSJTDSN",
+  "video": "IDSJTDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Marine Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Marine Iguana",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Marine Iguana",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Marine Iguana",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.708,
+          "end": 2.625,
+          "start_frame": 17,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

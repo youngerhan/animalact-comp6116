@@ -1,0 +1,34 @@
+{
+  "video_id": "RJMTSSVW",
+  "video": "RJMTSSVW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Halyomorpha Halys"
+  ],
+  "list_animal_action": [
+    [
+      "Halyomorpha Halys",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Halyomorpha Halys",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Halyomorpha Halys",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.167,
+          "end": 0.708,
+          "start_frame": 4,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

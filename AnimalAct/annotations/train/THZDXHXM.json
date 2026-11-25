@@ -1,0 +1,34 @@
+{
+  "video_id": "THZDXHXM",
+  "video": "THZDXHXM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dendroaspis Polylepis Black Mamba"
+  ],
+  "list_animal_action": [
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dendroaspis Polylepis Black Mamba",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.121,
+          "end": 18.917,
+          "start_frame": 27,
+          "end_frame": 454
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "EJDNZBME",
+  "video": "EJDNZBME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse",
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 5.0,
+          "start_frame": 0,
+          "end_frame": 120
+        }
+      ]
+    },
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 4.417,
+          "start_frame": 0,
+          "end_frame": 106
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "OBFSVSOB",
+  "video": "OBFSVSOB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nose-Horned Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Nose-Horned Viper",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nose-Horned Viper",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nose-Horned Viper",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 15.917,
+          "start_frame": 0,
+          "end_frame": 382
+        }
+      ]
+    }
+  ]
+}

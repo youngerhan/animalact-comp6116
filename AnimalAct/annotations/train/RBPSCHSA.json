@@ -1,0 +1,34 @@
+{
+  "video_id": "RBPSCHSA",
+  "video": "RBPSCHSA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Cuckoo Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Cuckoo Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Cuckoo Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.625,
+          "start_frame": 0,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

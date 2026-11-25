@@ -1,0 +1,34 @@
+{
+  "video_id": "WXTOKSEK",
+  "video": "WXTOKSEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jack Snipe Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Jack Snipe Bird",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jack Snipe Bird",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jack Snipe Bird",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 9.844,
+          "start_frame": 0,
+          "end_frame": 236
+        }
+      ]
+    }
+  ]
+}

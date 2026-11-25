@@ -1,0 +1,49 @@
+{
+  "video_id": "JVVEIFJO",
+  "video": "JVVEIFJO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salamander"
+  ],
+  "list_animal_action": [
+    [
+      "Salamander",
+      "Walking"
+    ],
+    [
+      "Salamander",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salamander",
+      "Walking"
+    ],
+    [
+      "Salamander",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salamander",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.316,
+          "start_frame": 0,
+          "end_frame": 80
+        },
+        {
+          "action": "Walking",
+          "start": 0.004,
+          "end": 3.853,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "video_id": "TXLADFXO",
+  "video": "TXLADFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Preening"
+    ],
+    [
+      "Tit Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Preening"
+    ],
+    [
+      "Tit Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.584,
+          "start_frame": 0,
+          "end_frame": 62
+        },
+        {
+          "action": "Sensing",
+          "start": 2.584,
+          "end": 3.228,
+          "start_frame": 62,
+          "end_frame": 77
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.248,
+          "end": 3.616,
+          "start_frame": 78,
+          "end_frame": 87
+        },
+        {
+          "action": "Sensing",
+          "start": 3.657,
+          "end": 4.086,
+          "start_frame": 88,
+          "end_frame": 98
+        },
+        {
+          "action": "Preening",
+          "start": 4.137,
+          "end": 5.629,
+          "start_frame": 99,
+          "end_frame": 135
+        },
+        {
+          "action": "Sensing",
+          "start": 5.669,
+          "end": 9.122,
+          "start_frame": 136,
+          "end_frame": 219
+        },
+        {
+          "action": "Chirping",
+          "start": 9.236,
+          "end": 12.0,
+          "start_frame": 222,
+          "end_frame": 288
+        },
+        {
+          "action": "Sensing",
+          "start": 11.962,
+          "end": 22.126,
+          "start_frame": 287,
+          "end_frame": 531
+        },
+        {
+          "action": "Chirping",
+          "start": 17.015,
+          "end": 20.082,
+          "start_frame": 408,
+          "end_frame": 482
+        }
+      ]
+    }
+  ]
+}

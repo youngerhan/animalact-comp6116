@@ -1,0 +1,92 @@
+{
+  "video_id": "PNHNVFXO",
+  "video": "PNHNVFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Washing"
+    ],
+    [
+      "Tit Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Washing"
+    ],
+    [
+      "Tit Bird",
+      "Shaking Head"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.045,
+          "end": 3.859,
+          "start_frame": 1,
+          "end_frame": 93
+        },
+        {
+          "action": "Washing",
+          "start": 0.242,
+          "end": 0.938,
+          "start_frame": 6,
+          "end_frame": 23
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.7,
+          "end": 0.842,
+          "start_frame": 17,
+          "end_frame": 20
+        },
+        {
+          "action": "Washing",
+          "start": 1.912,
+          "end": 2.996,
+          "start_frame": 46,
+          "end_frame": 72
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.383,
+          "end": 2.586,
+          "start_frame": 57,
+          "end_frame": 62
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.991,
+          "end": 3.216,
+          "start_frame": 72,
+          "end_frame": 77
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.52,
+          "end": 3.682,
+          "start_frame": 84,
+          "end_frame": 88
+        }
+      ]
+    }
+  ]
+}

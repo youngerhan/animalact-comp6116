@@ -1,0 +1,64 @@
+{
+  "video_id": "SEMRNIBW",
+  "video": "SEMRNIBW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cuckoo Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Cuckoo Bird",
+      "Keeping still"
+    ],
+    [
+      "Cuckoo Bird",
+      "Attending"
+    ],
+    [
+      "Cuckoo Bird",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cuckoo Bird",
+      "Keeping still"
+    ],
+    [
+      "Cuckoo Bird",
+      "Attending"
+    ],
+    [
+      "Cuckoo Bird",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.199,
+          "end": 0.554,
+          "start_frame": 5,
+          "end_frame": 13
+        },
+        {
+          "action": "Attending",
+          "start": 0.98,
+          "end": 5.556,
+          "start_frame": 24,
+          "end_frame": 133
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.448,
+          "end": 4.074,
+          "start_frame": 59,
+          "end_frame": 98
+        }
+      ]
+    }
+  ]
+}

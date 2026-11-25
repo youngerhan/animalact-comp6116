@@ -1,0 +1,79 @@
+{
+  "video_id": "KZXIHBXG",
+  "video": "KZXIHBXG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Preening"
+    ],
+    [
+      "Common Crane",
+      "Keeping still"
+    ],
+    [
+      "Common Crane",
+      "Flying"
+    ],
+    [
+      "Common Crane",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Preening"
+    ],
+    [
+      "Common Crane",
+      "Keeping still"
+    ],
+    [
+      "Common Crane",
+      "Flying"
+    ],
+    [
+      "Common Crane",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 1.25,
+          "start_frame": 0,
+          "end_frame": 30
+        },
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 4.25,
+          "start_frame": 0,
+          "end_frame": 102
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.708,
+          "start_frame": 0,
+          "end_frame": 137
+        },
+        {
+          "action": "Walking",
+          "start": 1.25,
+          "end": 2.875,
+          "start_frame": 30,
+          "end_frame": 69
+        }
+      ]
+    }
+  ]
+}

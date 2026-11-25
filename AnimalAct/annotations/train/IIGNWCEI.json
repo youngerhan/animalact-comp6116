@@ -1,0 +1,34 @@
+{
+  "video_id": "IIGNWCEI",
+  "video": "IIGNWCEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.184,
+          "end": 1.5,
+          "start_frame": 4,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

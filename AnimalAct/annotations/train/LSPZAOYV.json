@@ -1,0 +1,70 @@
+{
+  "video_id": "LSPZAOYV",
+  "video": "LSPZAOYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Winter Ant",
+    "Argentine Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Winter Ant",
+      "Moving"
+    ],
+    [
+      "Argentine Ant",
+      "Eating"
+    ],
+    [
+      "Argentine Ant",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Winter Ant",
+      "Moving"
+    ],
+    [
+      "Argentine Ant",
+      "Eating"
+    ],
+    [
+      "Argentine Ant",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Winter Ant",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.375,
+          "end": 2.208,
+          "start_frame": 9,
+          "end_frame": 53
+        }
+      ]
+    },
+    {
+      "animal": "Argentine Ant",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.917,
+          "start_frame": 0,
+          "end_frame": 70
+        },
+        {
+          "action": "Moving",
+          "start": 1.093,
+          "end": 2.917,
+          "start_frame": 26,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

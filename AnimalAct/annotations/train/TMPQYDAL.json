@@ -1,0 +1,130 @@
+{
+  "video_id": "TMPQYDAL",
+  "video": "TMPQYDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Duck",
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Grey Heron",
+      "Sensing"
+    ],
+    [
+      "Duck",
+      "Flapping Tail"
+    ],
+    [
+      "Duck",
+      "Swimming"
+    ],
+    [
+      "Duck",
+      "Shaking Head"
+    ],
+    [
+      "Duck",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Duck",
+      "Attending"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Grey Heron",
+      "Sensing"
+    ],
+    [
+      "Duck",
+      "Flapping Tail"
+    ],
+    [
+      "Duck",
+      "Swimming"
+    ],
+    [
+      "Duck",
+      "Shaking Head"
+    ],
+    [
+      "Duck",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.125,
+          "start_frame": 0,
+          "end_frame": 51
+        },
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 2.917,
+          "start_frame": 0,
+          "end_frame": 70
+        },
+        {
+          "action": "Attending",
+          "start": 2.125,
+          "end": 2.833,
+          "start_frame": 51,
+          "end_frame": 68
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.833,
+          "end": 2.917,
+          "start_frame": 68,
+          "end_frame": 70
+        }
+      ]
+    },
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.125,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Attending",
+          "start": 1.125,
+          "end": 1.667,
+          "start_frame": 27,
+          "end_frame": 40
+        },
+        {
+          "action": "Sensing",
+          "start": 1.667,
+          "end": 2.917,
+          "start_frame": 40,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

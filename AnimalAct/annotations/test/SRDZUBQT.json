@@ -1,0 +1,34 @@
+{
+  "video_id": "SRDZUBQT",
+  "video": "SRDZUBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Leaning"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Leaning"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Leaning",
+          "start": 1.313,
+          "end": 4.842,
+          "start_frame": 32,
+          "end_frame": 116
+        }
+      ]
+    }
+  ]
+}

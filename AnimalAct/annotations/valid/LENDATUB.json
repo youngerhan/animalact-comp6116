@@ -1,0 +1,56 @@
+{
+  "video_id": "LENDATUB",
+  "video": "LENDATUB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Pond Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Western Pond Turtle",
+      "Climbing"
+    ],
+    [
+      "Western Pond Turtle",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Pond Turtle",
+      "Climbing"
+    ],
+    [
+      "Western Pond Turtle",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Pond Turtle",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.856,
+          "start_frame": 0,
+          "end_frame": 21
+        },
+        {
+          "action": "Climbing",
+          "start": 0.856,
+          "end": 2.636,
+          "start_frame": 21,
+          "end_frame": 63
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.636,
+          "end": 4.125,
+          "start_frame": 63,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

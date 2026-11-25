@@ -1,0 +1,64 @@
+{
+  "video_id": "BNTETTUB",
+  "video": "BNTETTUB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Turtle",
+      "Attending"
+    ],
+    [
+      "Turtle",
+      "Keeping still"
+    ],
+    [
+      "Turtle",
+      "Falling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turtle",
+      "Attending"
+    ],
+    [
+      "Turtle",
+      "Keeping still"
+    ],
+    [
+      "Turtle",
+      "Falling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turtle",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.001,
+          "end": 0.286,
+          "start_frame": 0,
+          "end_frame": 7
+        },
+        {
+          "action": "Attending",
+          "start": 0.286,
+          "end": 1.178,
+          "start_frame": 7,
+          "end_frame": 28
+        },
+        {
+          "action": "Falling",
+          "start": 1.178,
+          "end": 1.401,
+          "start_frame": 28,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "HUCRYDHC",
+  "video": "HUCRYDHC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Green Pea Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Green Pea Aphid",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Green Pea Aphid",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Green Pea Aphid",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.614,
+          "start_frame": 0,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

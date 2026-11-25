@@ -1,0 +1,49 @@
+{
+  "video_id": "KTMKMHGA",
+  "video": "KTMKMHGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Meerkat"
+  ],
+  "list_animal_action": [
+    [
+      "Meerkat",
+      "Digging"
+    ],
+    [
+      "Meerkat",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Meerkat",
+      "Digging"
+    ],
+    [
+      "Meerkat",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Meerkat",
+      "actions": [
+        {
+          "action": "Digging",
+          "start": 0.0,
+          "end": 7.0,
+          "start_frame": 0,
+          "end_frame": 168
+        },
+        {
+          "action": "Sensing",
+          "start": 0.167,
+          "end": 5.313,
+          "start_frame": 4,
+          "end_frame": 128
+        }
+      ]
+    }
+  ]
+}

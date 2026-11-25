@@ -1,0 +1,41 @@
+{
+  "video_id": "VJFYVVKA",
+  "video": "VJFYVVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.477,
+          "end": 0.92,
+          "start_frame": 11,
+          "end_frame": 22
+        },
+        {
+          "action": "Eating",
+          "start": 1.052,
+          "end": 1.357,
+          "start_frame": 25,
+          "end_frame": 33
+        }
+      ]
+    }
+  ]
+}

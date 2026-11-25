@@ -1,0 +1,55 @@
+{
+  "video_id": "NRWCUYMI",
+  "video": "NRWCUYMI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hoverfly Young",
+    "Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Hoverfly Young",
+      "Moving"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hoverfly Young",
+      "Moving"
+    ],
+    [
+      "Aphid",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hoverfly Young",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.333,
+          "end": 9.417,
+          "start_frame": 32,
+          "end_frame": 226
+        }
+      ]
+    },
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 9.417,
+          "start_frame": 0,
+          "end_frame": 226
+        }
+      ]
+    }
+  ]
+}

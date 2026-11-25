@@ -1,0 +1,56 @@
+{
+  "video_id": "TFUWEKOU",
+  "video": "TFUWEKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer Young"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer Young",
+      "Walking"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer Young",
+      "Walking"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 11.0,
+          "start_frame": 0,
+          "end_frame": 264
+        },
+        {
+          "action": "Walking",
+          "start": 0.667,
+          "end": 3.25,
+          "start_frame": 16,
+          "end_frame": 78
+        },
+        {
+          "action": "Walking",
+          "start": 4.708,
+          "end": 6.958,
+          "start_frame": 113,
+          "end_frame": 167
+        }
+      ]
+    }
+  ]
+}

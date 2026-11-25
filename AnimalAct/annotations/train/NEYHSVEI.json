@@ -1,0 +1,55 @@
+{
+  "video_id": "NEYHSVEI",
+  "video": "NEYHSVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Duck",
+    "Anas Crecca Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Duck",
+      "Keeping still"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Duck",
+      "Keeping still"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.208,
+          "start_frame": 0,
+          "end_frame": 29
+        }
+      ]
+    },
+    {
+      "animal": "Anas Crecca Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.25,
+          "end": 0.917,
+          "start_frame": 6,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

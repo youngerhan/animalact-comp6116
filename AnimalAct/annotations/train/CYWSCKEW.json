@@ -1,0 +1,41 @@
+{
+  "video_id": "CYWSCKEW",
+  "video": "CYWSCKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Stoat"
+  ],
+  "list_animal_action": [
+    [
+      "Stoat",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Stoat",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Stoat",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.002,
+          "end": 0.34,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Attending",
+          "start": 0.49,
+          "end": 1.125,
+          "start_frame": 12,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

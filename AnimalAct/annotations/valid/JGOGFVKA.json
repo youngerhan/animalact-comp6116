@@ -1,0 +1,34 @@
+{
+  "video_id": "JGOGFVKA",
+  "video": "JGOGFVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Pecking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Pecking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Pecking",
+          "start": 0.0,
+          "end": 2.344,
+          "start_frame": 0,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

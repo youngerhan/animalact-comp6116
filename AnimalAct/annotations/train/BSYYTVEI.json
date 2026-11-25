@@ -1,0 +1,64 @@
+{
+  "video_id": "BSYYTVEI",
+  "video": "BSYYTVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Nebularia Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Nebularia Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Turning Around"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Nebularia Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Turning Around"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Nebularia Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.469,
+          "start_frame": 0,
+          "end_frame": 35
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.719,
+          "start_frame": 0,
+          "end_frame": 41
+        },
+        {
+          "action": "Turning Around",
+          "start": 0.344,
+          "end": 1.594,
+          "start_frame": 8,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

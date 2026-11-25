@@ -1,0 +1,34 @@
+{
+  "video_id": "RDYXMYSZ",
+  "video": "RDYXMYSZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fruit Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Fruit Fly",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fruit Fly",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fruit Fly",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.083,
+          "end": 3.333,
+          "start_frame": 2,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

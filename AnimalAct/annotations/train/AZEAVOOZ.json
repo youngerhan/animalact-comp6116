@@ -1,0 +1,34 @@
+{
+  "video_id": "AZEAVOOZ",
+  "video": "AZEAVOOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Widow Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Western Widow Spider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Widow Spider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Widow Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.338,
+          "end": 0.709,
+          "start_frame": 8,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

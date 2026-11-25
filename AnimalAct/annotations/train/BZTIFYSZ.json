@@ -1,0 +1,63 @@
+{
+  "video_id": "BZTIFYSZ",
+  "video": "BZTIFYSZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fruit Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Fruit Fly",
+      "Sensing"
+    ],
+    [
+      "Fruit Fly",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fruit Fly",
+      "Sensing"
+    ],
+    [
+      "Fruit Fly",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fruit Fly",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.995,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.996,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Moving",
+          "start": 1.218,
+          "end": 1.417,
+          "start_frame": 29,
+          "end_frame": 34
+        },
+        {
+          "action": "Sensing",
+          "start": 1.219,
+          "end": 1.417,
+          "start_frame": 29,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

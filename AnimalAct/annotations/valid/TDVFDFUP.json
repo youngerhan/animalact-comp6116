@@ -1,0 +1,34 @@
+{
+  "video_id": "TDVFDFUP",
+  "video": "TDVFDFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.103,
+          "end": 2.009,
+          "start_frame": 2,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

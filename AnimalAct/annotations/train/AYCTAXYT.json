@@ -1,0 +1,34 @@
+{
+  "video_id": "AYCTAXYT",
+  "video": "AYCTAXYT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 1.228,
+          "end": 1.432,
+          "start_frame": 29,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "video_id": "HUNPZXGD",
+  "video": "HUNPZXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Walking"
+    ],
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.644,
+          "start_frame": 0,
+          "end_frame": 39
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.555,
+          "start_frame": 0,
+          "end_frame": 61
+        },
+        {
+          "action": "Walking",
+          "start": 1.916,
+          "end": 2.435,
+          "start_frame": 46,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

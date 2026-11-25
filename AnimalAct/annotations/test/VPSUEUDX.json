@@ -1,0 +1,34 @@
+{
+  "video_id": "VPSUEUDX",
+  "video": "VPSUEUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 6.417,
+          "start_frame": 0,
+          "end_frame": 154
+        }
+      ]
+    }
+  ]
+}

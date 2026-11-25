@@ -1,0 +1,34 @@
+{
+  "video_id": "ILBEABQT",
+  "video": "ILBEABQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grasshopper"
+  ],
+  "list_animal_action": [
+    [
+      "Grasshopper",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grasshopper",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grasshopper",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.725,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

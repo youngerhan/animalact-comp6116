@@ -1,0 +1,71 @@
+{
+  "video_id": "ABPLMUPH",
+  "video": "ABPLMUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Throated Dipper Bird"
+  ],
+  "list_animal_action": [
+    [
+      "White Throated Dipper Bird",
+      "Diving"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Jumping"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Throated Dipper Bird",
+      "Diving"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Jumping"
+    ],
+    [
+      "White Throated Dipper Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Throated Dipper Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.82,
+          "end": 1.748,
+          "start_frame": 20,
+          "end_frame": 42
+        },
+        {
+          "action": "Jumping",
+          "start": 2.013,
+          "end": 2.698,
+          "start_frame": 48,
+          "end_frame": 65
+        },
+        {
+          "action": "Diving",
+          "start": 2.719,
+          "end": 3.488,
+          "start_frame": 65,
+          "end_frame": 84
+        },
+        {
+          "action": "Jumping",
+          "start": 3.1,
+          "end": 3.322,
+          "start_frame": 74,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

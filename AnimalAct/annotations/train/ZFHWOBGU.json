@@ -1,0 +1,49 @@
+{
+  "video_id": "ZFHWOBGU",
+  "video": "ZFHWOBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Orchard Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Orchard Bee",
+      "Eating"
+    ],
+    [
+      "Blue Orchard Bee",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Orchard Bee",
+      "Eating"
+    ],
+    [
+      "Blue Orchard Bee",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Orchard Bee",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.523,
+          "start_frame": 0,
+          "end_frame": 13
+        },
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 0.523,
+          "start_frame": 0,
+          "end_frame": 13
+        }
+      ]
+    }
+  ]
+}

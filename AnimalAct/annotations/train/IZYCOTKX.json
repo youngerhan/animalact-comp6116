@@ -1,0 +1,64 @@
+{
+  "video_id": "IZYCOTKX",
+  "video": "IZYCOTKX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfinch",
+      "Flapping"
+    ],
+    [
+      "Bullfinch",
+      "Sensing"
+    ],
+    [
+      "Bullfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfinch",
+      "Flapping"
+    ],
+    [
+      "Bullfinch",
+      "Sensing"
+    ],
+    [
+      "Bullfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfinch",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.594,
+          "start_frame": 0,
+          "end_frame": 134
+        },
+        {
+          "action": "Flapping",
+          "start": 6.594,
+          "end": 8.094,
+          "start_frame": 158,
+          "end_frame": 194
+        },
+        {
+          "action": "Eating",
+          "start": 7.209,
+          "end": 7.408,
+          "start_frame": 173,
+          "end_frame": 178
+        }
+      ]
+    }
+  ]
+}

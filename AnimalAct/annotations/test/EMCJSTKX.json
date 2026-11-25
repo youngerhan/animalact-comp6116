@@ -1,0 +1,64 @@
+{
+  "video_id": "EMCJSTKX",
+  "video": "EMCJSTKX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfinch",
+      "Flapping"
+    ],
+    [
+      "Bullfinch",
+      "Sensing"
+    ],
+    [
+      "Bullfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfinch",
+      "Flapping"
+    ],
+    [
+      "Bullfinch",
+      "Sensing"
+    ],
+    [
+      "Bullfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfinch",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.0,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Flapping",
+          "start": 2.292,
+          "end": 4.375,
+          "start_frame": 55,
+          "end_frame": 105
+        },
+        {
+          "action": "Eating",
+          "start": 2.5,
+          "end": 4.125,
+          "start_frame": 60,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

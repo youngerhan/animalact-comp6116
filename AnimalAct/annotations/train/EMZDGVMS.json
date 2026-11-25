@@ -1,0 +1,41 @@
+{
+  "video_id": "EMZDGVMS",
+  "video": "EMZDGVMS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greater Mouse Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Greater Mouse Deer",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greater Mouse Deer",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greater Mouse Deer",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.583,
+          "end": 1.5,
+          "start_frame": 14,
+          "end_frame": 36
+        },
+        {
+          "action": "Eating",
+          "start": 3.258,
+          "end": 4.98,
+          "start_frame": 78,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

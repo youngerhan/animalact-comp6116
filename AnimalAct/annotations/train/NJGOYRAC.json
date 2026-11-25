@@ -1,0 +1,34 @@
+{
+  "video_id": "NJGOYRAC",
+  "video": "NJGOYRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Coyote"
+  ],
+  "list_animal_action": [
+    [
+      "Coyote",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Coyote",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Coyote",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 4.833,
+          "start_frame": 0,
+          "end_frame": 116
+        }
+      ]
+    }
+  ]
+}

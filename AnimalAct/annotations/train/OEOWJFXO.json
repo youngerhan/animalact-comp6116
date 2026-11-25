@@ -1,0 +1,127 @@
+{
+  "video_id": "OEOWJFXO",
+  "video": "OEOWJFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Keeping still"
+    ],
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Keeping still"
+    ],
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.875,
+          "start_frame": 0,
+          "end_frame": 21
+        },
+        {
+          "action": "Chirping",
+          "start": 0.875,
+          "end": 2.625,
+          "start_frame": 21,
+          "end_frame": 63
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.625,
+          "end": 3.5,
+          "start_frame": 63,
+          "end_frame": 84
+        },
+        {
+          "action": "Sensing",
+          "start": 2.75,
+          "end": 3.5,
+          "start_frame": 66,
+          "end_frame": 84
+        },
+        {
+          "action": "Chirping",
+          "start": 3.5,
+          "end": 4.25,
+          "start_frame": 84,
+          "end_frame": 102
+        },
+        {
+          "action": "Sensing",
+          "start": 4.25,
+          "end": 4.75,
+          "start_frame": 102,
+          "end_frame": 114
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.25,
+          "end": 9.0,
+          "start_frame": 102,
+          "end_frame": 216
+        },
+        {
+          "action": "Sensing",
+          "start": 5.875,
+          "end": 6.75,
+          "start_frame": 141,
+          "end_frame": 162
+        },
+        {
+          "action": "Sensing",
+          "start": 7.25,
+          "end": 7.75,
+          "start_frame": 174,
+          "end_frame": 186
+        },
+        {
+          "action": "Chirping",
+          "start": 9.0,
+          "end": 10.375,
+          "start_frame": 216,
+          "end_frame": 249
+        },
+        {
+          "action": "Sensing",
+          "start": 10.125,
+          "end": 10.625,
+          "start_frame": 243,
+          "end_frame": 255
+        },
+        {
+          "action": "Keeping still",
+          "start": 10.375,
+          "end": 12.125,
+          "start_frame": 249,
+          "end_frame": 291
+        }
+      ]
+    }
+  ]
+}

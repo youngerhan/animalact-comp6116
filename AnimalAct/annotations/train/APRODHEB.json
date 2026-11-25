@@ -1,0 +1,34 @@
+{
+  "video_id": "APRODHEB",
+  "video": "APRODHEB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cotesia Glomerata Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Cotesia Glomerata Wasp",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cotesia Glomerata Wasp",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cotesia Glomerata Wasp",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.709,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

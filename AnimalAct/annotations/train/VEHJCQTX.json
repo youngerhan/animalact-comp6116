@@ -1,0 +1,41 @@
+{
+  "video_id": "VEHJCQTX",
+  "video": "VEHJCQTX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turdus Merula Blackbird"
+  ],
+  "list_animal_action": [
+    [
+      "Turdus Merula Blackbird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turdus Merula Blackbird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turdus Merula Blackbird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.401,
+          "start_frame": 0,
+          "end_frame": 10
+        },
+        {
+          "action": "Attending",
+          "start": 0.508,
+          "end": 1.019,
+          "start_frame": 12,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "video_id": "MUJARTFT",
+  "video": "MUJARTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Fighting"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Fighting"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 18.208,
+          "start_frame": 0,
+          "end_frame": 437
+        },
+        {
+          "action": "Sensing",
+          "start": 4.094,
+          "end": 5.455,
+          "start_frame": 98,
+          "end_frame": 131
+        },
+        {
+          "action": "Fighting",
+          "start": 5.344,
+          "end": 7.276,
+          "start_frame": 128,
+          "end_frame": 175
+        },
+        {
+          "action": "Sensing",
+          "start": 7.094,
+          "end": 8.219,
+          "start_frame": 170,
+          "end_frame": 197
+        },
+        {
+          "action": "Sensing",
+          "start": 9.094,
+          "end": 11.969,
+          "start_frame": 218,
+          "end_frame": 287
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 9.844,
+          "end": 11.692,
+          "start_frame": 236,
+          "end_frame": 281
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 11.719,
+          "end": 12.861,
+          "start_frame": 281,
+          "end_frame": 309
+        }
+      ]
+    }
+  ]
+}

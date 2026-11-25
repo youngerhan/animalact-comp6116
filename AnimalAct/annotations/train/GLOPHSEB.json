@@ -1,0 +1,34 @@
+{
+  "video_id": "GLOPHSEB",
+  "video": "GLOPHSEB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Rosefinch Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Rosefinch Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Rosefinch Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Rosefinch Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.004,
+          "end": 5.125,
+          "start_frame": 0,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

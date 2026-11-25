@@ -1,0 +1,78 @@
+{
+  "video_id": "EZWGCNQN",
+  "video": "EZWGCNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Whinchat Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Whinchat Bird",
+      "Attending"
+    ],
+    [
+      "Whinchat Bird",
+      "Chirping"
+    ],
+    [
+      "Whinchat Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Whinchat Bird",
+      "Attending"
+    ],
+    [
+      "Whinchat Bird",
+      "Chirping"
+    ],
+    [
+      "Whinchat Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Whinchat Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.477,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.494,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.631,
+          "end": 2.969,
+          "start_frame": 15,
+          "end_frame": 71
+        },
+        {
+          "action": "Attending",
+          "start": 0.631,
+          "end": 3.005,
+          "start_frame": 15,
+          "end_frame": 72
+        },
+        {
+          "action": "Chirping",
+          "start": 3.123,
+          "end": 4.126,
+          "start_frame": 75,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

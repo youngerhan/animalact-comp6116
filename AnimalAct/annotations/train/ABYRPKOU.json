@@ -1,0 +1,93 @@
+{
+  "video_id": "ABYRPKOU",
+  "video": "ABYRPKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Keeping still"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Keeping still"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.723,
+          "start_frame": 0,
+          "end_frame": 65
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 8.731,
+          "start_frame": 0,
+          "end_frame": 210
+        },
+        {
+          "action": "Chirping",
+          "start": 0.353,
+          "end": 1.296,
+          "start_frame": 8,
+          "end_frame": 31
+        },
+        {
+          "action": "Chirping",
+          "start": 2.712,
+          "end": 6.965,
+          "start_frame": 65,
+          "end_frame": 167
+        },
+        {
+          "action": "Sensing",
+          "start": 4.367,
+          "end": 6.177,
+          "start_frame": 105,
+          "end_frame": 148
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.397,
+          "end": 8.825,
+          "start_frame": 202,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

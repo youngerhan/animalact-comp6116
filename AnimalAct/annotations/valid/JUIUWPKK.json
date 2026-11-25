@@ -1,0 +1,115 @@
+{
+  "video_id": "JUIUWPKK",
+  "video": "JUIUWPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 2.708,
+          "start_frame": 0,
+          "end_frame": 65
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.25,
+          "start_frame": 0,
+          "end_frame": 126
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.446,
+          "end": 3.154,
+          "start_frame": 59,
+          "end_frame": 76
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.612,
+          "end": 3.946,
+          "start_frame": 87,
+          "end_frame": 95
+        },
+        {
+          "action": "Walking",
+          "start": 5.25,
+          "end": 6.125,
+          "start_frame": 126,
+          "end_frame": 147
+        },
+        {
+          "action": "Drinking",
+          "start": 6.125,
+          "end": 7.375,
+          "start_frame": 147,
+          "end_frame": 177
+        },
+        {
+          "action": "Preening",
+          "start": 7.5,
+          "end": 8.5,
+          "start_frame": 180,
+          "end_frame": 204
+        },
+        {
+          "action": "Shaking Head",
+          "start": 7.892,
+          "end": 8.517,
+          "start_frame": 189,
+          "end_frame": 204
+        }
+      ]
+    }
+  ]
+}

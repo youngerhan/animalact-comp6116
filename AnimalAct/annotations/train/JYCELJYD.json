@@ -1,0 +1,34 @@
+{
+  "video_id": "JYCELJYD",
+  "video": "JYCELJYD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Acyrthosiphon Pisum Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Acyrthosiphon Pisum Aphid",
+      "Giving Birth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Acyrthosiphon Pisum Aphid",
+      "Giving Birth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Acyrthosiphon Pisum Aphid",
+      "actions": [
+        {
+          "action": "Giving Birth",
+          "start": 0.0,
+          "end": 5.625,
+          "start_frame": 0,
+          "end_frame": 135
+        }
+      ]
+    }
+  ]
+}

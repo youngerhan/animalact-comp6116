@@ -1,0 +1,34 @@
+{
+  "video_id": "BBXCEBQT",
+  "video": "BBXCEBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hornbill"
+  ],
+  "list_animal_action": [
+    [
+      "Hornbill",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hornbill",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hornbill",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.717,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

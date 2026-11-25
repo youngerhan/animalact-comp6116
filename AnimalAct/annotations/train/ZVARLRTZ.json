@@ -1,0 +1,41 @@
+{
+  "video_id": "ZVARLRTZ",
+  "video": "ZVARLRTZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.031,
+          "start_frame": 0,
+          "end_frame": 25
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.269,
+          "end": 3.0,
+          "start_frame": 54,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

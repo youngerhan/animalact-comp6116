@@ -1,0 +1,34 @@
+{
+  "video_id": "JGJLJPIK",
+  "video": "JGJLJPIK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sea Snail"
+  ],
+  "list_animal_action": [
+    [
+      "Sea Snail",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sea Snail",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sea Snail",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.125,
+          "start_frame": 0,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

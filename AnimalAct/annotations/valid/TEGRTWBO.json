@@ -1,0 +1,130 @@
+{
+  "video_id": "TEGRTWBO",
+  "video": "TEGRTWBO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird",
+    "Golden Eagle"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Golden Eagle",
+      "Attending"
+    ],
+    [
+      "Golden Eagle",
+      "Walking"
+    ],
+    [
+      "Bird",
+      "Carrying In Mouth"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ],
+    [
+      "Golden Eagle",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Golden Eagle",
+      "Attending"
+    ],
+    [
+      "Golden Eagle",
+      "Walking"
+    ],
+    [
+      "Bird",
+      "Carrying In Mouth"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ],
+    [
+      "Golden Eagle",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.469,
+          "start_frame": 0,
+          "end_frame": 107
+        },
+        {
+          "action": "Flying",
+          "start": 0.219,
+          "end": 0.594,
+          "start_frame": 5,
+          "end_frame": 14
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 1.969,
+          "end": 3.844,
+          "start_frame": 47,
+          "end_frame": 92
+        },
+        {
+          "action": "Walking",
+          "start": 2.719,
+          "end": 2.844,
+          "start_frame": 65,
+          "end_frame": 68
+        }
+      ]
+    },
+    {
+      "animal": "Golden Eagle",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 4.594,
+          "start_frame": 0,
+          "end_frame": 110
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.594,
+          "start_frame": 0,
+          "end_frame": 110
+        },
+        {
+          "action": "Walking",
+          "start": 2.219,
+          "end": 2.344,
+          "start_frame": 53,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

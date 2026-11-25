@@ -1,0 +1,49 @@
+{
+  "video_id": "QCPZLTCN",
+  "video": "QCPZLTCN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse Young"
+  ],
+  "list_animal_action": [
+    [
+      "Horse Young",
+      "Walking"
+    ],
+    [
+      "Horse Young",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse Young",
+      "Walking"
+    ],
+    [
+      "Horse Young",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse Young",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.004,
+          "end": 2.432,
+          "start_frame": 0,
+          "end_frame": 58
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.438,
+          "end": 3.125,
+          "start_frame": 59,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

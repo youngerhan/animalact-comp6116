@@ -1,0 +1,3168 @@
+<!doctype html><meta charset="utf-8"><title>AnimalAct 错误检查</title><style>body{font:16px system-ui;max-width:1320px;margin:30px auto;background:#f4f6f8}article{background:white;padding:16px;margin:20px 0}img{width:100%}video{width:640px;max-width:100%}pre{white-space:pre-wrap}</style><h1>AnimalAct 典型错误与正确对照</h1><p>26 个验证视频定向检查；固定权重运动对照：正常视频 mAP 43.99%，重复单帧 25.63%。正式融合成绩保持不变。</p><p><a href="REPORT.md">完整诊断报告</a></p><p>验证集定向抽样；不代表错误原因的总体比例。视频链接指向本机原文件。GT 指当前标注，不代表人工已确认其绝对正确。</p><article><p><strong>细节与动作相似</strong>：猛禽与其他鸟同框，嘴部细节较小；模型输出 Preening/Sensing。仅凭抽样帧不能确认叼物判定，需要看片复核。</p><h2>#1 FN: Carrying In Mouth</h2><img src="case-01.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/TEGRTWBO.mp4#t=1.958,3.833"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 698,
+  &quot;video_id&quot;: &quot;TEGRTWBO&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Carrying In Mouth&quot;,
+  &quot;score&quot;: 0.00023545949079561979,
+  &quot;duration&quot;: 1.875,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 1,
+  &quot;start_frame&quot;: 47,
+  &quot;end_frame&quot;: 92,
+  &quot;animals&quot;: [
+    &quot;Bird&quot;,
+    &quot;Golden Eagle&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Attending&quot;,
+    &quot;Carrying In Mouth&quot;,
+    &quot;Eating&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Preening 0.44&quot;,
+    &quot;Sensing 0.32&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    47,
+    53,
+    60,
+    66,
+    72,
+    78,
+    85,
+    91
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\TEGRTWBO.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;TEGRTWBO&quot;,
+    &quot;video&quot;: &quot;TEGRTWBO.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Bird&quot;,
+      &quot;Golden Eagle&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Bird&quot;,
+        &quot;Flying&quot;
+      ],
+      [
+        &quot;Bird&quot;,
+        &quot;Eating&quot;
+      ],
+      [
+        &quot;Golden Eagle&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Golden Eagle&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Bird&quot;,
+        &quot;Carrying In Mouth&quot;
+      ],
+      [
+        &quot;Bird&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Golden Eagle&quot;,
+        &quot;Eating&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Bird&quot;,
+        &quot;Flying&quot;
+      ],
+      [
+        &quot;Bird&quot;,
+        &quot;Eating&quot;
+      ],
+      [
+        &quot;Golden Eagle&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Golden Eagle&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Bird&quot;,
+        &quot;Carrying In Mouth&quot;
+      ],
+      [
+        &quot;Bird&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Golden Eagle&quot;,
+        &quot;Eating&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Bird&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Eating&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 4.469,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 107
+          },
+          {
+            &quot;action&quot;: &quot;Flying&quot;,
+            &quot;start&quot;: 0.219,
+            &quot;end&quot;: 0.594,
+            &quot;start_frame&quot;: 5,
+            &quot;end_frame&quot;: 14
+          },
+          {
+            &quot;action&quot;: &quot;Carrying In Mouth&quot;,
+            &quot;start&quot;: 1.969,
+            &quot;end&quot;: 3.844,
+            &quot;start_frame&quot;: 47,
+            &quot;end_frame&quot;: 92
+          },
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 2.719,
+            &quot;end&quot;: 2.844,
+            &quot;start_frame&quot;: 65,
+            &quot;end_frame&quot;: 68
+          }
+        ]
+      },
+      {
+        &quot;animal&quot;: &quot;Golden Eagle&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 4.594,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 110
+          },
+          {
+            &quot;action&quot;: &quot;Eating&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 4.594,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 110
+          },
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 2.219,
+            &quot;end&quot;: 2.344,
+            &quot;start_frame&quot;: 53,
+            &quot;end_frame&quot;: 56
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>远景与疑似外观依赖</strong>：坡地上的动物嘴部很小，模型却高分输出 Carrying In Mouth；标注仅 Sensing。是否使用了外观捷径需要裁剪对照确认。</p><h2>#2 FP: Carrying In Mouth</h2><img src="case-02.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/PBXOORSU.mp4#t=0.083,2.500"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 572,
+  &quot;video_id&quot;: &quot;PBXOORSU&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Carrying In Mouth&quot;,
+  &quot;score&quot;: 0.7444015741348267,
+  &quot;duration&quot;: 2.4166666666666665,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: false,
+  &quot;case_id&quot;: 2,
+  &quot;start_frame&quot;: 2,
+  &quot;end_frame&quot;: 60,
+  &quot;animals&quot;: [
+    &quot;Wolf&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Sensing&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Walking 0.87&quot;,
+    &quot;Carrying In Mouth 0.74&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    2,
+    10,
+    18,
+    26,
+    35,
+    43,
+    51,
+    59
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\PBXOORSU.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;PBXOORSU&quot;,
+    &quot;video&quot;: &quot;PBXOORSU.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Wolf&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Wolf&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Wolf&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Wolf&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 0.083,
+            &quot;end&quot;: 2.5,
+            &quot;start_frame&quot;: 2,
+            &quot;end_frame&quot;: 60
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>遮挡与暗光</strong>：动物交互发生在枝叶和阴影中，模型输出 Keeping still，难以看清被捕食/咬合细节。</p><h2>#3 FN: Being Eaten</h2><img src="case-03.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/CJIPSIJJ.mp4#t=16.583,19.917"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 95,
+  &quot;video_id&quot;: &quot;CJIPSIJJ&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Being Eaten&quot;,
+  &quot;score&quot;: 0.036639273166656494,
+  &quot;duration&quot;: 3.3333333333333335,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 3,
+  &quot;start_frame&quot;: 398,
+  &quot;end_frame&quot;: 478,
+  &quot;animals&quot;: [
+    &quot;Spectacled Cobra&quot;,
+    &quot;King Cobra&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Being Eaten&quot;,
+    &quot;Biting&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Keeping still 0.38&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    398,
+    409,
+    421,
+    432,
+    443,
+    454,
+    466,
+    477
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\CJIPSIJJ.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;CJIPSIJJ&quot;,
+    &quot;video&quot;: &quot;CJIPSIJJ.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Spectacled Cobra&quot;,
+      &quot;King Cobra&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Spectacled Cobra&quot;,
+        &quot;Being Eaten&quot;
+      ],
+      [
+        &quot;King Cobra&quot;,
+        &quot;Biting&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Spectacled Cobra&quot;,
+        &quot;Being Eaten&quot;
+      ],
+      [
+        &quot;King Cobra&quot;,
+        &quot;Biting&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Spectacled Cobra&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Being Eaten&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 19.905,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 478
+          }
+        ]
+      },
+      {
+        &quot;animal&quot;: &quot;King Cobra&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Biting&quot;,
+            &quot;start&quot;: 16.583,
+            &quot;end&quot;: 19.917,
+            &quot;start_frame&quot;: 398,
+            &quot;end_frame&quot;: 478
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>短时细微动作</strong>：区间只有 14 个不同原始帧；Eating 被检出而 Shaking 漏检。增加重复采样帧不能增加真实运动信息。</p><h2>#4 FN: Shaking</h2><img src="case-04.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/ZNPCRJVY.mp4#t=0.000,0.583"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 898,
+  &quot;video_id&quot;: &quot;ZNPCRJVY&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Shaking&quot;,
+  &quot;score&quot;: 0.0005973177030682564,
+  &quot;duration&quot;: 0.5833333333333334,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 4,
+  &quot;start_frame&quot;: 0,
+  &quot;end_frame&quot;: 14,
+  &quot;animals&quot;: [
+    &quot;Goldfinch&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Eating&quot;,
+    &quot;Shaking&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Eating 0.80&quot;,
+    &quot;Sensing 0.18&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    0,
+    2,
+    4,
+    6,
+    7,
+    9,
+    11,
+    13
+  ],
+  &quot;unique_32_frame_indices&quot;: 14,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\ZNPCRJVY.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;ZNPCRJVY&quot;,
+    &quot;video&quot;: &quot;ZNPCRJVY.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Goldfinch&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Shaking&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Preening&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Flapping&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Flying&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Eating&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Shaking&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Preening&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Flapping&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Flying&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Eating&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Goldfinch&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Shaking&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 0.583,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 14
+          },
+          {
+            &quot;action&quot;: &quot;Eating&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 8.833,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 212
+          },
+          {
+            &quot;action&quot;: &quot;Preening&quot;,
+            &quot;start&quot;: 0.667,
+            &quot;end&quot;: 2.875,
+            &quot;start_frame&quot;: 16,
+            &quot;end_frame&quot;: 69
+          },
+          {
+            &quot;action&quot;: &quot;Flapping&quot;,
+            &quot;start&quot;: 2.417,
+            &quot;end&quot;: 2.958,
+            &quot;start_frame&quot;: 58,
+            &quot;end_frame&quot;: 71
+          },
+          {
+            &quot;action&quot;: &quot;Shaking&quot;,
+            &quot;start&quot;: 3.083,
+            &quot;end&quot;: 3.667,
+            &quot;start_frame&quot;: 74,
+            &quot;end_frame&quot;: 88
+          },
+          {
+            &quot;action&quot;: &quot;Preening&quot;,
+            &quot;start&quot;: 4.167,
+            &quot;end&quot;: 5.667,
+            &quot;start_frame&quot;: 100,
+            &quot;end_frame&quot;: 136
+          },
+          {
+            &quot;action&quot;: &quot;Shaking&quot;,
+            &quot;start&quot;: 5.75,
+            &quot;end&quot;: 7.208,
+            &quot;start_frame&quot;: 138,
+            &quot;end_frame&quot;: 173
+          },
+          {
+            &quot;action&quot;: &quot;Flapping&quot;,
+            &quot;start&quot;: 6.167,
+            &quot;end&quot;: 7.083,
+            &quot;start_frame&quot;: 148,
+            &quot;end_frame&quot;: 170
+          },
+          {
+            &quot;action&quot;: &quot;Flapping&quot;,
+            &quot;start&quot;: 8.125,
+            &quot;end&quot;: 8.375,
+            &quot;start_frame&quot;: 195,
+            &quot;end_frame&quot;: 201
+          },
+          {
+            &quot;action&quot;: &quot;Flying&quot;,
+            &quot;start&quot;: 8.125,
+            &quot;end&quot;: 8.375,
+            &quot;start_frame&quot;: 195,
+            &quot;end_frame&quot;: 201
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>极短区间与近义动作</strong>：区间仅 3 个原始帧，模型输出 Shaking/Shaking Head 等多个动作；GT 包含 Preening 等。无法由 32 帧输入恢复更长时间运动。</p><h2>#5 FP: Shaking</h2><img src="case-05.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/WHMIKMRN.mp4#t=0.583,0.708"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 814,
+  &quot;video_id&quot;: &quot;WHMIKMRN&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Shaking&quot;,
+  &quot;score&quot;: 0.44426602125167847,
+  &quot;duration&quot;: 0.125,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 5,
+  &quot;start_frame&quot;: 14,
+  &quot;end_frame&quot;: 17,
+  &quot;animals&quot;: [
+    &quot;Mallard Duck&quot;,
+    &quot;Common Snipe&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Attending&quot;,
+    &quot;Eating&quot;,
+    &quot;Preening&quot;,
+    &quot;Walking&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Preening 0.59&quot;,
+    &quot;Shaking Head 0.51&quot;,
+    &quot;Shaking 0.44&quot;,
+    &quot;Eating 0.21&quot;,
+    &quot;Walking 0.18&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    14,
+    14,
+    15,
+    15,
+    15,
+    15,
+    16,
+    16
+  ],
+  &quot;unique_32_frame_indices&quot;: 3,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\WHMIKMRN.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;WHMIKMRN&quot;,
+    &quot;video&quot;: &quot;WHMIKMRN.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Mallard Duck&quot;,
+      &quot;Common Snipe&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Mallard Duck&quot;,
+        &quot;Shaking Head&quot;
+      ],
+      [
+        &quot;Common Snipe&quot;,
+        &quot;Eating&quot;
+      ],
+      [
+        &quot;Mallard Duck&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Mallard Duck&quot;,
+        &quot;Shaking&quot;
+      ],
+      [
+        &quot;Common Snipe&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Mallard Duck&quot;,
+        &quot;Preening&quot;
+      ],
+      [
+        &quot;Common Snipe&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Mallard Duck&quot;,
+        &quot;Shaking Head&quot;
+      ],
+      [
+        &quot;Common Snipe&quot;,
+        &quot;Eating&quot;
+      ],
+      [
+        &quot;Mallard Duck&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Mallard Duck&quot;,
+        &quot;Shaking&quot;
+      ],
+      [
+        &quot;Common Snipe&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Mallard Duck&quot;,
+        &quot;Preening&quot;
+      ],
+      [
+        &quot;Common Snipe&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Mallard Duck&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Shaking Head&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 0.594,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 14
+          },
+          {
+            &quot;action&quot;: &quot;Shaking&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 0.594,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 14
+          },
+          {
+            &quot;action&quot;: &quot;Preening&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 0.719,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 17
+          },
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 0.844,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 20
+          }
+        ]
+      },
+      {
+        &quot;animal&quot;: &quot;Common Snipe&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Eating&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 0.844,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 20
+          },
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 0.094,
+            &quot;end&quot;: 0.844,
+            &quot;start_frame&quot;: 2,
+            &quot;end_frame&quot;: 20
+          },
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 0.594,
+            &quot;end&quot;: 0.719,
+            &quot;start_frame&quot;: 14,
+            &quot;end_frame&quot;: 17
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>行为迁移差异</strong>：红色动物在毛发表面移动，标注 Climbing，模型输出 Eating。主体可见，不能简单归因于动物太小。</p><h2>#6 FN: Climbing</h2><img src="case-06.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/NCREZXGD.mp4#t=0.000,4.333"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 478,
+  &quot;video_id&quot;: &quot;NCREZXGD&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Climbing&quot;,
+  &quot;score&quot;: 6.305144779616967e-07,
+  &quot;duration&quot;: 4.333333333333333,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 6,
+  &quot;start_frame&quot;: 0,
+  &quot;end_frame&quot;: 104,
+  &quot;animals&quot;: [
+    &quot;Kangaroo Young&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Climbing&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Eating 0.75&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    0,
+    15,
+    29,
+    44,
+    59,
+    74,
+    88,
+    103
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\NCREZXGD.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;NCREZXGD&quot;,
+    &quot;video&quot;: &quot;NCREZXGD.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Kangaroo Young&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Kangaroo Young&quot;,
+        &quot;Climbing&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Kangaroo Young&quot;,
+        &quot;Climbing&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Kangaroo Young&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Climbing&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 4.333,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 104
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>远景与背景线索候选</strong>：多只猴在树林地面，模型 Climbing 0.977。树木背景与动作可能混淆，但未做背景遮挡实验，不能确认因果。</p><h2>#7 FP: Climbing</h2><img src="case-07.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/BSGIHFFP.mp4#t=0.000,1.417"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 81,
+  &quot;video_id&quot;: &quot;BSGIHFFP&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Climbing&quot;,
+  &quot;score&quot;: 0.976812481880188,
+  &quot;duration&quot;: 1.4166666666666667,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: false,
+  &quot;case_id&quot;: 7,
+  &quot;start_frame&quot;: 0,
+  &quot;end_frame&quot;: 34,
+  &quot;animals&quot;: [
+    &quot;Maroon Macaque&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Keeping still&quot;,
+    &quot;Walking&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Climbing 0.98&quot;,
+    &quot;Running 0.96&quot;,
+    &quot;Attending 0.95&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    0,
+    5,
+    9,
+    14,
+    19,
+    24,
+    28,
+    33
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\BSGIHFFP.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;BSGIHFFP&quot;,
+    &quot;video&quot;: &quot;BSGIHFFP.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Maroon Macaque&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Maroon Macaque&quot;,
+        &quot;Keeping still&quot;
+      ],
+      [
+        &quot;Maroon Macaque&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Maroon Macaque&quot;,
+        &quot;Keeping still&quot;
+      ],
+      [
+        &quot;Maroon Macaque&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Maroon Macaque&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Keeping still&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 1.417,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 34
+          },
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 1.417,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 34
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>夜间噪声与细节</strong>：红外夜景、地面动物与枝叶纹理混杂；Grooming 被预测为 Eating。</p><h2>#8 FN: Grooming</h2><img src="case-08.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/GATFJDPR.mp4#t=0.000,1.917"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 232,
+  &quot;video_id&quot;: &quot;GATFJDPR&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Grooming&quot;,
+  &quot;score&quot;: 0.0015607685782015324,
+  &quot;duration&quot;: 1.9166666666666667,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 8,
+  &quot;start_frame&quot;: 0,
+  &quot;end_frame&quot;: 46,
+  &quot;animals&quot;: [
+    &quot;Anteater&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Grooming&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Eating 0.71&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    0,
+    6,
+    13,
+    19,
+    26,
+    32,
+    39,
+    45
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\GATFJDPR.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;GATFJDPR&quot;,
+    &quot;video&quot;: &quot;GATFJDPR.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Anteater&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Anteater&quot;,
+        &quot;Grooming&quot;
+      ],
+      [
+        &quot;Anteater&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Anteater&quot;,
+        &quot;Grooming&quot;
+      ],
+      [
+        &quot;Anteater&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Anteater&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Grooming&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 1.917,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 46
+          },
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 1.917,
+            &quot;end&quot;: 4.5,
+            &quot;start_frame&quot;: 46,
+            &quot;end_frame&quot;: 108
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>极短区间</strong>：Running 区间只有 3 帧，模型预测 Grooming。须结合周围时间上下文检查，不能仅调阈值解决。</p><h2>#9 FP: Grooming</h2><img src="case-09.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/QKUMDRLL.mp4#t=5.875,6.000"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 629,
+  &quot;video_id&quot;: &quot;QKUMDRLL&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Grooming&quot;,
+  &quot;score&quot;: 0.5852132439613342,
+  &quot;duration&quot;: 0.125,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 9,
+  &quot;start_frame&quot;: 141,
+  &quot;end_frame&quot;: 144,
+  &quot;animals&quot;: [
+    &quot;Mouse&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Running&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Grooming 0.59&quot;,
+    &quot;Turning Around 0.15&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    141,
+    141,
+    142,
+    142,
+    142,
+    142,
+    143,
+    143
+  ],
+  &quot;unique_32_frame_indices&quot;: 3,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\QKUMDRLL.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;QKUMDRLL&quot;,
+    &quot;video&quot;: &quot;QKUMDRLL.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Mouse&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Mouse&quot;,
+        &quot;Turning Around&quot;
+      ],
+      [
+        &quot;Mouse&quot;,
+        &quot;Running&quot;
+      ],
+      [
+        &quot;Mouse&quot;,
+        &quot;Grooming&quot;
+      ],
+      [
+        &quot;Mouse&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Mouse&quot;,
+        &quot;Turning Around&quot;
+      ],
+      [
+        &quot;Mouse&quot;,
+        &quot;Running&quot;
+      ],
+      [
+        &quot;Mouse&quot;,
+        &quot;Grooming&quot;
+      ],
+      [
+        &quot;Mouse&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Mouse&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Turning Around&quot;,
+            &quot;start&quot;: 0.28,
+            &quot;end&quot;: 0.822,
+            &quot;start_frame&quot;: 7,
+            &quot;end_frame&quot;: 20
+          },
+          {
+            &quot;action&quot;: &quot;Grooming&quot;,
+            &quot;start&quot;: 0.913,
+            &quot;end&quot;: 1.471,
+            &quot;start_frame&quot;: 22,
+            &quot;end_frame&quot;: 35
+          },
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 1.53,
+            &quot;end&quot;: 2.905,
+            &quot;start_frame&quot;: 37,
+            &quot;end_frame&quot;: 70
+          },
+          {
+            &quot;action&quot;: &quot;Running&quot;,
+            &quot;start&quot;: 5.884,
+            &quot;end&quot;: 6.0,
+            &quot;start_frame&quot;: 141,
+            &quot;end_frame&quot;: 144
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>交互动作与单体运动</strong>：追逐场景中 Running 被检出，Attacking 漏检；交互关系比单体移动更难表达。</p><h2>#10 FN: Attacking</h2><img src="case-10.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/QISNEUDX.mp4#t=1.292,3.458"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 624,
+  &quot;video_id&quot;: &quot;QISNEUDX&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Attacking&quot;,
+  &quot;score&quot;: 0.0001554771006340161,
+  &quot;duration&quot;: 2.1666666666666665,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 10,
+  &quot;start_frame&quot;: 31,
+  &quot;end_frame&quot;: 83,
+  &quot;animals&quot;: [
+    &quot;Wildebeest&quot;,
+    &quot;Cheetah&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Attacking&quot;,
+    &quot;Running&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Running 0.60&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    31,
+    38,
+    46,
+    53,
+    60,
+    67,
+    75,
+    82
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\QISNEUDX.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;QISNEUDX&quot;,
+    &quot;video&quot;: &quot;QISNEUDX.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Wildebeest&quot;,
+      &quot;Cheetah&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Wildebeest&quot;,
+        &quot;Running&quot;
+      ],
+      [
+        &quot;Cheetah&quot;,
+        &quot;Attacking&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Wildebeest&quot;,
+        &quot;Running&quot;
+      ],
+      [
+        &quot;Cheetah&quot;,
+        &quot;Attacking&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Wildebeest&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Running&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 17.708,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 425
+          }
+        ]
+      },
+      {
+        &quot;animal&quot;: &quot;Cheetah&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Attacking&quot;,
+            &quot;start&quot;: 1.283,
+            &quot;end&quot;: 3.445,
+            &quot;start_frame&quot;: 31,
+            &quot;end_frame&quot;: 83
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>相似交互行为</strong>：虎狮交互，原标注 Disturbing Another Animal，模型 Attacking 高分。属于应人工复核的近义边界，不能直接宣布标注错。</p><h2>#11 FP: Attacking</h2><img src="case-11.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/TSGICXDO.mp4#t=0.000,0.458"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 714,
+  &quot;video_id&quot;: &quot;TSGICXDO&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Attacking&quot;,
+  &quot;score&quot;: 0.8818786144256592,
+  &quot;duration&quot;: 0.4583333333333333,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: false,
+  &quot;case_id&quot;: 11,
+  &quot;start_frame&quot;: 0,
+  &quot;end_frame&quot;: 11,
+  &quot;animals&quot;: [
+    &quot;Tiger&quot;,
+    &quot;Lion&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Disturbing Another Animal&quot;,
+    &quot;Sensing&quot;,
+    &quot;Walking&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Attacking 0.88&quot;,
+    &quot;Running 0.17&quot;,
+    &quot;Displaying Defensive Pose 0.15&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    0,
+    1,
+    3,
+    4,
+    6,
+    7,
+    9,
+    10
+  ],
+  &quot;unique_32_frame_indices&quot;: 11,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\TSGICXDO.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;TSGICXDO&quot;,
+    &quot;video&quot;: &quot;TSGICXDO.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Tiger&quot;,
+      &quot;Lion&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Tiger&quot;,
+        &quot;Fighting&quot;
+      ],
+      [
+        &quot;Tiger&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Lion&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Lion&quot;,
+        &quot;Fighting&quot;
+      ],
+      [
+        &quot;Tiger&quot;,
+        &quot;Running&quot;
+      ],
+      [
+        &quot;Lion&quot;,
+        &quot;Disturbing Another Animal&quot;
+      ],
+      [
+        &quot;Lion&quot;,
+        &quot;Running&quot;
+      ],
+      [
+        &quot;Lion&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Tiger&quot;,
+        &quot;Fighting&quot;
+      ],
+      [
+        &quot;Tiger&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Lion&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Lion&quot;,
+        &quot;Fighting&quot;
+      ],
+      [
+        &quot;Tiger&quot;,
+        &quot;Running&quot;
+      ],
+      [
+        &quot;Lion&quot;,
+        &quot;Disturbing Another Animal&quot;
+      ],
+      [
+        &quot;Lion&quot;,
+        &quot;Running&quot;
+      ],
+      [
+        &quot;Lion&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Tiger&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 0.083,
+            &quot;end&quot;: 0.667,
+            &quot;start_frame&quot;: 2,
+            &quot;end_frame&quot;: 16
+          },
+          {
+            &quot;action&quot;: &quot;Fighting&quot;,
+            &quot;start&quot;: 0.678,
+            &quot;end&quot;: 3.656,
+            &quot;start_frame&quot;: 16,
+            &quot;end_frame&quot;: 88
+          },
+          {
+            &quot;action&quot;: &quot;Running&quot;,
+            &quot;start&quot;: 3.693,
+            &quot;end&quot;: 4.023,
+            &quot;start_frame&quot;: 89,
+            &quot;end_frame&quot;: 97
+          }
+        ]
+      },
+      {
+        &quot;animal&quot;: &quot;Lion&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Disturbing Another Animal&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 0.452,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 11
+          },
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 0.674,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 16
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 3.654,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 88
+          },
+          {
+            &quot;action&quot;: &quot;Fighting&quot;,
+            &quot;start&quot;: 0.674,
+            &quot;end&quot;: 3.652,
+            &quot;start_frame&quot;: 16,
+            &quot;end_frame&quot;: 88
+          },
+          {
+            &quot;action&quot;: &quot;Running&quot;,
+            &quot;start&quot;: 3.679,
+            &quot;end&quot;: 4.003,
+            &quot;start_frame&quot;: 88,
+            &quot;end_frame&quot;: 96
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>细粒度语义混淆</strong>：蛇抬头画面，Attending 漏检，输出 Sensing/Keeping still。抽样帧无法清楚区分这些概念。</p><h2>#12 FN: Attending</h2><img src="case-12.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/CQCHVIQR.mp4#t=0.000,1.292"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 105,
+  &quot;video_id&quot;: &quot;CQCHVIQR&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Attending&quot;,
+  &quot;score&quot;: 0.0012369982432574034,
+  &quot;duration&quot;: 1.2916666666666667,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 12,
+  &quot;start_frame&quot;: 0,
+  &quot;end_frame&quot;: 31,
+  &quot;animals&quot;: [
+    &quot;Black Mamba&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Attending&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Sensing 0.30&quot;,
+    &quot;Keeping still 0.15&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    0,
+    4,
+    9,
+    13,
+    17,
+    21,
+    26,
+    30
+  ],
+  &quot;unique_32_frame_indices&quot;: 31,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\CQCHVIQR.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;CQCHVIQR&quot;,
+    &quot;video&quot;: &quot;CQCHVIQR.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Black Mamba&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Black Mamba&quot;,
+        &quot;Attending&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Black Mamba&quot;,
+        &quot;Attending&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Black Mamba&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 0.005,
+            &quot;end&quot;: 1.289,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 31
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>多标签覆盖候选</strong>：猫头鹰画面，Chirping 已正确检出，模型额外输出 Attending/Keeping still；是否应共存需按课程定义复核。</p><h2>#13 FP: Attending</h2><img src="case-13.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/UPGNDRAH.mp4#t=0.125,1.500"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 754,
+  &quot;video_id&quot;: &quot;UPGNDRAH&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Attending&quot;,
+  &quot;score&quot;: 0.9647197723388672,
+  &quot;duration&quot;: 1.375,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: false,
+  &quot;case_id&quot;: 13,
+  &quot;start_frame&quot;: 3,
+  &quot;end_frame&quot;: 36,
+  &quot;animals&quot;: [
+    &quot;Pygmy Owl&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Chirping&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Attending 0.96&quot;,
+    &quot;Chirping 0.93&quot;,
+    &quot;Keeping still 0.81&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    3,
+    8,
+    12,
+    17,
+    21,
+    26,
+    30,
+    35
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\UPGNDRAH.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;UPGNDRAH&quot;,
+    &quot;video&quot;: &quot;UPGNDRAH.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Pygmy Owl&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Pygmy Owl&quot;,
+        &quot;Chirping&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Pygmy Owl&quot;,
+        &quot;Chirping&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Pygmy Owl&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 0.145,
+            &quot;end&quot;: 1.516,
+            &quot;start_frame&quot;: 3,
+            &quot;end_frame&quot;: 36
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>动作泛化</strong>：鬣蜥近景、主体大，Sensing 被预测为 Walking/Climbing。该例不支持小主体作为唯一解释。</p><h2>#14 FN: Sensing</h2><img src="case-14.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/GHNFDFNJ.mp4#t=0.000,5.833"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 244,
+  &quot;video_id&quot;: &quot;GHNFDFNJ&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Sensing&quot;,
+  &quot;score&quot;: 0.002338903024792671,
+  &quot;duration&quot;: 5.833333333333333,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 14,
+  &quot;start_frame&quot;: 0,
+  &quot;end_frame&quot;: 140,
+  &quot;animals&quot;: [
+    &quot;Iguana&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Sensing&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Walking 0.38&quot;,
+    &quot;Climbing 0.19&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    0,
+    20,
+    40,
+    60,
+    79,
+    99,
+    119,
+    139
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\GHNFDFNJ.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;GHNFDFNJ&quot;,
+    &quot;video&quot;: &quot;GHNFDFNJ.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Iguana&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Iguana&quot;,
+        &quot;Sensing&quot;
+      ],
+      [
+        &quot;Iguana&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Iguana&quot;,
+        &quot;Sensing&quot;
+      ],
+      [
+        &quot;Iguana&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Iguana&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 5.844,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 140
+          },
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 1.469,
+            &quot;end&quot;: 3.594,
+            &quot;start_frame&quot;: 35,
+            &quot;end_frame&quot;: 86
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>极短区间与语义混淆</strong>：植被中的鸟只取 3 个原始帧，标注 Turning Around 等而模型额外给 Sensing。</p><h2>#15 FP: Sensing</h2><img src="case-15.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/DWOBFVKA.mp4#t=10.708,10.833"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 147,
+  &quot;video_id&quot;: &quot;DWOBFVKA&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Sensing&quot;,
+  &quot;score&quot;: 0.940631628036499,
+  &quot;duration&quot;: 0.125,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 15,
+  &quot;start_frame&quot;: 257,
+  &quot;end_frame&quot;: 260,
+  &quot;animals&quot;: [
+    &quot;Common Quail&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Attending&quot;,
+    &quot;Turning Around&quot;,
+    &quot;Walking&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Sensing 0.94&quot;,
+    &quot;Attending 0.74&quot;,
+    &quot;Walking 0.68&quot;,
+    &quot;Turning Around 0.30&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    257,
+    257,
+    258,
+    258,
+    258,
+    258,
+    259,
+    259
+  ],
+  &quot;unique_32_frame_indices&quot;: 3,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\DWOBFVKA.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;DWOBFVKA&quot;,
+    &quot;video&quot;: &quot;DWOBFVKA.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Common Quail&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Common Quail&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Common Quail&quot;,
+        &quot;Sensing&quot;
+      ],
+      [
+        &quot;Common Quail&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Common Quail&quot;,
+        &quot;Turning Around&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Common Quail&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Common Quail&quot;,
+        &quot;Sensing&quot;
+      ],
+      [
+        &quot;Common Quail&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Common Quail&quot;,
+        &quot;Turning Around&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Common Quail&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 5.219,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 125
+          },
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 0.094,
+            &quot;end&quot;: 15.969,
+            &quot;start_frame&quot;: 2,
+            &quot;end_frame&quot;: 383
+          },
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 5.344,
+            &quot;end&quot;: 15.844,
+            &quot;start_frame&quot;: 128,
+            &quot;end_frame&quot;: 380
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 9.969,
+            &quot;end&quot;: 10.682,
+            &quot;start_frame&quot;: 239,
+            &quot;end_frame&quot;: 256
+          },
+          {
+            &quot;action&quot;: &quot;Turning Around&quot;,
+            &quot;start&quot;: 10.719,
+            &quot;end&quot;: 10.844,
+            &quot;start_frame&quot;: 257,
+            &quot;end_frame&quot;: 260
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>小主体与并行动作</strong>：蚂蚁/小型昆虫与地面纹理混杂；GT 含 Eating/Keeping still/Moving，模型仅强输出 Moving。多动物或并行动作不容易同时保留。</p><h2>#16 FN: Keeping still</h2><img src="case-16.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/AUWWTVTT.mp4#t=0.000,17.042"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 26,
+  &quot;video_id&quot;: &quot;AUWWTVTT&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Keeping still&quot;,
+  &quot;score&quot;: 0.0004982309765182436,
+  &quot;duration&quot;: 17.041666666666668,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 16,
+  &quot;start_frame&quot;: 0,
+  &quot;end_frame&quot;: 409,
+  &quot;animals&quot;: [
+    &quot;Leafcutter Ant&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Eating&quot;,
+    &quot;Keeping still&quot;,
+    &quot;Moving&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Moving 1.00&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    0,
+    58,
+    117,
+    175,
+    233,
+    291,
+    350,
+    408
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\AUWWTVTT.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;AUWWTVTT&quot;,
+    &quot;video&quot;: &quot;AUWWTVTT.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Leafcutter Ant&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Leafcutter Ant&quot;,
+        &quot;Eating&quot;
+      ],
+      [
+        &quot;Leafcutter Ant&quot;,
+        &quot;Moving&quot;
+      ],
+      [
+        &quot;Leafcutter Ant&quot;,
+        &quot;Keeping still&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Leafcutter Ant&quot;,
+        &quot;Eating&quot;
+      ],
+      [
+        &quot;Leafcutter Ant&quot;,
+        &quot;Moving&quot;
+      ],
+      [
+        &quot;Leafcutter Ant&quot;,
+        &quot;Keeping still&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Leafcutter Ant&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Eating&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 17.042,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 409
+          },
+          {
+            &quot;action&quot;: &quot;Moving&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 17.042,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 409
+          },
+          {
+            &quot;action&quot;: &quot;Keeping still&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 17.042,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 409
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>标注覆盖复核候选</strong>：鸟停在枝上，8 个抽样帧姿态大致稳定。模型 Keeping still 0.988，但当前片段仅标 Attending，且该视频原标注完全没有 Keeping still。值得人工复核，尚不能判错。</p><h2>#17 FP: Keeping still</h2><img src="case-17.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/BLGTINQN.mp4#t=2.625,4.833"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 71,
+  &quot;video_id&quot;: &quot;BLGTINQN&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Keeping still&quot;,
+  &quot;score&quot;: 0.9878401756286621,
+  &quot;duration&quot;: 2.2083333333333335,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: false,
+  &quot;case_id&quot;: 17,
+  &quot;start_frame&quot;: 63,
+  &quot;end_frame&quot;: 116,
+  &quot;animals&quot;: [
+    &quot;Whinchat Bird&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Attending&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Keeping still 0.99&quot;,
+    &quot;Attending 0.51&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    63,
+    70,
+    78,
+    85,
+    93,
+    100,
+    108,
+    115
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\BLGTINQN.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;BLGTINQN&quot;,
+    &quot;video&quot;: &quot;BLGTINQN.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Whinchat Bird&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Whinchat Bird&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Whinchat Bird&quot;,
+        &quot;Chirping&quot;
+      ],
+      [
+        &quot;Whinchat Bird&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Whinchat Bird&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Whinchat Bird&quot;,
+        &quot;Chirping&quot;
+      ],
+      [
+        &quot;Whinchat Bird&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Whinchat Bird&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 0.299,
+            &quot;end&quot;: 1.51,
+            &quot;start_frame&quot;: 7,
+            &quot;end_frame&quot;: 36
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 1.482,
+            &quot;end&quot;: 2.729,
+            &quot;start_frame&quot;: 36,
+            &quot;end_frame&quot;: 65
+          },
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 2.628,
+            &quot;end&quot;: 4.841,
+            &quot;start_frame&quot;: 63,
+            &quot;end_frame&quot;: 116
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 5.295,
+            &quot;end&quot;: 6.038,
+            &quot;start_frame&quot;: 127,
+            &quot;end_frame&quot;: 145
+          },
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 6.045,
+            &quot;end&quot;: 8.035,
+            &quot;start_frame&quot;: 145,
+            &quot;end_frame&quot;: 193
+          },
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 8.533,
+            &quot;end&quot;: 9.78,
+            &quot;start_frame&quot;: 205,
+            &quot;end_frame&quot;: 235
+          },
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 10.104,
+            &quot;end&quot;: 11.453,
+            &quot;start_frame&quot;: 242,
+            &quot;end_frame&quot;: 275
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>并行动作细节</strong>：水中动物 Swimming 被检出、Eating 漏检；嘴部与水面遮挡限制细粒度观察。</p><h2>#18 FN: Eating</h2><img src="case-18.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/NGZXTFFP.mp4#t=0.000,3.208"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 481,
+  &quot;video_id&quot;: &quot;NGZXTFFP&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Eating&quot;,
+  &quot;score&quot;: 0.0006899865111336112,
+  &quot;duration&quot;: 3.2083333333333335,
+  &quot;annotation_overlap&quot;: 0.6883116883116883,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 18,
+  &quot;start_frame&quot;: 0,
+  &quot;end_frame&quot;: 77,
+  &quot;animals&quot;: [
+    &quot;Otter&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Eating&quot;,
+    &quot;Swimming&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Swimming 0.79&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    0,
+    11,
+    22,
+    33,
+    43,
+    54,
+    65,
+    76
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\NGZXTFFP.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;NGZXTFFP&quot;,
+    &quot;video&quot;: &quot;NGZXTFFP.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Otter&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Otter&quot;,
+        &quot;Swimming&quot;
+      ],
+      [
+        &quot;Otter&quot;,
+        &quot;Eating&quot;
+      ],
+      [
+        &quot;Otter&quot;,
+        &quot;Yawning&quot;
+      ],
+      [
+        &quot;Otter&quot;,
+        &quot;Diving&quot;
+      ],
+      [
+        &quot;Otter&quot;,
+        &quot;Playing&quot;
+      ],
+      [
+        &quot;Otter&quot;,
+        &quot;Showing Affection&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Otter&quot;,
+        &quot;Swimming&quot;
+      ],
+      [
+        &quot;Otter&quot;,
+        &quot;Eating&quot;
+      ],
+      [
+        &quot;Otter&quot;,
+        &quot;Yawning&quot;
+      ],
+      [
+        &quot;Otter&quot;,
+        &quot;Diving&quot;
+      ],
+      [
+        &quot;Otter&quot;,
+        &quot;Playing&quot;
+      ],
+      [
+        &quot;Otter&quot;,
+        &quot;Showing Affection&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Otter&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Swimming&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 3.208,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 77
+          },
+          {
+            &quot;action&quot;: &quot;Diving&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 3.208,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 77
+          },
+          {
+            &quot;action&quot;: &quot;Playing&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 3.208,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 77
+          },
+          {
+            &quot;action&quot;: &quot;Eating&quot;,
+            &quot;start&quot;: 0.47,
+            &quot;end&quot;: 2.683,
+            &quot;start_frame&quot;: 11,
+            &quot;end_frame&quot;: 64
+          },
+          {
+            &quot;action&quot;: &quot;Showing Affection&quot;,
+            &quot;start&quot;: 0.947,
+            &quot;end&quot;: 3.153,
+            &quot;start_frame&quot;: 23,
+            &quot;end_frame&quot;: 76
+          },
+          {
+            &quot;action&quot;: &quot;Yawning&quot;,
+            &quot;start&quot;: 1.849,
+            &quot;end&quot;: 3.214,
+            &quot;start_frame&quot;: 44,
+            &quot;end_frame&quot;: 77
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>短区间与物种外观候选</strong>：植被中鸟的 Flapping 被检出，模型额外给 Eating 0.961。区间仅 8 帧，不排除背景/外观依赖。</p><h2>#19 FP: Eating</h2><img src="case-19.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/CZMRAJVY.mp4#t=2.292,2.625"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 120,
+  &quot;video_id&quot;: &quot;CZMRAJVY&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Eating&quot;,
+  &quot;score&quot;: 0.9611575603485107,
+  &quot;duration&quot;: 0.3333333333333333,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 19,
+  &quot;start_frame&quot;: 55,
+  &quot;end_frame&quot;: 63,
+  &quot;animals&quot;: [
+    &quot;Goldfinch&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Flapping&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Eating 0.96&quot;,
+    &quot;Flapping 0.52&quot;,
+    &quot;Turning Around 0.30&quot;,
+    &quot;Jumping 0.26&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
+  ],
+  &quot;unique_32_frame_indices&quot;: 8,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\CZMRAJVY.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;CZMRAJVY&quot;,
+    &quot;video&quot;: &quot;CZMRAJVY.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Goldfinch&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Sensing&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Turning Around&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Landing&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Flapping&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Eating&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Sensing&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Turning Around&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Landing&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Flapping&quot;
+      ],
+      [
+        &quot;Goldfinch&quot;,
+        &quot;Eating&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Goldfinch&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Flapping&quot;,
+            &quot;start&quot;: 0.009,
+            &quot;end&quot;: 1.104,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 26
+          },
+          {
+            &quot;action&quot;: &quot;Eating&quot;,
+            &quot;start&quot;: 0.009,
+            &quot;end&quot;: 1.54,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 37
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 0.124,
+            &quot;end&quot;: 2.187,
+            &quot;start_frame&quot;: 3,
+            &quot;end_frame&quot;: 52
+          },
+          {
+            &quot;action&quot;: &quot;Landing&quot;,
+            &quot;start&quot;: 0.529,
+            &quot;end&quot;: 1.225,
+            &quot;start_frame&quot;: 13,
+            &quot;end_frame&quot;: 29
+          },
+          {
+            &quot;action&quot;: &quot;Flapping&quot;,
+            &quot;start&quot;: 2.302,
+            &quot;end&quot;: 2.623,
+            &quot;start_frame&quot;: 55,
+            &quot;end_frame&quot;: 63
+          },
+          {
+            &quot;action&quot;: &quot;Turning Around&quot;,
+            &quot;start&quot;: 3.052,
+            &quot;end&quot;: 4.177,
+            &quot;start_frame&quot;: 73,
+            &quot;end_frame&quot;: 100
+          },
+          {
+            &quot;action&quot;: &quot;Flapping&quot;,
+            &quot;start&quot;: 3.597,
+            &quot;end&quot;: 4.71,
+            &quot;start_frame&quot;: 86,
+            &quot;end_frame&quot;: 113
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 3.869,
+            &quot;end&quot;: 4.867,
+            &quot;start_frame&quot;: 93,
+            &quot;end_frame&quot;: 117
+          },
+          {
+            &quot;action&quot;: &quot;Eating&quot;,
+            &quot;start&quot;: 3.978,
+            &quot;end&quot;: 9.625,
+            &quot;start_frame&quot;: 95,
+            &quot;end_frame&quot;: 231
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 5.768,
+            &quot;end&quot;: 9.156,
+            &quot;start_frame&quot;: 138,
+            &quot;end_frame&quot;: 220
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>并行动作与感知通道</strong>：鹅摇头 8 帧区间中，Shaking Head 被检出而 Chirping 漏检。当前模型只有 RGB，抽样图与无音频检查无法确认鸣叫。</p><h2>#20 FN: Chirping</h2><img src="case-20.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/VFHQMNCR.mp4#t=0.125,0.458"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 778,
+  &quot;video_id&quot;: &quot;VFHQMNCR&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Chirping&quot;,
+  &quot;score&quot;: 0.000699707365129143,
+  &quot;duration&quot;: 0.3333333333333333,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 20,
+  &quot;start_frame&quot;: 3,
+  &quot;end_frame&quot;: 11,
+  &quot;animals&quot;: [
+    &quot;Goose&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Chirping&quot;,
+    &quot;Shaking Head&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Shaking Head 0.91&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  &quot;unique_32_frame_indices&quot;: 8,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\VFHQMNCR.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;VFHQMNCR&quot;,
+    &quot;video&quot;: &quot;VFHQMNCR.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Goose&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Goose&quot;,
+        &quot;Shaking Head&quot;
+      ],
+      [
+        &quot;Goose&quot;,
+        &quot;Chirping&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Goose&quot;,
+        &quot;Shaking Head&quot;
+      ],
+      [
+        &quot;Goose&quot;,
+        &quot;Chirping&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Goose&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 3.083,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 74
+          },
+          {
+            &quot;action&quot;: &quot;Shaking Head&quot;,
+            &quot;start&quot;: 0.125,
+            &quot;end&quot;: 0.458,
+            &quot;start_frame&quot;: 3,
+            &quot;end_frame&quot;: 11
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>同场景跨时间混淆</strong>：夜莺视频当前标注 Attending/Keeping still，但模型 Chirping 0.981；鸣叫在该视频其他区间有标注。不能据此断定当前区间也有鸣叫。</p><h2>#21 FP: Chirping</h2><img src="case-21.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/ONYPAPTK.mp4#t=22.000,24.750"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 539,
+  &quot;video_id&quot;: &quot;ONYPAPTK&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Chirping&quot;,
+  &quot;score&quot;: 0.981133222579956,
+  &quot;duration&quot;: 2.75,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 21,
+  &quot;start_frame&quot;: 528,
+  &quot;end_frame&quot;: 594,
+  &quot;animals&quot;: [
+    &quot;Singing Nightingale&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Attending&quot;,
+    &quot;Keeping still&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Chirping 0.98&quot;,
+    &quot;Sensing 0.33&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    528,
+    537,
+    547,
+    556,
+    565,
+    574,
+    584,
+    593
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\ONYPAPTK.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;ONYPAPTK&quot;,
+    &quot;video&quot;: &quot;ONYPAPTK.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Singing Nightingale&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Singing Nightingale&quot;,
+        &quot;Keeping still&quot;
+      ],
+      [
+        &quot;Singing Nightingale&quot;,
+        &quot;Chirping&quot;
+      ],
+      [
+        &quot;Singing Nightingale&quot;,
+        &quot;Sensing&quot;
+      ],
+      [
+        &quot;Singing Nightingale&quot;,
+        &quot;Attending&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Singing Nightingale&quot;,
+        &quot;Keeping still&quot;
+      ],
+      [
+        &quot;Singing Nightingale&quot;,
+        &quot;Chirping&quot;
+      ],
+      [
+        &quot;Singing Nightingale&quot;,
+        &quot;Sensing&quot;
+      ],
+      [
+        &quot;Singing Nightingale&quot;,
+        &quot;Attending&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Singing Nightingale&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 1.25,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 30
+          },
+          {
+            &quot;action&quot;: &quot;Keeping still&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 21.75,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 522
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 1.25,
+            &quot;end&quot;: 2.25,
+            &quot;start_frame&quot;: 30,
+            &quot;end_frame&quot;: 54
+          },
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 3.75,
+            &quot;end&quot;: 5.25,
+            &quot;start_frame&quot;: 90,
+            &quot;end_frame&quot;: 126
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 5.25,
+            &quot;end&quot;: 6.25,
+            &quot;start_frame&quot;: 126,
+            &quot;end_frame&quot;: 150
+          },
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 6.25,
+            &quot;end&quot;: 9.0,
+            &quot;start_frame&quot;: 150,
+            &quot;end_frame&quot;: 216
+          },
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 9.25,
+            &quot;end&quot;: 10.5,
+            &quot;start_frame&quot;: 222,
+            &quot;end_frame&quot;: 252
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 10.5,
+            &quot;end&quot;: 11.5,
+            &quot;start_frame&quot;: 252,
+            &quot;end_frame&quot;: 276
+          },
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 11.5,
+            &quot;end&quot;: 12.5,
+            &quot;start_frame&quot;: 276,
+            &quot;end_frame&quot;: 300
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 14.75,
+            &quot;end&quot;: 15.5,
+            &quot;start_frame&quot;: 354,
+            &quot;end_frame&quot;: 372
+          },
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 15.5,
+            &quot;end&quot;: 16.5,
+            &quot;start_frame&quot;: 372,
+            &quot;end_frame&quot;: 396
+          },
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 17.25,
+            &quot;end&quot;: 19.75,
+            &quot;start_frame&quot;: 414,
+            &quot;end_frame&quot;: 474
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 21.0,
+            &quot;end&quot;: 21.75,
+            &quot;start_frame&quot;: 504,
+            &quot;end_frame&quot;: 522
+          },
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 22.0,
+            &quot;end&quot;: 24.75,
+            &quot;start_frame&quot;: 528,
+            &quot;end_frame&quot;: 594
+          },
+          {
+            &quot;action&quot;: &quot;Keeping still&quot;,
+            &quot;start&quot;: 22.0,
+            &quot;end&quot;: 33.625,
+            &quot;start_frame&quot;: 528,
+            &quot;end_frame&quot;: 807
+          },
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 25.0,
+            &quot;end&quot;: 26.75,
+            &quot;start_frame&quot;: 600,
+            &quot;end_frame&quot;: 642
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 27.0,
+            &quot;end&quot;: 28.75,
+            &quot;start_frame&quot;: 648,
+            &quot;end_frame&quot;: 690
+          },
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 28.75,
+            &quot;end&quot;: 30.0,
+            &quot;start_frame&quot;: 690,
+            &quot;end_frame&quot;: 720
+          },
+          {
+            &quot;action&quot;: &quot;Chirping&quot;,
+            &quot;start&quot;: 31.25,
+            &quot;end&quot;: 33.625,
+            &quot;start_frame&quot;: 750,
+            &quot;end_frame&quot;: 807
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>动作粒度与物种迁移</strong>：蝾螈占据较大画面，标注 Walking，模型 Moving 接近 1、Walking 接近 0。这不是主体太小；需检查动作粒度与训练物种分布。</p><h2>#22 FN: Walking</h2><img src="case-22.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/YVFBNICC.mp4#t=0.000,11.125"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 865,
+  &quot;video_id&quot;: &quot;YVFBNICC&quot;,
+  &quot;kind&quot;: &quot;FN&quot;,
+  &quot;action&quot;: &quot;Walking&quot;,
+  &quot;score&quot;: 0.00032967652077786624,
+  &quot;duration&quot;: 11.125,
+  &quot;annotation_overlap&quot;: 1.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 22,
+  &quot;start_frame&quot;: 0,
+  &quot;end_frame&quot;: 267,
+  &quot;animals&quot;: [
+    &quot;Ensatina&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Walking&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Moving 1.00&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    0,
+    38,
+    76,
+    114,
+    152,
+    190,
+    228,
+    266
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\YVFBNICC.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;YVFBNICC&quot;,
+    &quot;video&quot;: &quot;YVFBNICC.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Ensatina&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Ensatina&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Ensatina&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Ensatina&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 11.125,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 267
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>远景细节不足</strong>：远处鸟类呈小轮廓，GT 为 Keeping still/Preening，模型预测 Walking/Sensing；腿部和梳羽细节难辨。</p><h2>#23 FP: Walking</h2><img src="case-23.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/XGDAWBXG.mp4#t=2.708,3.500"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 832,
+  &quot;video_id&quot;: &quot;XGDAWBXG&quot;,
+  &quot;kind&quot;: &quot;FP&quot;,
+  &quot;action&quot;: &quot;Walking&quot;,
+  &quot;score&quot;: 0.8295595645904541,
+  &quot;duration&quot;: 0.7916666666666666,
+  &quot;annotation_overlap&quot;: 0.0,
+  &quot;annotated_elsewhere&quot;: true,
+  &quot;case_id&quot;: 23,
+  &quot;start_frame&quot;: 65,
+  &quot;end_frame&quot;: 84,
+  &quot;animals&quot;: [
+    &quot;Common Crane&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Keeping still&quot;,
+    &quot;Preening&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Walking 0.83&quot;,
+    &quot;Sensing 0.78&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    65,
+    68,
+    70,
+    73,
+    75,
+    78,
+    80,
+    83
+  ],
+  &quot;unique_32_frame_indices&quot;: 19,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\XGDAWBXG.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;XGDAWBXG&quot;,
+    &quot;video&quot;: &quot;XGDAWBXG.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Common Crane&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Common Crane&quot;,
+        &quot;Preening&quot;
+      ],
+      [
+        &quot;Common Crane&quot;,
+        &quot;Keeping still&quot;
+      ],
+      [
+        &quot;Common Crane&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Common Crane&quot;,
+        &quot;Preening&quot;
+      ],
+      [
+        &quot;Common Crane&quot;,
+        &quot;Keeping still&quot;
+      ],
+      [
+        &quot;Common Crane&quot;,
+        &quot;Walking&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Common Crane&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 2.44,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 59
+          },
+          {
+            &quot;action&quot;: &quot;Preening&quot;,
+            &quot;start&quot;: 0.002,
+            &quot;end&quot;: 1.444,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 35
+          },
+          {
+            &quot;action&quot;: &quot;Keeping still&quot;,
+            &quot;start&quot;: 1.705,
+            &quot;end&quot;: 3.501,
+            &quot;start_frame&quot;: 41,
+            &quot;end_frame&quot;: 84
+          },
+          {
+            &quot;action&quot;: &quot;Preening&quot;,
+            &quot;start&quot;: 2.701,
+            &quot;end&quot;: 3.501,
+            &quot;start_frame&quot;: 65,
+            &quot;end_frame&quot;: 84
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>目标动作正确对照</strong>：火烈鸟饮水场景，目标 Drinking 被高分检出；这是目标类别正确对照。</p><h2>#24 TP control: Drinking</h2><img src="case-24.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/LMOHUTFT.mp4#t=14.208,20.000"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 433,
+  &quot;video_id&quot;: &quot;LMOHUTFT&quot;,
+  &quot;kind&quot;: &quot;TP control&quot;,
+  &quot;action&quot;: &quot;Drinking&quot;,
+  &quot;score&quot;: 0.9996634721755981,
+  &quot;case_id&quot;: 24,
+  &quot;start_frame&quot;: 341,
+  &quot;end_frame&quot;: 480,
+  &quot;duration&quot;: 5.791666666666667,
+  &quot;animals&quot;: [
+    &quot;Flamingo&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Drinking&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Drinking 1.00&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    341,
+    361,
+    380,
+    400,
+    420,
+    440,
+    459,
+    479
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\LMOHUTFT.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;LMOHUTFT&quot;,
+    &quot;video&quot;: &quot;LMOHUTFT.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Flamingo&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Flamingo&quot;,
+        &quot;Fighting&quot;
+      ],
+      [
+        &quot;Flamingo&quot;,
+        &quot;Preening&quot;
+      ],
+      [
+        &quot;Flamingo&quot;,
+        &quot;Disturbing Another Animal&quot;
+      ],
+      [
+        &quot;Flamingo&quot;,
+        &quot;Drinking&quot;
+      ],
+      [
+        &quot;Flamingo&quot;,
+        &quot;Displaying Defensive Pose&quot;
+      ],
+      [
+        &quot;Flamingo&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Flamingo&quot;,
+        &quot;Fighting&quot;
+      ],
+      [
+        &quot;Flamingo&quot;,
+        &quot;Preening&quot;
+      ],
+      [
+        &quot;Flamingo&quot;,
+        &quot;Disturbing Another Animal&quot;
+      ],
+      [
+        &quot;Flamingo&quot;,
+        &quot;Drinking&quot;
+      ],
+      [
+        &quot;Flamingo&quot;,
+        &quot;Displaying Defensive Pose&quot;
+      ],
+      [
+        &quot;Flamingo&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Flamingo&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Drinking&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 3.9
+          },
+          {
+            &quot;action&quot;: &quot;Disturbing Another Animal&quot;,
+            &quot;start&quot;: 3.9,
+            &quot;end&quot;: 4.4
+          },
+          {
+            &quot;action&quot;: &quot;Drinking&quot;,
+            &quot;start&quot;: 4.4,
+            &quot;end&quot;: 13.3
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 13.3,
+            &quot;end&quot;: 14.2
+          },
+          {
+            &quot;action&quot;: &quot;Drinking&quot;,
+            &quot;start&quot;: 14.2,
+            &quot;end&quot;: 20.0
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 20.0,
+            &quot;end&quot;: 22.6
+          },
+          {
+            &quot;action&quot;: &quot;Drinking&quot;,
+            &quot;start&quot;: 22.6,
+            &quot;end&quot;: 29.9
+          },
+          {
+            &quot;action&quot;: &quot;Preening&quot;,
+            &quot;start&quot;: 29.9,
+            &quot;end&quot;: 31.4
+          },
+          {
+            &quot;action&quot;: &quot;Drinking&quot;,
+            &quot;start&quot;: 31.4,
+            &quot;end&quot;: 34.4
+          },
+          {
+            &quot;action&quot;: &quot;Fighting&quot;,
+            &quot;start&quot;: 34.5,
+            &quot;end&quot;: 35.4
+          },
+          {
+            &quot;action&quot;: &quot;Displaying Defensive Pose&quot;,
+            &quot;start&quot;: 35.4,
+            &quot;end&quot;: 36.1
+          },
+          {
+            &quot;action&quot;: &quot;Drinking&quot;,
+            &quot;start&quot;: 36.1,
+            &quot;end&quot;: 37.71
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>目标动作正确对照</strong>：眼镜蛇 Spitting Venom 目标被高分检出；仅 10 个原始帧。不能用单例证明模型一定依据毒液而非其他线索。</p><h2>#25 TP control: Spitting Venom</h2><img src="case-25.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/KGDVFFUP.mp4#t=2.083,2.500"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 391,
+  &quot;video_id&quot;: &quot;KGDVFFUP&quot;,
+  &quot;kind&quot;: &quot;TP control&quot;,
+  &quot;action&quot;: &quot;Spitting Venom&quot;,
+  &quot;score&quot;: 0.9999730587005615,
+  &quot;case_id&quot;: 25,
+  &quot;start_frame&quot;: 50,
+  &quot;end_frame&quot;: 60,
+  &quot;duration&quot;: 0.4166666666666667,
+  &quot;animals&quot;: [
+    &quot;Red Spitting Cobra&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Spitting Venom&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Spitting Venom 1.00&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    50,
+    51,
+    53,
+    54,
+    55,
+    56,
+    58,
+    59
+  ],
+  &quot;unique_32_frame_indices&quot;: 10,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\KGDVFFUP.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;KGDVFFUP&quot;,
+    &quot;video&quot;: &quot;KGDVFFUP.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Red Spitting Cobra&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Red Spitting Cobra&quot;,
+        &quot;Spitting Venom&quot;
+      ],
+      [
+        &quot;Red Spitting Cobra&quot;,
+        &quot;Keeping still&quot;
+      ],
+      [
+        &quot;Red Spitting Cobra&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Red Spitting Cobra&quot;,
+        &quot;Spitting Venom&quot;
+      ],
+      [
+        &quot;Red Spitting Cobra&quot;,
+        &quot;Keeping still&quot;
+      ],
+      [
+        &quot;Red Spitting Cobra&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Red Spitting Cobra&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Keeping still&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 2.042,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 49
+          },
+          {
+            &quot;action&quot;: &quot;Spitting Venom&quot;,
+            &quot;start&quot;: 2.083,
+            &quot;end&quot;: 2.5,
+            &quot;start_frame&quot;: 50,
+            &quot;end_frame&quot;: 60
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 2.667,
+            &quot;end&quot;: 3.833,
+            &quot;start_frame&quot;: 64,
+            &quot;end_frame&quot;: 92
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article><article><p><strong>部分正确对照</strong>：鸟类 Walking 被检出，但仍有漏标/额外预测。这里只作为 Walking 正确对照，并非整个标签集合完全正确。</p><h2>#26 TP control: Walking</h2><img src="case-26.jpg"><video controls preload="none" src="../../../AnimalAct/videos/valid/FPWPOPLS.mp4#t=10.667,15.917"></video><details><summary>原始标注与完整检查记录</summary><pre>{
+  &quot;split&quot;: &quot;valid&quot;,
+  &quot;index&quot;: 213,
+  &quot;video_id&quot;: &quot;FPWPOPLS&quot;,
+  &quot;kind&quot;: &quot;TP control&quot;,
+  &quot;action&quot;: &quot;Walking&quot;,
+  &quot;score&quot;: 0.96224045753479,
+  &quot;case_id&quot;: 26,
+  &quot;start_frame&quot;: 256,
+  &quot;end_frame&quot;: 382,
+  &quot;duration&quot;: 5.25,
+  &quot;animals&quot;: [
+    &quot;Ardea Alba Egret&quot;
+  ],
+  &quot;targets&quot;: [
+    &quot;Preening&quot;,
+    &quot;Shaking Head&quot;,
+    &quot;Walking&quot;
+  ],
+  &quot;predictions&quot;: [
+    &quot;Walking 0.96&quot;,
+    &quot;Keeping still 0.72&quot;,
+    &quot;Attending 0.63&quot;,
+    &quot;Sensing 0.36&quot;,
+    &quot;Landing 0.23&quot;
+  ],
+  &quot;width&quot;: 640,
+  &quot;height&quot;: 360,
+  &quot;sampled_frames&quot;: [
+    256,
+    274,
+    292,
+    310,
+    327,
+    345,
+    363,
+    381
+  ],
+  &quot;unique_32_frame_indices&quot;: 32,
+  &quot;original_video&quot;: &quot;C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\valid\\FPWPOPLS.mp4&quot;,
+  &quot;annotation&quot;: {
+    &quot;video_id&quot;: &quot;FPWPOPLS&quot;,
+    &quot;video&quot;: &quot;FPWPOPLS.mp4&quot;,
+    &quot;fps&quot;: 24,
+    &quot;list_animal&quot;: [
+      &quot;Ardea Alba Egret&quot;
+    ],
+    &quot;list_animal_action&quot;: [
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Keeping still&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Landing&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Preening&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Flying&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Shaking Head&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;source_labels&quot;: [
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Keeping still&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Attending&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Walking&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Landing&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Preening&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Flying&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Shaking Head&quot;
+      ],
+      [
+        &quot;Ardea Alba Egret&quot;,
+        &quot;Sensing&quot;
+      ]
+    ],
+    &quot;annotations&quot;: [
+      {
+        &quot;animal&quot;: &quot;Ardea Alba Egret&quot;,
+        &quot;actions&quot;: [
+          {
+            &quot;action&quot;: &quot;Keeping still&quot;,
+            &quot;start&quot;: 0.0,
+            &quot;end&quot;: 2.304,
+            &quot;start_frame&quot;: 0,
+            &quot;end_frame&quot;: 55
+          },
+          {
+            &quot;action&quot;: &quot;Shaking Head&quot;,
+            &quot;start&quot;: 2.288,
+            &quot;end&quot;: 7.117,
+            &quot;start_frame&quot;: 55,
+            &quot;end_frame&quot;: 171
+          },
+          {
+            &quot;action&quot;: &quot;Attending&quot;,
+            &quot;start&quot;: 2.304,
+            &quot;end&quot;: 7.146,
+            &quot;start_frame&quot;: 55,
+            &quot;end_frame&quot;: 172
+          },
+          {
+            &quot;action&quot;: &quot;Preening&quot;,
+            &quot;start&quot;: 2.675,
+            &quot;end&quot;: 8.22,
+            &quot;start_frame&quot;: 64,
+            &quot;end_frame&quot;: 197
+          },
+          {
+            &quot;action&quot;: &quot;Landing&quot;,
+            &quot;start&quot;: 4.015,
+            &quot;end&quot;: 7.685,
+            &quot;start_frame&quot;: 96,
+            &quot;end_frame&quot;: 184
+          },
+          {
+            &quot;action&quot;: &quot;Sensing&quot;,
+            &quot;start&quot;: 5.221,
+            &quot;end&quot;: 9.593,
+            &quot;start_frame&quot;: 125,
+            &quot;end_frame&quot;: 230
+          },
+          {
+            &quot;action&quot;: &quot;Flying&quot;,
+            &quot;start&quot;: 7.345,
+            &quot;end&quot;: 9.573,
+            &quot;start_frame&quot;: 176,
+            &quot;end_frame&quot;: 230
+          },
+          {
+            &quot;action&quot;: &quot;Landing&quot;,
+            &quot;start&quot;: 8.429,
+            &quot;end&quot;: 10.384,
+            &quot;start_frame&quot;: 202,
+            &quot;end_frame&quot;: 249
+          },
+          {
+            &quot;action&quot;: &quot;Walking&quot;,
+            &quot;start&quot;: 10.427,
+            &quot;end&quot;: 15.56,
+            &quot;start_frame&quot;: 250,
+            &quot;end_frame&quot;: 373
+          },
+          {
+            &quot;action&quot;: &quot;Shaking Head&quot;,
+            &quot;start&quot;: 10.655,
+            &quot;end&quot;: 15.918,
+            &quot;start_frame&quot;: 256,
+            &quot;end_frame&quot;: 382
+          },
+          {
+            &quot;action&quot;: &quot;Preening&quot;,
+            &quot;start&quot;: 10.983,
+            &quot;end&quot;: 14.388,
+            &quot;start_frame&quot;: 264,
+            &quot;end_frame&quot;: 345
+          },
+          {
+            &quot;action&quot;: &quot;Landing&quot;,
+            &quot;start&quot;: 14.618,
+            &quot;end&quot;: 16.425,
+            &quot;start_frame&quot;: 351,
+            &quot;end_frame&quot;: 394
+          }
+        ]
+      }
+    ]
+  }
+}</pre></details></article>

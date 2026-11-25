@@ -1,0 +1,48 @@
+{
+  "video_id": "LIFILRLL",
+  "video": "LIFILRLL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Arizona Bark Scorpion"
+  ],
+  "list_animal_action": [
+    [
+      "Arizona Bark Scorpion",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Arizona Bark Scorpion",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Arizona Bark Scorpion",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.083,
+          "end": 1.042,
+          "start_frame": 2,
+          "end_frame": 25
+        },
+        {
+          "action": "Moving",
+          "start": 1.5,
+          "end": 1.833,
+          "start_frame": 36,
+          "end_frame": 44
+        },
+        {
+          "action": "Moving",
+          "start": 2.042,
+          "end": 3.708,
+          "start_frame": 49,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

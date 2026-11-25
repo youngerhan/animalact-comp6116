@@ -1,0 +1,49 @@
+{
+  "video_id": "QOTAMDAL",
+  "video": "QOTAMDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.625,
+          "start_frame": 0,
+          "end_frame": 87
+        },
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 3.625,
+          "start_frame": 0,
+          "end_frame": 87
+        }
+      ]
+    }
+  ]
+}

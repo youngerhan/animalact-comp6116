@@ -1,0 +1,34 @@
+{
+  "video_id": "ZQGXOUBE",
+  "video": "ZQGXOUBE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Beetle",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Beetle",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Beetle",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.625,
+          "start_frame": 0,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

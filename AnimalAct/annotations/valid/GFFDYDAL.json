@@ -1,0 +1,56 @@
+{
+  "video_id": "GFFDYDAL",
+  "video": "GFFDYDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.708,
+          "start_frame": 0,
+          "end_frame": 41
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.708,
+          "end": 2.083,
+          "start_frame": 41,
+          "end_frame": 50
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.083,
+          "end": 2.208,
+          "start_frame": 50,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

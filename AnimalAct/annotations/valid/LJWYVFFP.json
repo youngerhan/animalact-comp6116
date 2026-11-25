@@ -1,0 +1,49 @@
+{
+  "video_id": "LJWYVFFP",
+  "video": "LJWYVFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Maroon Macaque",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Maroon Macaque",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        },
+        {
+          "action": "Fighting",
+          "start": 1.125,
+          "end": 2.125,
+          "start_frame": 27,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

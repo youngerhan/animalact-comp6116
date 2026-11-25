@@ -1,0 +1,101 @@
+{
+  "video_id": "PDCIJPTK",
+  "video": "PDCIJPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 14.219,
+          "start_frame": 0,
+          "end_frame": 341
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 14.594,
+          "start_frame": 0,
+          "end_frame": 350
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 14.833,
+          "start_frame": 0,
+          "end_frame": 356
+        },
+        {
+          "action": "Shaking Head",
+          "start": 5.469,
+          "end": 5.594,
+          "start_frame": 131,
+          "end_frame": 134
+        },
+        {
+          "action": "Preening",
+          "start": 6.094,
+          "end": 6.969,
+          "start_frame": 146,
+          "end_frame": 167
+        },
+        {
+          "action": "Shaking Head",
+          "start": 6.219,
+          "end": 6.844,
+          "start_frame": 149,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

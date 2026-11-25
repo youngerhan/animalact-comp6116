@@ -1,0 +1,49 @@
+{
+  "video_id": "WHJCPTHG",
+  "video": "WHJCPTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Campbell'S Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Campbell'S Monkey",
+      "Attending"
+    ],
+    [
+      "Campbell'S Monkey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Campbell'S Monkey",
+      "Attending"
+    ],
+    [
+      "Campbell'S Monkey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Campbell'S Monkey",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.015,
+          "end": 3.272,
+          "start_frame": 0,
+          "end_frame": 79
+        },
+        {
+          "action": "Sensing",
+          "start": 3.278,
+          "end": 5.016,
+          "start_frame": 79,
+          "end_frame": 120
+        }
+      ]
+    }
+  ]
+}

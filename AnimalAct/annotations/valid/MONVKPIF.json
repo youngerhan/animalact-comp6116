@@ -1,0 +1,79 @@
+{
+  "video_id": "MONVKPIF",
+  "video": "MONVKPIF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Shoebill Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Shoebill Bird",
+      "Falling"
+    ],
+    [
+      "Shoebill Bird",
+      "Keeping still"
+    ],
+    [
+      "Shoebill Bird",
+      "Attending"
+    ],
+    [
+      "Shoebill Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Shoebill Bird",
+      "Falling"
+    ],
+    [
+      "Shoebill Bird",
+      "Keeping still"
+    ],
+    [
+      "Shoebill Bird",
+      "Attending"
+    ],
+    [
+      "Shoebill Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Shoebill Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.344,
+          "start_frame": 0,
+          "end_frame": 104
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 4.344,
+          "start_frame": 0,
+          "end_frame": 104
+        },
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 4.094,
+          "start_frame": 2,
+          "end_frame": 98
+        },
+        {
+          "action": "Falling",
+          "start": 3.719,
+          "end": 3.844,
+          "start_frame": 89,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "WIXTCOXJ",
+  "video": "WIXTCOXJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grasshopper"
+  ],
+  "list_animal_action": [
+    [
+      "Grasshopper",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grasshopper",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grasshopper",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.002,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

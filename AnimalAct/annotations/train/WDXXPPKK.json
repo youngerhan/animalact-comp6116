@@ -1,0 +1,160 @@
+{
+  "video_id": "WDXXPPKK",
+  "video": "WDXXPPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Falling"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Performing copulatory mounting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Falling"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Performing copulatory mounting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Performing copulatory mounting",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        },
+        {
+          "action": "Falling",
+          "start": 4.125,
+          "end": 4.75,
+          "start_frame": 99,
+          "end_frame": 114
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.75,
+          "end": 6.75,
+          "start_frame": 114,
+          "end_frame": 162
+        },
+        {
+          "action": "Shaking Head",
+          "start": 5.0,
+          "end": 5.5,
+          "start_frame": 120,
+          "end_frame": 132
+        },
+        {
+          "action": "Sensing",
+          "start": 5.5,
+          "end": 6.75,
+          "start_frame": 132,
+          "end_frame": 162
+        },
+        {
+          "action": "Walking",
+          "start": 6.75,
+          "end": 14.833,
+          "start_frame": 162,
+          "end_frame": 356
+        },
+        {
+          "action": "Sensing",
+          "start": 8.25,
+          "end": 8.875,
+          "start_frame": 198,
+          "end_frame": 213
+        },
+        {
+          "action": "Shaking Head",
+          "start": 10.5,
+          "end": 10.875,
+          "start_frame": 252,
+          "end_frame": 261
+        },
+        {
+          "action": "Drinking",
+          "start": 10.625,
+          "end": 11.75,
+          "start_frame": 255,
+          "end_frame": 282
+        },
+        {
+          "action": "Shaking Head",
+          "start": 11.5,
+          "end": 11.875,
+          "start_frame": 276,
+          "end_frame": 285
+        },
+        {
+          "action": "Preening",
+          "start": 12.75,
+          "end": 14.5,
+          "start_frame": 306,
+          "end_frame": 348
+        }
+      ]
+    }
+  ]
+}

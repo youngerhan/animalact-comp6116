@@ -1,0 +1,64 @@
+{
+  "video_id": "GMNUCLHH",
+  "video": "GMNUCLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Landing"
+    ],
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Landing"
+    ],
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.0,
+          "end": 0.333,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 0.334,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.334,
+          "start_frame": 0,
+          "end_frame": 8
+        }
+      ]
+    }
+  ]
+}

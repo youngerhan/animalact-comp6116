@@ -1,0 +1,34 @@
+{
+  "video_id": "EWJGIVRU",
+  "video": "EWJGIVRU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spiny Flower Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Spiny Flower Mantis",
+      "Grooming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spiny Flower Mantis",
+      "Grooming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spiny Flower Mantis",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 4.126,
+          "end": 6.709,
+          "start_frame": 99,
+          "end_frame": 161
+        }
+      ]
+    }
+  ]
+}

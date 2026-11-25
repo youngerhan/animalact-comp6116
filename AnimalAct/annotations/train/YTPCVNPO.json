@@ -1,0 +1,49 @@
+{
+  "video_id": "YTPCVNPO",
+  "video": "YTPCVNPO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hyena"
+  ],
+  "list_animal_action": [
+    [
+      "Hyena",
+      "Sensing"
+    ],
+    [
+      "Hyena",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hyena",
+      "Sensing"
+    ],
+    [
+      "Hyena",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.005,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Sensing",
+          "start": 2.002,
+          "end": 2.508,
+          "start_frame": 48,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "PWKALSQK",
+  "video": "PWKALSQK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Scutigera Coleoptera House Centipede"
+  ],
+  "list_animal_action": [
+    [
+      "Scutigera Coleoptera House Centipede",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Scutigera Coleoptera House Centipede",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Scutigera Coleoptera House Centipede",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.089,
+          "start_frame": 0,
+          "end_frame": 74
+        }
+      ]
+    }
+  ]
+}

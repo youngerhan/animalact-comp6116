@@ -1,0 +1,34 @@
+{
+  "video_id": "HCTIHOOZ",
+  "video": "HCTIHOOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Widow Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Western Widow Spider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Widow Spider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Widow Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.926,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

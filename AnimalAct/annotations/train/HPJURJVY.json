@@ -1,0 +1,64 @@
+{
+  "video_id": "HPJURJVY",
+  "video": "HPJURJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Sensing"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Sensing"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.75,
+          "start_frame": 0,
+          "end_frame": 90
+        },
+        {
+          "action": "Flapping",
+          "start": 3.75,
+          "end": 4.375,
+          "start_frame": 90,
+          "end_frame": 105
+        },
+        {
+          "action": "Sensing",
+          "start": 4.25,
+          "end": 4.625,
+          "start_frame": 102,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

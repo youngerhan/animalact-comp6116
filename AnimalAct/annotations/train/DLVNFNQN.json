@@ -1,0 +1,49 @@
+{
+  "video_id": "DLVNFNQN",
+  "video": "DLVNFNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Rosefinch Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Rosefinch Bird",
+      "Chirping"
+    ],
+    [
+      "Common Rosefinch Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Rosefinch Bird",
+      "Chirping"
+    ],
+    [
+      "Common Rosefinch Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Rosefinch Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.844,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 4.0,
+          "start_frame": 0,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

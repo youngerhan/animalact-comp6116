@@ -1,0 +1,34 @@
+{
+  "video_id": "HOFOHGQD",
+  "video": "HOFOHGQD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

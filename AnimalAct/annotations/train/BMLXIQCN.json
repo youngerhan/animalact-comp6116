@@ -1,0 +1,34 @@
+{
+  "video_id": "BMLXIQCN",
+  "video": "BMLXIQCN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ibex"
+  ],
+  "list_animal_action": [
+    [
+      "Ibex",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ibex",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ibex",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.333,
+          "end": 0.833,
+          "start_frame": 8,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

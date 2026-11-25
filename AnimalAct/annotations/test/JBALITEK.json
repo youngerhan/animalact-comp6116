@@ -1,0 +1,49 @@
+{
+  "video_id": "JBALITEK",
+  "video": "JBALITEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Meerkat"
+  ],
+  "list_animal_action": [
+    [
+      "Meerkat",
+      "Attending"
+    ],
+    [
+      "Meerkat",
+      "Standing in alert"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Meerkat",
+      "Attending"
+    ],
+    [
+      "Meerkat",
+      "Standing in alert"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Meerkat",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.018,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Standing in alert",
+          "start": 0.089,
+          "end": 1.018,
+          "start_frame": 2,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "video_id": "ORHQIUQK",
+  "video": "ORHQIUQK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird",
+    "Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Crane",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Crane",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.17,
+          "end": 9.222,
+          "start_frame": 4,
+          "end_frame": 221
+        },
+        {
+          "action": "Flying",
+          "start": 3.269,
+          "end": 7.874,
+          "start_frame": 78,
+          "end_frame": 189
+        }
+      ]
+    },
+    {
+      "animal": "Crane",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.649,
+          "end": 6.553,
+          "start_frame": 16,
+          "end_frame": 157
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_id": "JEHHMUDI",
+  "video": "JEHHMUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.75,
+          "end": 1.5,
+          "start_frame": 18,
+          "end_frame": 36
+        },
+        {
+          "action": "Chirping",
+          "start": 2.25,
+          "end": 3.083,
+          "start_frame": 54,
+          "end_frame": 74
+        }
+      ]
+    }
+  ]
+}

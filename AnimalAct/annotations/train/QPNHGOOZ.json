@@ -1,0 +1,34 @@
+{
+  "video_id": "QPNHGOOZ",
+  "video": "QPNHGOOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Spider",
+      "Building nest"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spider",
+      "Building nest"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Building nest",
+          "start": 0.083,
+          "end": 2.221,
+          "start_frame": 2,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

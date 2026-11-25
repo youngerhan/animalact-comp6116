@@ -1,0 +1,34 @@
+{
+  "video_id": "PNRVJJYD",
+  "video": "PNRVJJYD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aphis Fabae Alates"
+  ],
+  "list_animal_action": [
+    [
+      "Aphis Fabae Alates",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aphis Fabae Alates",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aphis Fabae Alates",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

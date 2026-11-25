@@ -1,0 +1,150 @@
+{
+  "video_id": "GIJIFHSA",
+  "video": "GIJIFHSA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Cuckoo Bird",
+    "Chaffinch Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Cuckoo Bird",
+      "Flying"
+    ],
+    [
+      "Chaffinch Bird",
+      "Landing"
+    ],
+    [
+      "Chaffinch Bird",
+      "Flying"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Sensing"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Startled"
+    ],
+    [
+      "Chaffinch Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Cuckoo Bird",
+      "Flying"
+    ],
+    [
+      "Chaffinch Bird",
+      "Landing"
+    ],
+    [
+      "Chaffinch Bird",
+      "Flying"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Sensing"
+    ],
+    [
+      "Common Cuckoo Bird",
+      "Startled"
+    ],
+    [
+      "Chaffinch Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 1.5,
+          "start_frame": 0,
+          "end_frame": 36
+        },
+        {
+          "action": "Startled",
+          "start": 0.25,
+          "end": 1.167,
+          "start_frame": 6,
+          "end_frame": 28
+        },
+        {
+          "action": "Sensing",
+          "start": 1.167,
+          "end": 3.833,
+          "start_frame": 28,
+          "end_frame": 92
+        },
+        {
+          "action": "Startled",
+          "start": 3.833,
+          "end": 4.25,
+          "start_frame": 92,
+          "end_frame": 102
+        },
+        {
+          "action": "Sensing",
+          "start": 4.25,
+          "end": 5.625,
+          "start_frame": 102,
+          "end_frame": 135
+        }
+      ]
+    },
+    {
+      "animal": "Chaffinch Bird",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.006,
+          "end": 1.84,
+          "start_frame": 0,
+          "end_frame": 44
+        },
+        {
+          "action": "Landing",
+          "start": 1.839,
+          "end": 2.298,
+          "start_frame": 44,
+          "end_frame": 55
+        },
+        {
+          "action": "Sensing",
+          "start": 2.378,
+          "end": 2.919,
+          "start_frame": 57,
+          "end_frame": 70
+        },
+        {
+          "action": "Flying",
+          "start": 3.381,
+          "end": 4.345,
+          "start_frame": 81,
+          "end_frame": 104
+        },
+        {
+          "action": "Flying",
+          "start": 4.928,
+          "end": 5.625,
+          "start_frame": 118,
+          "end_frame": 135
+        },
+        {
+          "action": "Landing",
+          "start": 5.583,
+          "end": 5.625,
+          "start_frame": 134,
+          "end_frame": 135
+        }
+      ]
+    }
+  ]
+}

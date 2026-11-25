@@ -1,0 +1,233 @@
+{
+  "video_id": "BKBZSGCS",
+  "video": "BKBZSGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Standing"
+    ],
+    [
+      "Lion",
+      "Shaking Head"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Attacking"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Sitting"
+    ],
+    [
+      "Lion",
+      "Standing"
+    ],
+    [
+      "Lion",
+      "Shaking Head"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Barking",
+          "start": 0.017,
+          "end": 6.899,
+          "start_frame": 0,
+          "end_frame": 166
+        },
+        {
+          "action": "Standing",
+          "start": 0.028,
+          "end": 13.793,
+          "start_frame": 1,
+          "end_frame": 331
+        },
+        {
+          "action": "Attacking",
+          "start": 0.062,
+          "end": 1.642,
+          "start_frame": 1,
+          "end_frame": 39
+        },
+        {
+          "action": "Startled",
+          "start": 0.779,
+          "end": 1.922,
+          "start_frame": 19,
+          "end_frame": 46
+        },
+        {
+          "action": "Attending",
+          "start": 1.709,
+          "end": 2.864,
+          "start_frame": 41,
+          "end_frame": 69
+        },
+        {
+          "action": "Startled",
+          "start": 2.864,
+          "end": 3.637,
+          "start_frame": 69,
+          "end_frame": 87
+        },
+        {
+          "action": "Retreating",
+          "start": 3.178,
+          "end": 4.411,
+          "start_frame": 76,
+          "end_frame": 106
+        },
+        {
+          "action": "Attending",
+          "start": 3.94,
+          "end": 5.341,
+          "start_frame": 95,
+          "end_frame": 128
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.865,
+          "end": 11.226,
+          "start_frame": 165,
+          "end_frame": 269
+        },
+        {
+          "action": "Attending",
+          "start": 6.888,
+          "end": 11.898,
+          "start_frame": 165,
+          "end_frame": 286
+        },
+        {
+          "action": "Shaking Head",
+          "start": 8.435,
+          "end": 9.331,
+          "start_frame": 202,
+          "end_frame": 224
+        },
+        {
+          "action": "Sensing",
+          "start": 11.349,
+          "end": 15.698,
+          "start_frame": 272,
+          "end_frame": 377
+        },
+        {
+          "action": "Attending",
+          "start": 12.122,
+          "end": 13.949,
+          "start_frame": 291,
+          "end_frame": 335
+        },
+        {
+          "action": "Sitting",
+          "start": 13.882,
+          "end": 16.371,
+          "start_frame": 333,
+          "end_frame": 393
+        },
+        {
+          "action": "Walking",
+          "start": 14.499,
+          "end": 17.833,
+          "start_frame": 348,
+          "end_frame": 428
+        },
+        {
+          "action": "Barking",
+          "start": 14.813,
+          "end": 17.828,
+          "start_frame": 356,
+          "end_frame": 428
+        },
+        {
+          "action": "Standing",
+          "start": 16.628,
+          "end": 17.833,
+          "start_frame": 399,
+          "end_frame": 428
+        },
+        {
+          "action": "Retreating",
+          "start": 17.245,
+          "end": 17.833,
+          "start_frame": 414,
+          "end_frame": 428
+        }
+      ]
+    }
+  ]
+}

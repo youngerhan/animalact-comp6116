@@ -1,0 +1,62 @@
+{
+  "video_id": "HMUCQHVR",
+  "video": "HMUCQHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lesser Sunda Pit Viper",
+    "Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Lesser Sunda Pit Viper",
+      "Biting"
+    ],
+    [
+      "Lizard",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lesser Sunda Pit Viper",
+      "Biting"
+    ],
+    [
+      "Lizard",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lesser Sunda Pit Viper",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 0.662,
+          "start_frame": 0,
+          "end_frame": 16
+        },
+        {
+          "action": "Biting",
+          "start": 1.678,
+          "end": 5.721,
+          "start_frame": 40,
+          "end_frame": 137
+        }
+      ]
+    },
+    {
+      "animal": "Lizard",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.662,
+          "end": 1.678,
+          "start_frame": 16,
+          "end_frame": 40
+        }
+      ]
+    }
+  ]
+}

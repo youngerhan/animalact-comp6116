@@ -1,0 +1,55 @@
+{
+  "video_id": "HSHHOHPH",
+  "video": "HSHHOHPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bumblebee",
+    "Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Bumblebee",
+      "Flying"
+    ],
+    [
+      "Bee",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bumblebee",
+      "Flying"
+    ],
+    [
+      "Bee",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bumblebee",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.079,
+          "end": 1.907,
+          "start_frame": 2,
+          "end_frame": 46
+        }
+      ]
+    },
+    {
+      "animal": "Bee",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.079,
+          "end": 1.917,
+          "start_frame": 2,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

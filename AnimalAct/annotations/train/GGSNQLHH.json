@@ -1,0 +1,49 @@
+{
+  "video_id": "GGSNQLHH",
+  "video": "GGSNQLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfrog"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfrog",
+      "Jumping"
+    ],
+    [
+      "Bullfrog",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfrog",
+      "Jumping"
+    ],
+    [
+      "Bullfrog",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfrog",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 0.834,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

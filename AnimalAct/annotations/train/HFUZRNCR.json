@@ -1,0 +1,34 @@
+{
+  "video_id": "HFUZRNCR",
+  "video": "HFUZRNCR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goose"
+  ],
+  "list_animal_action": [
+    [
+      "Goose",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goose",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goose",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "EBQIZXDO",
+  "video": "EBQIZXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hippopotamus",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Hippopotamus",
+      "Biting"
+    ],
+    [
+      "Lion",
+      "Struggling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hippopotamus",
+      "Biting"
+    ],
+    [
+      "Lion",
+      "Struggling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hippopotamus",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 4.583,
+          "start_frame": 0,
+          "end_frame": 110
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 0.0,
+          "end": 4.333,
+          "start_frame": 0,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

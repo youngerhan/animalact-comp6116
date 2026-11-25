@@ -1,0 +1,49 @@
+{
+  "video_id": "ATSFLXGD",
+  "video": "ATSFLXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Standing"
+    ],
+    [
+      "Horse",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Standing"
+    ],
+    [
+      "Horse",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Standing",
+          "start": 0.0,
+          "end": 3.969,
+          "start_frame": 0,
+          "end_frame": 95
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.612,
+          "end": 3.969,
+          "start_frame": 39,
+          "end_frame": 95
+        }
+      ]
+    }
+  ]
+}

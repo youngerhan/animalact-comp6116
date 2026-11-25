@@ -1,0 +1,113 @@
+{
+  "video_id": "OBMNUPTK",
+  "video": "OBMNUPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.375,
+          "start_frame": 0,
+          "end_frame": 81
+        },
+        {
+          "action": "Sensing",
+          "start": 2.625,
+          "end": 3.125,
+          "start_frame": 63,
+          "end_frame": 75
+        },
+        {
+          "action": "Chirping",
+          "start": 3.375,
+          "end": 5.125,
+          "start_frame": 81,
+          "end_frame": 123
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.125,
+          "end": 6.25,
+          "start_frame": 123,
+          "end_frame": 150
+        },
+        {
+          "action": "Chirping",
+          "start": 6.25,
+          "end": 8.25,
+          "start_frame": 150,
+          "end_frame": 198
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.25,
+          "end": 10.25,
+          "start_frame": 198,
+          "end_frame": 246
+        },
+        {
+          "action": "Sensing",
+          "start": 8.75,
+          "end": 9.625,
+          "start_frame": 210,
+          "end_frame": 231
+        },
+        {
+          "action": "Chirping",
+          "start": 10.25,
+          "end": 12.375,
+          "start_frame": 246,
+          "end_frame": 297
+        },
+        {
+          "action": "Keeping still",
+          "start": 12.375,
+          "end": 12.5,
+          "start_frame": 297,
+          "end_frame": 300
+        }
+      ]
+    }
+  ]
+}

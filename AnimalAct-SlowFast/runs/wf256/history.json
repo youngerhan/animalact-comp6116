@@ -1,0 +1,74 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.03261778645697048,
+    "valid_mAP": 0.42739050142553403,
+    "valid_macro_F1": 0.4197580688606049,
+    "valid_macro_F1_per_class_threshold": 0.4664669355930285,
+    "valid_mAP_positives_ge_20": 0.5234171363023256,
+    "valid_threshold": 0.1,
+    "short_mAP": 0.4147499031608439,
+    "gpu_peak_allocated_mib": 3434,
+    "elapsed_minutes": 2.19
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.025399689597012953,
+    "valid_mAP": 0.42430356346331505,
+    "valid_macro_F1": 0.41798705051029983,
+    "valid_macro_F1_per_class_threshold": 0.4553071277737099,
+    "valid_mAP_positives_ge_20": 0.5305388625252999,
+    "valid_threshold": 0.1,
+    "short_mAP": 0.40440757051539705,
+    "gpu_peak_allocated_mib": 3434,
+    "elapsed_minutes": 4.34
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.022239469806288676,
+    "valid_mAP": 0.4299607527944222,
+    "valid_macro_F1": 0.4316438131715841,
+    "valid_macro_F1_per_class_threshold": 0.46306181240241584,
+    "valid_mAP_positives_ge_20": 0.5333928740151048,
+    "valid_threshold": 0.15,
+    "short_mAP": 0.41845636448014495,
+    "gpu_peak_allocated_mib": 3434,
+    "elapsed_minutes": 6.53
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.0190534096774845,
+    "valid_mAP": 0.42475319154409646,
+    "valid_macro_F1": 0.42482666458449164,
+    "valid_macro_F1_per_class_threshold": 0.456084956562789,
+    "valid_mAP_positives_ge_20": 0.5266843027446543,
+    "valid_threshold": 0.15,
+    "short_mAP": 0.4130472032170101,
+    "gpu_peak_allocated_mib": 3434,
+    "elapsed_minutes": 8.71
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.016683346962786234,
+    "valid_mAP": 0.430220035785648,
+    "valid_macro_F1": 0.42628768472506934,
+    "valid_macro_F1_per_class_threshold": 0.46099993253416727,
+    "valid_mAP_positives_ge_20": 0.5290289681043803,
+    "valid_threshold": 0.2,
+    "short_mAP": 0.42116526982284797,
+    "gpu_peak_allocated_mib": 3434,
+    "elapsed_minutes": 10.87
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.015639195719969988,
+    "valid_mAP": 0.4296772023181209,
+    "valid_macro_F1": 0.4323674581358064,
+    "valid_macro_F1_per_class_threshold": 0.46107364273659224,
+    "valid_mAP_positives_ge_20": 0.5288433674607173,
+    "valid_threshold": 0.15,
+    "short_mAP": 0.41370034380862214,
+    "gpu_peak_allocated_mib": 3434,
+    "elapsed_minutes": 12.98
+  }
+]

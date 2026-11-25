@@ -1,0 +1,34 @@
+{
+  "video_id": "LBBXDVEI",
+  "video": "LBBXDVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Larus Ridibundus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Larus Ridibundus Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Larus Ridibundus Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Larus Ridibundus Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

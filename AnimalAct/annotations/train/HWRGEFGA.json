@@ -1,0 +1,34 @@
+{
+  "video_id": "HWRGEFGA",
+  "video": "HWRGEFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 3.333,
+          "start_frame": 0,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

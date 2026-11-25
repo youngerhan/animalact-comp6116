@@ -1,0 +1,49 @@
+{
+  "video_id": "LAQNWIYC",
+  "video": "LAQNWIYC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hoopoe"
+  ],
+  "list_animal_action": [
+    [
+      "Hoopoe",
+      "Landing"
+    ],
+    [
+      "Hoopoe",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hoopoe",
+      "Landing"
+    ],
+    [
+      "Hoopoe",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hoopoe",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.0,
+          "end": 1.094,
+          "start_frame": 0,
+          "end_frame": 26
+        },
+        {
+          "action": "Sensing",
+          "start": 1.496,
+          "end": 3.919,
+          "start_frame": 36,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

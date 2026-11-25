@@ -1,0 +1,34 @@
+{
+  "video_id": "UTRFYPLS",
+  "video": "UTRFYPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.458,
+          "end": 1.208,
+          "start_frame": 11,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

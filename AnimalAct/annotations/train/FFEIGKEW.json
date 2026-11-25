@@ -1,0 +1,41 @@
+{
+  "video_id": "FFEIGKEW",
+  "video": "FFEIGKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Stoat"
+  ],
+  "list_animal_action": [
+    [
+      "Stoat",
+      "Doing somersault"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Stoat",
+      "Doing somersault"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Stoat",
+      "actions": [
+        {
+          "action": "Doing somersault",
+          "start": 0.005,
+          "end": 0.58,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Doing somersault",
+          "start": 0.976,
+          "end": 1.417,
+          "start_frame": 23,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

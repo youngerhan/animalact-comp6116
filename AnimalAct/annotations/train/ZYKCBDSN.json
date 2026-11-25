@@ -1,0 +1,34 @@
+{
+  "video_id": "ZYKCBDSN",
+  "video": "ZYKCBDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Markhor Goat"
+  ],
+  "list_animal_action": [
+    [
+      "Markhor Goat",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Markhor Goat",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Markhor Goat",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.449,
+          "end": 2.625,
+          "start_frame": 11,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

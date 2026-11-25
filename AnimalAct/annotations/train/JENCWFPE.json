@@ -1,0 +1,34 @@
+{
+  "video_id": "JENCWFPE",
+  "video": "JENCWFPE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Walking Stick"
+  ],
+  "list_animal_action": [
+    [
+      "Walking Stick",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Walking Stick",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Walking Stick",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 5.716,
+          "start_frame": 0,
+          "end_frame": 137
+        }
+      ]
+    }
+  ]
+}

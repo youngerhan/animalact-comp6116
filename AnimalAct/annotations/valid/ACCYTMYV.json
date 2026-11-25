@@ -1,0 +1,41 @@
+{
+  "video_id": "ACCYTMYV",
+  "video": "ACCYTMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jameson'S Mamba"
+  ],
+  "list_animal_action": [
+    [
+      "Jameson'S Mamba",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jameson'S Mamba",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jameson'S Mamba",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.823,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.394,
+          "end": 5.334,
+          "start_frame": 105,
+          "end_frame": 128
+        }
+      ]
+    }
+  ]
+}

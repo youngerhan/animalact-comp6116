@@ -1,0 +1,34 @@
+{
+  "video_id": "IHIOYHEB",
+  "video": "IHIOYHEB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cabbage White Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Cabbage White Caterpillar",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cabbage White Caterpillar",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cabbage White Caterpillar",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 6.218,
+          "start_frame": 0,
+          "end_frame": 149
+        }
+      ]
+    }
+  ]
+}

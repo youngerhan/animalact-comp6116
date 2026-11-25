@@ -1,0 +1,49 @@
+{
+  "video_id": "CXTRZKEW",
+  "video": "CXTRZKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Pelican"
+  ],
+  "list_animal_action": [
+    [
+      "Pelican",
+      "Doing A Backward Tilt"
+    ],
+    [
+      "Pelican",
+      "Yawning"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Pelican",
+      "Doing A Backward Tilt"
+    ],
+    [
+      "Pelican",
+      "Yawning"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Pelican",
+      "actions": [
+        {
+          "action": "Yawning",
+          "start": 0.519,
+          "end": 1.024,
+          "start_frame": 12,
+          "end_frame": 25
+        },
+        {
+          "action": "Doing A Backward Tilt",
+          "start": 1.035,
+          "end": 2.601,
+          "start_frame": 25,
+          "end_frame": 62
+        }
+      ]
+    }
+  ]
+}

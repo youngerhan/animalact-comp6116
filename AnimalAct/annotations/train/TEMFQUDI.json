@@ -1,0 +1,79 @@
+{
+  "video_id": "TEMFQUDI",
+  "video": "TEMFQUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Attending"
+    ],
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ],
+    [
+      "Robin Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Attending"
+    ],
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ],
+    [
+      "Robin Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.75,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Sensing",
+          "start": 0.75,
+          "end": 1.375,
+          "start_frame": 18,
+          "end_frame": 33
+        },
+        {
+          "action": "Chirping",
+          "start": 1.375,
+          "end": 4.333,
+          "start_frame": 33,
+          "end_frame": 104
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.333,
+          "end": 6.417,
+          "start_frame": 104,
+          "end_frame": 154
+        }
+      ]
+    }
+  ]
+}

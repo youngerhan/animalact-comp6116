@@ -1,0 +1,56 @@
+{
+  "video_id": "XYNMICNX",
+  "video": "XYNMICNX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Sensing"
+    ],
+    [
+      "Wolf",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Sensing"
+    ],
+    [
+      "Wolf",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        },
+        {
+          "action": "Walking",
+          "start": 0.583,
+          "end": 0.958,
+          "start_frame": 14,
+          "end_frame": 23
+        },
+        {
+          "action": "Walking",
+          "start": 1.083,
+          "end": 2.708,
+          "start_frame": 26,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "video_id": "QMLAOWZS",
+  "video": "QMLAOWZS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Carolina Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Drinking"
+    ],
+    [
+      "Mallard Duck",
+      "Swimming"
+    ],
+    [
+      "Carolina Duck",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Drinking"
+    ],
+    [
+      "Mallard Duck",
+      "Swimming"
+    ],
+    [
+      "Carolina Duck",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    },
+    {
+      "animal": "Carolina Duck",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

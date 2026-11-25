@@ -1,0 +1,34 @@
+{
+  "video_id": "UHKORHPH",
+  "video": "UHKORHPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bumblebee"
+  ],
+  "list_animal_action": [
+    [
+      "Bumblebee",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bumblebee",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bumblebee",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.502,
+          "end": 1.996,
+          "start_frame": 12,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

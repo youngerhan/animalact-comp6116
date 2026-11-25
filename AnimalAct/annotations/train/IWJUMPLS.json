@@ -1,0 +1,100 @@
+{
+  "video_id": "IWJUMPLS",
+  "video": "IWJUMPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.678,
+          "start_frame": 0,
+          "end_frame": 88
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.686,
+          "start_frame": 0,
+          "end_frame": 88
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.686,
+          "start_frame": 0,
+          "end_frame": 88
+        },
+        {
+          "action": "Preening",
+          "start": 1.586,
+          "end": 8.447,
+          "start_frame": 38,
+          "end_frame": 203
+        },
+        {
+          "action": "Sensing",
+          "start": 6.436,
+          "end": 11.024,
+          "start_frame": 154,
+          "end_frame": 265
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.444,
+          "end": 10.532,
+          "start_frame": 155,
+          "end_frame": 253
+        },
+        {
+          "action": "Attending",
+          "start": 6.444,
+          "end": 11.024,
+          "start_frame": 155,
+          "end_frame": 265
+        }
+      ]
+    }
+  ]
+}

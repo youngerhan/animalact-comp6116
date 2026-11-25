@@ -1,0 +1,41 @@
+{
+  "video_id": "ECJSDXGD",
+  "video": "ECJSDXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 4.583,
+          "start_frame": 0,
+          "end_frame": 110
+        },
+        {
+          "action": "Running",
+          "start": 4.708,
+          "end": 5.417,
+          "start_frame": 113,
+          "end_frame": 130
+        }
+      ]
+    }
+  ]
+}

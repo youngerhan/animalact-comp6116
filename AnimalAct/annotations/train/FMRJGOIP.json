@@ -1,0 +1,55 @@
+{
+  "video_id": "FMRJGOIP",
+  "video": "FMRJGOIP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aphid",
+    "Hoverfly Young"
+  ],
+  "list_animal_action": [
+    [
+      "Aphid",
+      "Being Eaten"
+    ],
+    [
+      "Hoverfly Young",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aphid",
+      "Being Eaten"
+    ],
+    [
+      "Hoverfly Young",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 12.509,
+          "start_frame": 0,
+          "end_frame": 300
+        }
+      ]
+    },
+    {
+      "animal": "Hoverfly Young",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 12.501,
+          "start_frame": 0,
+          "end_frame": 300
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "QHDTNWMK",
+  "video": "QHDTNWMK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Many Horned Adder"
+  ],
+  "list_animal_action": [
+    [
+      "Many Horned Adder",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Many Horned Adder",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Many Horned Adder",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.032,
+          "end": 7.833,
+          "start_frame": 1,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

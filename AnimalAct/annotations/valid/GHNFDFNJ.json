@@ -1,0 +1,49 @@
+{
+  "video_id": "GHNFDFNJ",
+  "video": "GHNFDFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Sensing"
+    ],
+    [
+      "Iguana",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Sensing"
+    ],
+    [
+      "Iguana",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.844,
+          "start_frame": 0,
+          "end_frame": 140
+        },
+        {
+          "action": "Walking",
+          "start": 1.469,
+          "end": 3.594,
+          "start_frame": 35,
+          "end_frame": 86
+        }
+      ]
+    }
+  ]
+}

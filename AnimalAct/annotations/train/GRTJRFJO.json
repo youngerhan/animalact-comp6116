@@ -1,0 +1,34 @@
+{
+  "video_id": "GRTJRFJO",
+  "video": "GRTJRFJO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tadpole"
+  ],
+  "list_animal_action": [
+    [
+      "Tadpole",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tadpole",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tadpole",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

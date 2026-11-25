@@ -1,0 +1,34 @@
+{
+  "video_id": "URNUWKBS",
+  "video": "URNUWKBS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frilled Neck Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Frilled Neck Lizard",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frilled Neck Lizard",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frilled Neck Lizard",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.047,
+          "end": 1.689,
+          "start_frame": 1,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

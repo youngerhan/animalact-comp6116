@@ -1,0 +1,34 @@
+{
+  "video_id": "LFDJTXGD",
+  "video": "LFDJTXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 3.333,
+          "start_frame": 0,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

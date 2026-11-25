@@ -1,0 +1,34 @@
+{
+  "video_id": "EDNIWFYY",
+  "video": "EDNIWFYY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Otter",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Otter",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Otter",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

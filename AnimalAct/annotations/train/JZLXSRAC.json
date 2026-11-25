@@ -1,0 +1,56 @@
+{
+  "video_id": "JZLXSRAC",
+  "video": "JZLXSRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Capuchin Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Capuchin Monkey",
+      "Shaking Head"
+    ],
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Capuchin Monkey",
+      "Shaking Head"
+    ],
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Capuchin Monkey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 9.008,
+          "start_frame": 0,
+          "end_frame": 216
+        },
+        {
+          "action": "Shaking Head",
+          "start": 8.983,
+          "end": 9.686,
+          "start_frame": 216,
+          "end_frame": 232
+        },
+        {
+          "action": "Sensing",
+          "start": 9.686,
+          "end": 18.183,
+          "start_frame": 232,
+          "end_frame": 436
+        }
+      ]
+    }
+  ]
+}

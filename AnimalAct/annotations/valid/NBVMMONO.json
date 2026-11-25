@@ -1,0 +1,49 @@
+{
+  "video_id": "NBVMMONO",
+  "video": "NBVMMONO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wood Warbler"
+  ],
+  "list_animal_action": [
+    [
+      "Wood Warbler",
+      "Chirping"
+    ],
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wood Warbler",
+      "Chirping"
+    ],
+    [
+      "Wood Warbler",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wood Warbler",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 3.084,
+          "start_frame": 0,
+          "end_frame": 74
+        },
+        {
+          "action": "Sensing",
+          "start": 3.344,
+          "end": 5.594,
+          "start_frame": 80,
+          "end_frame": 134
+        }
+      ]
+    }
+  ]
+}

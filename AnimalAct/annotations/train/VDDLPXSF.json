@@ -1,0 +1,85 @@
+{
+  "video_id": "VDDLPXSF",
+  "video": "VDDLPXSF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Grey Shrike",
+    "Great Grey Shrike Young"
+  ],
+  "list_animal_action": [
+    [
+      "Great Grey Shrike",
+      "Sharing Food"
+    ],
+    [
+      "Great Grey Shrike Young",
+      "Chirping"
+    ],
+    [
+      "Great Grey Shrike Young",
+      "Sensing"
+    ],
+    [
+      "Great Grey Shrike Young",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Grey Shrike",
+      "Sharing Food"
+    ],
+    [
+      "Great Grey Shrike Young",
+      "Chirping"
+    ],
+    [
+      "Great Grey Shrike Young",
+      "Sensing"
+    ],
+    [
+      "Great Grey Shrike Young",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Grey Shrike",
+      "actions": [
+        {
+          "action": "Sharing Food",
+          "start": 0.364,
+          "end": 1.417,
+          "start_frame": 9,
+          "end_frame": 34
+        }
+      ]
+    },
+    {
+      "animal": "Great Grey Shrike Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.002,
+          "end": 1.417,
+          "start_frame": 0,
+          "end_frame": 34
+        },
+        {
+          "action": "Chirping",
+          "start": 0.179,
+          "end": 1.417,
+          "start_frame": 4,
+          "end_frame": 34
+        },
+        {
+          "action": "Eating",
+          "start": 1.352,
+          "end": 1.413,
+          "start_frame": 32,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

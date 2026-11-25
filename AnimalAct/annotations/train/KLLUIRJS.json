@@ -1,0 +1,55 @@
+{
+  "video_id": "KLLUIRJS",
+  "video": "KLLUIRJS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Darner Damselfly Larva",
+    "Mosquito Larva"
+  ],
+  "list_animal_action": [
+    [
+      "Darner Damselfly Larva",
+      "Attacking"
+    ],
+    [
+      "Mosquito Larva",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Darner Damselfly Larva",
+      "Attacking"
+    ],
+    [
+      "Mosquito Larva",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Darner Damselfly Larva",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    },
+    {
+      "animal": "Mosquito Larva",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.537,
+          "start_frame": 0,
+          "end_frame": 13
+        }
+      ]
+    }
+  ]
+}

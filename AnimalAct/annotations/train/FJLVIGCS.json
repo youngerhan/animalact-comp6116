@@ -1,0 +1,71 @@
+{
+  "video_id": "FJLVIGCS",
+  "video": "FJLVIGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Barking",
+          "start": 0.005,
+          "end": 3.005,
+          "start_frame": 0,
+          "end_frame": 72
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.014,
+          "end": 1.018,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Retreating",
+          "start": 1.274,
+          "end": 2.087,
+          "start_frame": 31,
+          "end_frame": 50
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.081,
+          "end": 3.005,
+          "start_frame": 50,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

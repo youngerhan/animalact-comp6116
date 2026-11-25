@@ -1,0 +1,63 @@
+{
+  "video_id": "QITHPJBD",
+  "video": "QITHPJBD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grasshopper Warbler"
+  ],
+  "list_animal_action": [
+    [
+      "Grasshopper Warbler",
+      "Turning Around"
+    ],
+    [
+      "Grasshopper Warbler",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grasshopper Warbler",
+      "Turning Around"
+    ],
+    [
+      "Grasshopper Warbler",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grasshopper Warbler",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.844,
+          "start_frame": 0,
+          "end_frame": 212
+        },
+        {
+          "action": "Turning Around",
+          "start": 2.094,
+          "end": 3.094,
+          "start_frame": 50,
+          "end_frame": 74
+        },
+        {
+          "action": "Turning Around",
+          "start": 4.344,
+          "end": 4.844,
+          "start_frame": 104,
+          "end_frame": 116
+        },
+        {
+          "action": "Turning Around",
+          "start": 6.219,
+          "end": 7.594,
+          "start_frame": 149,
+          "end_frame": 182
+        }
+      ]
+    }
+  ]
+}

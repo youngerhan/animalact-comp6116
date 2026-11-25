@@ -1,0 +1,64 @@
+{
+  "video_id": "GRLLPKJZ",
+  "video": "GRLLPKJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Pine Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Western Pine Beetle",
+      "Moving"
+    ],
+    [
+      "Western Pine Beetle",
+      "Spreading Wings"
+    ],
+    [
+      "Western Pine Beetle",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Pine Beetle",
+      "Moving"
+    ],
+    [
+      "Western Pine Beetle",
+      "Spreading Wings"
+    ],
+    [
+      "Western Pine Beetle",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Pine Beetle",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.624,
+          "start_frame": 0,
+          "end_frame": 39
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 1.624,
+          "end": 5.633,
+          "start_frame": 39,
+          "end_frame": 135
+        },
+        {
+          "action": "Flying",
+          "start": 5.633,
+          "end": 6.0,
+          "start_frame": 135,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

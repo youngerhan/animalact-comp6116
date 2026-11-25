@@ -1,0 +1,64 @@
+{
+  "video_id": "NKOWDUDI",
+  "video": "NKOWDUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Shaking"
+    ],
+    [
+      "Robin Bird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Shaking"
+    ],
+    [
+      "Robin Bird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.208,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.208,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Shaking",
+          "start": 2.208,
+          "end": 2.5,
+          "start_frame": 53,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

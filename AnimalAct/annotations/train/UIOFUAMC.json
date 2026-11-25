@@ -1,0 +1,55 @@
+{
+  "video_id": "UIOFUAMC",
+  "video": "UIOFUAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Drinking"
+    ],
+    [
+      "Lion",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Drinking"
+    ],
+    [
+      "Lion",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 6.0,
+          "start_frame": 0,
+          "end_frame": 144
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 6.0,
+          "start_frame": 0,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

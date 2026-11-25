@@ -1,0 +1,64 @@
+{
+  "video_id": "EIORPVEI",
+  "video": "EIORPVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Motacilla Alba Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Motacilla Alba Bird",
+      "Walking"
+    ],
+    [
+      "Motacilla Alba Bird",
+      "Shaking Head"
+    ],
+    [
+      "Motacilla Alba Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Motacilla Alba Bird",
+      "Walking"
+    ],
+    [
+      "Motacilla Alba Bird",
+      "Shaking Head"
+    ],
+    [
+      "Motacilla Alba Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Motacilla Alba Bird",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.141,
+          "end": 0.301,
+          "start_frame": 3,
+          "end_frame": 7
+        },
+        {
+          "action": "Sensing",
+          "start": 0.315,
+          "end": 0.955,
+          "start_frame": 8,
+          "end_frame": 23
+        },
+        {
+          "action": "Walking",
+          "start": 0.858,
+          "end": 1.161,
+          "start_frame": 21,
+          "end_frame": 28
+        }
+      ]
+    }
+  ]
+}

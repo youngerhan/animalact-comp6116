@@ -1,0 +1,99 @@
+{
+  "video_id": "BBVNLPTK",
+  "video": "BBVNLPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 20.344,
+          "start_frame": 0,
+          "end_frame": 488
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 20.469,
+          "start_frame": 0,
+          "end_frame": 491
+        },
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 0.219,
+          "start_frame": 2,
+          "end_frame": 5
+        },
+        {
+          "action": "Sensing",
+          "start": 0.594,
+          "end": 4.844,
+          "start_frame": 14,
+          "end_frame": 116
+        },
+        {
+          "action": "Sensing",
+          "start": 5.094,
+          "end": 8.971,
+          "start_frame": 122,
+          "end_frame": 215
+        },
+        {
+          "action": "Sensing",
+          "start": 9.413,
+          "end": 10.219,
+          "start_frame": 226,
+          "end_frame": 245
+        },
+        {
+          "action": "Sensing",
+          "start": 10.344,
+          "end": 11.219,
+          "start_frame": 248,
+          "end_frame": 269
+        },
+        {
+          "action": "Sensing",
+          "start": 11.719,
+          "end": 11.969,
+          "start_frame": 281,
+          "end_frame": 287
+        }
+      ]
+    }
+  ]
+}

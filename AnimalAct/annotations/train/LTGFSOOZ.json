@@ -1,0 +1,70 @@
+{
+  "video_id": "LTGFSOOZ",
+  "video": "LTGFSOOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Moth",
+    "Western Widow Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Moth",
+      "Trapped"
+    ],
+    [
+      "Western Widow Spider",
+      "Moving"
+    ],
+    [
+      "Moth",
+      "Struggling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Moth",
+      "Trapped"
+    ],
+    [
+      "Western Widow Spider",
+      "Moving"
+    ],
+    [
+      "Moth",
+      "Struggling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Moth",
+      "actions": [
+        {
+          "action": "Trapped",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Struggling",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    },
+    {
+      "animal": "Western Widow Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

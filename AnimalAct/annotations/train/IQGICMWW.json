@@ -1,0 +1,34 @@
+{
+  "video_id": "IQGICMWW",
+  "video": "IQGICMWW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Luscinia Luscinia Nightingale Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Luscinia Luscinia Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Luscinia Luscinia Nightingale Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Luscinia Luscinia Nightingale Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 6.042,
+          "start_frame": 0,
+          "end_frame": 145
+        }
+      ]
+    }
+  ]
+}

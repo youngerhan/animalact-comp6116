@@ -1,0 +1,41 @@
+{
+  "video_id": "HUPRKHSA",
+  "video": "HUPRKHSA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Cuckoo Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Cuckoo Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Cuckoo Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 0.219,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Preening",
+          "start": 0.594,
+          "end": 3.344,
+          "start_frame": 14,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

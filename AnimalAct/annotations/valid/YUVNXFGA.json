@@ -1,0 +1,49 @@
+{
+  "video_id": "YUVNXFGA",
+  "video": "YUVNXFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Performing Sexual Display"
+    ],
+    [
+      "Bird",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Performing Sexual Display"
+    ],
+    [
+      "Bird",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Performing Sexual Display",
+          "start": 0.0,
+          "end": 3.844,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.917,
+          "start_frame": 0,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

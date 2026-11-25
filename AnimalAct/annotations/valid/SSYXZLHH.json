@@ -1,0 +1,85 @@
+{
+  "video_id": "SSYXZLHH",
+  "video": "SSYXZLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Foam Nest Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Foam Nest Frog",
+      "Moving"
+    ],
+    [
+      "Foam Nest Frog",
+      "Hugging"
+    ],
+    [
+      "Foam Nest Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Foam Nest Frog",
+      "Moving"
+    ],
+    [
+      "Foam Nest Frog",
+      "Hugging"
+    ],
+    [
+      "Foam Nest Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Foam Nest Frog",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.846,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 14.333,
+          "start_frame": 0,
+          "end_frame": 344
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.833,
+          "end": 2.275,
+          "start_frame": 20,
+          "end_frame": 55
+        },
+        {
+          "action": "Moving",
+          "start": 2.275,
+          "end": 8.19,
+          "start_frame": 55,
+          "end_frame": 197
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.19,
+          "end": 9.65,
+          "start_frame": 197,
+          "end_frame": 232
+        },
+        {
+          "action": "Moving",
+          "start": 9.65,
+          "end": 14.333,
+          "start_frame": 232,
+          "end_frame": 344
+        }
+      ]
+    }
+  ]
+}

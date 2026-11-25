@@ -1,0 +1,86 @@
+{
+  "video_id": "ZXRSIKOU",
+  "video": "ZXRSIKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Walking"
+    ],
+    [
+      "Yellowhammer",
+      "Landing"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Walking"
+    ],
+    [
+      "Yellowhammer",
+      "Landing"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.029,
+          "end": 1.921,
+          "start_frame": 1,
+          "end_frame": 46
+        },
+        {
+          "action": "Sensing",
+          "start": 1.95,
+          "end": 2.949,
+          "start_frame": 47,
+          "end_frame": 71
+        },
+        {
+          "action": "Chirping",
+          "start": 2.984,
+          "end": 12.625,
+          "start_frame": 72,
+          "end_frame": 303
+        },
+        {
+          "action": "Landing",
+          "start": 4.301,
+          "end": 4.638,
+          "start_frame": 103,
+          "end_frame": 111
+        },
+        {
+          "action": "Sensing",
+          "start": 4.673,
+          "end": 12.381,
+          "start_frame": 112,
+          "end_frame": 297
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "URPLAWPM",
+  "video": "URPLAWPM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Caterpillar",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caterpillar",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caterpillar",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 23.72,
+          "start_frame": 0,
+          "end_frame": 569
+        }
+      ]
+    }
+  ]
+}

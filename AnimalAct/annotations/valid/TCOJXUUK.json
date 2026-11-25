@@ -1,0 +1,63 @@
+{
+  "video_id": "TCOJXUUK",
+  "video": "TCOJXUUK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Green Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Green Woodpecker",
+      "Chirping"
+    ],
+    [
+      "Green Woodpecker",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Green Woodpecker",
+      "Chirping"
+    ],
+    [
+      "Green Woodpecker",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Green Woodpecker",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 5.512,
+          "start_frame": 0,
+          "end_frame": 132
+        },
+        {
+          "action": "Walking",
+          "start": 0.213,
+          "end": 0.532,
+          "start_frame": 5,
+          "end_frame": 13
+        },
+        {
+          "action": "Walking",
+          "start": 1.637,
+          "end": 1.764,
+          "start_frame": 39,
+          "end_frame": 42
+        },
+        {
+          "action": "Walking",
+          "start": 2.559,
+          "end": 2.697,
+          "start_frame": 61,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

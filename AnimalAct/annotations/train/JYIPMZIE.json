@@ -1,0 +1,49 @@
+{
+  "video_id": "JYIPMZIE",
+  "video": "JYIPMZIE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.965,
+          "start_frame": 0,
+          "end_frame": 71
+        },
+        {
+          "action": "Flying",
+          "start": 2.969,
+          "end": 3.342,
+          "start_frame": 71,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

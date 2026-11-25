@@ -1,0 +1,71 @@
+{
+  "video_id": "LYJCKFUP",
+  "video": "LYJCKFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 0.41,
+          "start_frame": 0,
+          "end_frame": 10
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.41,
+          "end": 8.157,
+          "start_frame": 10,
+          "end_frame": 196
+        },
+        {
+          "action": "Moving",
+          "start": 8.871,
+          "end": 13.99,
+          "start_frame": 213,
+          "end_frame": 336
+        },
+        {
+          "action": "Attending",
+          "start": 13.975,
+          "end": 17.712,
+          "start_frame": 335,
+          "end_frame": 425
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "EVYFNXXP",
+  "video": "EVYFNXXP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Insect"
+  ],
+  "list_animal_action": [
+    [
+      "Insect",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Insect",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Insect",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 9.111,
+          "start_frame": 0,
+          "end_frame": 219
+        }
+      ]
+    }
+  ]
+}

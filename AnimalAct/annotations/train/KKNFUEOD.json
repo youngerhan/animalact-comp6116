@@ -1,0 +1,34 @@
+{
+  "video_id": "KKNFUEOD",
+  "video": "KKNFUEOD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 6.5,
+          "start_frame": 0,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

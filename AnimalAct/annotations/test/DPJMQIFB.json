@@ -1,0 +1,34 @@
+{
+  "video_id": "DPJMQIFB",
+  "video": "DPJMQIFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Eyed Tree Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Eyed Tree Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Eyed Tree Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Eyed Tree Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 2.034,
+          "end": 3.208,
+          "start_frame": 49,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "YYGFMAMC",
+  "video": "YYGFMAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion Young",
+      "Barking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion Young",
+      "Barking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Barking",
+          "start": 0.0,
+          "end": 1.328,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

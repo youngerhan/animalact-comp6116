@@ -1,0 +1,34 @@
+{
+  "video_id": "DIKIPLWC",
+  "video": "DIKIPLWC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chameleon"
+  ],
+  "list_animal_action": [
+    [
+      "Chameleon",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chameleon",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chameleon",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 2.219,
+          "end": 3.094,
+          "start_frame": 53,
+          "end_frame": 74
+        }
+      ]
+    }
+  ]
+}

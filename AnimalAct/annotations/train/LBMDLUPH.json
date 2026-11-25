@@ -1,0 +1,78 @@
+{
+  "video_id": "LBMDLUPH",
+  "video": "LBMDLUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White And Gray Wagtail Bird"
+  ],
+  "list_animal_action": [
+    [
+      "White And Gray Wagtail Bird",
+      "Landing"
+    ],
+    [
+      "White And Gray Wagtail Bird",
+      "Flying"
+    ],
+    [
+      "White And Gray Wagtail Bird",
+      "Flapping Tail"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White And Gray Wagtail Bird",
+      "Landing"
+    ],
+    [
+      "White And Gray Wagtail Bird",
+      "Flying"
+    ],
+    [
+      "White And Gray Wagtail Bird",
+      "Flapping Tail"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White And Gray Wagtail Bird",
+      "actions": [
+        {
+          "action": "Landing",
+          "start": 0.469,
+          "end": 0.594,
+          "start_frame": 11,
+          "end_frame": 14
+        },
+        {
+          "action": "Flying",
+          "start": 0.469,
+          "end": 0.719,
+          "start_frame": 11,
+          "end_frame": 17
+        },
+        {
+          "action": "Flying",
+          "start": 0.969,
+          "end": 1.594,
+          "start_frame": 23,
+          "end_frame": 38
+        },
+        {
+          "action": "Landing",
+          "start": 1.219,
+          "end": 1.969,
+          "start_frame": 29,
+          "end_frame": 47
+        },
+        {
+          "action": "Flapping Tail",
+          "start": 1.844,
+          "end": 1.969,
+          "start_frame": 44,
+          "end_frame": 47
+        }
+      ]
+    }
+  ]
+}

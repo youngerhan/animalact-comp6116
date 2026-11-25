@@ -1,0 +1,34 @@
+{
+  "video_id": "GNYJZBQT",
+  "video": "GNYJZBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Pangolin"
+  ],
+  "list_animal_action": [
+    [
+      "Pangolin",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Pangolin",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Pangolin",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.0,
+          "start_frame": 0,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

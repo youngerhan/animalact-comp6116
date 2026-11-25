@@ -1,0 +1,56 @@
+{
+  "video_id": "BHEDHLSQ",
+  "video": "BHEDHLSQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mistle Thrush"
+  ],
+  "list_animal_action": [
+    [
+      "Mistle Thrush",
+      "Attending"
+    ],
+    [
+      "Mistle Thrush",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mistle Thrush",
+      "Attending"
+    ],
+    [
+      "Mistle Thrush",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mistle Thrush",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.143,
+          "start_frame": 0,
+          "end_frame": 3
+        },
+        {
+          "action": "Attending",
+          "start": 0.301,
+          "end": 0.807,
+          "start_frame": 7,
+          "end_frame": 19
+        },
+        {
+          "action": "Eating",
+          "start": 1.11,
+          "end": 1.362,
+          "start_frame": 27,
+          "end_frame": 33
+        }
+      ]
+    }
+  ]
+}

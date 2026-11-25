@@ -1,0 +1,100 @@
+{
+  "video_id": "FMCZVXDO",
+  "video": "FMCZVXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Zebra"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Biting"
+    ],
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Zebra",
+      "Doing A Back Kick"
+    ],
+    [
+      "Zebra",
+      "Fleeing"
+    ],
+    [
+      "Zebra",
+      "Escaping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Biting"
+    ],
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Zebra",
+      "Doing A Back Kick"
+    ],
+    [
+      "Zebra",
+      "Fleeing"
+    ],
+    [
+      "Zebra",
+      "Escaping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 1.103,
+          "end": 1.228,
+          "start_frame": 26,
+          "end_frame": 29
+        },
+        {
+          "action": "Fleeing",
+          "start": 1.306,
+          "end": 1.825,
+          "start_frame": 31,
+          "end_frame": 44
+        }
+      ]
+    },
+    {
+      "animal": "Zebra",
+      "actions": [
+        {
+          "action": "Fleeing",
+          "start": 1.306,
+          "end": 2.566,
+          "start_frame": 31,
+          "end_frame": 62
+        },
+        {
+          "action": "Doing A Back Kick",
+          "start": 1.845,
+          "end": 2.8,
+          "start_frame": 44,
+          "end_frame": 67
+        },
+        {
+          "action": "Escaping",
+          "start": 2.589,
+          "end": 4.417,
+          "start_frame": 62,
+          "end_frame": 106
+        }
+      ]
+    }
+  ]
+}

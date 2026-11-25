@@ -1,0 +1,34 @@
+{
+  "video_id": "BDTVCNMW",
+  "video": "BDTVCNMW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aedes Aegypti Mosquito Larva"
+  ],
+  "list_animal_action": [
+    [
+      "Aedes Aegypti Mosquito Larva",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aedes Aegypti Mosquito Larva",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aedes Aegypti Mosquito Larva",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 2.008,
+          "end": 2.268,
+          "start_frame": 48,
+          "end_frame": 54
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "video_id": "VAIUBPLS",
+  "video": "VAIUBPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret",
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Biting"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Eating"
+    ],
+    [
+      "Grey Heron",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Biting"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Walking"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Eating"
+    ],
+    [
+      "Grey Heron",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.161,
+          "end": 4.554,
+          "start_frame": 4,
+          "end_frame": 109
+        },
+        {
+          "action": "Eating",
+          "start": 1.193,
+          "end": 1.832,
+          "start_frame": 29,
+          "end_frame": 44
+        },
+        {
+          "action": "Biting",
+          "start": 1.224,
+          "end": 5.826,
+          "start_frame": 29,
+          "end_frame": 140
+        },
+        {
+          "action": "Preening",
+          "start": 5.555,
+          "end": 7.307,
+          "start_frame": 133,
+          "end_frame": 175
+        }
+      ]
+    },
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 7.61,
+          "start_frame": 0,
+          "end_frame": 183
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.011,
+          "end": 7.625,
+          "start_frame": 0,
+          "end_frame": 183
+        },
+        {
+          "action": "Preening",
+          "start": 5.453,
+          "end": 7.177,
+          "start_frame": 131,
+          "end_frame": 172
+        }
+      ]
+    }
+  ]
+}

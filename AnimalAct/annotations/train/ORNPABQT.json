@@ -1,0 +1,49 @@
+{
+  "video_id": "ORNPABQT",
+  "video": "ORNPABQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Weaver Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Weaver Ant",
+      "Carrying"
+    ],
+    [
+      "Weaver Ant",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Weaver Ant",
+      "Carrying"
+    ],
+    [
+      "Weaver Ant",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Weaver Ant",
+      "actions": [
+        {
+          "action": "Carrying",
+          "start": 0.125,
+          "end": 2.833,
+          "start_frame": 3,
+          "end_frame": 68
+        },
+        {
+          "action": "Moving",
+          "start": 0.125,
+          "end": 2.833,
+          "start_frame": 3,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

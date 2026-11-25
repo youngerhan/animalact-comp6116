@@ -1,0 +1,34 @@
+{
+  "video_id": "SFKZTSBA",
+  "video": "SFKZTSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.719,
+          "start_frame": 0,
+          "end_frame": 137
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_id": "LZVGGUUK",
+  "video": "LZVGGUUK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Green Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Green Woodpecker",
+      "Sharing Food"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Green Woodpecker",
+      "Sharing Food"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Green Woodpecker",
+      "actions": [
+        {
+          "action": "Sharing Food",
+          "start": 0.0,
+          "end": 0.344,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Sharing Food",
+          "start": 1.094,
+          "end": 2.333,
+          "start_frame": 26,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "PVYLPXMC",
+  "video": "PVYLPXMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Woodpecker",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Woodpecker",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Woodpecker",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.252,
+          "end": 0.584,
+          "start_frame": 6,
+          "end_frame": 14
+        }
+      ]
+    }
+  ]
+}

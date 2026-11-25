@@ -1,0 +1,49 @@
+{
+  "video_id": "ZHQCTGCS",
+  "video": "ZHQCTGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Yawning"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Yawning"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Yawning",
+          "start": 0.0,
+          "end": 3.458,
+          "start_frame": 0,
+          "end_frame": 83
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.583,
+          "start_frame": 0,
+          "end_frame": 134
+        }
+      ]
+    }
+  ]
+}

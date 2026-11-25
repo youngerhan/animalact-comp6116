@@ -1,0 +1,55 @@
+{
+  "video_id": "DBXKWVJP",
+  "video": "DBXKWVJP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Diving Bell Water Spider",
+    "Worm"
+  ],
+  "list_animal_action": [
+    [
+      "Diving Bell Water Spider",
+      "Moving"
+    ],
+    [
+      "Worm",
+      "Being Carried In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Diving Bell Water Spider",
+      "Moving"
+    ],
+    [
+      "Worm",
+      "Being Carried In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Diving Bell Water Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 7.624,
+          "start_frame": 0,
+          "end_frame": 183
+        }
+      ]
+    },
+    {
+      "animal": "Worm",
+      "actions": [
+        {
+          "action": "Being Carried In Mouth",
+          "start": 0.0,
+          "end": 7.624,
+          "start_frame": 0,
+          "end_frame": 183
+        }
+      ]
+    }
+  ]
+}

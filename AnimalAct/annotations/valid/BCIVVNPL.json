@@ -1,0 +1,34 @@
+{
+  "video_id": "BCIVVNPL",
+  "video": "BCIVVNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Backed Shrike Bird Young"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Backed Shrike Bird Young",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Backed Shrike Bird Young",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 5.628,
+          "end": 39.625,
+          "start_frame": 135,
+          "end_frame": 951
+        }
+      ]
+    }
+  ]
+}

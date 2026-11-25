@@ -1,0 +1,34 @@
+{
+  "video_id": "NWVSTVRM",
+  "video": "NWVSTVRM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Spider",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spider",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

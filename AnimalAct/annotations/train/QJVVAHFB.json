@@ -1,0 +1,78 @@
+{
+  "video_id": "QJVVAHFB",
+  "video": "QJVVAHFB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hazel Grouse Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Hazel Grouse Bird",
+      "Keeping still"
+    ],
+    [
+      "Hazel Grouse Bird",
+      "Chirping"
+    ],
+    [
+      "Hazel Grouse Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hazel Grouse Bird",
+      "Keeping still"
+    ],
+    [
+      "Hazel Grouse Bird",
+      "Chirping"
+    ],
+    [
+      "Hazel Grouse Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hazel Grouse Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.2
+        },
+        {
+          "action": "Chirping",
+          "start": 7.2,
+          "end": 8.0
+        },
+        {
+          "action": "Sensing",
+          "start": 8.0,
+          "end": 9.5
+        },
+        {
+          "action": "Keeping still",
+          "start": 9.5,
+          "end": 20.0
+        },
+        {
+          "action": "Chirping",
+          "start": 20.0,
+          "end": 20.8
+        },
+        {
+          "action": "Sensing",
+          "start": 20.8,
+          "end": 24.0
+        },
+        {
+          "action": "Keeping still",
+          "start": 24.0,
+          "end": 29.12
+        }
+      ]
+    }
+  ]
+}

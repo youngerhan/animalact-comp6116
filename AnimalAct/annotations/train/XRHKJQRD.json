@@ -1,0 +1,34 @@
+{
+  "video_id": "XRHKJQRD",
+  "video": "XRHKJQRD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jerusalam Cricket"
+  ],
+  "list_animal_action": [
+    [
+      "Jerusalam Cricket",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jerusalam Cricket",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jerusalam Cricket",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.125,
+          "end": 1.019,
+          "start_frame": 3,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

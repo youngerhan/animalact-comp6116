@@ -1,0 +1,210 @@
+{
+  "video_id": "SRQKKMRN",
+  "video": "SRQKKMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Shaking Head"
+    ],
+    [
+      "Common Snipe",
+      "Flapping"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ],
+    [
+      "Mallard Duck",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ],
+    [
+      "Mallard Duck",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Flapping"
+    ],
+    [
+      "Common Snipe",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Shaking Head"
+    ],
+    [
+      "Common Snipe",
+      "Flapping"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ],
+    [
+      "Mallard Duck",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Sensing"
+    ],
+    [
+      "Mallard Duck",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Flapping"
+    ],
+    [
+      "Common Snipe",
+      "Attending"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.156,
+          "end": 5.848,
+          "start_frame": 4,
+          "end_frame": 140
+        },
+        {
+          "action": "Attending",
+          "start": 1.271,
+          "end": 2.147,
+          "start_frame": 31,
+          "end_frame": 52
+        },
+        {
+          "action": "Flapping",
+          "start": 2.736,
+          "end": 3.537,
+          "start_frame": 66,
+          "end_frame": 85
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.968,
+          "end": 4.443,
+          "start_frame": 95,
+          "end_frame": 107
+        },
+        {
+          "action": "Attending",
+          "start": 4.723,
+          "end": 5.47,
+          "start_frame": 113,
+          "end_frame": 131
+        },
+        {
+          "action": "Walking",
+          "start": 5.089,
+          "end": 5.781,
+          "start_frame": 122,
+          "end_frame": 139
+        }
+      ]
+    },
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.221,
+          "end": 0.64,
+          "start_frame": 5,
+          "end_frame": 15
+        },
+        {
+          "action": "Eating",
+          "start": 0.417,
+          "end": 1.566,
+          "start_frame": 10,
+          "end_frame": 38
+        },
+        {
+          "action": "Flapping",
+          "start": 1.154,
+          "end": 2.604,
+          "start_frame": 28,
+          "end_frame": 62
+        },
+        {
+          "action": "Walking",
+          "start": 2.155,
+          "end": 3.949,
+          "start_frame": 52,
+          "end_frame": 95
+        },
+        {
+          "action": "Sensing",
+          "start": 2.219,
+          "end": 2.589,
+          "start_frame": 53,
+          "end_frame": 62
+        },
+        {
+          "action": "Sensing",
+          "start": 3.462,
+          "end": 4.258,
+          "start_frame": 83,
+          "end_frame": 102
+        },
+        {
+          "action": "Attending",
+          "start": 4.519,
+          "end": 5.595,
+          "start_frame": 108,
+          "end_frame": 134
+        },
+        {
+          "action": "Walking",
+          "start": 5.414,
+          "end": 6.009,
+          "start_frame": 130,
+          "end_frame": 144
+        },
+        {
+          "action": "Sensing",
+          "start": 5.754,
+          "end": 6.009,
+          "start_frame": 138,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

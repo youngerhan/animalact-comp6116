@@ -1,0 +1,34 @@
+{
+  "video_id": "RFMIRPDU",
+  "video": "RFMIRPDU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Grey Shrike"
+  ],
+  "list_animal_action": [
+    [
+      "Great Grey Shrike",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Grey Shrike",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Grey Shrike",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

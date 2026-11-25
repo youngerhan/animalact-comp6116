@@ -1,0 +1,64 @@
+{
+  "video_id": "UHJOLUIV",
+  "video": "UHJOLUIV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Goldeneye"
+  ],
+  "list_animal_action": [
+    [
+      "Common Goldeneye",
+      "Flapping"
+    ],
+    [
+      "Common Goldeneye",
+      "Biting"
+    ],
+    [
+      "Common Goldeneye",
+      "Being Carried In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Goldeneye",
+      "Flapping"
+    ],
+    [
+      "Common Goldeneye",
+      "Biting"
+    ],
+    [
+      "Common Goldeneye",
+      "Being Carried In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Goldeneye",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 1.191,
+          "end": 7.325,
+          "start_frame": 29,
+          "end_frame": 176
+        },
+        {
+          "action": "Being Carried In Mouth",
+          "start": 2.427,
+          "end": 7.321,
+          "start_frame": 58,
+          "end_frame": 176
+        },
+        {
+          "action": "Flapping",
+          "start": 6.35,
+          "end": 7.193,
+          "start_frame": 152,
+          "end_frame": 173
+        }
+      ]
+    }
+  ]
+}

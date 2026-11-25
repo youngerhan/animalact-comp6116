@@ -1,0 +1,34 @@
+{
+  "video_id": "WBDJNYMI",
+  "video": "WBDJNYMI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hoverfly"
+  ],
+  "list_animal_action": [
+    [
+      "Hoverfly",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hoverfly",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hoverfly",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 4.381,
+          "end": 12.722,
+          "start_frame": 105,
+          "end_frame": 305
+        }
+      ]
+    }
+  ]
+}

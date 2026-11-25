@@ -1,0 +1,56 @@
+{
+  "video_id": "PFNHSLKY",
+  "video": "PFNHSLKY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Side Blotched Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Side Blotched Lizard",
+      "Sensing"
+    ],
+    [
+      "Side Blotched Lizard",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Side Blotched Lizard",
+      "Sensing"
+    ],
+    [
+      "Side Blotched Lizard",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Side Blotched Lizard",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.001,
+          "end": 0.981,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Sensing",
+          "start": 0.977,
+          "end": 3.304,
+          "start_frame": 23,
+          "end_frame": 79
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.305,
+          "end": 3.833,
+          "start_frame": 79,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

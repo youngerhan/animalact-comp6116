@@ -1,0 +1,41 @@
+{
+  "video_id": "SEHGNHAQ",
+  "video": "SEHGNHAQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montagu'S Harrier"
+  ],
+  "list_animal_action": [
+    [
+      "Montagu'S Harrier",
+      "Standing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montagu'S Harrier",
+      "Standing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montagu'S Harrier",
+      "actions": [
+        {
+          "action": "Standing",
+          "start": 0.094,
+          "end": 1.094,
+          "start_frame": 2,
+          "end_frame": 26
+        },
+        {
+          "action": "Standing",
+          "start": 1.219,
+          "end": 1.469,
+          "start_frame": 29,
+          "end_frame": 35
+        }
+      ]
+    }
+  ]
+}

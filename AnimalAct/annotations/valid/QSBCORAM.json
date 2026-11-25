@@ -1,0 +1,71 @@
+{
+  "video_id": "QSBCORAM",
+  "video": "QSBCORAM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nursery Web Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Nursery Web Spider",
+      "Sensing"
+    ],
+    [
+      "Nursery Web Spider",
+      "Fighting"
+    ],
+    [
+      "Nursery Web Spider",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nursery Web Spider",
+      "Sensing"
+    ],
+    [
+      "Nursery Web Spider",
+      "Fighting"
+    ],
+    [
+      "Nursery Web Spider",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nursery Web Spider",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 7.042,
+          "start_frame": 0,
+          "end_frame": 169
+        },
+        {
+          "action": "Sensing",
+          "start": 7.083,
+          "end": 8.958,
+          "start_frame": 170,
+          "end_frame": 215
+        },
+        {
+          "action": "Keeping still",
+          "start": 8.997,
+          "end": 13.872,
+          "start_frame": 216,
+          "end_frame": 333
+        },
+        {
+          "action": "Sensing",
+          "start": 13.917,
+          "end": 15.042,
+          "start_frame": 334,
+          "end_frame": 361
+        }
+      ]
+    }
+  ]
+}

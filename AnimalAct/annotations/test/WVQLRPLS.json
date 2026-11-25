@@ -1,0 +1,78 @@
+{
+  "video_id": "WVQLRPLS",
+  "video": "WVQLRPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Shaking Head"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Eating"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Shaking Head"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Eating"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.002,
+          "end": 0.381,
+          "start_frame": 0,
+          "end_frame": 9
+        },
+        {
+          "action": "Eating",
+          "start": 0.002,
+          "end": 0.976,
+          "start_frame": 0,
+          "end_frame": 23
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.021,
+          "end": 1.418,
+          "start_frame": 25,
+          "end_frame": 34
+        },
+        {
+          "action": "Preening",
+          "start": 1.884,
+          "end": 3.423,
+          "start_frame": 45,
+          "end_frame": 82
+        },
+        {
+          "action": "Eating",
+          "start": 2.956,
+          "end": 3.423,
+          "start_frame": 71,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

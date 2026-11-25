@@ -1,0 +1,137 @@
+{
+  "video_id": "PDGGSPTK",
+  "video": "PDGGSPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Shaking Head"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.044,
+          "end": 19.56,
+          "start_frame": 1,
+          "end_frame": 469
+        },
+        {
+          "action": "Chirping",
+          "start": 0.645,
+          "end": 3.424,
+          "start_frame": 15,
+          "end_frame": 82
+        },
+        {
+          "action": "Attending",
+          "start": 3.536,
+          "end": 4.475,
+          "start_frame": 85,
+          "end_frame": 107
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.712,
+          "end": 5.114,
+          "start_frame": 89,
+          "end_frame": 123
+        },
+        {
+          "action": "Chirping",
+          "start": 5.865,
+          "end": 8.719,
+          "start_frame": 141,
+          "end_frame": 209
+        },
+        {
+          "action": "Chirping",
+          "start": 8.769,
+          "end": 12.337,
+          "start_frame": 210,
+          "end_frame": 296
+        },
+        {
+          "action": "Shaking Head",
+          "start": 12.111,
+          "end": 13.213,
+          "start_frame": 291,
+          "end_frame": 317
+        },
+        {
+          "action": "Preening",
+          "start": 12.237,
+          "end": 13.376,
+          "start_frame": 294,
+          "end_frame": 321
+        },
+        {
+          "action": "Keeping still",
+          "start": 13.376,
+          "end": 14.59,
+          "start_frame": 321,
+          "end_frame": 350
+        },
+        {
+          "action": "Chirping",
+          "start": 15.204,
+          "end": 19.917,
+          "start_frame": 365,
+          "end_frame": 478
+        }
+      ]
+    }
+  ]
+}

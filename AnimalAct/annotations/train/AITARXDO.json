@@ -1,0 +1,34 @@
+{
+  "video_id": "AITARXDO",
+  "video": "AITARXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Zebra"
+  ],
+  "list_animal_action": [
+    [
+      "Zebra",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Zebra",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Zebra",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.708,
+          "start_frame": 0,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

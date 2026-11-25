@@ -1,0 +1,49 @@
+{
+  "video_id": "RFMGHVEI",
+  "video": "RFMGHVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Nebularia Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Nebularia Bird",
+      "Running"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Nebularia Bird",
+      "Running"
+    ],
+    [
+      "Tringa Nebularia Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Nebularia Bird",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 2.542,
+          "start_frame": 0,
+          "end_frame": 61
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.417,
+          "start_frame": 0,
+          "end_frame": 106
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "video_id": "KPKIEBQT",
+  "video": "KPKIEBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Jumping"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Climbing"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Keeping still"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Jumping"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Climbing"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Keeping still"
+    ],
+    [
+      "Raffles Banded Langur",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.507,
+          "start_frame": 0,
+          "end_frame": 132
+        },
+        {
+          "action": "Jumping",
+          "start": 1.792,
+          "end": 2.578,
+          "start_frame": 43,
+          "end_frame": 62
+        },
+        {
+          "action": "Climbing",
+          "start": 2.499,
+          "end": 3.382,
+          "start_frame": 60,
+          "end_frame": 81
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.392,
+          "end": 5.509,
+          "start_frame": 81,
+          "end_frame": 132
+        },
+        {
+          "action": "Climbing",
+          "start": 4.43,
+          "end": 5.204,
+          "start_frame": 106,
+          "end_frame": 125
+        },
+        {
+          "action": "Jumping",
+          "start": 5.199,
+          "end": 5.509,
+          "start_frame": 125,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

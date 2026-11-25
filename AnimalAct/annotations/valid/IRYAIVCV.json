@@ -1,0 +1,85 @@
+{
+  "video_id": "IRYAIVCV",
+  "video": "IRYAIVCV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Lying On Top"
+    ],
+    [
+      "Frog",
+      "Keeping still"
+    ],
+    [
+      "Frog",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Lying On Top"
+    ],
+    [
+      "Frog",
+      "Keeping still"
+    ],
+    [
+      "Frog",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.79,
+          "start_frame": 0,
+          "end_frame": 67
+        },
+        {
+          "action": "Lying On Top",
+          "start": 0.0,
+          "end": 7.094,
+          "start_frame": 0,
+          "end_frame": 170
+        },
+        {
+          "action": "Swimming",
+          "start": 0.594,
+          "end": 0.719,
+          "start_frame": 14,
+          "end_frame": 17
+        },
+        {
+          "action": "Swimming",
+          "start": 1.594,
+          "end": 1.719,
+          "start_frame": 38,
+          "end_frame": 41
+        },
+        {
+          "action": "Swimming",
+          "start": 2.094,
+          "end": 6.969,
+          "start_frame": 50,
+          "end_frame": 167
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.27,
+          "end": 5.649,
+          "start_frame": 102,
+          "end_frame": 136
+        }
+      ]
+    }
+  ]
+}

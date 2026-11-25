@@ -1,0 +1,34 @@
+{
+  "video_id": "WDYJZFAU",
+  "video": "WDYJZFAU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jeweled Cockroach Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Exiting Nest"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jeweled Cockroach Wasp",
+      "Exiting Nest"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jeweled Cockroach Wasp",
+      "actions": [
+        {
+          "action": "Exiting Nest",
+          "start": 1.813,
+          "end": 2.854,
+          "start_frame": 44,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

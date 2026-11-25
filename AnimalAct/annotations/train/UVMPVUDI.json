@@ -1,0 +1,93 @@
+{
+  "video_id": "UVMPVUDI",
+  "video": "UVMPVUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ],
+    [
+      "Robin Bird",
+      "Sensing"
+    ],
+    [
+      "Robin Bird",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Chirping"
+    ],
+    [
+      "Robin Bird",
+      "Sensing"
+    ],
+    [
+      "Robin Bird",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 0.594,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 12.844,
+          "start_frame": 0,
+          "end_frame": 308
+        },
+        {
+          "action": "Chirping",
+          "start": 1.094,
+          "end": 1.344,
+          "start_frame": 26,
+          "end_frame": 32
+        },
+        {
+          "action": "Chirping",
+          "start": 2.094,
+          "end": 12.969,
+          "start_frame": 50,
+          "end_frame": 311
+        },
+        {
+          "action": "Shaking Head",
+          "start": 6.719,
+          "end": 6.844,
+          "start_frame": 161,
+          "end_frame": 164
+        },
+        {
+          "action": "Sensing",
+          "start": 11.094,
+          "end": 11.746,
+          "start_frame": 266,
+          "end_frame": 282
+        }
+      ]
+    }
+  ]
+}

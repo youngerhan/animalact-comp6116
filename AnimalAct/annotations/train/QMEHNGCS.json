@@ -1,0 +1,94 @@
+{
+  "video_id": "QMEHNGCS",
+  "video": "QMEHNGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Keeping still"
+    ],
+    [
+      "Lion",
+      "Retreating"
+    ],
+    [
+      "Lion",
+      "Barking"
+    ],
+    [
+      "Lion",
+      "Startled"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.429,
+          "start_frame": 0,
+          "end_frame": 34
+        },
+        {
+          "action": "Barking",
+          "start": 0.0,
+          "end": 5.628,
+          "start_frame": 0,
+          "end_frame": 135
+        },
+        {
+          "action": "Retreating",
+          "start": 1.432,
+          "end": 2.249,
+          "start_frame": 34,
+          "end_frame": 54
+        },
+        {
+          "action": "Startled",
+          "start": 1.619,
+          "end": 5.636,
+          "start_frame": 39,
+          "end_frame": 135
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.849,
+          "end": 6.5,
+          "start_frame": 116,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

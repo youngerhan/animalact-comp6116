@@ -1,0 +1,34 @@
+{
+  "video_id": "GPOBOCPZ",
+  "video": "GPOBOCPZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Wig Marine Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "White Wig Marine Iguana",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Wig Marine Iguana",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Wig Marine Iguana",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.403,
+          "start_frame": 0,
+          "end_frame": 178
+        }
+      ]
+    }
+  ]
+}

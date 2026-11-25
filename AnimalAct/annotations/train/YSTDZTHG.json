@@ -1,0 +1,63 @@
+{
+  "video_id": "YSTDZTHG",
+  "video": "YSTDZTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maxwell'S Duiker"
+  ],
+  "list_animal_action": [
+    [
+      "Maxwell'S Duiker",
+      "Walking"
+    ],
+    [
+      "Maxwell'S Duiker",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maxwell'S Duiker",
+      "Walking"
+    ],
+    [
+      "Maxwell'S Duiker",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maxwell'S Duiker",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.109,
+          "start_frame": 0,
+          "end_frame": 51
+        },
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 13.489,
+          "start_frame": 0,
+          "end_frame": 324
+        },
+        {
+          "action": "Walking",
+          "start": 5.326,
+          "end": 9.376,
+          "start_frame": 128,
+          "end_frame": 225
+        },
+        {
+          "action": "Walking",
+          "start": 10.872,
+          "end": 13.506,
+          "start_frame": 261,
+          "end_frame": 324
+        }
+      ]
+    }
+  ]
+}

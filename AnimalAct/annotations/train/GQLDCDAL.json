@@ -1,0 +1,70 @@
+{
+  "video_id": "GQLDCDAL",
+  "video": "GQLDCDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Doing A Face Dip"
+    ],
+    [
+      "Mallard Duck",
+      "Swimming"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Doing A Face Dip"
+    ],
+    [
+      "Mallard Duck",
+      "Swimming"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 11.125,
+          "start_frame": 0,
+          "end_frame": 267
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.818,
+          "end": 11.125,
+          "start_frame": 20,
+          "end_frame": 267
+        }
+      ]
+    },
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.839,
+          "end": 11.125,
+          "start_frame": 20,
+          "end_frame": 267
+        }
+      ]
+    }
+  ]
+}

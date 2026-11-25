@@ -1,0 +1,34 @@
+{
+  "video_id": "STUJXAHK",
+  "video": "STUJXAHK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Caterpillar",
+      "Digging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caterpillar",
+      "Digging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caterpillar",
+      "actions": [
+        {
+          "action": "Digging",
+          "start": 3.49,
+          "end": 6.463,
+          "start_frame": 84,
+          "end_frame": 155
+        }
+      ]
+    }
+  ]
+}

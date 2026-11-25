@@ -1,0 +1,63 @@
+{
+  "video_id": "ZMQPVNQN",
+  "video": "ZMQPVNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Whitethroat Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Whitethroat Bird",
+      "Chirping"
+    ],
+    [
+      "Common Whitethroat Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Whitethroat Bird",
+      "Chirping"
+    ],
+    [
+      "Common Whitethroat Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Whitethroat Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.104,
+          "start_frame": 0,
+          "end_frame": 50
+        },
+        {
+          "action": "Sensing",
+          "start": 0.007,
+          "end": 2.123,
+          "start_frame": 0,
+          "end_frame": 51
+        },
+        {
+          "action": "Sensing",
+          "start": 2.488,
+          "end": 7.117,
+          "start_frame": 60,
+          "end_frame": 171
+        },
+        {
+          "action": "Chirping",
+          "start": 5.246,
+          "end": 7.125,
+          "start_frame": 126,
+          "end_frame": 171
+        }
+      ]
+    }
+  ]
+}

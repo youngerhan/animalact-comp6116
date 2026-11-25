@@ -1,0 +1,92 @@
+{
+  "video_id": "KNXCBXMC",
+  "video": "KNXCBXMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Woodpecker",
+      "Sensing"
+    ],
+    [
+      "Woodpecker",
+      "Eating"
+    ],
+    [
+      "Woodpecker",
+      "Pecking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Woodpecker",
+      "Sensing"
+    ],
+    [
+      "Woodpecker",
+      "Eating"
+    ],
+    [
+      "Woodpecker",
+      "Pecking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Woodpecker",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.983,
+          "start_frame": 0,
+          "end_frame": 24
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.307,
+          "start_frame": 0,
+          "end_frame": 79
+        },
+        {
+          "action": "Sensing",
+          "start": 3.221,
+          "end": 3.986,
+          "start_frame": 77,
+          "end_frame": 96
+        },
+        {
+          "action": "Pecking",
+          "start": 4.036,
+          "end": 5.931,
+          "start_frame": 97,
+          "end_frame": 142
+        },
+        {
+          "action": "Eating",
+          "start": 4.176,
+          "end": 10.708333,
+          "start_frame": 100,
+          "end_frame": 257
+        },
+        {
+          "action": "Sensing",
+          "start": 6.188,
+          "end": 7.24,
+          "start_frame": 149,
+          "end_frame": 174
+        },
+        {
+          "action": "Sensing",
+          "start": 9.342,
+          "end": 10.711,
+          "start_frame": 224,
+          "end_frame": 257
+        }
+      ]
+    }
+  ]
+}

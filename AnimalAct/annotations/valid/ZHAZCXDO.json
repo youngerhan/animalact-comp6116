@@ -1,0 +1,55 @@
+{
+  "video_id": "ZHAZCXDO",
+  "video": "ZHAZCXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Hyena"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Hyena",
+      "Chasing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Hyena",
+      "Chasing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Fleeing",
+          "start": 0.0,
+          "end": 1.208,
+          "start_frame": 0,
+          "end_frame": 29
+        }
+      ]
+    },
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Chasing",
+          "start": 0.0,
+          "end": 1.208,
+          "start_frame": 0,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

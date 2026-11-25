@@ -1,0 +1,56 @@
+{
+  "video_id": "XBRLPLZD",
+  "video": "XBRLPLZD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mosquito Larva"
+  ],
+  "list_animal_action": [
+    [
+      "Mosquito Larva",
+      "Moving"
+    ],
+    [
+      "Mosquito Larva",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mosquito Larva",
+      "Moving"
+    ],
+    [
+      "Mosquito Larva",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mosquito Larva",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.619,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Moving",
+          "start": 0.634,
+          "end": 5.833,
+          "start_frame": 15,
+          "end_frame": 140
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.793,
+          "end": 6.833,
+          "start_frame": 139,
+          "end_frame": 164
+        }
+      ]
+    }
+  ]
+}

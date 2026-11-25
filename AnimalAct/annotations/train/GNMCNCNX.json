@@ -1,0 +1,34 @@
+{
+  "video_id": "GNMCNCNX",
+  "video": "GNMCNCNX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.125,
+          "start_frame": 0,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

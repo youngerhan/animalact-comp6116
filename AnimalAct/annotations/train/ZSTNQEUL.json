@@ -1,0 +1,34 @@
+{
+  "video_id": "ZSTNQEUL",
+  "video": "ZSTNQEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Javan Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Javan Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Javan Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Javan Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.844,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

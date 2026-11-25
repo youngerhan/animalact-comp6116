@@ -1,0 +1,85 @@
+{
+  "video_id": "ESJIKDAL",
+  "video": "ESJIKDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Sensing"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Sensing"
+    ],
+    [
+      "Grey Heron",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.262,
+          "start_frame": 0,
+          "end_frame": 126
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 14.219,
+          "start_frame": 0,
+          "end_frame": 341
+        },
+        {
+          "action": "Walking",
+          "start": 6.094,
+          "end": 7.256,
+          "start_frame": 146,
+          "end_frame": 174
+        },
+        {
+          "action": "Walking",
+          "start": 7.674,
+          "end": 12.232,
+          "start_frame": 184,
+          "end_frame": 294
+        },
+        {
+          "action": "Keeping still",
+          "start": 11.667,
+          "end": 15.517,
+          "start_frame": 280,
+          "end_frame": 372
+        },
+        {
+          "action": "Walking",
+          "start": 13.759,
+          "end": 15.517,
+          "start_frame": 330,
+          "end_frame": 372
+        }
+      ]
+    }
+  ]
+}

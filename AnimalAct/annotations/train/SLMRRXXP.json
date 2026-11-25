@@ -1,0 +1,41 @@
+{
+  "video_id": "SLMRRXXP",
+  "video": "SLMRRXXP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Insect"
+  ],
+  "list_animal_action": [
+    [
+      "Insect",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Insect",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Insect",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.142,
+          "end": 0.995,
+          "start_frame": 3,
+          "end_frame": 24
+        },
+        {
+          "action": "Moving",
+          "start": 1.467,
+          "end": 2.7,
+          "start_frame": 35,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

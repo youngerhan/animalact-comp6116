@@ -1,0 +1,55 @@
+{
+  "video_id": "JRWSIVYK",
+  "video": "JRWSIVYK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wormlion Larva",
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Wormlion Larva",
+      "Wrapping Itself Around Prey"
+    ],
+    [
+      "Ant",
+      "Struggling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wormlion Larva",
+      "Wrapping Itself Around Prey"
+    ],
+    [
+      "Ant",
+      "Struggling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wormlion Larva",
+      "actions": [
+        {
+          "action": "Wrapping Itself Around Prey",
+          "start": 0.0,
+          "end": 1.13,
+          "start_frame": 0,
+          "end_frame": 27
+        }
+      ]
+    },
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 0.702,
+          "end": 1.829,
+          "start_frame": 17,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

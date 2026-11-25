@@ -1,0 +1,56 @@
+{
+  "video_id": "HFSBDFXO",
+  "video": "HFSBDFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Keeping still"
+    ],
+    [
+      "Tit Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Keeping still"
+    ],
+    [
+      "Tit Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Chirping",
+          "start": 0.625,
+          "end": 1.875,
+          "start_frame": 15,
+          "end_frame": 45
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.875,
+          "end": 2.625,
+          "start_frame": 45,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

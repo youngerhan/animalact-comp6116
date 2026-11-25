@@ -1,0 +1,34 @@
+{
+  "video_id": "ZRKHNPKT",
+  "video": "ZRKHNPKT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Сommon Eider"
+  ],
+  "list_animal_action": [
+    [
+      "Сommon Eider",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Сommon Eider",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Сommon Eider",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.003,
+          "end": 3.12,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

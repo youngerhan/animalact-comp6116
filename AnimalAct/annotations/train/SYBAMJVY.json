@@ -1,0 +1,49 @@
+{
+  "video_id": "SYBAMJVY",
+  "video": "SYBAMJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.0,
+          "end": 0.219,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.844,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

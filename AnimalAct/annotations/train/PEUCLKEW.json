@@ -1,0 +1,34 @@
+{
+  "video_id": "PEUCLKEW",
+  "video": "PEUCLKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goat"
+  ],
+  "list_animal_action": [
+    [
+      "Goat",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goat",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goat",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.167,
+          "end": 1.125,
+          "start_frame": 4,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "HFABCADX",
+  "video": "HFABCADX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White-Backed Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Landing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Landing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White-Backed Woodpecker",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.844,
+          "start_frame": 0,
+          "end_frame": 44
+        },
+        {
+          "action": "Flying",
+          "start": 2.844,
+          "end": 3.094,
+          "start_frame": 68,
+          "end_frame": 74
+        },
+        {
+          "action": "Landing",
+          "start": 2.969,
+          "end": 3.219,
+          "start_frame": 71,
+          "end_frame": 77
+        },
+        {
+          "action": "Sensing",
+          "start": 3.719,
+          "end": 4.344,
+          "start_frame": 89,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

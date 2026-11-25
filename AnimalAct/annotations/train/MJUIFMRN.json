@@ -1,0 +1,32 @@
+{
+  "video_id": "MJUIFMRN",
+  "video": "MJUIFMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 12.12
+        }
+      ]
+    }
+  ]
+}

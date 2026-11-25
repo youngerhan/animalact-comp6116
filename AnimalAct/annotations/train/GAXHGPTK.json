@@ -1,0 +1,78 @@
+{
+  "video_id": "GAXHGPTK",
+  "video": "GAXHGPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.139,
+          "end": 1.42,
+          "start_frame": 3,
+          "end_frame": 34
+        },
+        {
+          "action": "Sensing",
+          "start": 0.198,
+          "end": 1.987,
+          "start_frame": 5,
+          "end_frame": 48
+        },
+        {
+          "action": "Chirping",
+          "start": 1.998,
+          "end": 6.768,
+          "start_frame": 48,
+          "end_frame": 162
+        },
+        {
+          "action": "Sensing",
+          "start": 6.768,
+          "end": 8.625,
+          "start_frame": 162,
+          "end_frame": 207
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.774,
+          "end": 8.625,
+          "start_frame": 163,
+          "end_frame": 207
+        }
+      ]
+    }
+  ]
+}

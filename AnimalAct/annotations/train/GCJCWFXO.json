@@ -1,0 +1,49 @@
+{
+  "video_id": "GCJCWFXO",
+  "video": "GCJCWFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Chirping"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 11.094,
+          "start_frame": 0,
+          "end_frame": 266
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 11.5,
+          "start_frame": 0,
+          "end_frame": 276
+        }
+      ]
+    }
+  ]
+}

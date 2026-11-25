@@ -1,0 +1,34 @@
+{
+  "video_id": "YLVHHPIF",
+  "video": "YLVHHPIF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Shoebill Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Shoebill Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Shoebill Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Shoebill Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.917,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

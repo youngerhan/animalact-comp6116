@@ -1,0 +1,64 @@
+{
+  "video_id": "GAOUGEWB",
+  "video": "GAOUGEWB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Philomachus Pugnax Ruff Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Walking"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Walking"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Philomachus Pugnax Ruff Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 0.296,
+          "start_frame": 0,
+          "end_frame": 7
+        },
+        {
+          "action": "Sensing",
+          "start": 0.608,
+          "end": 1.171,
+          "start_frame": 15,
+          "end_frame": 28
+        },
+        {
+          "action": "Preening",
+          "start": 1.222,
+          "end": 3.919,
+          "start_frame": 29,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

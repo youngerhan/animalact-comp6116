@@ -1,0 +1,49 @@
+{
+  "video_id": "TVJVGFNJ",
+  "video": "TVJVGFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Attending"
+    ],
+    [
+      "Iguana",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Attending"
+    ],
+    [
+      "Iguana",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.245,
+          "end": 0.585,
+          "start_frame": 6,
+          "end_frame": 14
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.789,
+          "end": 2.0,
+          "start_frame": 19,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

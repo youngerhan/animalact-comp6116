@@ -1,0 +1,64 @@
+{
+  "video_id": "JWIBCUPH",
+  "video": "JWIBCUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Water Dipper Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Water Dipper Bird",
+      "Walking"
+    ],
+    [
+      "Water Dipper Bird",
+      "Sharing Food"
+    ],
+    [
+      "Water Dipper Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Water Dipper Bird",
+      "Walking"
+    ],
+    [
+      "Water Dipper Bird",
+      "Sharing Food"
+    ],
+    [
+      "Water Dipper Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Water Dipper Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.125,
+          "start_frame": 0,
+          "end_frame": 51
+        },
+        {
+          "action": "Walking",
+          "start": 1.672,
+          "end": 2.016,
+          "start_frame": 40,
+          "end_frame": 48
+        },
+        {
+          "action": "Sharing Food",
+          "start": 2.003,
+          "end": 2.125,
+          "start_frame": 48,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

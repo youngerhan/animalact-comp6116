@@ -1,0 +1,34 @@
+{
+  "video_id": "NEPCDRLL",
+  "video": "NEPCDRLL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Arizona Bark Scorpion"
+  ],
+  "list_animal_action": [
+    [
+      "Arizona Bark Scorpion",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Arizona Bark Scorpion",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Arizona Bark Scorpion",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.725,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

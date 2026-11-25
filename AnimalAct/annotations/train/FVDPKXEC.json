@@ -1,0 +1,41 @@
+{
+  "video_id": "FVDPKXEC",
+  "video": "FVDPKXEC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Habronattus Clypeatus"
+  ],
+  "list_animal_action": [
+    [
+      "Habronattus Clypeatus",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Habronattus Clypeatus",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Habronattus Clypeatus",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.819,
+          "end": 1.242,
+          "start_frame": 20,
+          "end_frame": 30
+        },
+        {
+          "action": "Sensing",
+          "start": 1.73,
+          "end": 1.962,
+          "start_frame": 42,
+          "end_frame": 47
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "ZUNFBRJS",
+  "video": "ZUNFBRJS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Damselfly"
+  ],
+  "list_animal_action": [
+    [
+      "Damselfly",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Damselfly",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Damselfly",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.003,
+          "end": 3.064,
+          "start_frame": 0,
+          "end_frame": 74
+        }
+      ]
+    }
+  ]
+}

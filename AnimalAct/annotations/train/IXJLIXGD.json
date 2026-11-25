@@ -1,0 +1,49 @@
+{
+  "video_id": "IXJLIXGD",
+  "video": "IXJLIXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dog"
+  ],
+  "list_animal_action": [
+    [
+      "Dog",
+      "Attending"
+    ],
+    [
+      "Dog",
+      "Yawning"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dog",
+      "Attending"
+    ],
+    [
+      "Dog",
+      "Yawning"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dog",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.194,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Yawning",
+          "start": 0.194,
+          "end": 1.125,
+          "start_frame": 5,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

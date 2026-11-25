@@ -1,0 +1,64 @@
+{
+  "video_id": "GSHRZFUP",
+  "video": "GSHRZFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.719,
+          "start_frame": 0,
+          "end_frame": 113
+        },
+        {
+          "action": "Attending",
+          "start": 4.733,
+          "end": 5.216,
+          "start_frame": 114,
+          "end_frame": 125
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.216,
+          "end": 8.625,
+          "start_frame": 125,
+          "end_frame": 207
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "video_id": "TPKWJEWB",
+  "video": "TPKWJEWB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Philomachus Pugnax Ruff Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Washing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Washing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Philomachus Pugnax Ruff Bird",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.001,
+          "end": 0.519,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Washing",
+          "start": 0.547,
+          "end": 1.713,
+          "start_frame": 13,
+          "end_frame": 41
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 1.717,
+          "end": 2.237,
+          "start_frame": 41,
+          "end_frame": 54
+        },
+        {
+          "action": "Washing",
+          "start": 2.243,
+          "end": 3.125,
+          "start_frame": 54,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

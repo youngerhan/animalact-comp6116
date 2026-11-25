@@ -1,0 +1,32 @@
+{
+  "video_id": "PIJNTKOU",
+  "video": "PIJNTKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.71
+        }
+      ]
+    }
+  ]
+}

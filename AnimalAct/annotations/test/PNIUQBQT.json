@@ -1,0 +1,49 @@
+{
+  "video_id": "PNIUQBQT",
+  "video": "PNIUQBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greater Mouse Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Greater Mouse Deer",
+      "Standing"
+    ],
+    [
+      "Greater Mouse Deer",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greater Mouse Deer",
+      "Standing"
+    ],
+    [
+      "Greater Mouse Deer",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greater Mouse Deer",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.08,
+          "end": 0.331,
+          "start_frame": 2,
+          "end_frame": 8
+        },
+        {
+          "action": "Standing",
+          "start": 0.83,
+          "end": 1.417,
+          "start_frame": 20,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

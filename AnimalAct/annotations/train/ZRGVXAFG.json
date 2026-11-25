@@ -1,0 +1,34 @@
+{
+  "video_id": "ZRGVXAFG",
+  "video": "ZRGVXAFG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Phyllium Giganteum"
+  ],
+  "list_animal_action": [
+    [
+      "Phyllium Giganteum",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Phyllium Giganteum",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Phyllium Giganteum",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.125,
+          "start_frame": 0,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "HZXHNBQT",
+  "video": "HZXHNBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Long Tailed Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Long Tailed Macaque",
+      "Carrying In Mouth"
+    ],
+    [
+      "Long Tailed Macaque",
+      "Jumping"
+    ],
+    [
+      "Long Tailed Macaque",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Long Tailed Macaque",
+      "Carrying In Mouth"
+    ],
+    [
+      "Long Tailed Macaque",
+      "Jumping"
+    ],
+    [
+      "Long Tailed Macaque",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Long Tailed Macaque",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 2.583,
+          "end": 2.708,
+          "start_frame": 62,
+          "end_frame": 65
+        },
+        {
+          "action": "Jumping",
+          "start": 2.708,
+          "end": 3.333,
+          "start_frame": 65,
+          "end_frame": 80
+        },
+        {
+          "action": "Climbing",
+          "start": 3.417,
+          "end": 4.292,
+          "start_frame": 82,
+          "end_frame": 103
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "DERJKVMP",
+  "video": "DERJKVMP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bison"
+  ],
+  "list_animal_action": [
+    [
+      "Bison",
+      "Keeping still"
+    ],
+    [
+      "Bison",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bison",
+      "Keeping still"
+    ],
+    [
+      "Bison",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bison",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.208,
+          "start_frame": 0,
+          "end_frame": 53
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

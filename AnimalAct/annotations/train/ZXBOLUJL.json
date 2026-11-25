@@ -1,0 +1,49 @@
+{
+  "video_id": "ZXBOLUJL",
+  "video": "ZXBOLUJL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Penguin"
+  ],
+  "list_animal_action": [
+    [
+      "Penguin",
+      "Jumping"
+    ],
+    [
+      "Penguin",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Penguin",
+      "Jumping"
+    ],
+    [
+      "Penguin",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Penguin",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.0,
+          "end": 0.344,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 2.0,
+          "start_frame": 0,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

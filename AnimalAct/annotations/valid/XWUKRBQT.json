@@ -1,0 +1,34 @@
+{
+  "video_id": "XWUKRBQT",
+  "video": "XWUKRBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grasshopper"
+  ],
+  "list_animal_action": [
+    [
+      "Grasshopper",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grasshopper",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grasshopper",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.705,
+          "end": 0.917,
+          "start_frame": 17,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "GHACONQN",
+  "video": "GHACONQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Whitethroat Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Common Whitethroat Bird",
+      "Chirping"
+    ],
+    [
+      "Common Whitethroat Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Whitethroat Bird",
+      "Chirping"
+    ],
+    [
+      "Common Whitethroat Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Whitethroat Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.12,
+          "start_frame": 0,
+          "end_frame": 75
+        },
+        {
+          "action": "Chirping",
+          "start": 3.144,
+          "end": 5.512,
+          "start_frame": 75,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

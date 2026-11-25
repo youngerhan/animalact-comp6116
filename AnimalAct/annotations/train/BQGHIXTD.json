@@ -1,0 +1,34 @@
+{
+  "video_id": "BQGHIXTD",
+  "video": "BQGHIXTD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cryptic Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Cryptic Mantis",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cryptic Mantis",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cryptic Mantis",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.89,
+          "end": 1.854,
+          "start_frame": 21,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

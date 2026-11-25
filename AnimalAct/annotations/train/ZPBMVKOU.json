@@ -1,0 +1,55 @@
+{
+  "video_id": "ZPBMVKOU",
+  "video": "ZPBMVKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer Young",
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer Young",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer Young",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer Young",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.001,
+          "end": 2.125,
+          "start_frame": 0,
+          "end_frame": 51
+        }
+      ]
+    },
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.45,
+          "end": 2.124,
+          "start_frame": 35,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

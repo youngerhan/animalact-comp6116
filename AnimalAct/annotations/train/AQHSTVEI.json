@@ -1,0 +1,64 @@
+{
+  "video_id": "AQHSTVEI",
+  "video": "AQHSTVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Vanellus Vanellus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Vanellus Vanellus Bird",
+      "Flapping"
+    ],
+    [
+      "Vanellus Vanellus Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Vanellus Vanellus Bird",
+      "Flapping Tail"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Vanellus Vanellus Bird",
+      "Flapping"
+    ],
+    [
+      "Vanellus Vanellus Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Vanellus Vanellus Bird",
+      "Flapping Tail"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Vanellus Vanellus Bird",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.481,
+          "end": 1.571,
+          "start_frame": 12,
+          "end_frame": 38
+        },
+        {
+          "action": "Flapping Tail",
+          "start": 1.733,
+          "end": 3.044,
+          "start_frame": 42,
+          "end_frame": 73
+        },
+        {
+          "action": "Flapping",
+          "start": 2.923,
+          "end": 5.49,
+          "start_frame": 70,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

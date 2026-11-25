@@ -1,0 +1,84 @@
+{
+  "video_id": "JIKMGEUL",
+  "video": "JIKMGEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mozambique Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mozambique Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Mozambique Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mozambique Spitting Cobra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.757,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 0.762,
+          "end": 1.177,
+          "start_frame": 18,
+          "end_frame": 28
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.204,
+          "end": 3.891,
+          "start_frame": 29,
+          "end_frame": 93
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 3.9,
+          "end": 4.241,
+          "start_frame": 94,
+          "end_frame": 102
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.254,
+          "end": 6.106,
+          "start_frame": 102,
+          "end_frame": 147
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 5.945,
+          "end": 6.708,
+          "start_frame": 143,
+          "end_frame": 161
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.429,
+          "end": 6.708,
+          "start_frame": 154,
+          "end_frame": 161
+        }
+      ]
+    }
+  ]
+}

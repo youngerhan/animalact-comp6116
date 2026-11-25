@@ -1,0 +1,34 @@
+{
+  "video_id": "GLKHOVOG",
+  "video": "GLKHOVOG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mojave Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Mojave Rattlesnake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mojave Rattlesnake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mojave Rattlesnake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 1.612,
+          "end": 2.192,
+          "start_frame": 39,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

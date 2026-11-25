@@ -1,0 +1,34 @@
+{
+  "video_id": "OWLVIMCV",
+  "video": "OWLVIMCV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Brown Garden Snail"
+  ],
+  "list_animal_action": [
+    [
+      "Brown Garden Snail",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Brown Garden Snail",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Brown Garden Snail",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "CTOXNCIW",
+  "video": "CTOXNCIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Salticidae Jumping Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Salticidae Jumping Spider",
+      "Moving"
+    ],
+    [
+      "Salticidae Jumping Spider",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Salticidae Jumping Spider",
+      "Moving"
+    ],
+    [
+      "Salticidae Jumping Spider",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Salticidae Jumping Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 4.019,
+          "start_frame": 0,
+          "end_frame": 96
+        },
+        {
+          "action": "Jumping",
+          "start": 3.497,
+          "end": 4.007,
+          "start_frame": 84,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

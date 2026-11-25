@@ -1,0 +1,49 @@
+{
+  "video_id": "VFQLTVKA",
+  "video": "VFQLTVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Shaking"
+    ],
+    [
+      "Common Quail",
+      "Pecking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Shaking"
+    ],
+    [
+      "Common Quail",
+      "Pecking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Shaking",
+          "start": 0.0,
+          "end": 3.719,
+          "start_frame": 0,
+          "end_frame": 89
+        },
+        {
+          "action": "Pecking",
+          "start": 3.094,
+          "end": 3.219,
+          "start_frame": 74,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

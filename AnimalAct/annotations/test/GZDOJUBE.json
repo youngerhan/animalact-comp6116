@@ -1,0 +1,34 @@
+{
+  "video_id": "GZDOJUBE",
+  "video": "GZDOJUBE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cricket"
+  ],
+  "list_animal_action": [
+    [
+      "Cricket",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cricket",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cricket",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.002,
+          "end": 2.221,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

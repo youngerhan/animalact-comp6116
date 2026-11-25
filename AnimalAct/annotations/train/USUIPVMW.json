@@ -1,0 +1,41 @@
+{
+  "video_id": "USUIPVMW",
+  "video": "USUIPVMW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mouse"
+  ],
+  "list_animal_action": [
+    [
+      "Mouse",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mouse",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mouse",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 2.031,
+          "end": 2.223,
+          "start_frame": 49,
+          "end_frame": 53
+        },
+        {
+          "action": "Walking",
+          "start": 4.84,
+          "end": 6.625,
+          "start_frame": 116,
+          "end_frame": 159
+        }
+      ]
+    }
+  ]
+}

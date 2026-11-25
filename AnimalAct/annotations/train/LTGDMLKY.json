@@ -1,0 +1,41 @@
+{
+  "video_id": "LTGDMLKY",
+  "video": "LTGDMLKY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Side Blotched Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Side Blotched Lizard",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Side Blotched Lizard",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Side Blotched Lizard",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.217,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Sensing",
+          "start": 0.984,
+          "end": 1.081,
+          "start_frame": 24,
+          "end_frame": 26
+        }
+      ]
+    }
+  ]
+}

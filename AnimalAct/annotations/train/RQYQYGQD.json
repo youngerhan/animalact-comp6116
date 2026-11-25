@@ -1,0 +1,49 @@
+{
+  "video_id": "RQYQYGQD",
+  "video": "RQYQYGQD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 3.625,
+          "start_frame": 0,
+          "end_frame": 87
+        },
+        {
+          "action": "Moving",
+          "start": 0.125,
+          "end": 1.167,
+          "start_frame": 3,
+          "end_frame": 28
+        }
+      ]
+    }
+  ]
+}

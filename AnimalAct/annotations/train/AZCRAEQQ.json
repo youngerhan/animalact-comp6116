@@ -1,0 +1,49 @@
+{
+  "video_id": "AZCRAEQQ",
+  "video": "AZCRAEQQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grasshopper"
+  ],
+  "list_animal_action": [
+    [
+      "Grasshopper",
+      "Grooming"
+    ],
+    [
+      "Grasshopper",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grasshopper",
+      "Grooming"
+    ],
+    [
+      "Grasshopper",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grasshopper",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 0.052,
+          "end": 3.76,
+          "start_frame": 1,
+          "end_frame": 90
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.76,
+          "end": 4.123,
+          "start_frame": 90,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

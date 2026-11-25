@@ -1,0 +1,49 @@
+{
+  "video_id": "GOGUEBRS",
+  "video": "GOGUEBRS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Apis Mellifera Honey Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Apis Mellifera Honey Bee",
+      "Moving"
+    ],
+    [
+      "Apis Mellifera Honey Bee",
+      "Landing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Apis Mellifera Honey Bee",
+      "Moving"
+    ],
+    [
+      "Apis Mellifera Honey Bee",
+      "Landing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Apis Mellifera Honey Bee",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.01,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Landing",
+          "start": 0.756,
+          "end": 1.11,
+          "start_frame": 18,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

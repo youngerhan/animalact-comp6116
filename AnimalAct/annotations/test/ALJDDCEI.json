@@ -1,0 +1,41 @@
+{
+  "video_id": "ALJDDCEI",
+  "video": "ALJDDCEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Ant",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ant",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.37,
+          "end": 1.493,
+          "start_frame": 9,
+          "end_frame": 36
+        },
+        {
+          "action": "Biting",
+          "start": 1.878,
+          "end": 2.678,
+          "start_frame": 45,
+          "end_frame": 64
+        }
+      ]
+    }
+  ]
+}

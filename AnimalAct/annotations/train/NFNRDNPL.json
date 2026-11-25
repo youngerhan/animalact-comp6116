@@ -1,0 +1,34 @@
+{
+  "video_id": "NFNRDNPL",
+  "video": "NFNRDNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Langur",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Langur",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Langur",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.917,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "VGIYYFPE",
+  "video": "VGIYYFPE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Walking Stick"
+  ],
+  "list_animal_action": [
+    [
+      "Walking Stick",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Walking Stick",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Walking Stick",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.014,
+          "end": 3.501,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

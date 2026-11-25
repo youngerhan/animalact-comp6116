@@ -1,0 +1,34 @@
+{
+  "video_id": "TTOEWXGD",
+  "video": "TTOEWXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wombat"
+  ],
+  "list_animal_action": [
+    [
+      "Wombat",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wombat",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wombat",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

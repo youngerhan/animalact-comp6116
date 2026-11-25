@@ -1,0 +1,78 @@
+{
+  "video_id": "ZIUQANQN",
+  "video": "ZIUQANQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "European Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "European Robin Bird",
+      "Attending"
+    ],
+    [
+      "European Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "European Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "European Robin Bird",
+      "Attending"
+    ],
+    [
+      "European Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "European Robin Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "European Robin Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.125,
+          "start_frame": 0,
+          "end_frame": 3
+        },
+        {
+          "action": "Chirping",
+          "start": 0.125,
+          "end": 4.625,
+          "start_frame": 3,
+          "end_frame": 111
+        },
+        {
+          "action": "Attending",
+          "start": 4.625,
+          "end": 6.875,
+          "start_frame": 111,
+          "end_frame": 165
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.625,
+          "end": 8.417,
+          "start_frame": 111,
+          "end_frame": 202
+        },
+        {
+          "action": "Attending",
+          "start": 7.0,
+          "end": 8.417,
+          "start_frame": 168,
+          "end_frame": 202
+        }
+      ]
+    }
+  ]
+}

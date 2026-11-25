@@ -1,0 +1,49 @@
+{
+  "video_id": "NIDCGFNJ",
+  "video": "NIDCGFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Keeping still"
+    ],
+    [
+      "Iguana",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Keeping still"
+    ],
+    [
+      "Iguana",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.006,
+          "end": 0.323,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Walking",
+          "start": 0.154,
+          "end": 1.707,
+          "start_frame": 4,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

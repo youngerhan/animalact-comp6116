@@ -1,0 +1,48 @@
+{
+  "video_id": "PUCECAEM",
+  "video": "PUCECAEM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lanius Excubitor"
+  ],
+  "list_animal_action": [
+    [
+      "Lanius Excubitor",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lanius Excubitor",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lanius Excubitor",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.25,
+          "start_frame": 0,
+          "end_frame": 6
+        },
+        {
+          "action": "Eating",
+          "start": 1.125,
+          "end": 2.375,
+          "start_frame": 27,
+          "end_frame": 57
+        },
+        {
+          "action": "Eating",
+          "start": 2.75,
+          "end": 4.625,
+          "start_frame": 66,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

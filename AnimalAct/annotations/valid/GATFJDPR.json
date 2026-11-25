@@ -1,0 +1,49 @@
+{
+  "video_id": "GATFJDPR",
+  "video": "GATFJDPR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anteater"
+  ],
+  "list_animal_action": [
+    [
+      "Anteater",
+      "Grooming"
+    ],
+    [
+      "Anteater",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anteater",
+      "Grooming"
+    ],
+    [
+      "Anteater",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anteater",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        },
+        {
+          "action": "Walking",
+          "start": 1.917,
+          "end": 4.5,
+          "start_frame": 46,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

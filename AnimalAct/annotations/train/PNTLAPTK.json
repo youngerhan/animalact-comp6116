@@ -1,0 +1,98 @@
+{
+  "video_id": "PNTLAPTK",
+  "video": "PNTLAPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.167,
+          "start_frame": 0,
+          "end_frame": 4
+        },
+        {
+          "action": "Chirping",
+          "start": 0.167,
+          "end": 1.875,
+          "start_frame": 4,
+          "end_frame": 45
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.875,
+          "end": 3.292,
+          "start_frame": 45,
+          "end_frame": 79
+        },
+        {
+          "action": "Chirping",
+          "start": 3.292,
+          "end": 5.667,
+          "start_frame": 79,
+          "end_frame": 136
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.667,
+          "end": 9.708,
+          "start_frame": 136,
+          "end_frame": 233
+        },
+        {
+          "action": "Chirping",
+          "start": 9.708,
+          "end": 10.583,
+          "start_frame": 233,
+          "end_frame": 254
+        },
+        {
+          "action": "Keeping still",
+          "start": 10.583,
+          "end": 11.417,
+          "start_frame": 254,
+          "end_frame": 274
+        },
+        {
+          "action": "Chirping",
+          "start": 11.417,
+          "end": 13.667,
+          "start_frame": 274,
+          "end_frame": 328
+        },
+        {
+          "action": "Keeping still",
+          "start": 13.667,
+          "end": 15.833,
+          "start_frame": 328,
+          "end_frame": 380
+        }
+      ]
+    }
+  ]
+}

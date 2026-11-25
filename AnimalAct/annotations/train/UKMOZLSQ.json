@@ -1,0 +1,127 @@
+{
+  "video_id": "UKMOZLSQ",
+  "video": "UKMOZLSQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mistle Thrush"
+  ],
+  "list_animal_action": [
+    [
+      "Mistle Thrush",
+      "Keeping still"
+    ],
+    [
+      "Mistle Thrush",
+      "Chirping"
+    ],
+    [
+      "Mistle Thrush",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mistle Thrush",
+      "Keeping still"
+    ],
+    [
+      "Mistle Thrush",
+      "Chirping"
+    ],
+    [
+      "Mistle Thrush",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mistle Thrush",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.892,
+          "start_frame": 0,
+          "end_frame": 21
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.037,
+          "end": 1.709,
+          "start_frame": 25,
+          "end_frame": 41
+        },
+        {
+          "action": "Sensing",
+          "start": 1.724,
+          "end": 2.938,
+          "start_frame": 41,
+          "end_frame": 71
+        },
+        {
+          "action": "Chirping",
+          "start": 1.74,
+          "end": 2.924,
+          "start_frame": 42,
+          "end_frame": 70
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.98,
+          "end": 5.654,
+          "start_frame": 72,
+          "end_frame": 136
+        },
+        {
+          "action": "Sensing",
+          "start": 5.705,
+          "end": 6.875,
+          "start_frame": 137,
+          "end_frame": 165
+        },
+        {
+          "action": "Chirping",
+          "start": 5.729,
+          "end": 6.865,
+          "start_frame": 137,
+          "end_frame": 165
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.913,
+          "end": 8.359,
+          "start_frame": 166,
+          "end_frame": 201
+        },
+        {
+          "action": "Chirping",
+          "start": 8.574,
+          "end": 9.467,
+          "start_frame": 206,
+          "end_frame": 227
+        },
+        {
+          "action": "Keeping still",
+          "start": 9.503,
+          "end": 10.597,
+          "start_frame": 228,
+          "end_frame": 254
+        },
+        {
+          "action": "Chirping",
+          "start": 10.645,
+          "end": 11.376,
+          "start_frame": 255,
+          "end_frame": 273
+        },
+        {
+          "action": "Keeping still",
+          "start": 11.39,
+          "end": 14.525,
+          "start_frame": 273,
+          "end_frame": 349
+        }
+      ]
+    }
+  ]
+}

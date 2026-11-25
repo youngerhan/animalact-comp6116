@@ -1,0 +1,34 @@
+{
+  "video_id": "WNRLYBME",
+  "video": "WNRLYBME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.073,
+          "end": 1.917,
+          "start_frame": 2,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

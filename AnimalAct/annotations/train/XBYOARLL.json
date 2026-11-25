@@ -1,0 +1,34 @@
+{
+  "video_id": "XBYOARLL",
+  "video": "XBYOARLL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Southern Grasshopper Mouse"
+  ],
+  "list_animal_action": [
+    [
+      "Southern Grasshopper Mouse",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Southern Grasshopper Mouse",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Southern Grasshopper Mouse",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.292,
+          "start_frame": 0,
+          "end_frame": 31
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "HXSNQSOB",
+  "video": "HXSNQSOB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nose-Horned Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Nose-Horned Viper",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nose-Horned Viper",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nose-Horned Viper",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.917,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

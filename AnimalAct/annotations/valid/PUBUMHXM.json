@@ -1,0 +1,34 @@
+{
+  "video_id": "PUBUMHXM",
+  "video": "PUBUMHXM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dendroaspis Polylepis Black Mamba"
+  ],
+  "list_animal_action": [
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dendroaspis Polylepis Black Mamba",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dendroaspis Polylepis Black Mamba",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.008,
+          "end": 8.679,
+          "start_frame": 0,
+          "end_frame": 208
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "video_id": "GPPSZAMC",
+  "video": "GPPSZAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Lion Young"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion Young",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Running"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion Young",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Running"
+    ],
+    [
+      "Lion Young",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.357,
+          "start_frame": 0,
+          "end_frame": 57
+        },
+        {
+          "action": "Walking",
+          "start": 2.511,
+          "end": 12.322,
+          "start_frame": 60,
+          "end_frame": 296
+        },
+        {
+          "action": "Running",
+          "start": 10.375,
+          "end": 12.322,
+          "start_frame": 249,
+          "end_frame": 296
+        }
+      ]
+    },
+    {
+      "animal": "Lion Young",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.756,
+          "start_frame": 0,
+          "end_frame": 66
+        },
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 7.801,
+          "start_frame": 0,
+          "end_frame": 187
+        }
+      ]
+    }
+  ]
+}

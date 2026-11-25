@@ -1,0 +1,41 @@
+{
+  "video_id": "CPXYOSBA",
+  "video": "CPXYOSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 2.756,
+          "end": 3.939,
+          "start_frame": 66,
+          "end_frame": 95
+        },
+        {
+          "action": "Sensing",
+          "start": 5.558,
+          "end": 7.902,
+          "start_frame": 133,
+          "end_frame": 190
+        }
+      ]
+    }
+  ]
+}

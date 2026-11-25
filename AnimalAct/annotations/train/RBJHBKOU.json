@@ -1,0 +1,129 @@
+{
+  "video_id": "RBJHBKOU",
+  "video": "RBJHBKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer Young",
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer Young",
+      "Sleeping in its nest"
+    ],
+    [
+      "Yellowhammer Young",
+      "Eating"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ],
+    [
+      "Yellowhammer",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer Young",
+      "Sleeping in its nest"
+    ],
+    [
+      "Yellowhammer Young",
+      "Eating"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ],
+    [
+      "Yellowhammer",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer Young",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.219,
+          "end": 0.344,
+          "start_frame": 5,
+          "end_frame": 8
+        },
+        {
+          "action": "Sleeping in its nest",
+          "start": 2.344,
+          "end": 2.844,
+          "start_frame": 56,
+          "end_frame": 68
+        },
+        {
+          "action": "Sleeping in its nest",
+          "start": 2.969,
+          "end": 13.219,
+          "start_frame": 71,
+          "end_frame": 317
+        },
+        {
+          "action": "Eating",
+          "start": 3.963,
+          "end": 4.818,
+          "start_frame": 95,
+          "end_frame": 116
+        },
+        {
+          "action": "Sensing",
+          "start": 9.969,
+          "end": 10.094,
+          "start_frame": 239,
+          "end_frame": 242
+        }
+      ]
+    },
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.969,
+          "start_frame": 0,
+          "end_frame": 47
+        },
+        {
+          "action": "Sharing Food",
+          "start": 0.0,
+          "end": 1.969,
+          "start_frame": 0,
+          "end_frame": 47
+        },
+        {
+          "action": "Walking",
+          "start": 1.719,
+          "end": 2.094,
+          "start_frame": 41,
+          "end_frame": 50
+        }
+      ]
+    }
+  ]
+}

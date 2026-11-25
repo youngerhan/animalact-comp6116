@@ -1,0 +1,34 @@
+{
+  "video_id": "HCLFBXYT",
+  "video": "HCLFBXYT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Standing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Standing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Standing",
+          "start": 0.343,
+          "end": 0.708,
+          "start_frame": 8,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

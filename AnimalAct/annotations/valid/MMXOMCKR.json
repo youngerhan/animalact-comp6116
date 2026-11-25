@@ -1,0 +1,34 @@
+{
+  "video_id": "MMXOMCKR",
+  "video": "MMXOMCKR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "European Serin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "European Serin Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "European Serin Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "European Serin Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "IBBMNUHU",
+  "video": "IBBMNUHU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bluethroat"
+  ],
+  "list_animal_action": [
+    [
+      "Bluethroat",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bluethroat",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bluethroat",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 1.831,
+          "end": 4.917,
+          "start_frame": 44,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

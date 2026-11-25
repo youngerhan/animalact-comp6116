@@ -1,0 +1,49 @@
+{
+  "video_id": "QTQUGUDI",
+  "video": "QTQUGUDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Robin Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Robin Bird",
+      "Keeping still"
+    ],
+    [
+      "Robin Bird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Robin Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.238,
+          "end": 1.717,
+          "start_frame": 6,
+          "end_frame": 41
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.239,
+          "end": 1.721,
+          "start_frame": 6,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

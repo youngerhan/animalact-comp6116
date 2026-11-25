@@ -1,0 +1,129 @@
+{
+  "video_id": "ZNPCRJVY",
+  "video": "ZNPCRJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Shaking"
+    ],
+    [
+      "Goldfinch",
+      "Preening"
+    ],
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Flying"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Shaking"
+    ],
+    [
+      "Goldfinch",
+      "Preening"
+    ],
+    [
+      "Goldfinch",
+      "Flapping"
+    ],
+    [
+      "Goldfinch",
+      "Flying"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Shaking",
+          "start": 0.0,
+          "end": 0.583,
+          "start_frame": 0,
+          "end_frame": 14
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 8.833,
+          "start_frame": 0,
+          "end_frame": 212
+        },
+        {
+          "action": "Preening",
+          "start": 0.667,
+          "end": 2.875,
+          "start_frame": 16,
+          "end_frame": 69
+        },
+        {
+          "action": "Flapping",
+          "start": 2.417,
+          "end": 2.958,
+          "start_frame": 58,
+          "end_frame": 71
+        },
+        {
+          "action": "Shaking",
+          "start": 3.083,
+          "end": 3.667,
+          "start_frame": 74,
+          "end_frame": 88
+        },
+        {
+          "action": "Preening",
+          "start": 4.167,
+          "end": 5.667,
+          "start_frame": 100,
+          "end_frame": 136
+        },
+        {
+          "action": "Shaking",
+          "start": 5.75,
+          "end": 7.208,
+          "start_frame": 138,
+          "end_frame": 173
+        },
+        {
+          "action": "Flapping",
+          "start": 6.167,
+          "end": 7.083,
+          "start_frame": 148,
+          "end_frame": 170
+        },
+        {
+          "action": "Flapping",
+          "start": 8.125,
+          "end": 8.375,
+          "start_frame": 195,
+          "end_frame": 201
+        },
+        {
+          "action": "Flying",
+          "start": 8.125,
+          "end": 8.375,
+          "start_frame": 195,
+          "end_frame": 201
+        }
+      ]
+    }
+  ]
+}

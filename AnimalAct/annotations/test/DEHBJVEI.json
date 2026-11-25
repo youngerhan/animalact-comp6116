@@ -1,0 +1,108 @@
+{
+  "video_id": "DEHBJVEI",
+  "video": "DEHBJVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Erythropus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Erythropus Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Defecating"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Erythropus Bird",
+      "Walking"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Defecating"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Eating"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Erythropus Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Erythropus Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.638,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.066,
+          "end": 2.197,
+          "start_frame": 2,
+          "end_frame": 53
+        },
+        {
+          "action": "Attending",
+          "start": 0.072,
+          "end": 2.201,
+          "start_frame": 2,
+          "end_frame": 53
+        },
+        {
+          "action": "Defecating",
+          "start": 0.313,
+          "end": 0.527,
+          "start_frame": 8,
+          "end_frame": 13
+        },
+        {
+          "action": "Walking",
+          "start": 1.566,
+          "end": 2.767,
+          "start_frame": 38,
+          "end_frame": 66
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.886,
+          "end": 3.332,
+          "start_frame": 69,
+          "end_frame": 80
+        },
+        {
+          "action": "Attending",
+          "start": 2.888,
+          "end": 3.33,
+          "start_frame": 69,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

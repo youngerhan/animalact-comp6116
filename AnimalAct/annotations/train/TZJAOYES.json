@@ -1,0 +1,34 @@
+{
+  "video_id": "TZJAOYES",
+  "video": "TZJAOYES.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Strawberry Poison-Dart Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Strawberry Poison-Dart Frog",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Strawberry Poison-Dart Frog",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Strawberry Poison-Dart Frog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 1.469,
+          "end": 2.012,
+          "start_frame": 35,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

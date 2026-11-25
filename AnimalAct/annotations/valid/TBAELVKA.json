@@ -1,0 +1,63 @@
+{
+  "video_id": "TBAELVKA",
+  "video": "TBAELVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Attending"
+    ],
+    [
+      "Common Quail",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Attending"
+    ],
+    [
+      "Common Quail",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.859,
+          "end": 4.424,
+          "start_frame": 21,
+          "end_frame": 106
+        },
+        {
+          "action": "Attending",
+          "start": 4.555,
+          "end": 5.13,
+          "start_frame": 109,
+          "end_frame": 123
+        },
+        {
+          "action": "Running",
+          "start": 5.214,
+          "end": 5.624,
+          "start_frame": 125,
+          "end_frame": 135
+        },
+        {
+          "action": "Attending",
+          "start": 6.335,
+          "end": 7.498,
+          "start_frame": 152,
+          "end_frame": 180
+        }
+      ]
+    }
+  ]
+}

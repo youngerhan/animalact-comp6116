@@ -1,0 +1,55 @@
+{
+  "video_id": "JKYVJDSN",
+  "video": "JKYVJDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Buffalo",
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Buffalo",
+      "Walking"
+    ],
+    [
+      "Wolf",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Buffalo",
+      "Walking"
+    ],
+    [
+      "Wolf",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Buffalo",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 4.91,
+          "start_frame": 0,
+          "end_frame": 118
+        }
+      ]
+    },
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.002,
+          "end": 4.912,
+          "start_frame": 0,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

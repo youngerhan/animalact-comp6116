@@ -1,0 +1,99 @@
+{
+  "video_id": "XKRVINQN",
+  "video": "XKRVINQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Whinchat Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Whinchat Bird",
+      "Attending"
+    ],
+    [
+      "Whinchat Bird",
+      "Chirping"
+    ],
+    [
+      "Whinchat Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Whinchat Bird",
+      "Attending"
+    ],
+    [
+      "Whinchat Bird",
+      "Chirping"
+    ],
+    [
+      "Whinchat Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Whinchat Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 1.311,
+          "start_frame": 0,
+          "end_frame": 31
+        },
+        {
+          "action": "Attending",
+          "start": 1.314,
+          "end": 1.936,
+          "start_frame": 32,
+          "end_frame": 46
+        },
+        {
+          "action": "Sensing",
+          "start": 1.944,
+          "end": 2.384,
+          "start_frame": 47,
+          "end_frame": 57
+        },
+        {
+          "action": "Attending",
+          "start": 2.382,
+          "end": 3.189,
+          "start_frame": 57,
+          "end_frame": 77
+        },
+        {
+          "action": "Chirping",
+          "start": 3.224,
+          "end": 4.809,
+          "start_frame": 77,
+          "end_frame": 115
+        },
+        {
+          "action": "Attending",
+          "start": 4.825,
+          "end": 5.329,
+          "start_frame": 116,
+          "end_frame": 128
+        },
+        {
+          "action": "Sensing",
+          "start": 5.324,
+          "end": 5.495,
+          "start_frame": 128,
+          "end_frame": 132
+        },
+        {
+          "action": "Attending",
+          "start": 5.498,
+          "end": 5.833,
+          "start_frame": 132,
+          "end_frame": 140
+        }
+      ]
+    }
+  ]
+}

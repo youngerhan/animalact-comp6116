@@ -1,0 +1,119 @@
+{
+  "video_id": "NAFDZPTK",
+  "video": "NAFDZPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.0
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.0,
+          "end": 6.1
+        },
+        {
+          "action": "Chirping",
+          "start": 6.1,
+          "end": 7.5
+        },
+        {
+          "action": "Sensing",
+          "start": 7.5,
+          "end": 10.7
+        },
+        {
+          "action": "Chirping",
+          "start": 10.7,
+          "end": 12.5
+        },
+        {
+          "action": "Keeping still",
+          "start": 12.5,
+          "end": 19.9
+        },
+        {
+          "action": "Chirping",
+          "start": 19.9,
+          "end": 20.7
+        },
+        {
+          "action": "Keeping still",
+          "start": 20.7,
+          "end": 24.9
+        },
+        {
+          "action": "Chirping",
+          "start": 24.9,
+          "end": 26.6
+        },
+        {
+          "action": "Preening",
+          "start": 26.6,
+          "end": 29.8
+        },
+        {
+          "action": "Attending",
+          "start": 29.8,
+          "end": 33.0
+        },
+        {
+          "action": "Chirping",
+          "start": 33.0,
+          "end": 36.92
+        }
+      ]
+    }
+  ]
+}

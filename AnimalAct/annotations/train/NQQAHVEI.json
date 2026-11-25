@@ -1,0 +1,211 @@
+{
+  "video_id": "NQQAHVEI",
+  "video": "NQQAHVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gallinago Gallinago Bird",
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Gallinago Gallinago Bird",
+      "Walking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Preening"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Flapping Tail"
+    ],
+    [
+      "Duck",
+      "Preening"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Doing A Neck Raise"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Flapping"
+    ],
+    [
+      "Duck",
+      "Eating"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Sensing"
+    ],
+    [
+      "Duck",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gallinago Gallinago Bird",
+      "Walking"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Preening"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Doing A Face Dip"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Flapping Tail"
+    ],
+    [
+      "Duck",
+      "Preening"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Doing A Neck Raise"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ],
+    [
+      "Duck",
+      "Flapping"
+    ],
+    [
+      "Duck",
+      "Eating"
+    ],
+    [
+      "Gallinago Gallinago Bird",
+      "Sensing"
+    ],
+    [
+      "Duck",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gallinago Gallinago Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.625,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.5,
+          "end": 0.75,
+          "start_frame": 12,
+          "end_frame": 18
+        },
+        {
+          "action": "Doing A Neck Raise",
+          "start": 0.5,
+          "end": 0.875,
+          "start_frame": 12,
+          "end_frame": 21
+        },
+        {
+          "action": "Eating",
+          "start": 0.875,
+          "end": 1.5,
+          "start_frame": 21,
+          "end_frame": 36
+        },
+        {
+          "action": "Walking",
+          "start": 1.0,
+          "end": 2.5,
+          "start_frame": 24,
+          "end_frame": 60
+        },
+        {
+          "action": "Sensing",
+          "start": 1.5,
+          "end": 2.375,
+          "start_frame": 36,
+          "end_frame": 57
+        },
+        {
+          "action": "Eating",
+          "start": 2.125,
+          "end": 2.75,
+          "start_frame": 51,
+          "end_frame": 66
+        },
+        {
+          "action": "Preening",
+          "start": 2.5,
+          "end": 4.25,
+          "start_frame": 60,
+          "end_frame": 102
+        },
+        {
+          "action": "Flapping Tail",
+          "start": 3.75,
+          "end": 4.375,
+          "start_frame": 90,
+          "end_frame": 105
+        },
+        {
+          "action": "Eating",
+          "start": 3.75,
+          "end": 4.625,
+          "start_frame": 90,
+          "end_frame": 111
+        }
+      ]
+    },
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        },
+        {
+          "action": "Eating",
+          "start": 0.958,
+          "end": 1.708,
+          "start_frame": 23,
+          "end_frame": 41
+        },
+        {
+          "action": "Flapping",
+          "start": 2.25,
+          "end": 2.75,
+          "start_frame": 54,
+          "end_frame": 66
+        },
+        {
+          "action": "Sensing",
+          "start": 3.5,
+          "end": 4.0,
+          "start_frame": 84,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

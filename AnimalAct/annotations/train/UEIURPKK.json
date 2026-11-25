@@ -1,0 +1,130 @@
+{
+  "video_id": "UEIURPKK",
+  "video": "UEIURPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Falling"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Falling"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Falling",
+          "start": 0.0,
+          "end": 0.75,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.75,
+          "end": 2.75,
+          "start_frame": 18,
+          "end_frame": 66
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.125,
+          "end": 1.625,
+          "start_frame": 27,
+          "end_frame": 39
+        },
+        {
+          "action": "Sensing",
+          "start": 1.75,
+          "end": 2.75,
+          "start_frame": 42,
+          "end_frame": 66
+        },
+        {
+          "action": "Walking",
+          "start": 2.75,
+          "end": 8.625,
+          "start_frame": 66,
+          "end_frame": 207
+        },
+        {
+          "action": "Sensing",
+          "start": 4.125,
+          "end": 4.75,
+          "start_frame": 99,
+          "end_frame": 114
+        },
+        {
+          "action": "Shaking Head",
+          "start": 6.5,
+          "end": 6.875,
+          "start_frame": 156,
+          "end_frame": 165
+        },
+        {
+          "action": "Drinking",
+          "start": 6.625,
+          "end": 7.75,
+          "start_frame": 159,
+          "end_frame": 186
+        },
+        {
+          "action": "Shaking Head",
+          "start": 7.5,
+          "end": 7.875,
+          "start_frame": 180,
+          "end_frame": 189
+        }
+      ]
+    }
+  ]
+}

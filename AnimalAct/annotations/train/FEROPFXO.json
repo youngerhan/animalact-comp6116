@@ -1,0 +1,63 @@
+{
+  "video_id": "FEROPFXO",
+  "video": "FEROPFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Washing"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Washing"
+    ],
+    [
+      "Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.62,
+          "start_frame": 0,
+          "end_frame": 15
+        },
+        {
+          "action": "Washing",
+          "start": 0.0,
+          "end": 0.665,
+          "start_frame": 0,
+          "end_frame": 16
+        },
+        {
+          "action": "Washing",
+          "start": 0.748,
+          "end": 2.084,
+          "start_frame": 18,
+          "end_frame": 50
+        },
+        {
+          "action": "Sensing",
+          "start": 1.156,
+          "end": 2.125,
+          "start_frame": 28,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

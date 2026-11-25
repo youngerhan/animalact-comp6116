@@ -1,0 +1,34 @@
+{
+  "video_id": "RXSWMHVR",
+  "video": "RXSWMHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dice Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dice Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dice Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dice Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 7.917,
+          "start_frame": 0,
+          "end_frame": 190
+        }
+      ]
+    }
+  ]
+}

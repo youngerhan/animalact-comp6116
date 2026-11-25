@@ -1,0 +1,49 @@
+{
+  "video_id": "SKIKHUXS",
+  "video": "SKIKHUXS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Necked Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Black Necked Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Necked Spitting Cobra",
+      "Spitting Venom"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Necked Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.37,
+          "end": 1.691,
+          "start_frame": 33,
+          "end_frame": 41
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 2.039,
+          "end": 2.415,
+          "start_frame": 49,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

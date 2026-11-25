@@ -1,0 +1,49 @@
+{
+  "video_id": "ZFMROSVW",
+  "video": "ZFMROSVW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Halyomorpha Halys"
+  ],
+  "list_animal_action": [
+    [
+      "Halyomorpha Halys",
+      "Keeping still"
+    ],
+    [
+      "Halyomorpha Halys",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Halyomorpha Halys",
+      "Keeping still"
+    ],
+    [
+      "Halyomorpha Halys",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Halyomorpha Halys",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.417,
+          "start_frame": 0,
+          "end_frame": 58
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.417,
+          "start_frame": 0,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

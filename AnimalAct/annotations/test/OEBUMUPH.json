@@ -1,0 +1,45 @@
+{
+  "video_id": "OEBUMUPH",
+  "video": "OEBUMUPH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Nuthatch Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Nuthatch Bird",
+      "Sensing"
+    ],
+    [
+      "Nuthatch Bird",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Nuthatch Bird",
+      "Sensing"
+    ],
+    [
+      "Nuthatch Bird",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Nuthatch Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.95
+        },
+        {
+          "action": "Jumping",
+          "start": 1.35,
+          "end": 1.71
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "OARHBHIS",
+  "video": "OARHBHIS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Big Headed Ant",
+    "Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Big Headed Ant",
+      "Moving"
+    ],
+    [
+      "Caterpillar",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Big Headed Ant",
+      "Moving"
+    ],
+    [
+      "Caterpillar",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Big Headed Ant",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.083,
+          "end": 1.0,
+          "start_frame": 2,
+          "end_frame": 24
+        }
+      ]
+    },
+    {
+      "animal": "Caterpillar",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

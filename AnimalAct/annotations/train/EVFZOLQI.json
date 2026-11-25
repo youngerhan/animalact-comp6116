@@ -1,0 +1,49 @@
+{
+  "video_id": "EVFZOLQI",
+  "video": "EVFZOLQI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Barking Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Barking Deer",
+      "Grooming"
+    ],
+    [
+      "Barking Deer",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Barking Deer",
+      "Grooming"
+    ],
+    [
+      "Barking Deer",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Barking Deer",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.292,
+          "end": 1.458,
+          "start_frame": 7,
+          "end_frame": 35
+        },
+        {
+          "action": "Grooming",
+          "start": 1.792,
+          "end": 3.208,
+          "start_frame": 43,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

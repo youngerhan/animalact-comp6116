@@ -1,0 +1,41 @@
+{
+  "video_id": "PNLPQHVR",
+  "video": "PNLPQHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "King Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "King Cobra",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "King Cobra",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "King Cobra",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.594,
+          "end": 0.969,
+          "start_frame": 14,
+          "end_frame": 23
+        },
+        {
+          "action": "Eating",
+          "start": 1.094,
+          "end": 18.844,
+          "start_frame": 26,
+          "end_frame": 452
+        }
+      ]
+    }
+  ]
+}

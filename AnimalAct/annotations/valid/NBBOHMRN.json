@@ -1,0 +1,100 @@
+{
+  "video_id": "NBBOHMRN",
+  "video": "NBBOHMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe",
+    "Mallard Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Doing A Face Dip"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ],
+    [
+      "Mallard Duck",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Shaking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Doing A Face Dip"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ],
+    [
+      "Mallard Duck",
+      "Preening"
+    ],
+    [
+      "Common Snipe",
+      "Shaking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.292,
+          "end": 1.417,
+          "start_frame": 7,
+          "end_frame": 34
+        },
+        {
+          "action": "Doing A Face Dip",
+          "start": 1.042,
+          "end": 1.333,
+          "start_frame": 25,
+          "end_frame": 32
+        },
+        {
+          "action": "Shaking",
+          "start": 1.292,
+          "end": 1.417,
+          "start_frame": 31,
+          "end_frame": 34
+        }
+      ]
+    },
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.333,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Preening",
+          "start": 0.208,
+          "end": 1.417,
+          "start_frame": 5,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

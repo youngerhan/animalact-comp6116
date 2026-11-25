@@ -1,0 +1,41 @@
+{
+  "video_id": "AGILWBQT",
+  "video": "AGILWBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greater Racket Tail Drongo"
+  ],
+  "list_animal_action": [
+    [
+      "Greater Racket Tail Drongo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greater Racket Tail Drongo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greater Racket Tail Drongo",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.154,
+          "end": 1.738,
+          "start_frame": 4,
+          "end_frame": 42
+        },
+        {
+          "action": "Sensing",
+          "start": 2.092,
+          "end": 2.745,
+          "start_frame": 50,
+          "end_frame": 66
+        }
+      ]
+    }
+  ]
+}

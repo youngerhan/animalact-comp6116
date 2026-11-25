@@ -1,0 +1,47 @@
+{
+  "video_id": "RIBYTDSN",
+  "video": "RIBYTDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Buffalo",
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Buffalo",
+      "Fighting"
+    ],
+    [
+      "Wolf",
+      "Biting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Buffalo",
+      "Fighting"
+    ],
+    [
+      "Wolf",
+      "Biting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Buffalo",
+      "actions": []
+    },
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.008,
+          "end": 6.625,
+          "start_frame": 0,
+          "end_frame": 159
+        }
+      ]
+    }
+  ]
+}

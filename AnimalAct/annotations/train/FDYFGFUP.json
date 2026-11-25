@@ -1,0 +1,71 @@
+{
+  "video_id": "FDYFGFUP",
+  "video": "FDYFGFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Moving"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.013,
+          "end": 1.569,
+          "start_frame": 0,
+          "end_frame": 38
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.578,
+          "end": 9.215,
+          "start_frame": 38,
+          "end_frame": 221
+        },
+        {
+          "action": "Moving",
+          "start": 9.241,
+          "end": 13.078,
+          "start_frame": 222,
+          "end_frame": 314
+        },
+        {
+          "action": "Attending",
+          "start": 13.078,
+          "end": 14.125,
+          "start_frame": 314,
+          "end_frame": 339
+        }
+      ]
+    }
+  ]
+}

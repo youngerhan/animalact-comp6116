@@ -1,0 +1,85 @@
+{
+  "video_id": "ZRKEMPTK",
+  "video": "ZRKEMPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 20.094,
+          "start_frame": 0,
+          "end_frame": 482
+        },
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 20.219,
+          "start_frame": 0,
+          "end_frame": 485
+        },
+        {
+          "action": "Sensing",
+          "start": 0.009,
+          "end": 0.33,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Sensing",
+          "start": 7.002,
+          "end": 10.543,
+          "start_frame": 168,
+          "end_frame": 253
+        },
+        {
+          "action": "Sensing",
+          "start": 14.03,
+          "end": 16.849,
+          "start_frame": 337,
+          "end_frame": 404
+        },
+        {
+          "action": "Sensing",
+          "start": 19.607,
+          "end": 20.422,
+          "start_frame": 471,
+          "end_frame": 490
+        }
+      ]
+    }
+  ]
+}

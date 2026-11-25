@@ -1,0 +1,34 @@
+{
+  "video_id": "GLSHOTKX",
+  "video": "GLSHOTKX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfinch",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfinch",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfinch",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.844,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

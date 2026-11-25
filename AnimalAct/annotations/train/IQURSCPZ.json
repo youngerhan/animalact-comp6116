@@ -1,0 +1,49 @@
+{
+  "video_id": "IQURSCPZ",
+  "video": "IQURSCPZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Marine Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Marine Iguana",
+      "Walking"
+    ],
+    [
+      "Marine Iguana",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Marine Iguana",
+      "Walking"
+    ],
+    [
+      "Marine Iguana",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Marine Iguana",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.159,
+          "start_frame": 0,
+          "end_frame": 4
+        },
+        {
+          "action": "Walking",
+          "start": 0.159,
+          "end": 4.52,
+          "start_frame": 4,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

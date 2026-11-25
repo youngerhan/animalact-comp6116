@@ -1,0 +1,49 @@
+{
+  "video_id": "FLTWPJVY",
+  "video": "FLTWPJVY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goldfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Goldfinch",
+      "Flying"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goldfinch",
+      "Flying"
+    ],
+    [
+      "Goldfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goldfinch",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.009,
+          "end": 4.52,
+          "start_frame": 0,
+          "end_frame": 108
+        },
+        {
+          "action": "Eating",
+          "start": 0.021,
+          "end": 4.52,
+          "start_frame": 1,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

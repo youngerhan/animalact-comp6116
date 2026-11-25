@@ -1,0 +1,34 @@
+{
+  "video_id": "XCROJGHE",
+  "video": "XCROJGHE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sea Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Sea Turtle",
+      "Digging"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sea Turtle",
+      "Digging"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sea Turtle",
+      "actions": [
+        {
+          "action": "Digging",
+          "start": 0.013,
+          "end": 11.0,
+          "start_frame": 0,
+          "end_frame": 264
+        }
+      ]
+    }
+  ]
+}

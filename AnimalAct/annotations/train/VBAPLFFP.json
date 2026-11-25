@@ -1,0 +1,34 @@
+{
+  "video_id": "VBAPLFFP",
+  "video": "VBAPLFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.0,
+          "end": 2.926,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

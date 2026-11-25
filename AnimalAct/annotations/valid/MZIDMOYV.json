@@ -1,0 +1,70 @@
+{
+  "video_id": "MZIDMOYV",
+  "video": "MZIDMOYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Argentine Ant",
+    "Harvester Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Argentine Ant",
+      "Biting"
+    ],
+    [
+      "Argentine Ant",
+      "Moving"
+    ],
+    [
+      "Harvester Ant",
+      "Retaliating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Argentine Ant",
+      "Biting"
+    ],
+    [
+      "Argentine Ant",
+      "Moving"
+    ],
+    [
+      "Harvester Ant",
+      "Retaliating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Argentine Ant",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 2.717,
+          "start_frame": 0,
+          "end_frame": 65
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.717,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    },
+    {
+      "animal": "Harvester Ant",
+      "actions": [
+        {
+          "action": "Retaliating",
+          "start": 0.0,
+          "end": 2.717,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

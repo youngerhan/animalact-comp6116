@@ -1,0 +1,55 @@
+{
+  "video_id": "DXGMSXXP",
+  "video": "DXGMSXXP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turret Spider",
+    "Insect"
+  ],
+  "list_animal_action": [
+    [
+      "Turret Spider",
+      "Attacking"
+    ],
+    [
+      "Insect",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turret Spider",
+      "Attacking"
+    ],
+    [
+      "Insect",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turret Spider",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.119,
+          "end": 1.071,
+          "start_frame": 3,
+          "end_frame": 26
+        }
+      ]
+    },
+    {
+      "animal": "Insect",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.286,
+          "end": 1.709,
+          "start_frame": 7,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

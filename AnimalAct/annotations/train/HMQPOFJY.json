@@ -1,0 +1,34 @@
+{
+  "video_id": "HMQPOFJY",
+  "video": "HMQPOFJY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cryptic Mantis"
+  ],
+  "list_animal_action": [
+    [
+      "Cryptic Mantis",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cryptic Mantis",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cryptic Mantis",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.747,
+          "end": 4.023,
+          "start_frame": 18,
+          "end_frame": 97
+        }
+      ]
+    }
+  ]
+}

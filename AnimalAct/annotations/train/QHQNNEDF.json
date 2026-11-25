@@ -1,0 +1,34 @@
+{
+  "video_id": "QHQNNEDF",
+  "video": "QHQNNEDF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chelonia Mydas Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Chelonia Mydas Turtle",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chelonia Mydas Turtle",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chelonia Mydas Turtle",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.008,
+          "end": 2.312,
+          "start_frame": 0,
+          "end_frame": 55
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "video_id": "GGBEHSOB",
+  "video": "GGBEHSOB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Montpellier Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Montpellier Snake",
+      "Moving"
+    ],
+    [
+      "Montpellier Snake",
+      "Keeping still"
+    ],
+    [
+      "Montpellier Snake",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Montpellier Snake",
+      "Moving"
+    ],
+    [
+      "Montpellier Snake",
+      "Keeping still"
+    ],
+    [
+      "Montpellier Snake",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Montpellier Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.107,
+          "start_frame": 0,
+          "end_frame": 27
+        },
+        {
+          "action": "Attending",
+          "start": 1.121,
+          "end": 5.597,
+          "start_frame": 27,
+          "end_frame": 134
+        },
+        {
+          "action": "Moving",
+          "start": 5.603,
+          "end": 6.482,
+          "start_frame": 134,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

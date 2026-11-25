@@ -1,0 +1,34 @@
+{
+  "video_id": "VVXRVMRN",
+  "video": "VVXRVMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.208,
+          "start_frame": 0,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

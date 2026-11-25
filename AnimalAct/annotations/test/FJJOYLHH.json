@@ -1,0 +1,64 @@
+{
+  "video_id": "FJJOYLHH",
+  "video": "FJJOYLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Keeping still"
+    ],
+    [
+      "Frog",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Keeping still"
+    ],
+    [
+      "Frog",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 2.344,
+          "start_frame": 0,
+          "end_frame": 56
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.344,
+          "start_frame": 0,
+          "end_frame": 56
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.126,
+          "end": 2.344,
+          "start_frame": 51,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

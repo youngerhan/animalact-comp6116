@@ -1,0 +1,25 @@
+﻿error,video,start_frame,end_frame_exclusive,class,score,annotated_actions
+false_positive,AnimalAct\videos\test\YYLMUTFT.mp4,643,776,Drinking,0.9992240071296692,Displaying Defensive Pose | Disturbing Another Animal | Fighting | Sensing
+false_positive,AnimalAct\videos\test\YYLMUTFT.mp4,645,774,Drinking,0.9991392493247986,Displaying Defensive Pose | Disturbing Another Animal | Fighting | Sensing
+false_positive,AnimalAct\videos\test\JWXOFDFS.mp4,0,255,Moving,0.9977013468742371,Keeping still
+false_positive,AnimalAct\videos\test\DGIOHADM.mp4,0,332,Moving,0.991230845451355,Disturbing Another Animal
+false_positive,AnimalAct\videos\test\BFWTXDAL.mp4,0,89,Swimming,0.9907797574996948,Doing A Face Dip | Keeping still
+false_positive,AnimalAct\videos\test\OLFVKTFT.mp4,511,600,Drinking,0.9900283813476562,Displaying Defensive Pose | Disturbing Another Animal | Fighting
+false_positive,AnimalAct\videos\test\BFWTXDAL.mp4,0,44,Swimming,0.9900113344192505,Doing A Face Dip | Keeping still
+false_positive,AnimalAct\videos\test\BFWTXDAL.mp4,46,89,Swimming,0.9886065721511841,Doing A Face Dip | Keeping still
+false_positive,AnimalAct\videos\test\BFWTXDAL.mp4,24,56,Swimming,0.9847936034202576,Doing A Face Dip | Eating | Keeping still | Shaking Head
+false_positive,AnimalAct\videos\test\GKNLQRGE.mp4,0,48,Swimming,0.9834058880805969,Moving
+false_positive,AnimalAct\videos\test\BFWTXDAL.mp4,35,86,Swimming,0.979987621307373,Doing A Face Dip | Keeping still
+false_positive,AnimalAct\videos\test\NAFDZPTK.mp4,638,715,Chirping,0.9768717885017395,Preening
+false_negative,AnimalAct\videos\test\WDKQOXDO.mp4,0,46,Disturbing Another Animal,1.8682374502532184e-05,Disturbing Another Animal | Fighting
+false_negative,AnimalAct\videos\test\TEGUAADX.mp4,0,11,Shaking,2.0150850104982965e-05,Shaking
+false_negative,AnimalAct\videos\test\QQYNYKEW.mp4,16,29,Fighting,3.305982318124734e-05,Fighting
+false_negative,AnimalAct\videos\test\XFWAJZJZ.mp4,330,348,Shaking,3.548201493686065e-05,Sensing | Shaking
+false_negative,AnimalAct\videos\test\XAKTTXGD.mp4,92,95,Shaking,8.93911492312327e-05,Eating | Shaking | Turning Around
+false_negative,AnimalAct\videos\test\IPGQAHSA.mp4,6,23,Flying,0.0001069723439286463,Attending | Flying
+false_negative,AnimalAct\videos\test\TXOFDSBA.mp4,0,8,Displaying Defensive Pose,0.00018419268599245697,Displaying Defensive Pose
+false_negative,AnimalAct\videos\test\YGLBBFAU.mp4,0,113,Biting,0.00022242614068090916,Biting | Moving
+false_negative,AnimalAct\videos\test\UBTQUHDU.mp4,0,22,Carrying In Mouth,0.0002510238264221698,Carrying In Mouth
+false_negative,AnimalAct\videos\test\DFFYSWBO.mp4,90,96,Eating,0.0003917988215107471,Eating | Walking
+false_negative,AnimalAct\videos\test\DFFYSWBO.mp4,63,70,Carrying In Mouth,0.00041076881461776793,Carrying In Mouth | Eating | Sensing
+false_negative,AnimalAct\videos\test\XAKTTXGD.mp4,0,104,Shaking,0.0004410763212945312,Eating | Shaking

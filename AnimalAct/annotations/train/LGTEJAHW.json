@@ -1,0 +1,34 @@
+{
+  "video_id": "LGTEJAHW",
+  "video": "LGTEJAHW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Green Bottle Fly"
+  ],
+  "list_animal_action": [
+    [
+      "Green Bottle Fly",
+      "Grooming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Green Bottle Fly",
+      "Grooming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Green Bottle Fly",
+      "actions": [
+        {
+          "action": "Grooming",
+          "start": 0.0,
+          "end": 10.214,
+          "start_frame": 0,
+          "end_frame": 245
+        }
+      ]
+    }
+  ]
+}

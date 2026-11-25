@@ -1,0 +1,55 @@
+{
+  "video_id": "EURHMNPO",
+  "video": "EURHMNPO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion",
+    "Hyena"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Turning Around"
+    ],
+    [
+      "Hyena",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Turning Around"
+    ],
+    [
+      "Hyena",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Turning Around",
+          "start": 1.583,
+          "end": 2.125,
+          "start_frame": 38,
+          "end_frame": 51
+        }
+      ]
+    },
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 1.042,
+          "end": 2.125,
+          "start_frame": 25,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

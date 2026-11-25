@@ -1,0 +1,34 @@
+{
+  "video_id": "ZNRVZHGA",
+  "video": "ZNRVZHGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Meerkat"
+  ],
+  "list_animal_action": [
+    [
+      "Meerkat",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Meerkat",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Meerkat",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.359,
+          "end": 1.602,
+          "start_frame": 9,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

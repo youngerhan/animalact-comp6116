@@ -1,0 +1,34 @@
+{
+  "video_id": "DPBTNNQN",
+  "video": "DPBTNNQN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sedge Warbler Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Sedge Warbler Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sedge Warbler Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sedge Warbler Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.625,
+          "start_frame": 0,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

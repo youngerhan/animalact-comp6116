@@ -1,0 +1,34 @@
+{
+  "video_id": "QZPOSBQT",
+  "video": "QZPOSBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Bee",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bee",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bee",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.917,
+          "end": 1.125,
+          "start_frame": 22,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

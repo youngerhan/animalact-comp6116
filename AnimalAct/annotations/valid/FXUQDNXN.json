@@ -1,0 +1,64 @@
+{
+  "video_id": "FXUQDNXN",
+  "video": "FXUQDNXN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sea Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Sea Otter",
+      "Swimming"
+    ],
+    [
+      "Sea Otter",
+      "Drifting"
+    ],
+    [
+      "Sea Otter",
+      "Rolling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sea Otter",
+      "Swimming"
+    ],
+    [
+      "Sea Otter",
+      "Drifting"
+    ],
+    [
+      "Sea Otter",
+      "Rolling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sea Otter",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 10.625,
+          "start_frame": 0,
+          "end_frame": 255
+        },
+        {
+          "action": "Rolling",
+          "start": 5.052,
+          "end": 7.511,
+          "start_frame": 121,
+          "end_frame": 180
+        },
+        {
+          "action": "Drifting",
+          "start": 7.75,
+          "end": 10.625,
+          "start_frame": 186,
+          "end_frame": 255
+        }
+      ]
+    }
+  ]
+}

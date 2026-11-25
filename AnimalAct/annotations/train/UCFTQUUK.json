@@ -1,0 +1,90 @@
+{
+  "video_id": "UCFTQUUK",
+  "video": "UCFTQUUK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Green Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Green Woodpecker",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Green Woodpecker",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Green Woodpecker",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.375,
+          "end": 2.75,
+          "start_frame": 9,
+          "end_frame": 66
+        },
+        {
+          "action": "Chirping",
+          "start": 13.375,
+          "end": 14.0,
+          "start_frame": 321,
+          "end_frame": 336
+        },
+        {
+          "action": "Chirping",
+          "start": 18.25,
+          "end": 18.75,
+          "start_frame": 438,
+          "end_frame": 450
+        },
+        {
+          "action": "Chirping",
+          "start": 23.25,
+          "end": 24.375,
+          "start_frame": 558,
+          "end_frame": 585
+        },
+        {
+          "action": "Chirping",
+          "start": 25.0,
+          "end": 25.375,
+          "start_frame": 600,
+          "end_frame": 609
+        },
+        {
+          "action": "Chirping",
+          "start": 25.625,
+          "end": 25.875,
+          "start_frame": 615,
+          "end_frame": 621
+        },
+        {
+          "action": "Chirping",
+          "start": 26.125,
+          "end": 26.375,
+          "start_frame": 627,
+          "end_frame": 633
+        },
+        {
+          "action": "Chirping",
+          "start": 26.625,
+          "end": 27.125,
+          "start_frame": 639,
+          "end_frame": 651
+        },
+        {
+          "action": "Chirping",
+          "start": 27.25,
+          "end": 27.417,
+          "start_frame": 654,
+          "end_frame": 658
+        }
+      ]
+    }
+  ]
+}

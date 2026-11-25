@@ -1,0 +1,34 @@
+{
+  "video_id": "SGYRTKEW",
+  "video": "SGYRTKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Antelope"
+  ],
+  "list_animal_action": [
+    [
+      "Antelope",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Antelope",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Antelope",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.001,
+          "end": 1.516,
+          "start_frame": 0,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

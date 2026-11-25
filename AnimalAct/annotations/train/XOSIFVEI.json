@@ -1,0 +1,79 @@
+{
+  "video_id": "XOSIFVEI",
+  "video": "XOSIFVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Glareola Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Glareola Bird",
+      "Running"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Doing A Neck Raise"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Glareola Bird",
+      "Running"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Doing A Neck Raise"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Attending"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Glareola Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.094,
+          "end": 1.469,
+          "start_frame": 2,
+          "end_frame": 35
+        },
+        {
+          "action": "Doing A Neck Raise",
+          "start": 0.344,
+          "end": 0.469,
+          "start_frame": 8,
+          "end_frame": 11
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.344,
+          "end": 0.469,
+          "start_frame": 8,
+          "end_frame": 11
+        },
+        {
+          "action": "Running",
+          "start": 0.844,
+          "end": 1.469,
+          "start_frame": 20,
+          "end_frame": 35
+        }
+      ]
+    }
+  ]
+}

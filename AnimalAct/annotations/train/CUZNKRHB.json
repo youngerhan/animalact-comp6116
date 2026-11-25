@@ -1,0 +1,49 @@
+{
+  "video_id": "CUZNKRHB",
+  "video": "CUZNKRHB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Whinchat Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Whinchat Bird",
+      "Chirping"
+    ],
+    [
+      "Whinchat Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Whinchat Bird",
+      "Chirping"
+    ],
+    [
+      "Whinchat Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Whinchat Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.969,
+          "end": 2.594,
+          "start_frame": 23,
+          "end_frame": 62
+        },
+        {
+          "action": "Flying",
+          "start": 2.594,
+          "end": 2.844,
+          "start_frame": 62,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

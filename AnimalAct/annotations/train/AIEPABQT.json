@@ -1,0 +1,34 @@
+{
+  "video_id": "AIEPABQT",
+  "video": "AIEPABQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raffles Banded Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Raffles Banded Langur",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raffles Banded Langur",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raffles Banded Langur",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 1.073,
+          "end": 1.904,
+          "start_frame": 26,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

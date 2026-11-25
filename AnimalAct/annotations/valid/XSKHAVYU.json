@@ -1,0 +1,34 @@
+{
+  "video_id": "XSKHAVYU",
+  "video": "XSKHAVYU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 2.708,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "video_id": "DWPRVFFP",
+  "video": "DWPRVFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque",
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Eating"
+    ],
+    [
+      "Maroon Macaque",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Eating"
+    ],
+    [
+      "Maroon Macaque",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 5.833,
+          "start_frame": 0,
+          "end_frame": 140
+        }
+      ]
+    },
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 1.0,
+          "end": 2.625,
+          "start_frame": 24,
+          "end_frame": 63
+        },
+        {
+          "action": "Walking",
+          "start": 3.042,
+          "end": 4.0,
+          "start_frame": 73,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

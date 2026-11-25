@@ -1,0 +1,49 @@
+{
+  "video_id": "ZPESKPTK",
+  "video": "ZPESKPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.094,
+          "end": 6.594,
+          "start_frame": 2,
+          "end_frame": 158
+        },
+        {
+          "action": "Preening",
+          "start": 6.844,
+          "end": 7.844,
+          "start_frame": 164,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

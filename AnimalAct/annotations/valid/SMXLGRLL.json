@@ -1,0 +1,34 @@
+{
+  "video_id": "SMXLGRLL",
+  "video": "SMXLGRLL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mouse"
+  ],
+  "list_animal_action": [
+    [
+      "Mouse",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mouse",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mouse",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

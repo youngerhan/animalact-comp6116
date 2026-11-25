@@ -1,0 +1,49 @@
+{
+  "video_id": "IJMKWFNJ",
+  "video": "IJMKWFNJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Iguana",
+      "Keeping still"
+    ],
+    [
+      "Iguana",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Iguana",
+      "Keeping still"
+    ],
+    [
+      "Iguana",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.078,
+          "start_frame": 0,
+          "end_frame": 2
+        },
+        {
+          "action": "Jumping",
+          "start": 1.072,
+          "end": 1.579,
+          "start_frame": 26,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

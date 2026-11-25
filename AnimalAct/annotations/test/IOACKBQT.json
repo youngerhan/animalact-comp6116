@@ -1,0 +1,49 @@
+{
+  "video_id": "IOACKBQT",
+  "video": "IOACKBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Greater Mouse Deer"
+  ],
+  "list_animal_action": [
+    [
+      "Greater Mouse Deer",
+      "Licking"
+    ],
+    [
+      "Greater Mouse Deer",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Greater Mouse Deer",
+      "Licking"
+    ],
+    [
+      "Greater Mouse Deer",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Greater Mouse Deer",
+      "actions": [
+        {
+          "action": "Licking",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        },
+        {
+          "action": "Shaking Head",
+          "start": 1.458,
+          "end": 1.583,
+          "start_frame": 35,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

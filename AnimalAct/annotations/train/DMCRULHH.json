@@ -1,0 +1,49 @@
+{
+  "video_id": "DMCRULHH",
+  "video": "DMCRULHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 0.969,
+          "start_frame": 0,
+          "end_frame": 23
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.969,
+          "start_frame": 0,
+          "end_frame": 23
+        }
+      ]
+    }
+  ]
+}

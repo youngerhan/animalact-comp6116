@@ -1,0 +1,34 @@
+{
+  "video_id": "DSVZHMRN",
+  "video": "DSVZHMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 4.009,
+          "start_frame": 0,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

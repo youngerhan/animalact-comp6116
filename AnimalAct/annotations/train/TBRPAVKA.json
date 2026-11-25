@@ -1,0 +1,49 @@
+{
+  "video_id": "TBRPAVKA",
+  "video": "TBRPAVKA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Quail"
+  ],
+  "list_animal_action": [
+    [
+      "Common Quail",
+      "Sensing"
+    ],
+    [
+      "Common Quail",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Quail",
+      "Sensing"
+    ],
+    [
+      "Common Quail",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Quail",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.667,
+          "start_frame": 0,
+          "end_frame": 40
+        },
+        {
+          "action": "Eating",
+          "start": 1.875,
+          "end": 4.0,
+          "start_frame": 45,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

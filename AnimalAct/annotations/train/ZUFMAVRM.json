@@ -1,0 +1,55 @@
+{
+  "video_id": "ZUFMAVRM",
+  "video": "ZUFMAVRM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spider",
+    "Portia Jumping Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Spider",
+      "Keeping still"
+    ],
+    [
+      "Portia Jumping Spider",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spider",
+      "Keeping still"
+    ],
+    [
+      "Portia Jumping Spider",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.001,
+          "end": 1.725,
+          "start_frame": 0,
+          "end_frame": 41
+        }
+      ]
+    },
+    {
+      "animal": "Portia Jumping Spider",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.345,
+          "end": 1.722,
+          "start_frame": 8,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

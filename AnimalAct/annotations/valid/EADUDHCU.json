@@ -1,0 +1,71 @@
+{
+  "video_id": "EADUDHCU",
+  "video": "EADUDHCU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chaffinch Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Chaffinch Bird",
+      "Attending"
+    ],
+    [
+      "Chaffinch Bird",
+      "Chirping"
+    ],
+    [
+      "Chaffinch Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chaffinch Bird",
+      "Attending"
+    ],
+    [
+      "Chaffinch Bird",
+      "Chirping"
+    ],
+    [
+      "Chaffinch Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chaffinch Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.578,
+          "end": 2.045,
+          "start_frame": 14,
+          "end_frame": 49
+        },
+        {
+          "action": "Sensing",
+          "start": 2.129,
+          "end": 6.399,
+          "start_frame": 51,
+          "end_frame": 154
+        },
+        {
+          "action": "Attending",
+          "start": 6.472,
+          "end": 6.771,
+          "start_frame": 155,
+          "end_frame": 163
+        },
+        {
+          "action": "Chirping",
+          "start": 6.997,
+          "end": 8.926,
+          "start_frame": 168,
+          "end_frame": 214
+        }
+      ]
+    }
+  ]
+}

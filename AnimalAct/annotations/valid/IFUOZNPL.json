@@ -1,0 +1,64 @@
+{
+  "video_id": "IFUOZNPL",
+  "video": "IFUOZNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chimpanzee"
+  ],
+  "list_animal_action": [
+    [
+      "Chimpanzee",
+      "Grooming"
+    ],
+    [
+      "Chimpanzee",
+      "Climbing"
+    ],
+    [
+      "Chimpanzee",
+      "Manipulating Object"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chimpanzee",
+      "Grooming"
+    ],
+    [
+      "Chimpanzee",
+      "Climbing"
+    ],
+    [
+      "Chimpanzee",
+      "Manipulating Object"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chimpanzee",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.0,
+          "end": 0.083,
+          "start_frame": 0,
+          "end_frame": 2
+        },
+        {
+          "action": "Grooming",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        },
+        {
+          "action": "Manipulating Object",
+          "start": 0.083,
+          "end": 2.833,
+          "start_frame": 2,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

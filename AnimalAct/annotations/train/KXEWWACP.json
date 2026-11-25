@@ -1,0 +1,55 @@
+{
+  "video_id": "KXEWWACP",
+  "video": "KXEWWACP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Insect",
+    "Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Insect",
+      "Struggling"
+    ],
+    [
+      "Spider",
+      "Wrapping Prey"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Insect",
+      "Struggling"
+    ],
+    [
+      "Spider",
+      "Wrapping Prey"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Insect",
+      "actions": [
+        {
+          "action": "Struggling",
+          "start": 0.0,
+          "end": 5.066,
+          "start_frame": 0,
+          "end_frame": 122
+        }
+      ]
+    },
+    {
+      "animal": "Spider",
+      "actions": [
+        {
+          "action": "Wrapping Prey",
+          "start": 0.0,
+          "end": 5.083,
+          "start_frame": 0,
+          "end_frame": 122
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "GWLSTZJZ",
+  "video": "GWLSTZJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven",
+    "Eagle"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Sensing"
+    ],
+    [
+      "Eagle",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Sensing"
+    ],
+    [
+      "Eagle",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 1.094,
+          "start_frame": 2,
+          "end_frame": 26
+        }
+      ]
+    },
+    {
+      "animal": "Eagle",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.219,
+          "start_frame": 0,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "WPYTYADM",
+  "video": "WPYTYADM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aesculapian Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aesculapian Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 7.708,
+          "start_frame": 0,
+          "end_frame": 185
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.0,
+          "end": 7.708,
+          "start_frame": 0,
+          "end_frame": 185
+        }
+      ]
+    }
+  ]
+}

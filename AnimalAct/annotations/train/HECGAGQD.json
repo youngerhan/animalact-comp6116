@@ -1,0 +1,34 @@
+{
+  "video_id": "HECGAGQD",
+  "video": "HECGAGQD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.594,
+          "end": 1.067,
+          "start_frame": 14,
+          "end_frame": 26
+        }
+      ]
+    }
+  ]
+}

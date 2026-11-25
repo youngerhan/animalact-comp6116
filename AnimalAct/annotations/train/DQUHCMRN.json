@@ -1,0 +1,112 @@
+{
+  "video_id": "DQUHCMRN",
+  "video": "DQUHCMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mallard Duck",
+    "Common Snipe",
+    "Grey Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Mallard Duck",
+      "Swimming"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Grey Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mallard Duck",
+      "Swimming"
+    ],
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Mallard Duck",
+      "Sensing"
+    ],
+    [
+      "Grey Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mallard Duck",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 2.508,
+          "start_frame": 0,
+          "end_frame": 60
+        },
+        {
+          "action": "Sensing",
+          "start": 0.382,
+          "end": 0.841,
+          "start_frame": 9,
+          "end_frame": 20
+        },
+        {
+          "action": "Sensing",
+          "start": 1.103,
+          "end": 1.284,
+          "start_frame": 26,
+          "end_frame": 31
+        },
+        {
+          "action": "Sensing",
+          "start": 1.776,
+          "end": 2.033,
+          "start_frame": 43,
+          "end_frame": 49
+        }
+      ]
+    },
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.351,
+          "end": 1.557,
+          "start_frame": 8,
+          "end_frame": 37
+        },
+        {
+          "action": "Walking",
+          "start": 1.926,
+          "end": 2.361,
+          "start_frame": 46,
+          "end_frame": 57
+        }
+      ]
+    },
+    {
+      "animal": "Grey Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.013,
+          "end": 2.508,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

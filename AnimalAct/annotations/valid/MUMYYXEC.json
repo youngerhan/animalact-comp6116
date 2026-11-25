@@ -1,0 +1,49 @@
+{
+  "video_id": "MUMYYXEC",
+  "video": "MUMYYXEC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Habronattus Clypeatus"
+  ],
+  "list_animal_action": [
+    [
+      "Habronattus Clypeatus",
+      "Keeping still"
+    ],
+    [
+      "Habronattus Clypeatus",
+      "Dancing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Habronattus Clypeatus",
+      "Keeping still"
+    ],
+    [
+      "Habronattus Clypeatus",
+      "Dancing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Habronattus Clypeatus",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.625,
+          "start_frame": 0,
+          "end_frame": 87
+        },
+        {
+          "action": "Dancing",
+          "start": 0.0,
+          "end": 3.625,
+          "start_frame": 0,
+          "end_frame": 87
+        }
+      ]
+    }
+  ]
+}

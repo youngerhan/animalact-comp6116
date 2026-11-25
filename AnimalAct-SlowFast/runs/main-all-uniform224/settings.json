@@ -1,0 +1,160 @@
+{
+  "dataset": "../AnimalAct",
+  "manifest": "./data/main.json",
+  "config": "../mmaction2-main/configs/recognition/slowfast/slowfast_r50_8xb8-4x16x1-256e_kinetics400-rgb.py",
+  "weights": "../slowfast_r50_8xb8-4x16x1-256e_kinetics400-rgb_20220901-701b0f6f.pth",
+  "out": "./runs/main-all-uniform224",
+  "epochs": 30,
+  "schedule_epochs": 30,
+  "patience": 8,
+  "warmup": 1,
+  "batch_size": 16,
+  "workers": 6,
+  "frames": 16,
+  "image_size": 224,
+  "trainable": "all",
+  "balance": "sqrt",
+  "head_lr": 0.0005,
+  "backbone_lr": 5e-05,
+  "weight_decay": 0.01,
+  "clip_grad": 5.0,
+  "aug_scale": [
+    0.8,
+    1.0
+  ],
+  "aug_temporal": [
+    0.75,
+    1.0
+  ],
+  "colour": 0.2,
+  "eval_zoom": 1.15,
+  "seed": 42,
+  "classes": [
+    {
+      "global_id": 1,
+      "name": "Attacking"
+    },
+    {
+      "global_id": 2,
+      "name": "Attending"
+    },
+    {
+      "global_id": 7,
+      "name": "Being Eaten"
+    },
+    {
+      "global_id": 8,
+      "name": "Biting"
+    },
+    {
+      "global_id": 13,
+      "name": "Carrying In Mouth"
+    },
+    {
+      "global_id": 15,
+      "name": "Chirping"
+    },
+    {
+      "global_id": 16,
+      "name": "Climbing"
+    },
+    {
+      "global_id": 26,
+      "name": "Displaying Defensive Pose"
+    },
+    {
+      "global_id": 27,
+      "name": "Disturbing Another Animal"
+    },
+    {
+      "global_id": 32,
+      "name": "Doing A Face Dip"
+    },
+    {
+      "global_id": 37,
+      "name": "Drinking"
+    },
+    {
+      "global_id": 39,
+      "name": "Eating"
+    },
+    {
+      "global_id": 44,
+      "name": "Exploring"
+    },
+    {
+      "global_id": 46,
+      "name": "Fighting"
+    },
+    {
+      "global_id": 47,
+      "name": "Flapping"
+    },
+    {
+      "global_id": 50,
+      "name": "Flying"
+    },
+    {
+      "global_id": 53,
+      "name": "Grooming"
+    },
+    {
+      "global_id": 59,
+      "name": "Hugging"
+    },
+    {
+      "global_id": 61,
+      "name": "Jumping"
+    },
+    {
+      "global_id": 62,
+      "name": "Keeping still"
+    },
+    {
+      "global_id": 63,
+      "name": "Landing"
+    },
+    {
+      "global_id": 70,
+      "name": "Moving"
+    },
+    {
+      "global_id": 76,
+      "name": "Preening"
+    },
+    {
+      "global_id": 85,
+      "name": "Running"
+    },
+    {
+      "global_id": 87,
+      "name": "Sensing"
+    },
+    {
+      "global_id": 88,
+      "name": "Shaking"
+    },
+    {
+      "global_id": 89,
+      "name": "Shaking Head"
+    },
+    {
+      "global_id": 96,
+      "name": "Spitting Venom"
+    },
+    {
+      "global_id": 106,
+      "name": "Swimming"
+    },
+    {
+      "global_id": 110,
+      "name": "Turning Around"
+    },
+    {
+      "global_id": 114,
+      "name": "Walking"
+    }
+  ],
+  "dataset_revision": "animalact-20261114-r2",
+  "split_version": "animalact-70-15-15-v1"
+}

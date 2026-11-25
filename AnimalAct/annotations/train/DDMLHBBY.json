@@ -1,0 +1,34 @@
+{
+  "video_id": "DDMLHBBY",
+  "video": "DDMLHBBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giant Hornet"
+  ],
+  "list_animal_action": [
+    [
+      "Giant Hornet",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giant Hornet",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giant Hornet",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 3.882,
+          "start_frame": 0,
+          "end_frame": 93
+        }
+      ]
+    }
+  ]
+}

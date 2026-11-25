@@ -1,0 +1,50 @@
+{
+  "video_id": "PQOSAHCU",
+  "video": "PQOSAHCU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Chaffinch Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Chaffinch Bird",
+      "Chirping"
+    ],
+    [
+      "Chaffinch Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Chaffinch Bird",
+      "Chirping"
+    ],
+    [
+      "Chaffinch Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Chaffinch Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 3.2
+        },
+        {
+          "action": "Sensing",
+          "start": 3.2,
+          "end": 4.4
+        },
+        {
+          "action": "Chirping",
+          "start": 4.4,
+          "end": 13.62
+        }
+      ]
+    }
+  ]
+}

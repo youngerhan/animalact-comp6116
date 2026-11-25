@@ -1,0 +1,70 @@
+{
+  "video_id": "NEMSIZIE",
+  "video": "NEMSIZIE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 7.0,
+          "start_frame": 0,
+          "end_frame": 168
+        },
+        {
+          "action": "Flying",
+          "start": 2.583,
+          "end": 2.958,
+          "start_frame": 62,
+          "end_frame": 71
+        },
+        {
+          "action": "Flying",
+          "start": 3.5,
+          "end": 3.875,
+          "start_frame": 84,
+          "end_frame": 93
+        },
+        {
+          "action": "Flying",
+          "start": 5.375,
+          "end": 5.792,
+          "start_frame": 129,
+          "end_frame": 139
+        },
+        {
+          "action": "Flying",
+          "start": 6.458,
+          "end": 7.0,
+          "start_frame": 155,
+          "end_frame": 168
+        }
+      ]
+    }
+  ]
+}

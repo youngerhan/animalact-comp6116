@@ -1,0 +1,34 @@
+{
+  "video_id": "OGIKVDAL",
+  "video": "OGIKVDAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Flapping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Flapping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.25,
+          "end": 1.0,
+          "start_frame": 6,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

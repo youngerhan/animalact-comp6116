@@ -1,0 +1,70 @@
+{
+  "video_id": "WPAHTNPO",
+  "video": "WPAHTNPO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hyena",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Hyena",
+      "Sensing"
+    ],
+    [
+      "Hyena",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hyena",
+      "Sensing"
+    ],
+    [
+      "Hyena",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

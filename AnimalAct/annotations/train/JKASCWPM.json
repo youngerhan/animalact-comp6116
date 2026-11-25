@@ -1,0 +1,55 @@
+{
+  "video_id": "JKASCWPM",
+  "video": "JKASCWPM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caterpillar",
+    "Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Caterpillar",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Wasp",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caterpillar",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Wasp",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caterpillar",
+      "actions": [
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 2.067,
+          "end": 3.833,
+          "start_frame": 50,
+          "end_frame": 92
+        }
+      ]
+    },
+    {
+      "animal": "Wasp",
+      "actions": [
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

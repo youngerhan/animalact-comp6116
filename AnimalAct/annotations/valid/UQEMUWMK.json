@@ -1,0 +1,71 @@
+{
+  "video_id": "UQEMUWMK",
+  "video": "UQEMUWMK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Many Horned Adder"
+  ],
+  "list_animal_action": [
+    [
+      "Many Horned Adder",
+      "Moving"
+    ],
+    [
+      "Many Horned Adder",
+      "Keeping still"
+    ],
+    [
+      "Many Horned Adder",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Many Horned Adder",
+      "Moving"
+    ],
+    [
+      "Many Horned Adder",
+      "Keeping still"
+    ],
+    [
+      "Many Horned Adder",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Many Horned Adder",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.507,
+          "start_frame": 0,
+          "end_frame": 84
+        },
+        {
+          "action": "Sensing",
+          "start": 3.519,
+          "end": 5.395,
+          "start_frame": 84,
+          "end_frame": 129
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.383,
+          "end": 8.344,
+          "start_frame": 129,
+          "end_frame": 200
+        },
+        {
+          "action": "Moving",
+          "start": 8.381,
+          "end": 14.333,
+          "start_frame": 201,
+          "end_frame": 344
+        }
+      ]
+    }
+  ]
+}

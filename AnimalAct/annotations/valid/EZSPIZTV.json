@@ -1,0 +1,49 @@
+{
+  "video_id": "EZSPIZTV",
+  "video": "EZSPIZTV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Attending"
+    ],
+    [
+      "Common Crane",
+      "Doing A Neck Raise"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Attending"
+    ],
+    [
+      "Common Crane",
+      "Doing A Neck Raise"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        },
+        {
+          "action": "Doing A Neck Raise",
+          "start": 0.064,
+          "end": 0.594,
+          "start_frame": 2,
+          "end_frame": 14
+        }
+      ]
+    }
+  ]
+}

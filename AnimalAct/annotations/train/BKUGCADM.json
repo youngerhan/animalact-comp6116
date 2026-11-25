@@ -1,0 +1,49 @@
+{
+  "video_id": "BKUGCADM",
+  "video": "BKUGCADM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aesculapian Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aesculapian Snake",
+      "Moving"
+    ],
+    [
+      "Aesculapian Snake",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aesculapian Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.004,
+          "end": 12.389,
+          "start_frame": 0,
+          "end_frame": 297
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 5.614,
+          "end": 12.343,
+          "start_frame": 135,
+          "end_frame": 296
+        }
+      ]
+    }
+  ]
+}

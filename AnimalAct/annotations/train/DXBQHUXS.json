@@ -1,0 +1,34 @@
+{
+  "video_id": "DXBQHUXS",
+  "video": "DXBQHUXS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Necked Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Black Necked Spitting Cobra",
+      "Hissing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Necked Spitting Cobra",
+      "Hissing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Necked Spitting Cobra",
+      "actions": [
+        {
+          "action": "Hissing",
+          "start": 1.676,
+          "end": 2.657,
+          "start_frame": 40,
+          "end_frame": 64
+        }
+      ]
+    }
+  ]
+}

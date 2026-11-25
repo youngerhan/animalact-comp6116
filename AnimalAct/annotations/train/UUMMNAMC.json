@@ -1,0 +1,49 @@
+{
+  "video_id": "UUMMNAMC",
+  "video": "UUMMNAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Buffalo"
+  ],
+  "list_animal_action": [
+    [
+      "Buffalo",
+      "Sensing"
+    ],
+    [
+      "Buffalo",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Buffalo",
+      "Sensing"
+    ],
+    [
+      "Buffalo",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Buffalo",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.708,
+          "start_frame": 0,
+          "end_frame": 89
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

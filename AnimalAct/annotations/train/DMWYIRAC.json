@@ -1,0 +1,71 @@
+{
+  "video_id": "DMWYIRAC",
+  "video": "DMWYIRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Capuchin Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Capuchin Monkey",
+      "Walking"
+    ],
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ],
+    [
+      "Capuchin Monkey",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Capuchin Monkey",
+      "Walking"
+    ],
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ],
+    [
+      "Capuchin Monkey",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Capuchin Monkey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.059,
+          "end": 3.125,
+          "start_frame": 1,
+          "end_frame": 75
+        },
+        {
+          "action": "Eating",
+          "start": 3.104,
+          "end": 4.877,
+          "start_frame": 74,
+          "end_frame": 117
+        },
+        {
+          "action": "Eating",
+          "start": 5.532,
+          "end": 6.224,
+          "start_frame": 133,
+          "end_frame": 149
+        },
+        {
+          "action": "Walking",
+          "start": 6.229,
+          "end": 9.333,
+          "start_frame": 149,
+          "end_frame": 224
+        }
+      ]
+    }
+  ]
+}

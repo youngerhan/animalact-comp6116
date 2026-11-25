@@ -1,0 +1,49 @@
+{
+  "video_id": "GDOGMBQT",
+  "video": "GDOGMBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Weaver Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Weaver Ant",
+      "Sensing"
+    ],
+    [
+      "Weaver Ant",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Weaver Ant",
+      "Sensing"
+    ],
+    [
+      "Weaver Ant",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Weaver Ant",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

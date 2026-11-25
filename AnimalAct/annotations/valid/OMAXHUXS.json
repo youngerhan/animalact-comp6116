@@ -1,0 +1,78 @@
+{
+  "video_id": "OMAXHUXS",
+  "video": "OMAXHUXS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ashe'S Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Ashe'S Spitting Cobra",
+      "Sensing"
+    ],
+    [
+      "Ashe'S Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Ashe'S Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ashe'S Spitting Cobra",
+      "Sensing"
+    ],
+    [
+      "Ashe'S Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Ashe'S Spitting Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ashe'S Spitting Cobra",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 8.417,
+          "start_frame": 0,
+          "end_frame": 202
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 8.417,
+          "start_frame": 0,
+          "end_frame": 202
+        },
+        {
+          "action": "Sensing",
+          "start": 8.417,
+          "end": 9.292,
+          "start_frame": 202,
+          "end_frame": 223
+        },
+        {
+          "action": "Attending",
+          "start": 9.292,
+          "end": 14.208,
+          "start_frame": 223,
+          "end_frame": 341
+        },
+        {
+          "action": "Keeping still",
+          "start": 10.0,
+          "end": 14.208,
+          "start_frame": 240,
+          "end_frame": 341
+        }
+      ]
+    }
+  ]
+}

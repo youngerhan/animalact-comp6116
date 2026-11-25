@@ -1,0 +1,34 @@
+{
+  "video_id": "AZIPZPAF",
+  "video": "AZIPZPAF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tawny Owl"
+  ],
+  "list_animal_action": [
+    [
+      "Tawny Owl",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tawny Owl",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tawny Owl",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.168,
+          "end": 1.12,
+          "start_frame": 4,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

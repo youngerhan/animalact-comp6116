@@ -1,0 +1,41 @@
+{
+  "video_id": "IOOAGBQT",
+  "video": "IOOAGBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Bearded Draco"
+  ],
+  "list_animal_action": [
+    [
+      "Black Bearded Draco",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Bearded Draco",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Bearded Draco",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 1.719,
+          "end": 1.844,
+          "start_frame": 41,
+          "end_frame": 44
+        },
+        {
+          "action": "Eating",
+          "start": 1.969,
+          "end": 4.844,
+          "start_frame": 47,
+          "end_frame": 116
+        }
+      ]
+    }
+  ]
+}

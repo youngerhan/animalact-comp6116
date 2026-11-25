@@ -1,0 +1,34 @@
+{
+  "video_id": "MWHPFXGD",
+  "video": "MWHPFXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 14.719,
+          "start_frame": 0,
+          "end_frame": 353
+        }
+      ]
+    }
+  ]
+}

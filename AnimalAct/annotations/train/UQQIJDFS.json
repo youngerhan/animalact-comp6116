@@ -1,0 +1,49 @@
+{
+  "video_id": "UQQIJDFS",
+  "video": "UQQIJDFS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dumeril'S Boa"
+  ],
+  "list_animal_action": [
+    [
+      "Dumeril'S Boa",
+      "Keeping still"
+    ],
+    [
+      "Dumeril'S Boa",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dumeril'S Boa",
+      "Keeping still"
+    ],
+    [
+      "Dumeril'S Boa",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dumeril'S Boa",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.722,
+          "start_frame": 0,
+          "end_frame": 137
+        },
+        {
+          "action": "Attending",
+          "start": 5.719,
+          "end": 6.968,
+          "start_frame": 137,
+          "end_frame": 167
+        }
+      ]
+    }
+  ]
+}

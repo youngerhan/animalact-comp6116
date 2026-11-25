@@ -1,0 +1,41 @@
+{
+  "video_id": "BMCUGUUK",
+  "video": "BMCUGUUK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Green Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "Green Woodpecker",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Green Woodpecker",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Green Woodpecker",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 0.75,
+          "start_frame": 0,
+          "end_frame": 18
+        },
+        {
+          "action": "Chirping",
+          "start": 0.949,
+          "end": 2.708,
+          "start_frame": 23,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

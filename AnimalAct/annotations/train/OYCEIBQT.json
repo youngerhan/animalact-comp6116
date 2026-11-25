@@ -1,0 +1,34 @@
+{
+  "video_id": "OYCEIBQT",
+  "video": "OYCEIBQT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Bearded Draco"
+  ],
+  "list_animal_action": [
+    [
+      "Black Bearded Draco",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Bearded Draco",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Bearded Draco",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 1.469,
+          "end": 1.594,
+          "start_frame": 35,
+          "end_frame": 38
+        }
+      ]
+    }
+  ]
+}

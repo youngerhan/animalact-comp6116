@@ -1,0 +1,49 @@
+{
+  "video_id": "CQUCGLHH",
+  "video": "CQUCGLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Hugging"
+    ],
+    [
+      "Frog",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Hugging",
+          "start": 0.0,
+          "end": 8.992,
+          "start_frame": 0,
+          "end_frame": 216
+        },
+        {
+          "action": "Climbing",
+          "start": 0.0,
+          "end": 9.233,
+          "start_frame": 0,
+          "end_frame": 222
+        }
+      ]
+    }
+  ]
+}

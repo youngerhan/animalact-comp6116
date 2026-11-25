@@ -1,0 +1,34 @@
+{
+  "video_id": "DPWQXDFS",
+  "video": "DPWQXDFS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dumeril'S Boa"
+  ],
+  "list_animal_action": [
+    [
+      "Dumeril'S Boa",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dumeril'S Boa",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dumeril'S Boa",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.344,
+          "end": 0.827,
+          "start_frame": 8,
+          "end_frame": 20
+        }
+      ]
+    }
+  ]
+}

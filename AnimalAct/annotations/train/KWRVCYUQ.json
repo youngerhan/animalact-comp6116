@@ -1,0 +1,34 @@
+{
+  "video_id": "KWRVCYUQ",
+  "video": "KWRVCYUQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Polyergus Mexicanus"
+  ],
+  "list_animal_action": [
+    [
+      "Polyergus Mexicanus",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Polyergus Mexicanus",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Polyergus Mexicanus",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 1.0,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

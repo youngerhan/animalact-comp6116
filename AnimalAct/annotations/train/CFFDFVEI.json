@@ -1,0 +1,76 @@
+{
+  "video_id": "CFFDFVEI",
+  "video": "CFFDFVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gallinago Gallinago Bird",
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gallinago Gallinago Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gallinago Gallinago Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    },
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.42,
+          "end": 0.597,
+          "start_frame": 10,
+          "end_frame": 14
+        },
+        {
+          "action": "Eating",
+          "start": 1.421,
+          "end": 1.623,
+          "start_frame": 34,
+          "end_frame": 39
+        },
+        {
+          "action": "Eating",
+          "start": 2.167,
+          "end": 2.377,
+          "start_frame": 52,
+          "end_frame": 57
+        },
+        {
+          "action": "Eating",
+          "start": 2.607,
+          "end": 2.833,
+          "start_frame": 63,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

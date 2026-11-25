@@ -1,0 +1,55 @@
+{
+  "video_id": "NUFJJMHZ",
+  "video": "NUFJJMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Natrix Tessellata Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Natrix Tessellata Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Natrix Tessellata Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Natrix Tessellata Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.001,
+          "end": 2.236,
+          "start_frame": 0,
+          "end_frame": 54
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.412,
+          "end": 4.386,
+          "start_frame": 58,
+          "end_frame": 105
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.961,
+          "end": 6.35,
+          "start_frame": 119,
+          "end_frame": 152
+        },
+        {
+          "action": "Keeping still",
+          "start": 6.716,
+          "end": 8.486,
+          "start_frame": 161,
+          "end_frame": 204
+        }
+      ]
+    }
+  ]
+}

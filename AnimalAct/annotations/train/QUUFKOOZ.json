@@ -1,0 +1,41 @@
+{
+  "video_id": "QUUFKOOZ",
+  "video": "QUUFKOOZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Widow Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Western Widow Spider",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Widow Spider",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Widow Spider",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.11,
+          "end": 1.803,
+          "start_frame": 3,
+          "end_frame": 43
+        },
+        {
+          "action": "Moving",
+          "start": 2.404,
+          "end": 3.214,
+          "start_frame": 58,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

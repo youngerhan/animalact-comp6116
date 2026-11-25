@@ -1,0 +1,63 @@
+{
+  "video_id": "MFKAIOTL",
+  "video": "MFKAIOTL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Great Snipe",
+      "Keeping still"
+    ],
+    [
+      "Great Snipe",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Snipe",
+      "Keeping still"
+    ],
+    [
+      "Great Snipe",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Snipe",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.218,
+          "end": 2.396,
+          "start_frame": 5,
+          "end_frame": 58
+        },
+        {
+          "action": "Attending",
+          "start": 0.219,
+          "end": 2.396,
+          "start_frame": 5,
+          "end_frame": 58
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.548,
+          "end": 3.125,
+          "start_frame": 61,
+          "end_frame": 75
+        },
+        {
+          "action": "Attending",
+          "start": 2.548,
+          "end": 3.125,
+          "start_frame": 61,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

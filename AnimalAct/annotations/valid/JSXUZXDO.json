@@ -1,0 +1,55 @@
+{
+  "video_id": "JSXUZXDO",
+  "video": "JSXUZXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hyena",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Hyena",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hyena",
+      "Sensing"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hyena",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.458,
+          "start_frame": 0,
+          "end_frame": 59
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.458,
+          "start_frame": 0,
+          "end_frame": 59
+        }
+      ]
+    }
+  ]
+}

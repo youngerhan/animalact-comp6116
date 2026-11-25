@@ -1,0 +1,34 @@
+{
+  "video_id": "LQLTFLKY",
+  "video": "LQLTFLKY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Side Blotched Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Side Blotched Lizard",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Side Blotched Lizard",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Side Blotched Lizard",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.708,
+          "start_frame": 0,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

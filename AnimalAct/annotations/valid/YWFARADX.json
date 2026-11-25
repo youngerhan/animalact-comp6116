@@ -1,0 +1,79 @@
+{
+  "video_id": "YWFARADX",
+  "video": "YWFARADX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White-Backed Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Climbing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Landing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Climbing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Landing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White-Backed Woodpecker",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.594,
+          "start_frame": 0,
+          "end_frame": 86
+        },
+        {
+          "action": "Climbing",
+          "start": 0.0,
+          "end": 4.344,
+          "start_frame": 0,
+          "end_frame": 104
+        },
+        {
+          "action": "Landing",
+          "start": 4.094,
+          "end": 4.344,
+          "start_frame": 98,
+          "end_frame": 104
+        },
+        {
+          "action": "Flying",
+          "start": 4.094,
+          "end": 4.344,
+          "start_frame": 98,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

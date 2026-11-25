@@ -1,0 +1,49 @@
+{
+  "video_id": "ICFXPZTV",
+  "video": "ICFXPZTV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Eating"
+    ],
+    [
+      "Common Crane",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Eating"
+    ],
+    [
+      "Common Crane",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.844,
+          "start_frame": 0,
+          "end_frame": 20
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.969,
+          "start_frame": 0,
+          "end_frame": 23
+        }
+      ]
+    }
+  ]
+}

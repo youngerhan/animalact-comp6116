@@ -1,0 +1,34 @@
+{
+  "video_id": "RZKXJRTZ",
+  "video": "RZKXJRTZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fer-De-Lance Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Fer-De-Lance Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fer-De-Lance Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fer-De-Lance Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.417,
+          "start_frame": 0,
+          "end_frame": 154
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "video_id": "QHDBSTFT",
+  "video": "QHDBSTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 17.708,
+          "start_frame": 0,
+          "end_frame": 425
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 17.708,
+          "start_frame": 0,
+          "end_frame": 425
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 6.167,
+          "end": 7.042,
+          "start_frame": 148,
+          "end_frame": 169
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 6.167,
+          "end": 7.042,
+          "start_frame": 148,
+          "end_frame": 169
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 10.625,
+          "end": 11.708,
+          "start_frame": 255,
+          "end_frame": 281
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 10.625,
+          "end": 11.708,
+          "start_frame": 255,
+          "end_frame": 281
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 12.417,
+          "end": 13.375,
+          "start_frame": 298,
+          "end_frame": 321
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 12.417,
+          "end": 13.375,
+          "start_frame": 298,
+          "end_frame": 321
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 16.625,
+          "end": 17.708,
+          "start_frame": 399,
+          "end_frame": 425
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 16.625,
+          "end": 17.708,
+          "start_frame": 399,
+          "end_frame": 425
+        }
+      ]
+    }
+  ]
+}

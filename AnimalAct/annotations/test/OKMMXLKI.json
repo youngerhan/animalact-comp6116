@@ -1,0 +1,34 @@
+{
+  "video_id": "OKMMXLKI",
+  "video": "OKMMXLKI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Firebrat Insect"
+  ],
+  "list_animal_action": [
+    [
+      "Firebrat Insect",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Firebrat Insect",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Firebrat Insect",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.125,
+          "end": 0.917,
+          "start_frame": 3,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

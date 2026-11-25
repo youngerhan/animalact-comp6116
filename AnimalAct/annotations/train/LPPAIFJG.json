@@ -1,0 +1,34 @@
+{
+  "video_id": "LPPAIFJG",
+  "video": "LPPAIFJG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Fea'S Muntjac"
+  ],
+  "list_animal_action": [
+    [
+      "Fea'S Muntjac",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Fea'S Muntjac",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Fea'S Muntjac",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

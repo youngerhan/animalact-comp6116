@@ -1,0 +1,49 @@
+{
+  "video_id": "SIUJOKEW",
+  "video": "SIUJOKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Lizard",
+      "Sensing"
+    ],
+    [
+      "Lizard",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lizard",
+      "Sensing"
+    ],
+    [
+      "Lizard",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lizard",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.002,
+          "end": 3.311,
+          "start_frame": 0,
+          "end_frame": 79
+        },
+        {
+          "action": "Jumping",
+          "start": 1.51,
+          "end": 3.308,
+          "start_frame": 36,
+          "end_frame": 79
+        }
+      ]
+    }
+  ]
+}

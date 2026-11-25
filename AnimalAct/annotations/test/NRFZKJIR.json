@@ -1,0 +1,32 @@
+{
+  "video_id": "NRFZKJIR",
+  "video": "NRFZKJIR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alauda Arvensis Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Alauda Arvensis Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alauda Arvensis Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alauda Arvensis Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 8.0
+        }
+      ]
+    }
+  ]
+}

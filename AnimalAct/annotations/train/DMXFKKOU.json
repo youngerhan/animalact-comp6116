@@ -1,0 +1,93 @@
+{
+  "video_id": "DMXFKKOU",
+  "video": "DMXFKKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Spreading Wings"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Turning Around"
+    ],
+    [
+      "Yellowhammer",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Spreading Wings"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Turning Around"
+    ],
+    [
+      "Yellowhammer",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Turning Around",
+          "start": 0.14,
+          "end": 0.689,
+          "start_frame": 3,
+          "end_frame": 17
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 0.191,
+          "end": 1.115,
+          "start_frame": 5,
+          "end_frame": 27
+        },
+        {
+          "action": "Turning Around",
+          "start": 1.037,
+          "end": 1.368,
+          "start_frame": 25,
+          "end_frame": 33
+        },
+        {
+          "action": "Turning Around",
+          "start": 1.518,
+          "end": 2.124,
+          "start_frame": 36,
+          "end_frame": 51
+        },
+        {
+          "action": "Chirping",
+          "start": 2.734,
+          "end": 4.929,
+          "start_frame": 66,
+          "end_frame": 118
+        },
+        {
+          "action": "Jumping",
+          "start": 5.891,
+          "end": 6.466,
+          "start_frame": 141,
+          "end_frame": 155
+        }
+      ]
+    }
+  ]
+}

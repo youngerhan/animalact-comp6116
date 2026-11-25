@@ -1,0 +1,49 @@
+{
+  "video_id": "LJFWLQRY",
+  "video": "LJFWLQRY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ring-Tailed Lemur"
+  ],
+  "list_animal_action": [
+    [
+      "Ring-Tailed Lemur",
+      "Sensing"
+    ],
+    [
+      "Ring-Tailed Lemur",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ring-Tailed Lemur",
+      "Sensing"
+    ],
+    [
+      "Ring-Tailed Lemur",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ring-Tailed Lemur",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.542,
+          "end": 14.708,
+          "start_frame": 13,
+          "end_frame": 353
+        },
+        {
+          "action": "Sensing",
+          "start": 15.292,
+          "end": 18.042,
+          "start_frame": 367,
+          "end_frame": 433
+        }
+      ]
+    }
+  ]
+}

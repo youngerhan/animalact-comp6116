@@ -1,0 +1,76 @@
+{
+  "run": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct-SlowFast\\runs\\pilot32-whole224",
+  "best_epoch": 1,
+  "epochs_completed": 3,
+  "initial_16_frames": {
+    "mAP": 0.4330491217227458,
+    "macro_F1": 0.4459328859967401,
+    "threshold": 0.1,
+    "clips": 912
+  },
+  "initial_32_frames": {
+    "mAP": 0.42523562732361353,
+    "macro_F1": 0.41682784022723485,
+    "threshold": 0.05,
+    "clips": 912
+  },
+  "trained_32_frames": {
+    "mAP": 0.43993214745921605,
+    "macro_F1": 0.4405689615291893,
+    "threshold": 0.05,
+    "clips": 912
+  },
+  "mAP_delta_vs_initial16_pp": 0.6883025736470261,
+  "F1_delta_vs_initial16_pp": -0.5363924467550796,
+  "test_evaluated": true,
+  "test": {
+    "mAP": 0.4633910377619318,
+    "macro_F1": 0.44706209718231854,
+    "threshold": 0.05,
+    "clips": 946
+  },
+  "blend_validation_candidates": [
+    {
+      "new_weight": 0.0,
+      "valid_mAP": 0.4647970837138072,
+      "valid_macro_F1": 0.45778027346274264,
+      "threshold": 0.3
+    },
+    {
+      "new_weight": 0.125,
+      "valid_mAP": 0.4679045768501243,
+      "valid_macro_F1": 0.4571506989247104,
+      "threshold": 0.3
+    },
+    {
+      "new_weight": 0.25,
+      "valid_mAP": 0.46927925459352726,
+      "valid_macro_F1": 0.4575011867658495,
+      "threshold": 0.25
+    },
+    {
+      "new_weight": 0.5,
+      "valid_mAP": 0.4703637678185888,
+      "valid_macro_F1": 0.45642566202282003,
+      "threshold": 0.15
+    },
+    {
+      "new_weight": 1.0,
+      "valid_mAP": 0.43993214745921605,
+      "valid_macro_F1": 0.4405689615291893,
+      "threshold": 0.05
+    }
+  ],
+  "selected_blend": {
+    "new_weight": 0.5,
+    "valid_mAP": 0.4703637678185888,
+    "valid_macro_F1": 0.45642566202282003,
+    "threshold": 0.15
+  },
+  "blend_test": {
+    "mAP": 0.4837818839325396,
+    "macro_F1": 0.4667171048085274,
+    "threshold": 0.15,
+    "clips": 946
+  }
+}

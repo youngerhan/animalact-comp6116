@@ -1,0 +1,34 @@
+{
+  "video_id": "OOYUYNPL",
+  "video": "OOYUYNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Squirrel"
+  ],
+  "list_animal_action": [
+    [
+      "Squirrel",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Squirrel",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Squirrel",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.501,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

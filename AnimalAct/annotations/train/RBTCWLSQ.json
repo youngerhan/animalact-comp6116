@@ -1,0 +1,71 @@
+{
+  "video_id": "RBTCWLSQ",
+  "video": "RBTCWLSQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mistle Thrush"
+  ],
+  "list_animal_action": [
+    [
+      "Mistle Thrush",
+      "Keeping still"
+    ],
+    [
+      "Mistle Thrush",
+      "Sensing"
+    ],
+    [
+      "Mistle Thrush",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mistle Thrush",
+      "Keeping still"
+    ],
+    [
+      "Mistle Thrush",
+      "Sensing"
+    ],
+    [
+      "Mistle Thrush",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mistle Thrush",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.594,
+          "start_frame": 0,
+          "end_frame": 62
+        },
+        {
+          "action": "Sensing",
+          "start": 0.219,
+          "end": 0.344,
+          "start_frame": 5,
+          "end_frame": 8
+        },
+        {
+          "action": "Eating",
+          "start": 2.844,
+          "end": 4.344,
+          "start_frame": 68,
+          "end_frame": 104
+        },
+        {
+          "action": "Eating",
+          "start": 5.594,
+          "end": 8.094,
+          "start_frame": 134,
+          "end_frame": 194
+        }
+      ]
+    }
+  ]
+}

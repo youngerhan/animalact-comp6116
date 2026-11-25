@@ -1,0 +1,34 @@
+{
+  "video_id": "VVNPWTEK",
+  "video": "VVNPWTEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Tiger"
+  ],
+  "list_animal_action": [
+    [
+      "White Tiger",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Tiger",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Tiger",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.004,
+          "end": 0.523,
+          "start_frame": 0,
+          "end_frame": 13
+        }
+      ]
+    }
+  ]
+}

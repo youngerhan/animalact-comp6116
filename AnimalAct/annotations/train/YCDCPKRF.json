@@ -1,0 +1,34 @@
+{
+  "video_id": "YCDCPKRF",
+  "video": "YCDCPKRF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dispholidus Typus Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Dispholidus Typus Snake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dispholidus Typus Snake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dispholidus Typus Snake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.06,
+          "end": 1.438,
+          "start_frame": 1,
+          "end_frame": 35
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "video_id": "MANLLTKX",
+  "video": "MANLLTKX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bullfinch"
+  ],
+  "list_animal_action": [
+    [
+      "Bullfinch",
+      "Shaking Head"
+    ],
+    [
+      "Bullfinch",
+      "Flapping"
+    ],
+    [
+      "Bullfinch",
+      "Sensing"
+    ],
+    [
+      "Bullfinch",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bullfinch",
+      "Shaking Head"
+    ],
+    [
+      "Bullfinch",
+      "Flapping"
+    ],
+    [
+      "Bullfinch",
+      "Sensing"
+    ],
+    [
+      "Bullfinch",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bullfinch",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 0.413,
+          "start_frame": 0,
+          "end_frame": 10
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.964,
+          "end": 1.412,
+          "start_frame": 23,
+          "end_frame": 34
+        },
+        {
+          "action": "Sensing",
+          "start": 2.095,
+          "end": 7.741,
+          "start_frame": 50,
+          "end_frame": 186
+        },
+        {
+          "action": "Flapping",
+          "start": 8.219,
+          "end": 9.594,
+          "start_frame": 197,
+          "end_frame": 230
+        },
+        {
+          "action": "Eating",
+          "start": 8.406,
+          "end": 8.864,
+          "start_frame": 202,
+          "end_frame": 213
+        },
+        {
+          "action": "Flapping",
+          "start": 10.114,
+          "end": 10.352,
+          "start_frame": 243,
+          "end_frame": 248
+        }
+      ]
+    }
+  ]
+}

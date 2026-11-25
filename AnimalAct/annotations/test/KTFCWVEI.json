@@ -1,0 +1,34 @@
+{
+  "video_id": "KTFCWVEI",
+  "video": "KTFCWVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Motacilla Alba Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Motacilla Alba Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Motacilla Alba Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Motacilla Alba Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.003,
+          "end": 3.501,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

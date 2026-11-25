@@ -1,0 +1,49 @@
+{
+  "video_id": "PEQOPMRN",
+  "video": "PEQOPMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Common Snipe",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Keeping still"
+    ],
+    [
+      "Common Snipe",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.0,
+          "end": 0.125,
+          "start_frame": 0,
+          "end_frame": 3
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.125,
+          "end": 3.125,
+          "start_frame": 3,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

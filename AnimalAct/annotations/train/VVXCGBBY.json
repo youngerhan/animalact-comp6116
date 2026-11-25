@@ -1,0 +1,79 @@
+{
+  "video_id": "VVXCGBBY",
+  "video": "VVXCGBBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giant Hornet"
+  ],
+  "list_animal_action": [
+    [
+      "Giant Hornet",
+      "Flying"
+    ],
+    [
+      "Giant Hornet",
+      "Sensing"
+    ],
+    [
+      "Giant Hornet",
+      "Attacking"
+    ],
+    [
+      "Giant Hornet",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giant Hornet",
+      "Flying"
+    ],
+    [
+      "Giant Hornet",
+      "Sensing"
+    ],
+    [
+      "Giant Hornet",
+      "Attacking"
+    ],
+    [
+      "Giant Hornet",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giant Hornet",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.012,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Attacking",
+          "start": 0.0,
+          "end": 2.012,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.012,
+          "start_frame": 0,
+          "end_frame": 48
+        },
+        {
+          "action": "Flying",
+          "start": 0.6,
+          "end": 1.357,
+          "start_frame": 14,
+          "end_frame": 33
+        }
+      ]
+    }
+  ]
+}

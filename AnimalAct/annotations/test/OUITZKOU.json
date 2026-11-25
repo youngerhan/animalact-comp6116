@@ -1,0 +1,152 @@
+{
+  "video_id": "OUITZKOU",
+  "video": "OUITZKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer Young",
+    "Yellowhammer"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer Young",
+      "Sleeping in its nest"
+    ],
+    [
+      "Yellowhammer Young",
+      "Eating"
+    ],
+    [
+      "Yellowhammer",
+      "Jumping"
+    ],
+    [
+      "Yellowhammer Young",
+      "Jumping"
+    ],
+    [
+      "Yellowhammer",
+      "Sleeping in its nest"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer Young",
+      "Sleeping in its nest"
+    ],
+    [
+      "Yellowhammer Young",
+      "Eating"
+    ],
+    [
+      "Yellowhammer",
+      "Jumping"
+    ],
+    [
+      "Yellowhammer Young",
+      "Jumping"
+    ],
+    [
+      "Yellowhammer",
+      "Sleeping in its nest"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer Young",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer Young",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.469,
+          "end": 1.844,
+          "start_frame": 11,
+          "end_frame": 44
+        },
+        {
+          "action": "Sleeping in its nest",
+          "start": 4.344,
+          "end": 4.969,
+          "start_frame": 104,
+          "end_frame": 119
+        },
+        {
+          "action": "Sleeping in its nest",
+          "start": 5.094,
+          "end": 18.094,
+          "start_frame": 122,
+          "end_frame": 434
+        },
+        {
+          "action": "Jumping",
+          "start": 7.219,
+          "end": 7.344,
+          "start_frame": 173,
+          "end_frame": 176
+        },
+        {
+          "action": "Sensing",
+          "start": 7.719,
+          "end": 7.844,
+          "start_frame": 185,
+          "end_frame": 188
+        }
+      ]
+    },
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Sharing Food",
+          "start": 0.469,
+          "end": 1.219,
+          "start_frame": 11,
+          "end_frame": 29
+        },
+        {
+          "action": "Sleeping in its nest",
+          "start": 11.469,
+          "end": 18.344,
+          "start_frame": 275,
+          "end_frame": 440
+        },
+        {
+          "action": "Sensing",
+          "start": 11.844,
+          "end": 11.969,
+          "start_frame": 284,
+          "end_frame": 287
+        },
+        {
+          "action": "Jumping",
+          "start": 15.844,
+          "end": 15.969,
+          "start_frame": 380,
+          "end_frame": 383
+        }
+      ]
+    }
+  ]
+}

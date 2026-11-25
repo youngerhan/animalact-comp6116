@@ -1,0 +1,34 @@
+{
+  "video_id": "FVTIHLHH",
+  "video": "FVTIHLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.583,
+          "end": 2.125,
+          "start_frame": 14,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

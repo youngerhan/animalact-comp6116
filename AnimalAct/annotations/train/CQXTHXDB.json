@@ -1,0 +1,41 @@
+{
+  "video_id": "CQXTHXDB",
+  "video": "CQXTHXDB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Postman Butterfly"
+  ],
+  "list_animal_action": [
+    [
+      "Postman Butterfly",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Postman Butterfly",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Postman Butterfly",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 1.589,
+          "start_frame": 0,
+          "end_frame": 38
+        },
+        {
+          "action": "Eating",
+          "start": 5.178,
+          "end": 8.831,
+          "start_frame": 124,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

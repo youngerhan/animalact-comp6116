@@ -1,0 +1,41 @@
+{
+  "video_id": "GUEPTWMK",
+  "video": "GUEPTWMK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Namaqua Dwarf Adder"
+  ],
+  "list_animal_action": [
+    [
+      "Namaqua Dwarf Adder",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Namaqua Dwarf Adder",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Namaqua Dwarf Adder",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 6.98,
+          "start_frame": 0,
+          "end_frame": 168
+        },
+        {
+          "action": "Moving",
+          "start": 7.036,
+          "end": 11.599,
+          "start_frame": 169,
+          "end_frame": 278
+        }
+      ]
+    }
+  ]
+}

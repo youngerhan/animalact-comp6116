@@ -1,0 +1,49 @@
+{
+  "video_id": "ASDHNXGD",
+  "video": "ASDHNXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Mountain Pygmy Possum"
+  ],
+  "list_animal_action": [
+    [
+      "Mountain Pygmy Possum",
+      "Swimming"
+    ],
+    [
+      "Mountain Pygmy Possum",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Mountain Pygmy Possum",
+      "Swimming"
+    ],
+    [
+      "Mountain Pygmy Possum",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Mountain Pygmy Possum",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.002,
+          "end": 0.231,
+          "start_frame": 0,
+          "end_frame": 6
+        },
+        {
+          "action": "Swimming",
+          "start": 0.261,
+          "end": 0.708333,
+          "start_frame": 6,
+          "end_frame": 17
+        }
+      ]
+    }
+  ]
+}

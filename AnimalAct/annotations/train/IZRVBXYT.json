@@ -1,0 +1,49 @@
+{
+  "video_id": "IZRVBXYT",
+  "video": "IZRVBXYT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Rubbing its head"
+    ],
+    [
+      "Raven",
+      "Standing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Rubbing its head"
+    ],
+    [
+      "Raven",
+      "Standing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Rubbing its head",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Standing",
+          "start": 3.667,
+          "end": 3.833,
+          "start_frame": 88,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

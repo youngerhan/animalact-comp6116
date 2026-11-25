@@ -1,0 +1,56 @@
+{
+  "video_id": "DNDKWVEI",
+  "video": "DNDKWVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Glareola Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Glareola Bird",
+      "Sensing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Glareola Bird",
+      "Sensing"
+    ],
+    [
+      "Tringa Glareola Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Glareola Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.261,
+          "end": 0.908,
+          "start_frame": 6,
+          "end_frame": 22
+        },
+        {
+          "action": "Sensing",
+          "start": 0.554,
+          "end": 0.816,
+          "start_frame": 13,
+          "end_frame": 20
+        },
+        {
+          "action": "Sensing",
+          "start": 1.154,
+          "end": 1.303,
+          "start_frame": 28,
+          "end_frame": 31
+        }
+      ]
+    }
+  ]
+}

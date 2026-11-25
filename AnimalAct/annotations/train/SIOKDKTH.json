@@ -1,0 +1,32 @@
+{
+  "video_id": "SIOKDKTH",
+  "video": "SIOKDKTH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wren"
+  ],
+  "list_animal_action": [
+    [
+      "Wren",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wren",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wren",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.12
+        }
+      ]
+    }
+  ]
+}

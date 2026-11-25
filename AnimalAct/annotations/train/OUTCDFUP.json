@@ -1,0 +1,64 @@
+{
+  "video_id": "OUTCDFUP",
+  "video": "OUTCDFUP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red Spitting Cobra",
+      "Attending"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Keeping still"
+    ],
+    [
+      "Red Spitting Cobra",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red Spitting Cobra",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 16.594,
+          "start_frame": 0,
+          "end_frame": 398
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 17.094,
+          "start_frame": 0,
+          "end_frame": 410
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 17.594,
+          "start_frame": 0,
+          "end_frame": 422
+        }
+      ]
+    }
+  ]
+}

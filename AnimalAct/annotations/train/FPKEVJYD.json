@@ -1,0 +1,55 @@
+{
+  "video_id": "FPKEVJYD",
+  "video": "FPKEVJYD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Acyrthosiphon Pisum Aphid",
+    "Aphidius Ervi Parasitoid Wasp"
+  ],
+  "list_animal_action": [
+    [
+      "Acyrthosiphon Pisum Aphid",
+      "Retaliating"
+    ],
+    [
+      "Aphidius Ervi Parasitoid Wasp",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Acyrthosiphon Pisum Aphid",
+      "Retaliating"
+    ],
+    [
+      "Aphidius Ervi Parasitoid Wasp",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Acyrthosiphon Pisum Aphid",
+      "actions": [
+        {
+          "action": "Retaliating",
+          "start": 0.729,
+          "end": 0.784,
+          "start_frame": 17,
+          "end_frame": 19
+        }
+      ]
+    },
+    {
+      "animal": "Aphidius Ervi Parasitoid Wasp",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.479,
+          "end": 1.019,
+          "start_frame": 11,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

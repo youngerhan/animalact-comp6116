@@ -1,0 +1,70 @@
+{
+  "video_id": "QNLPFJYD",
+  "video": "QNLPFJYD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aphis Fabae Aphid",
+    "Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Aphis Fabae Aphid",
+      "Keeping still"
+    ],
+    [
+      "Ant",
+      "Moving"
+    ],
+    [
+      "Aphis Fabae Aphid",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aphis Fabae Aphid",
+      "Keeping still"
+    ],
+    [
+      "Ant",
+      "Moving"
+    ],
+    [
+      "Aphis Fabae Aphid",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aphis Fabae Aphid",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        },
+        {
+          "action": "Exploring",
+          "start": 1.145,
+          "end": 2.833,
+          "start_frame": 27,
+          "end_frame": 68
+        }
+      ]
+    },
+    {
+      "animal": "Ant",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.421,
+          "end": 2.833,
+          "start_frame": 10,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

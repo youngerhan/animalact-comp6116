@@ -1,0 +1,49 @@
+{
+  "video_id": "MPFOSUXS",
+  "video": "MPFOSUXS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black Necked Spitting Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Black Necked Spitting Cobra",
+      "Hissing"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Spitting Venom"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black Necked Spitting Cobra",
+      "Hissing"
+    ],
+    [
+      "Black Necked Spitting Cobra",
+      "Spitting Venom"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black Necked Spitting Cobra",
+      "actions": [
+        {
+          "action": "Hissing",
+          "start": 0.005,
+          "end": 0.514,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Spitting Venom",
+          "start": 0.296,
+          "end": 1.818,
+          "start_frame": 7,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

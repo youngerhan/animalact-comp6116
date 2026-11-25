@@ -1,0 +1,34 @@
+{
+  "video_id": "FKFNRKBS",
+  "video": "FKFNRKBS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cockroach"
+  ],
+  "list_animal_action": [
+    [
+      "Cockroach",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cockroach",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cockroach",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.315,
+          "end": 2.012,
+          "start_frame": 8,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

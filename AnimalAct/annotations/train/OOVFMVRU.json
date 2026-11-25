@@ -1,0 +1,55 @@
+{
+  "video_id": "OOVFMVRU",
+  "video": "OOVFMVRU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spiny Flower Mantis",
+    "Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Spiny Flower Mantis",
+      "Keeping still"
+    ],
+    [
+      "Aphid",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spiny Flower Mantis",
+      "Keeping still"
+    ],
+    [
+      "Aphid",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spiny Flower Mantis",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.119,
+          "start_frame": 0,
+          "end_frame": 3
+        }
+      ]
+    },
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.119,
+          "end": 1.019,
+          "start_frame": 3,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

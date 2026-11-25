@@ -1,0 +1,49 @@
+{
+  "video_id": "ULOHMVEI",
+  "video": "ULOHMVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Ochropus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Ochropus Bird",
+      "Flying"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Ochropus Bird",
+      "Flying"
+    ],
+    [
+      "Tringa Ochropus Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Ochropus Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 5.219,
+          "start_frame": 0,
+          "end_frame": 125
+        },
+        {
+          "action": "Flying",
+          "start": 5.719,
+          "end": 6.094,
+          "start_frame": 137,
+          "end_frame": 146
+        }
+      ]
+    }
+  ]
+}

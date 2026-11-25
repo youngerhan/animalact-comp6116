@@ -1,0 +1,34 @@
+{
+  "video_id": "SMKAJXGD",
+  "video": "SMKAJXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.003,
+          "end": 3.809,
+          "start_frame": 0,
+          "end_frame": 91
+        }
+      ]
+    }
+  ]
+}

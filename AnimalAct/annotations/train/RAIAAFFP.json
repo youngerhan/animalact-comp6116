@@ -1,0 +1,34 @@
+{
+  "video_id": "RAIAAFFP",
+  "video": "RAIAAFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Golden Orb Spider"
+  ],
+  "list_animal_action": [
+    [
+      "Golden Orb Spider",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Golden Orb Spider",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Golden Orb Spider",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.232,
+          "end": 1.725,
+          "start_frame": 6,
+          "end_frame": 41
+        }
+      ]
+    }
+  ]
+}

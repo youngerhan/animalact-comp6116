@@ -1,0 +1,49 @@
+{
+  "video_id": "GTECUVMW",
+  "video": "GTECUVMW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Russell'S Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Russell'S Viper",
+      "Keeping still"
+    ],
+    [
+      "Russell'S Viper",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Russell'S Viper",
+      "Keeping still"
+    ],
+    [
+      "Russell'S Viper",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Russell'S Viper",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.574,
+          "start_frame": 0,
+          "end_frame": 86
+        },
+        {
+          "action": "Moving",
+          "start": 3.574,
+          "end": 6.625,
+          "start_frame": 86,
+          "end_frame": 159
+        }
+      ]
+    }
+  ]
+}

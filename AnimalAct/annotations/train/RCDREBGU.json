@@ -1,0 +1,34 @@
+{
+  "video_id": "RCDREBGU",
+  "video": "RCDREBGU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Blue Orchard Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Blue Orchard Bee",
+      "Exiting Cocoon"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Blue Orchard Bee",
+      "Exiting Cocoon"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Blue Orchard Bee",
+      "actions": [
+        {
+          "action": "Exiting Cocoon",
+          "start": 0.083,
+          "end": 5.225,
+          "start_frame": 2,
+          "end_frame": 125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "EKEHXXGD",
+  "video": "EKEHXXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo Young"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo Young",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo Young",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo Young",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.982,
+          "end": 3.049,
+          "start_frame": 24,
+          "end_frame": 73
+        }
+      ]
+    }
+  ]
+}

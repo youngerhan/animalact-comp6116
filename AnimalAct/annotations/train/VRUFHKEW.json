@@ -1,0 +1,34 @@
+{
+  "video_id": "VRUFHKEW",
+  "video": "VRUFHKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goat"
+  ],
+  "list_animal_action": [
+    [
+      "Goat",
+      "Lying Down"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goat",
+      "Lying Down"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goat",
+      "actions": [
+        {
+          "action": "Lying Down",
+          "start": 0.0,
+          "end": 3.208,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

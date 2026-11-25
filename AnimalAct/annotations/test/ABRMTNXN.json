@@ -1,0 +1,49 @@
+{
+  "video_id": "ABRMTNXN",
+  "video": "ABRMTNXN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sea Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Sea Otter",
+      "Drifting"
+    ],
+    [
+      "Sea Otter",
+      "Rolling"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sea Otter",
+      "Drifting"
+    ],
+    [
+      "Sea Otter",
+      "Rolling"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sea Otter",
+      "actions": [
+        {
+          "action": "Drifting",
+          "start": 0.0,
+          "end": 4.417,
+          "start_frame": 0,
+          "end_frame": 106
+        },
+        {
+          "action": "Rolling",
+          "start": 2.0,
+          "end": 4.208,
+          "start_frame": 48,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

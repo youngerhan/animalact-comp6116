@@ -1,0 +1,49 @@
+{
+  "video_id": "TYAXSBME",
+  "video": "TYAXSBME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Startled"
+    ],
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Startled"
+    ],
+    [
+      "Horse",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Startled",
+          "start": 0.042,
+          "end": 0.542,
+          "start_frame": 1,
+          "end_frame": 13
+        },
+        {
+          "action": "Sensing",
+          "start": 0.821,
+          "end": 1.417,
+          "start_frame": 20,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

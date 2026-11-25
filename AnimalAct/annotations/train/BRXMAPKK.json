@@ -1,0 +1,168 @@
+{
+  "video_id": "BRXMAPKK",
+  "video": "BRXMAPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Falling"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Jumping"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Performing copulatory mounting"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Falling"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Sensing"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Jumping"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Performing copulatory mounting"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.094,
+          "end": 0.219,
+          "start_frame": 2,
+          "end_frame": 5
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.094,
+          "end": 0.219,
+          "start_frame": 2,
+          "end_frame": 5
+        },
+        {
+          "action": "Drinking",
+          "start": 7.469,
+          "end": 9.969,
+          "start_frame": 179,
+          "end_frame": 239
+        },
+        {
+          "action": "Preening",
+          "start": 10.844,
+          "end": 10.969,
+          "start_frame": 260,
+          "end_frame": 263
+        },
+        {
+          "action": "Falling",
+          "start": 16.344,
+          "end": 20.844,
+          "start_frame": 392,
+          "end_frame": 500
+        },
+        {
+          "action": "Jumping",
+          "start": 16.344,
+          "end": 20.844,
+          "start_frame": 392,
+          "end_frame": 500
+        },
+        {
+          "action": "Performing copulatory mounting",
+          "start": 16.344,
+          "end": 21.094,
+          "start_frame": 392,
+          "end_frame": 506
+        },
+        {
+          "action": "Walking",
+          "start": 25.219,
+          "end": 27.094,
+          "start_frame": 605,
+          "end_frame": 650
+        },
+        {
+          "action": "Walking",
+          "start": 27.844,
+          "end": 28.094,
+          "start_frame": 668,
+          "end_frame": 674
+        },
+        {
+          "action": "Walking",
+          "start": 28.469,
+          "end": 29.969,
+          "start_frame": 683,
+          "end_frame": 719
+        },
+        {
+          "action": "Shaking Head",
+          "start": 28.969,
+          "end": 29.094,
+          "start_frame": 695,
+          "end_frame": 698
+        }
+      ]
+    }
+  ]
+}

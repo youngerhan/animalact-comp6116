@@ -1,0 +1,34 @@
+{
+  "video_id": "KFFUKUDX",
+  "video": "KFFUKUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "African Oryx"
+  ],
+  "list_animal_action": [
+    [
+      "African Oryx",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "African Oryx",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "African Oryx",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.412,
+          "start_frame": 0,
+          "end_frame": 130
+        }
+      ]
+    }
+  ]
+}

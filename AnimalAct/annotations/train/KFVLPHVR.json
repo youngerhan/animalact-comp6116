@@ -1,0 +1,55 @@
+{
+  "video_id": "KFVLPHVR",
+  "video": "KFVLPHVR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lesser Sunda Pit Viper",
+    "Lizard"
+  ],
+  "list_animal_action": [
+    [
+      "Lesser Sunda Pit Viper",
+      "Biting"
+    ],
+    [
+      "Lizard",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lesser Sunda Pit Viper",
+      "Biting"
+    ],
+    [
+      "Lizard",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lesser Sunda Pit Viper",
+      "actions": [
+        {
+          "action": "Biting",
+          "start": 0.0,
+          "end": 7.21,
+          "start_frame": 0,
+          "end_frame": 173
+        }
+      ]
+    },
+    {
+      "animal": "Lizard",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 7.21,
+          "start_frame": 0,
+          "end_frame": 173
+        }
+      ]
+    }
+  ]
+}

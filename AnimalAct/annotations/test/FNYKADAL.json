@@ -1,0 +1,56 @@
+{
+  "video_id": "FNYKADAL",
+  "video": "FNYKADAL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Shaking Head"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Shaking Head"
+    ],
+    [
+      "Grey Heron",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.178,
+          "start_frame": 0,
+          "end_frame": 4
+        },
+        {
+          "action": "Shaking Head",
+          "start": 0.241,
+          "end": 0.373,
+          "start_frame": 6,
+          "end_frame": 9
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.436,
+          "end": 1.125,
+          "start_frame": 10,
+          "end_frame": 27
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "SXYTJMCV",
+  "video": "SXYTJMCV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Brown Garden Snail"
+  ],
+  "list_animal_action": [
+    [
+      "Brown Garden Snail",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Brown Garden Snail",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Brown Garden Snail",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.214,
+          "start_frame": 0,
+          "end_frame": 77
+        }
+      ]
+    }
+  ]
+}

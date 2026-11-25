@@ -1,0 +1,92 @@
+{
+  "video_id": "ZWWSSFXO",
+  "video": "ZWWSSFXO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tit Bird",
+      "Sensing"
+    ],
+    [
+      "Tit Bird",
+      "Flying"
+    ],
+    [
+      "Tit Bird",
+      "Washing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tit Bird",
+      "Sensing"
+    ],
+    [
+      "Tit Bird",
+      "Flying"
+    ],
+    [
+      "Tit Bird",
+      "Washing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 4.375,
+          "start_frame": 0,
+          "end_frame": 105
+        },
+        {
+          "action": "Washing",
+          "start": 0.167,
+          "end": 0.958,
+          "start_frame": 4,
+          "end_frame": 23
+        },
+        {
+          "action": "Flying",
+          "start": 2.125,
+          "end": 2.292,
+          "start_frame": 51,
+          "end_frame": 55
+        },
+        {
+          "action": "Washing",
+          "start": 4.375,
+          "end": 5.167,
+          "start_frame": 105,
+          "end_frame": 124
+        },
+        {
+          "action": "Sensing",
+          "start": 5.167,
+          "end": 7.167,
+          "start_frame": 124,
+          "end_frame": 172
+        },
+        {
+          "action": "Washing",
+          "start": 7.167,
+          "end": 7.792,
+          "start_frame": 172,
+          "end_frame": 187
+        },
+        {
+          "action": "Sensing",
+          "start": 7.792,
+          "end": 9.417,
+          "start_frame": 187,
+          "end_frame": 226
+        }
+      ]
+    }
+  ]
+}

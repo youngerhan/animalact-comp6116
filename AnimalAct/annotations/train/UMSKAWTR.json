@@ -1,0 +1,56 @@
+{
+  "video_id": "UMSKAWTR",
+  "video": "UMSKAWTR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Crotalus Willardi Ridge Nosed Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Crotalus Willardi Ridge Nosed Rattlesnake",
+      "Keeping still"
+    ],
+    [
+      "Crotalus Willardi Ridge Nosed Rattlesnake",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Crotalus Willardi Ridge Nosed Rattlesnake",
+      "Keeping still"
+    ],
+    [
+      "Crotalus Willardi Ridge Nosed Rattlesnake",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Crotalus Willardi Ridge Nosed Rattlesnake",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.667,
+          "start_frame": 0,
+          "end_frame": 64
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.681,
+          "end": 3.091,
+          "start_frame": 64,
+          "end_frame": 74
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.784,
+          "end": 5.512,
+          "start_frame": 91,
+          "end_frame": 132
+        }
+      ]
+    }
+  ]
+}

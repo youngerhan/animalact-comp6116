@@ -1,0 +1,50 @@
+{
+  "video_id": "RDLOTXYT",
+  "video": "RDLOTXYT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Shaking Head"
+    ],
+    [
+      "Raven",
+      "Rubbing its head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Shaking Head"
+    ],
+    [
+      "Raven",
+      "Rubbing its head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.4,
+          "end": 0.9
+        },
+        {
+          "action": "Rubbing its head",
+          "start": 0.9,
+          "end": 2.5
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.5,
+          "end": 3.12
+        }
+      ]
+    }
+  ]
+}

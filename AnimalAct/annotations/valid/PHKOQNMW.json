@@ -1,0 +1,56 @@
+{
+  "video_id": "PHKOQNMW",
+  "video": "PHKOQNMW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aedes Aegypti Mosquito"
+  ],
+  "list_animal_action": [
+    [
+      "Aedes Aegypti Mosquito",
+      "Swimming"
+    ],
+    [
+      "Aedes Aegypti Mosquito",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aedes Aegypti Mosquito",
+      "Swimming"
+    ],
+    [
+      "Aedes Aegypti Mosquito",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aedes Aegypti Mosquito",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.363,
+          "start_frame": 0,
+          "end_frame": 9
+        },
+        {
+          "action": "Swimming",
+          "start": 0.235,
+          "end": 3.214,
+          "start_frame": 6,
+          "end_frame": 77
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.194,
+          "end": 3.423,
+          "start_frame": 29,
+          "end_frame": 82
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_id": "UYANCFFP",
+  "video": "UYANCFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque",
+    "Maroon Macaque",
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Being Carried"
+    ],
+    [
+      "Maroon Macaque",
+      "Running"
+    ],
+    [
+      "Maroon Macaque",
+      "Carrying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Being Carried"
+    ],
+    [
+      "Maroon Macaque",
+      "Running"
+    ],
+    [
+      "Maroon Macaque",
+      "Carrying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 0.833,
+          "start_frame": 0,
+          "end_frame": 20
+        }
+      ]
+    },
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Carrying",
+          "start": 0.208,
+          "end": 1.0,
+          "start_frame": 5,
+          "end_frame": 24
+        },
+        {
+          "action": "Running",
+          "start": 0.208,
+          "end": 1.0,
+          "start_frame": 5,
+          "end_frame": 24
+        }
+      ]
+    },
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Being Carried",
+          "start": 0.208,
+          "end": 1.0,
+          "start_frame": 5,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

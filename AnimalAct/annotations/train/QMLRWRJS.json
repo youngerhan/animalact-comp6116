@@ -1,0 +1,55 @@
+{
+  "video_id": "QMLRWRJS",
+  "video": "QMLRWRJS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Darner Damselfly Larva",
+    "Mosquito Larva"
+  ],
+  "list_animal_action": [
+    [
+      "Darner Damselfly Larva",
+      "Eating"
+    ],
+    [
+      "Mosquito Larva",
+      "Being Eaten"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Darner Damselfly Larva",
+      "Eating"
+    ],
+    [
+      "Mosquito Larva",
+      "Being Eaten"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Darner Damselfly Larva",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.042,
+          "end": 4.52,
+          "start_frame": 1,
+          "end_frame": 108
+        }
+      ]
+    },
+    {
+      "animal": "Mosquito Larva",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.042,
+          "end": 4.52,
+          "start_frame": 1,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

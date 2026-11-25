@@ -1,0 +1,41 @@
+{
+  "video_id": "YNHDLFGA",
+  "video": "YNHDLFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.002,
+          "end": 2.234,
+          "start_frame": 0,
+          "end_frame": 54
+        },
+        {
+          "action": "Sensing",
+          "start": 3.033,
+          "end": 4.114,
+          "start_frame": 73,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

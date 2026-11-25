@@ -1,0 +1,101 @@
+{
+  "video_id": "GKOZPPTK",
+  "video": "GKOZPPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Attending"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ],
+    [
+      "Singing Nightingale",
+      "Sensing"
+    ],
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 1.568,
+          "start_frame": 0,
+          "end_frame": 38
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 16.416667,
+          "start_frame": 0,
+          "end_frame": 394
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.892,
+          "end": 3.355,
+          "start_frame": 45,
+          "end_frame": 81
+        },
+        {
+          "action": "Chirping",
+          "start": 2.349,
+          "end": 6.927,
+          "start_frame": 56,
+          "end_frame": 166
+        },
+        {
+          "action": "Chirping",
+          "start": 8.782,
+          "end": 16.237,
+          "start_frame": 211,
+          "end_frame": 390
+        },
+        {
+          "action": "Preening",
+          "start": 14.515,
+          "end": 16.417,
+          "start_frame": 348,
+          "end_frame": 394
+        }
+      ]
+    }
+  ]
+}

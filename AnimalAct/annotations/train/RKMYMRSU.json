@@ -1,0 +1,49 @@
+{
+  "video_id": "RKMYMRSU",
+  "video": "RKMYMRSU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Walking"
+    ],
+    [
+      "Wolf",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Walking"
+    ],
+    [
+      "Wolf",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 11.333,
+          "start_frame": 0,
+          "end_frame": 272
+        },
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.0,
+          "end": 11.333,
+          "start_frame": 0,
+          "end_frame": 272
+        }
+      ]
+    }
+  ]
+}

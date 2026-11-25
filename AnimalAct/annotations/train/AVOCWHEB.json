@@ -1,0 +1,34 @@
+{
+  "video_id": "AVOCWHEB",
+  "video": "AVOCWHEB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cabbage White Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Cabbage White Caterpillar",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cabbage White Caterpillar",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cabbage White Caterpillar",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.834,
+          "start_frame": 0,
+          "end_frame": 188
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "DABMZLHH",
+  "video": "DABMZLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Marbled Rubber Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Marbled Rubber Frog",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Marbled Rubber Frog",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Marbled Rubber Frog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.761,
+          "start_frame": 0,
+          "end_frame": 42
+        }
+      ]
+    }
+  ]
+}

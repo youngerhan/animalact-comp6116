@@ -1,0 +1,41 @@
+{
+  "video_id": "AMQHRVMP",
+  "video": "AMQHRVMP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.699,
+          "start_frame": 0,
+          "end_frame": 17
+        },
+        {
+          "action": "Attending",
+          "start": 0.853,
+          "end": 2.625,
+          "start_frame": 20,
+          "end_frame": 63
+        }
+      ]
+    }
+  ]
+}

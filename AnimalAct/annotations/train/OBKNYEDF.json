@@ -1,0 +1,34 @@
+{
+  "video_id": "OBKNYEDF",
+  "video": "OBKNYEDF.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Caretta Caretta Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Caretta Caretta Turtle",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Caretta Caretta Turtle",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Caretta Caretta Turtle",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 4.623,
+          "start_frame": 0,
+          "end_frame": 111
+        }
+      ]
+    }
+  ]
+}

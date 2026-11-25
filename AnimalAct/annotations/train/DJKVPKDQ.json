@@ -1,0 +1,34 @@
+{
+  "video_id": "DJKVPKDQ",
+  "video": "DJKVPKDQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Great Egret",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Egret",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Egret",
+      "actions": [
+        {
+          "action": "Shaking Head",
+          "start": 0.0,
+          "end": 0.594,
+          "start_frame": 0,
+          "end_frame": 14
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "video_id": "TUMNLSBA",
+  "video": "TUMNLSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flapping"
+    ],
+    [
+      "Bird",
+      "Sensing"
+    ],
+    [
+      "Bird",
+      "Washing"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 0.0,
+          "end": 1.24,
+          "start_frame": 0,
+          "end_frame": 30
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.846,
+          "start_frame": 0,
+          "end_frame": 68
+        },
+        {
+          "action": "Washing",
+          "start": 0.002,
+          "end": 1.295,
+          "start_frame": 0,
+          "end_frame": 31
+        },
+        {
+          "action": "Walking",
+          "start": 0.442,
+          "end": 1.07,
+          "start_frame": 11,
+          "end_frame": 26
+        },
+        {
+          "action": "Flapping",
+          "start": 2.32,
+          "end": 4.12,
+          "start_frame": 56,
+          "end_frame": 99
+        },
+        {
+          "action": "Washing",
+          "start": 2.32,
+          "end": 4.125,
+          "start_frame": 56,
+          "end_frame": 99
+        },
+        {
+          "action": "Walking",
+          "start": 2.383,
+          "end": 3.894,
+          "start_frame": 57,
+          "end_frame": 93
+        },
+        {
+          "action": "Sensing",
+          "start": 3.163,
+          "end": 4.125,
+          "start_frame": 76,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

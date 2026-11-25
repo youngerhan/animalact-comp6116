@@ -1,0 +1,79 @@
+{
+  "video_id": "SSZDINPL",
+  "video": "SSZDINPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Langur",
+      "Manipulating Object"
+    ],
+    [
+      "Grey Langur",
+      "Sensing"
+    ],
+    [
+      "Grey Langur",
+      "Jumping"
+    ],
+    [
+      "Grey Langur",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Langur",
+      "Manipulating Object"
+    ],
+    [
+      "Grey Langur",
+      "Sensing"
+    ],
+    [
+      "Grey Langur",
+      "Jumping"
+    ],
+    [
+      "Grey Langur",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Langur",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.083,
+          "start_frame": 0,
+          "end_frame": 2
+        },
+        {
+          "action": "Sensing",
+          "start": 0.083,
+          "end": 1.917,
+          "start_frame": 2,
+          "end_frame": 46
+        },
+        {
+          "action": "Manipulating Object",
+          "start": 0.083,
+          "end": 4.208,
+          "start_frame": 2,
+          "end_frame": 101
+        },
+        {
+          "action": "Jumping",
+          "start": 1.917,
+          "end": 2.958,
+          "start_frame": 46,
+          "end_frame": 71
+        }
+      ]
+    }
+  ]
+}

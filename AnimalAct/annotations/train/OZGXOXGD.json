@@ -1,0 +1,79 @@
+{
+  "video_id": "OZGXOXGD",
+  "video": "OZGXOXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo",
+      "Walking"
+    ],
+    [
+      "Kangaroo",
+      "Keeping still"
+    ],
+    [
+      "Kangaroo",
+      "Sensing"
+    ],
+    [
+      "Kangaroo",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo",
+      "Walking"
+    ],
+    [
+      "Kangaroo",
+      "Keeping still"
+    ],
+    [
+      "Kangaroo",
+      "Sensing"
+    ],
+    [
+      "Kangaroo",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.25,
+          "start_frame": 0,
+          "end_frame": 54
+        },
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 3.917,
+          "start_frame": 0,
+          "end_frame": 94
+        },
+        {
+          "action": "Walking",
+          "start": 0.083,
+          "end": 3.917,
+          "start_frame": 2,
+          "end_frame": 94
+        },
+        {
+          "action": "Sensing",
+          "start": 2.252,
+          "end": 3.917,
+          "start_frame": 54,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

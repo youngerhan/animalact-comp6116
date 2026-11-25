@@ -1,0 +1,160 @@
+{
+  "video_id": "VPDAGPLS",
+  "video": "VPDAGPLS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Ardea Alba Egret"
+  ],
+  "list_animal_action": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Spreading Wings"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Landing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Flapping"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Eating"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Ardea Alba Egret",
+      "Keeping still"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Attending"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Spreading Wings"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Landing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Flapping"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Eating"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Sensing"
+    ],
+    [
+      "Ardea Alba Egret",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Ardea Alba Egret",
+      "actions": [
+        {
+          "action": "Spreading Wings",
+          "start": 0.0,
+          "end": 0.866,
+          "start_frame": 0,
+          "end_frame": 21
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 7.001,
+          "start_frame": 0,
+          "end_frame": 168
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 7.001,
+          "start_frame": 0,
+          "end_frame": 168
+        },
+        {
+          "action": "Running",
+          "start": 0.003,
+          "end": 1.432,
+          "start_frame": 0,
+          "end_frame": 34
+        },
+        {
+          "action": "Sensing",
+          "start": 0.006,
+          "end": 7.001,
+          "start_frame": 0,
+          "end_frame": 168
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 1.432,
+          "end": 3.423,
+          "start_frame": 34,
+          "end_frame": 82
+        },
+        {
+          "action": "Landing",
+          "start": 2.88,
+          "end": 3.442,
+          "start_frame": 69,
+          "end_frame": 83
+        },
+        {
+          "action": "Eating",
+          "start": 4.671,
+          "end": 5.188,
+          "start_frame": 112,
+          "end_frame": 125
+        },
+        {
+          "action": "Flapping",
+          "start": 5.133,
+          "end": 6.351,
+          "start_frame": 123,
+          "end_frame": 152
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 5.142,
+          "end": 5.272,
+          "start_frame": 123,
+          "end_frame": 127
+        },
+        {
+          "action": "Running",
+          "start": 5.44,
+          "end": 7.001,
+          "start_frame": 131,
+          "end_frame": 168
+        }
+      ]
+    }
+  ]
+}

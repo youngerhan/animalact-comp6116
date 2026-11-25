@@ -1,0 +1,34 @@
+{
+  "video_id": "ZOLNEFYS",
+  "video": "ZOLNEFYS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Turtle",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Turtle",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Turtle",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.163,
+          "end": 4.936,
+          "start_frame": 4,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "GOVXEMME",
+  "video": "GOVXEMME.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Crane"
+  ],
+  "list_animal_action": [
+    [
+      "Common Crane",
+      "Flapping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Crane",
+      "Flapping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Crane",
+      "actions": [
+        {
+          "action": "Flapping",
+          "start": 2.49,
+          "end": 5.615,
+          "start_frame": 60,
+          "end_frame": 135
+        }
+      ]
+    }
+  ]
+}

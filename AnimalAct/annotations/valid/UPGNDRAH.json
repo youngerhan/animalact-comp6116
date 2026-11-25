@@ -1,0 +1,34 @@
+{
+  "video_id": "UPGNDRAH",
+  "video": "UPGNDRAH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Pygmy Owl"
+  ],
+  "list_animal_action": [
+    [
+      "Pygmy Owl",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Pygmy Owl",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Pygmy Owl",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.145,
+          "end": 1.516,
+          "start_frame": 3,
+          "end_frame": 36
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "SZDSGVEI",
+  "video": "SZDSGVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tringa Glareola Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Tringa Glareola Bird",
+      "Shaking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tringa Glareola Bird",
+      "Shaking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tringa Glareola Bird",
+      "actions": [
+        {
+          "action": "Shaking",
+          "start": 0.628,
+          "end": 1.019,
+          "start_frame": 15,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

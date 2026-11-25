@@ -1,0 +1,49 @@
+{
+  "video_id": "TMNOSPTK",
+  "video": "TMNOSPTK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Singing Nightingale"
+  ],
+  "list_animal_action": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Singing Nightingale",
+      "Keeping still"
+    ],
+    [
+      "Singing Nightingale",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Singing Nightingale",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.003,
+          "end": 4.682,
+          "start_frame": 0,
+          "end_frame": 112
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.689,
+          "end": 6.009,
+          "start_frame": 113,
+          "end_frame": 144
+        }
+      ]
+    }
+  ]
+}

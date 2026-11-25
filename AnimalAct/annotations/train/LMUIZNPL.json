@@ -1,0 +1,34 @@
+{
+  "video_id": "LMUIZNPL",
+  "video": "LMUIZNPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Squirrel"
+  ],
+  "list_animal_action": [
+    [
+      "Squirrel",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Squirrel",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Squirrel",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.329,
+          "end": 0.625,
+          "start_frame": 8,
+          "end_frame": 15
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "video_id": "GDMRSHGA",
+  "video": "GDMRSHGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Meerkat"
+  ],
+  "list_animal_action": [
+    [
+      "Meerkat",
+      "Keeping still"
+    ],
+    [
+      "Meerkat",
+      "Attending"
+    ],
+    [
+      "Meerkat",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Meerkat",
+      "Keeping still"
+    ],
+    [
+      "Meerkat",
+      "Attending"
+    ],
+    [
+      "Meerkat",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Meerkat",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.118,
+          "start_frame": 0,
+          "end_frame": 123
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 5.12,
+          "start_frame": 0,
+          "end_frame": 123
+        },
+        {
+          "action": "Sensing",
+          "start": 0.207,
+          "end": 0.504,
+          "start_frame": 5,
+          "end_frame": 12
+        },
+        {
+          "action": "Sensing",
+          "start": 1.982,
+          "end": 2.568,
+          "start_frame": 48,
+          "end_frame": 62
+        },
+        {
+          "action": "Sensing",
+          "start": 3.883,
+          "end": 4.536,
+          "start_frame": 93,
+          "end_frame": 109
+        }
+      ]
+    }
+  ]
+}

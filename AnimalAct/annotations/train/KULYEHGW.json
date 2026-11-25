@@ -1,0 +1,34 @@
+{
+  "video_id": "KULYEHGW",
+  "video": "KULYEHGW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Circus Aeruginosus Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Circus Aeruginosus Bird",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Circus Aeruginosus Bird",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Circus Aeruginosus Bird",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.0,
+          "end": 2.708,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

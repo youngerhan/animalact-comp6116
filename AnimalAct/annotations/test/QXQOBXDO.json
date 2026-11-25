@@ -1,0 +1,70 @@
+{
+  "video_id": "QXQOBXDO",
+  "video": "QXQOBXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Buffalo",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Buffalo",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Buffalo",
+      "Chasing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Buffalo",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Fleeing"
+    ],
+    [
+      "Buffalo",
+      "Chasing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Buffalo",
+      "actions": [
+        {
+          "action": "Chasing",
+          "start": 0.0,
+          "end": 2.083,
+          "start_frame": 0,
+          "end_frame": 50
+        },
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 2.083,
+          "start_frame": 0,
+          "end_frame": 50
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Fleeing",
+          "start": 0.236,
+          "end": 2.083,
+          "start_frame": 6,
+          "end_frame": 50
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "video_id": "FABRWRAH",
+  "video": "FABRWRAH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Pygmy Owl"
+  ],
+  "list_animal_action": [
+    [
+      "Pygmy Owl",
+      "Keeping still"
+    ],
+    [
+      "Pygmy Owl",
+      "Attending"
+    ],
+    [
+      "Pygmy Owl",
+      "Chirping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Pygmy Owl",
+      "Keeping still"
+    ],
+    [
+      "Pygmy Owl",
+      "Attending"
+    ],
+    [
+      "Pygmy Owl",
+      "Chirping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Pygmy Owl",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.139,
+          "start_frame": 0,
+          "end_frame": 3
+        },
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 0.208,
+          "start_frame": 0,
+          "end_frame": 5
+        },
+        {
+          "action": "Chirping",
+          "start": 0.318,
+          "end": 0.575,
+          "start_frame": 8,
+          "end_frame": 14
+        },
+        {
+          "action": "Attending",
+          "start": 0.429,
+          "end": 2.064,
+          "start_frame": 10,
+          "end_frame": 50
+        },
+        {
+          "action": "Chirping",
+          "start": 1.063,
+          "end": 1.616,
+          "start_frame": 26,
+          "end_frame": 39
+        },
+        {
+          "action": "Chirping",
+          "start": 2.022,
+          "end": 2.717,
+          "start_frame": 49,
+          "end_frame": 65
+        },
+        {
+          "action": "Attending",
+          "start": 2.241,
+          "end": 3.333,
+          "start_frame": 54,
+          "end_frame": 80
+        },
+        {
+          "action": "Keeping still",
+          "start": 2.25,
+          "end": 3.333,
+          "start_frame": 54,
+          "end_frame": 80
+        },
+        {
+          "action": "Chirping",
+          "start": 2.882,
+          "end": 3.333,
+          "start_frame": 69,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

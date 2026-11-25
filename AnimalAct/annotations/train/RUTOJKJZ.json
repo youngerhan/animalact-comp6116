@@ -1,0 +1,34 @@
+{
+  "video_id": "RUTOJKJZ",
+  "video": "RUTOJKJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Pine Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Western Pine Beetle",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Pine Beetle",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Pine Beetle",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 0.419,
+          "start_frame": 0,
+          "end_frame": 10
+        }
+      ]
+    }
+  ]
+}

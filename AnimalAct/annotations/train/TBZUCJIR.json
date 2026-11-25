@@ -1,0 +1,49 @@
+{
+  "video_id": "TBZUCJIR",
+  "video": "TBZUCJIR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alauda Arvensis Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Alauda Arvensis Bird",
+      "Attending"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alauda Arvensis Bird",
+      "Attending"
+    ],
+    [
+      "Alauda Arvensis Bird",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alauda Arvensis Bird",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.292,
+          "start_frame": 0,
+          "end_frame": 79
+        },
+        {
+          "action": "Attending",
+          "start": 3.292,
+          "end": 4.5,
+          "start_frame": 79,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

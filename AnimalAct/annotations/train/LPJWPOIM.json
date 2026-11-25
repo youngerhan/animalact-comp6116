@@ -1,0 +1,34 @@
+{
+  "video_id": "LPJWPOIM",
+  "video": "LPJWPOIM.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Sidewinder Rattlesnake"
+  ],
+  "list_animal_action": [
+    [
+      "Sidewinder Rattlesnake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Sidewinder Rattlesnake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Sidewinder Rattlesnake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

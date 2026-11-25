@@ -1,0 +1,101 @@
+{
+  "video_id": "DZROFPKK",
+  "video": "DZROFPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Shaking Head"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Preening"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 2.375,
+          "start_frame": 0,
+          "end_frame": 57
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.458,
+          "start_frame": 0,
+          "end_frame": 59
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.002,
+          "start_frame": 0,
+          "end_frame": 144
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.096,
+          "end": 3.93,
+          "start_frame": 74,
+          "end_frame": 94
+        },
+        {
+          "action": "Preening",
+          "start": 3.75,
+          "end": 6.5,
+          "start_frame": 90,
+          "end_frame": 156
+        },
+        {
+          "action": "Walking",
+          "start": 6.375,
+          "end": 7.625,
+          "start_frame": 153,
+          "end_frame": 183
+        }
+      ]
+    }
+  ]
+}

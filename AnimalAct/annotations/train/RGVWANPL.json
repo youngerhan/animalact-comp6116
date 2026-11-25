@@ -1,0 +1,49 @@
+{
+  "video_id": "RGVWANPL",
+  "video": "RGVWANPL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Langur"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Langur",
+      "Exploring"
+    ],
+    [
+      "Grey Langur",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Langur",
+      "Exploring"
+    ],
+    [
+      "Grey Langur",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Langur",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

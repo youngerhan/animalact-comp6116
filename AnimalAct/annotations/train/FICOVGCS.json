@@ -1,0 +1,34 @@
+{
+  "video_id": "FICOVGCS",
+  "video": "FICOVGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Elephant"
+  ],
+  "list_animal_action": [
+    [
+      "Elephant",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Elephant",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Elephant",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.008,
+          "end": 3.501,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

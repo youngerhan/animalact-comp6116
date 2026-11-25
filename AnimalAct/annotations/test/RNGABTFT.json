@@ -1,0 +1,49 @@
+{
+  "video_id": "RNGABTFT",
+  "video": "RNGABTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.094,
+          "start_frame": 0,
+          "end_frame": 194
+        },
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 8.417,
+          "start_frame": 0,
+          "end_frame": 202
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "PIDCPXGD",
+  "video": "PIDCPXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horse"
+  ],
+  "list_animal_action": [
+    [
+      "Horse",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horse",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horse",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.002,
+          "end": 2.717,
+          "start_frame": 0,
+          "end_frame": 65
+        }
+      ]
+    }
+  ]
+}

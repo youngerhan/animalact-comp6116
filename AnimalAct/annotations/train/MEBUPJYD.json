@@ -1,0 +1,34 @@
+{
+  "video_id": "MEBUPJYD",
+  "video": "MEBUPJYD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aphis Fabae Aphid"
+  ],
+  "list_animal_action": [
+    [
+      "Aphis Fabae Aphid",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aphis Fabae Aphid",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aphis Fabae Aphid",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 5.125,
+          "start_frame": 0,
+          "end_frame": 123
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "OTEBBQRD",
+  "video": "OTEBBQRD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jerusalam Cricket"
+  ],
+  "list_animal_action": [
+    [
+      "Jerusalam Cricket",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jerusalam Cricket",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jerusalam Cricket",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.125,
+          "end": 4.125,
+          "start_frame": 3,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

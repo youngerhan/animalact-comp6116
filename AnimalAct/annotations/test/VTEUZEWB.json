@@ -1,0 +1,49 @@
+{
+  "video_id": "VTEUZEWB",
+  "video": "VTEUZEWB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Philomachus Pugnax Ruff Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Walking"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Walking"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Philomachus Pugnax Ruff Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 5.225,
+          "start_frame": 0,
+          "end_frame": 125
+        },
+        {
+          "action": "Preening",
+          "start": 0.639,
+          "end": 5.225,
+          "start_frame": 15,
+          "end_frame": 125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "video_id": "LOLZUMYV",
+  "video": "LOLZUMYV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Attacking"
+    ],
+    [
+      "Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Attacking"
+    ],
+    [
+      "Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.574,
+          "start_frame": 0,
+          "end_frame": 62
+        },
+        {
+          "action": "Attacking",
+          "start": 2.601,
+          "end": 4.44,
+          "start_frame": 62,
+          "end_frame": 107
+        },
+        {
+          "action": "Keeping still",
+          "start": 4.479,
+          "end": 11.208,
+          "start_frame": 107,
+          "end_frame": 269
+        }
+      ]
+    }
+  ]
+}

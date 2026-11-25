@@ -1,0 +1,49 @@
+{
+  "video_id": "TYAODRAC",
+  "video": "TYAODRAC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Capuchin Monkey"
+  ],
+  "list_animal_action": [
+    [
+      "Capuchin Monkey",
+      "Walking"
+    ],
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Capuchin Monkey",
+      "Walking"
+    ],
+    [
+      "Capuchin Monkey",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Capuchin Monkey",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 8.34,
+          "start_frame": 0,
+          "end_frame": 200
+        },
+        {
+          "action": "Walking",
+          "start": 8.34,
+          "end": 9.625,
+          "start_frame": 200,
+          "end_frame": 231
+        }
+      ]
+    }
+  ]
+}

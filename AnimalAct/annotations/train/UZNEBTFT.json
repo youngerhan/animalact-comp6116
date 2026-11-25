@@ -1,0 +1,122 @@
+{
+  "video_id": "UZNEBTFT",
+  "video": "UZNEBTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Walking"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Walking"
+    ],
+    [
+      "Flamingo",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.0,
+          "end": 0.961,
+          "start_frame": 0,
+          "end_frame": 23
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 15.006,
+          "start_frame": 0,
+          "end_frame": 360
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 0.342,
+          "end": 3.096,
+          "start_frame": 8,
+          "end_frame": 74
+        },
+        {
+          "action": "Walking",
+          "start": 2.006,
+          "end": 5.795,
+          "start_frame": 48,
+          "end_frame": 139
+        },
+        {
+          "action": "Drinking",
+          "start": 2.52,
+          "end": 4.581,
+          "start_frame": 60,
+          "end_frame": 110
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 3.601,
+          "end": 5.886,
+          "start_frame": 86,
+          "end_frame": 141
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 3.922,
+          "end": 6.4,
+          "start_frame": 94,
+          "end_frame": 154
+        },
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 6.354,
+          "end": 7.644,
+          "start_frame": 152,
+          "end_frame": 183
+        },
+        {
+          "action": "Drinking",
+          "start": 7.716,
+          "end": 15.021,
+          "start_frame": 185,
+          "end_frame": 361
+        }
+      ]
+    }
+  ]
+}

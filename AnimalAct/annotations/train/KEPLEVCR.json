@@ -1,0 +1,77 @@
+{
+  "video_id": "KEPLEVCR",
+  "video": "KEPLEVCR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tortoise"
+  ],
+  "list_animal_action": [
+    [
+      "Tortoise",
+      "Walking"
+    ],
+    [
+      "Tortoise",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tortoise",
+      "Walking"
+    ],
+    [
+      "Tortoise",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tortoise",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 4.444,
+          "start_frame": 0,
+          "end_frame": 107
+        },
+        {
+          "action": "Walking",
+          "start": 4.444,
+          "end": 13.523,
+          "start_frame": 107,
+          "end_frame": 325
+        },
+        {
+          "action": "Keeping still",
+          "start": 13.523,
+          "end": 16.07,
+          "start_frame": 325,
+          "end_frame": 386
+        },
+        {
+          "action": "Walking",
+          "start": 16.07,
+          "end": 17.89,
+          "start_frame": 386,
+          "end_frame": 429
+        },
+        {
+          "action": "Keeping still",
+          "start": 17.909,
+          "end": 21.72,
+          "start_frame": 430,
+          "end_frame": 521
+        },
+        {
+          "action": "Walking",
+          "start": 21.72,
+          "end": 22.333,
+          "start_frame": 521,
+          "end_frame": 536
+        }
+      ]
+    }
+  ]
+}

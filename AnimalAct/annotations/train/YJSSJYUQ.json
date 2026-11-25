@@ -1,0 +1,70 @@
+{
+  "video_id": "YJSSJYUQ",
+  "video": "YJSSJYUQ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Formica Accreta",
+    "Polyergus Mexicanus"
+  ],
+  "list_animal_action": [
+    [
+      "Formica Accreta",
+      "Moving"
+    ],
+    [
+      "Formica Accreta",
+      "Fighting"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Fighting"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Formica Accreta",
+      "Moving"
+    ],
+    [
+      "Formica Accreta",
+      "Fighting"
+    ],
+    [
+      "Polyergus Mexicanus",
+      "Fighting"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Formica Accreta",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.125,
+          "start_frame": 0,
+          "end_frame": 75
+        },
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 3.125,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    },
+    {
+      "animal": "Polyergus Mexicanus",
+      "actions": [
+        {
+          "action": "Fighting",
+          "start": 0.0,
+          "end": 3.125,
+          "start_frame": 0,
+          "end_frame": 75
+        }
+      ]
+    }
+  ]
+}

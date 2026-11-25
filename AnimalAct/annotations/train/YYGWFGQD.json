@@ -1,0 +1,34 @@
+{
+  "video_id": "YYGWFGQD",
+  "video": "YYGWFGQD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Dead"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Dead"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Dead",
+          "start": 0.0,
+          "end": 1.833,
+          "start_frame": 0,
+          "end_frame": 44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "UBPUDVTI",
+  "video": "UBPUDVTI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Smew"
+  ],
+  "list_animal_action": [
+    [
+      "Smew",
+      "Swimming"
+    ],
+    [
+      "Smew",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Smew",
+      "Swimming"
+    ],
+    [
+      "Smew",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Smew",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.219,
+          "start_frame": 0,
+          "end_frame": 77
+        },
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 3.333,
+          "start_frame": 0,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "XNTOXSEK",
+  "video": "XNTOXSEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Jack Snipe Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Jack Snipe Bird",
+      "Walking"
+    ],
+    [
+      "Jack Snipe Bird",
+      "Shaking Head"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Jack Snipe Bird",
+      "Walking"
+    ],
+    [
+      "Jack Snipe Bird",
+      "Shaking Head"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Jack Snipe Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.833,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Shaking Head",
+          "start": 2.719,
+          "end": 2.844,
+          "start_frame": 65,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "video_id": "JSKBJEWB",
+  "video": "JSKBJEWB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Philomachus Pugnax Ruff Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Preening"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Philomachus Pugnax Ruff Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 0.123,
+          "start_frame": 0,
+          "end_frame": 3
+        },
+        {
+          "action": "Preening",
+          "start": 1.832,
+          "end": 4.988,
+          "start_frame": 44,
+          "end_frame": 120
+        },
+        {
+          "action": "Preening",
+          "start": 9.131,
+          "end": 9.417,
+          "start_frame": 219,
+          "end_frame": 226
+        }
+      ]
+    }
+  ]
+}

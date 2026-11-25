@@ -1,0 +1,44 @@
+{
+  "run": "runs\\ensemble4",
+  "grid": [
+    {
+      "alpha": 0.0,
+      "valid_mAP": 0.4469692674728,
+      "valid_macro_F1": 0.4326863051000037,
+      "threshold": 0.3
+    },
+    {
+      "alpha": 0.25,
+      "valid_mAP": 0.44545516362890264,
+      "valid_macro_F1": 0.44382781492710305,
+      "threshold": 0.5
+    },
+    {
+      "alpha": 0.5,
+      "valid_mAP": 0.44360440495799497,
+      "valid_macro_F1": 0.4339621560808158,
+      "threshold": 0.45
+    },
+    {
+      "alpha": 0.75,
+      "valid_mAP": 0.4410520901642342,
+      "valid_macro_F1": 0.41542422191045586,
+      "threshold": 0.75
+    },
+    {
+      "alpha": 1.0,
+      "valid_mAP": 0.42875504558175065,
+      "valid_macro_F1": 0.3961125170626419,
+      "threshold": 0.8
+    }
+  ],
+  "chosen_alpha": 0.0,
+  "test_without_prior": {
+    "mAP": 0.4861254162202758,
+    "macro_F1": 0.44612568754791876
+  },
+  "test_with_prior": {
+    "mAP": 0.4861254162202758,
+    "macro_F1": 0.44612568754791876
+  }
+}

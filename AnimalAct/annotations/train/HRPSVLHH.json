@@ -1,0 +1,34 @@
+{
+  "video_id": "HRPSVLHH",
+  "video": "HRPSVLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.333,
+          "start_frame": 0,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}

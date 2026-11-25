@@ -1,0 +1,34 @@
+{
+  "video_id": "XMMRKDSN",
+  "video": "XMMRKDSN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snow Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Snow Leopard",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snow Leopard",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snow Leopard",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.0,
+          "end": 4.917,
+          "start_frame": 0,
+          "end_frame": 118
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "video_id": "QCMVEXYT",
+  "video": "QCMVEXYT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Attending"
+    ],
+    [
+      "Raven",
+      "Rubbing its head"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Attending"
+    ],
+    [
+      "Raven",
+      "Rubbing its head"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Rubbing its head",
+          "start": 0.0,
+          "end": 0.333,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Attending",
+          "start": 0.333,
+          "end": 0.625,
+          "start_frame": 8,
+          "end_frame": 15
+        },
+        {
+          "action": "Sensing",
+          "start": 0.625,
+          "end": 1.417,
+          "start_frame": 15,
+          "end_frame": 34
+        },
+        {
+          "action": "Rubbing its head",
+          "start": 1.417,
+          "end": 5.917,
+          "start_frame": 34,
+          "end_frame": 142
+        },
+        {
+          "action": "Attending",
+          "start": 5.917,
+          "end": 6.208,
+          "start_frame": 142,
+          "end_frame": 149
+        }
+      ]
+    }
+  ]
+}

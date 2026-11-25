@@ -1,0 +1,49 @@
+{
+  "video_id": "VCOWZFYS",
+  "video": "VCOWZFYS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Keeping still"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Keeping still"
+    ],
+    [
+      "Bird",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Flying",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.625,
+          "end": 3.0,
+          "start_frame": 15,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

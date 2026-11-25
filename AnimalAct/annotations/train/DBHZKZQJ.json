@@ -1,0 +1,34 @@
+{
+  "video_id": "DBHZKZQJ",
+  "video": "DBHZKZQJ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Jumping"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Jumping"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Jumping",
+          "start": 0.198,
+          "end": 3.323,
+          "start_frame": 5,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

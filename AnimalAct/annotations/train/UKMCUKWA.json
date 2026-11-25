@@ -1,0 +1,55 @@
+{
+  "video_id": "UKMCUKWA",
+  "video": "UKMCUKWA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Snake",
+    "Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "Snake",
+      "Moving"
+    ],
+    [
+      "Iguana",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Snake",
+      "Moving"
+    ],
+    [
+      "Iguana",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 1.227,
+          "end": 2.5,
+          "start_frame": 29,
+          "end_frame": 60
+        }
+      ]
+    },
+    {
+      "animal": "Iguana",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.031,
+          "end": 2.43,
+          "start_frame": 1,
+          "end_frame": 58
+        }
+      ]
+    }
+  ]
+}

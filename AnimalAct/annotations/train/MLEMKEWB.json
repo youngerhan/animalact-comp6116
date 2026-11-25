@@ -1,0 +1,58 @@
+{
+  "video_id": "MLEMKEWB",
+  "video": "MLEMKEWB.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Philomachus Pugnax Ruff Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Walking"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Spreading Wings"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Walking"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Spreading Wings"
+    ],
+    [
+      "Philomachus Pugnax Ruff Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Philomachus Pugnax Ruff Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.8
+        },
+        {
+          "action": "Spreading Wings",
+          "start": 1.8,
+          "end": 4.0
+        },
+        {
+          "action": "Sensing",
+          "start": 4.0,
+          "end": 5.5
+        }
+      ]
+    }
+  ]
+}

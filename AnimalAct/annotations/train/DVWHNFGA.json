@@ -1,0 +1,34 @@
+{
+  "video_id": "DVWHNFGA",
+  "video": "DVWHNFGA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 2.201,
+          "start_frame": 0,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

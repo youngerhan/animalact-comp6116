@@ -1,0 +1,71 @@
+{
+  "video_id": "SYKTGZIE",
+  "video": "SYKTGZIE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Flying"
+    ],
+    [
+      "Bird",
+      "Eating"
+    ],
+    [
+      "Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 2.75,
+          "start_frame": 0,
+          "end_frame": 66
+        },
+        {
+          "action": "Flying",
+          "start": 0.417,
+          "end": 0.958,
+          "start_frame": 10,
+          "end_frame": 23
+        },
+        {
+          "action": "Walking",
+          "start": 1.792,
+          "end": 2.333,
+          "start_frame": 43,
+          "end_frame": 56
+        },
+        {
+          "action": "Flying",
+          "start": 2.542,
+          "end": 3.0,
+          "start_frame": 61,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

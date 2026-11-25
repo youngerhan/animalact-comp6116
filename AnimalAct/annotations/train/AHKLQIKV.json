@@ -1,0 +1,34 @@
+{
+  "video_id": "AHKLQIKV",
+  "video": "AHKLQIKV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Otter",
+      "Playing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Otter",
+      "Playing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Otter",
+      "actions": [
+        {
+          "action": "Playing",
+          "start": 0.0,
+          "end": 2.917,
+          "start_frame": 0,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

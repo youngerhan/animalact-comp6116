@@ -1,0 +1,34 @@
+{
+  "video_id": "SKOYTKEW",
+  "video": "SKOYTKEW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Rabbit"
+  ],
+  "list_animal_action": [
+    [
+      "Rabbit",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Rabbit",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Rabbit",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.125,
+          "start_frame": 0,
+          "end_frame": 3
+        }
+      ]
+    }
+  ]
+}

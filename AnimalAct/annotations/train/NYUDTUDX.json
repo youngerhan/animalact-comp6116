@@ -1,0 +1,34 @@
+{
+  "video_id": "NYUDTUDX",
+  "video": "NYUDTUDX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cheetah"
+  ],
+  "list_animal_action": [
+    [
+      "Cheetah",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cheetah",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cheetah",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.917,
+          "start_frame": 0,
+          "end_frame": 94
+        }
+      ]
+    }
+  ]
+}

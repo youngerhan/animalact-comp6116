@@ -1,0 +1,55 @@
+{
+  "video_id": "THTVXNJC",
+  "video": "THTVXNJC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giraffe",
+    "Cheetah"
+  ],
+  "list_animal_action": [
+    [
+      "Giraffe",
+      "Keeping still"
+    ],
+    [
+      "Cheetah",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giraffe",
+      "Keeping still"
+    ],
+    [
+      "Cheetah",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giraffe",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 2.5,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    },
+    {
+      "animal": "Cheetah",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.333,
+          "start_frame": 0,
+          "end_frame": 56
+        }
+      ]
+    }
+  ]
+}

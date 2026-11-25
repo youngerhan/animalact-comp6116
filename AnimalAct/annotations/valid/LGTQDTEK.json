@@ -1,0 +1,34 @@
+{
+  "video_id": "LGTQDTEK",
+  "video": "LGTQDTEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Otter"
+  ],
+  "list_animal_action": [
+    [
+      "Otter",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Otter",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Otter",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 1.913,
+          "start_frame": 0,
+          "end_frame": 46
+        }
+      ]
+    }
+  ]
+}

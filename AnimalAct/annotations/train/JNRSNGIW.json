@@ -1,0 +1,49 @@
+{
+  "video_id": "JNRSNGIW",
+  "video": "JNRSNGIW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grey Heron"
+  ],
+  "list_animal_action": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grey Heron",
+      "Keeping still"
+    ],
+    [
+      "Grey Heron",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grey Heron",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 6.469,
+          "start_frame": 0,
+          "end_frame": 155
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 6.625,
+          "start_frame": 0,
+          "end_frame": 159
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "ILLOTTFT",
+  "video": "ILLOTTFT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Flamingo"
+  ],
+  "list_animal_action": [
+    [
+      "Flamingo",
+      "Preening"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Flamingo",
+      "Preening"
+    ],
+    [
+      "Flamingo",
+      "Drinking"
+    ],
+    [
+      "Flamingo",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Flamingo",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 0.5,
+          "start_frame": 0,
+          "end_frame": 12
+        },
+        {
+          "action": "Drinking",
+          "start": 0.0,
+          "end": 4.875,
+          "start_frame": 0,
+          "end_frame": 117
+        },
+        {
+          "action": "Preening",
+          "start": 4.5,
+          "end": 6.0,
+          "start_frame": 108,
+          "end_frame": 144
+        },
+        {
+          "action": "Sensing",
+          "start": 5.625,
+          "end": 7.417,
+          "start_frame": 135,
+          "end_frame": 178
+        }
+      ]
+    }
+  ]
+}

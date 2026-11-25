@@ -1,0 +1,55 @@
+{
+  "video_id": "GUQFNZYO",
+  "video": "GUQFNZYO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Swan",
+    "Black Stork"
+  ],
+  "list_animal_action": [
+    [
+      "Swan",
+      "Preening"
+    ],
+    [
+      "Black Stork",
+      "Exploring"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Swan",
+      "Preening"
+    ],
+    [
+      "Black Stork",
+      "Exploring"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Swan",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 13.625,
+          "start_frame": 0,
+          "end_frame": 327
+        }
+      ]
+    },
+    {
+      "animal": "Black Stork",
+      "actions": [
+        {
+          "action": "Exploring",
+          "start": 0.0,
+          "end": 13.625,
+          "start_frame": 0,
+          "end_frame": 327
+        }
+      ]
+    }
+  ]
+}

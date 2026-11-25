@@ -1,0 +1,34 @@
+{
+  "video_id": "DTNOZNCR",
+  "video": "DTNOZNCR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goose"
+  ],
+  "list_animal_action": [
+    [
+      "Goose",
+      "Swimming"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goose",
+      "Swimming"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goose",
+      "actions": [
+        {
+          "action": "Swimming",
+          "start": 0.0,
+          "end": 1.417,
+          "start_frame": 0,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

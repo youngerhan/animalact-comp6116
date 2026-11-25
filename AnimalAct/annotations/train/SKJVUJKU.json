@@ -1,0 +1,34 @@
+{
+  "video_id": "SKJVUJKU",
+  "video": "SKJVUJKU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Goat"
+  ],
+  "list_animal_action": [
+    [
+      "Goat",
+      "Attacking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Goat",
+      "Attacking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Goat",
+      "actions": [
+        {
+          "action": "Attacking",
+          "start": 0.726,
+          "end": 2.208,
+          "start_frame": 17,
+          "end_frame": 53
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "TCPFAICI",
+  "video": "TCPFAICI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cheetah"
+  ],
+  "list_animal_action": [
+    [
+      "Cheetah",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cheetah",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cheetah",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 1.282,
+          "end": 4.125,
+          "start_frame": 31,
+          "end_frame": 99
+        }
+      ]
+    }
+  ]
+}

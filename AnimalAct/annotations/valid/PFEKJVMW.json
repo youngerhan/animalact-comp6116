@@ -1,0 +1,63 @@
+{
+  "video_id": "PFEKJVMW",
+  "video": "PFEKJVMW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Russell'S Viper"
+  ],
+  "list_animal_action": [
+    [
+      "Russell'S Viper",
+      "Keeping still"
+    ],
+    [
+      "Russell'S Viper",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Russell'S Viper",
+      "Keeping still"
+    ],
+    [
+      "Russell'S Viper",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Russell'S Viper",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.008,
+          "end": 4.19,
+          "start_frame": 0,
+          "end_frame": 101
+        },
+        {
+          "action": "Moving",
+          "start": 2.337,
+          "end": 6.233,
+          "start_frame": 56,
+          "end_frame": 150
+        },
+        {
+          "action": "Keeping still",
+          "start": 5.891,
+          "end": 12.82,
+          "start_frame": 141,
+          "end_frame": 308
+        },
+        {
+          "action": "Moving",
+          "start": 12.674,
+          "end": 16.991,
+          "start_frame": 304,
+          "end_frame": 408
+        }
+      ]
+    }
+  ]
+}

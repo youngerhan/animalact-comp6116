@@ -1,0 +1,55 @@
+{
+  "video_id": "JDOYWYMI",
+  "video": "JDOYWYMI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aphid",
+    "Hoverfly Young"
+  ],
+  "list_animal_action": [
+    [
+      "Aphid",
+      "Being Eaten"
+    ],
+    [
+      "Hoverfly Young",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aphid",
+      "Being Eaten"
+    ],
+    [
+      "Hoverfly Young",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aphid",
+      "actions": [
+        {
+          "action": "Being Eaten",
+          "start": 0.0,
+          "end": 11.8,
+          "start_frame": 0,
+          "end_frame": 283
+        }
+      ]
+    },
+    {
+      "animal": "Hoverfly Young",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 11.822,
+          "start_frame": 0,
+          "end_frame": 284
+        }
+      ]
+    }
+  ]
+}

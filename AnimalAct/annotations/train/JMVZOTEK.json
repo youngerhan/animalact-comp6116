@@ -1,0 +1,34 @@
+{
+  "video_id": "JMVZOTEK",
+  "video": "JMVZOTEK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red-Ruffed Lemur"
+  ],
+  "list_animal_action": [
+    [
+      "Red-Ruffed Lemur",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red-Ruffed Lemur",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red-Ruffed Lemur",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.125,
+          "end": 1.208,
+          "start_frame": 3,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

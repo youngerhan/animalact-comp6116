@@ -1,0 +1,144 @@
+{
+  "video_id": "YZFYRKOU",
+  "video": "YZFYRKOU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Yellowhammer",
+    "Yellowhammer Young"
+  ],
+  "list_animal_action": [
+    [
+      "Yellowhammer",
+      "Eating"
+    ],
+    [
+      "Yellowhammer Young",
+      "Eating"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer Young",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ],
+    [
+      "Yellowhammer",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Yellowhammer",
+      "Eating"
+    ],
+    [
+      "Yellowhammer Young",
+      "Eating"
+    ],
+    [
+      "Yellowhammer",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer Young",
+      "Chirping"
+    ],
+    [
+      "Yellowhammer",
+      "Sensing"
+    ],
+    [
+      "Yellowhammer",
+      "Sharing Food"
+    ],
+    [
+      "Yellowhammer",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Yellowhammer",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 6.119,
+          "start_frame": 0,
+          "end_frame": 147
+        },
+        {
+          "action": "Chirping",
+          "start": 1.168,
+          "end": 1.277,
+          "start_frame": 28,
+          "end_frame": 31
+        },
+        {
+          "action": "Sharing Food",
+          "start": 1.21,
+          "end": 2.797,
+          "start_frame": 29,
+          "end_frame": 67
+        },
+        {
+          "action": "Sharing Food",
+          "start": 4.623,
+          "end": 5.097,
+          "start_frame": 111,
+          "end_frame": 122
+        },
+        {
+          "action": "Eating",
+          "start": 4.775,
+          "end": 5.266,
+          "start_frame": 115,
+          "end_frame": 126
+        },
+        {
+          "action": "Walking",
+          "start": 4.85,
+          "end": 6.125,
+          "start_frame": 116,
+          "end_frame": 147
+        }
+      ]
+    },
+    {
+      "animal": "Yellowhammer Young",
+      "actions": [
+        {
+          "action": "Chirping",
+          "start": 0.006,
+          "end": 6.125,
+          "start_frame": 0,
+          "end_frame": 147
+        },
+        {
+          "action": "Eating",
+          "start": 1.208,
+          "end": 2.799,
+          "start_frame": 29,
+          "end_frame": 67
+        },
+        {
+          "action": "Eating",
+          "start": 4.617,
+          "end": 5.102,
+          "start_frame": 111,
+          "end_frame": 122
+        }
+      ]
+    }
+  ]
+}

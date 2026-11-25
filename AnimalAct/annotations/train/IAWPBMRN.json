@@ -1,0 +1,34 @@
+{
+  "video_id": "IAWPBMRN",
+  "video": "IAWPBMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 0.917,
+          "start_frame": 0,
+          "end_frame": 22
+        }
+      ]
+    }
+  ]
+}

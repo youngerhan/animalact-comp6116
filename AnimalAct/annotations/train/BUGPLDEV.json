@@ -1,0 +1,34 @@
+{
+  "video_id": "BUGPLDEV",
+  "video": "BUGPLDEV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Gecko"
+  ],
+  "list_animal_action": [
+    [
+      "Gecko",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Gecko",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Gecko",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.0,
+          "end": 3.333,
+          "start_frame": 0,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

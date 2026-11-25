@@ -1,0 +1,49 @@
+{
+  "video_id": "RDSQUPHK",
+  "video": "RDSQUPHK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Azure Tit Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Azure Tit Bird",
+      "Rubbing its head"
+    ],
+    [
+      "Azure Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Azure Tit Bird",
+      "Rubbing its head"
+    ],
+    [
+      "Azure Tit Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Azure Tit Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.005,
+          "end": 6.333,
+          "start_frame": 24,
+          "end_frame": 152
+        },
+        {
+          "action": "Rubbing its head",
+          "start": 2.57,
+          "end": 2.911,
+          "start_frame": 62,
+          "end_frame": 70
+        }
+      ]
+    }
+  ]
+}

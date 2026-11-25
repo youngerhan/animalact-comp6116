@@ -1,0 +1,34 @@
+{
+  "video_id": "GQXRDYES",
+  "video": "GQXRDYES.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bushmaster Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Bushmaster Snake",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bushmaster Snake",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bushmaster Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 11.191,
+          "start_frame": 0,
+          "end_frame": 269
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "video_id": "KKBCXLHH",
+  "video": "KKBCXLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Hairy Caterpillar"
+  ],
+  "list_animal_action": [
+    [
+      "Hairy Caterpillar",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Hairy Caterpillar",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Hairy Caterpillar",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 1.25,
+          "start_frame": 0,
+          "end_frame": 30
+        },
+        {
+          "action": "Moving",
+          "start": 1.5,
+          "end": 2.459,
+          "start_frame": 36,
+          "end_frame": 59
+        }
+      ]
+    }
+  ]
+}

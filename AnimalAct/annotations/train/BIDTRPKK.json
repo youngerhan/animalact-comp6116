@@ -1,0 +1,94 @@
+{
+  "video_id": "BIDTRPKK",
+  "video": "BIDTRPKK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Black-Winged Stilt"
+  ],
+  "list_animal_action": [
+    [
+      "Black-Winged Stilt",
+      "Flying"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Black-Winged Stilt",
+      "Flying"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Keeping still"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Walking"
+    ],
+    [
+      "Black-Winged Stilt",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Black-Winged Stilt",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 2.72,
+          "start_frame": 0,
+          "end_frame": 65
+        },
+        {
+          "action": "Drinking",
+          "start": 0.224,
+          "end": 1.385,
+          "start_frame": 5,
+          "end_frame": 33
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 2.773,
+          "end": 4.208,
+          "start_frame": 67,
+          "end_frame": 101
+        },
+        {
+          "action": "Flying",
+          "start": 2.789,
+          "end": 3.146,
+          "start_frame": 67,
+          "end_frame": 76
+        },
+        {
+          "action": "Flying",
+          "start": 3.474,
+          "end": 4.208,
+          "start_frame": 83,
+          "end_frame": 101
+        }
+      ]
+    }
+  ]
+}

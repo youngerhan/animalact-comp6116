@@ -1,0 +1,41 @@
+{
+  "video_id": "BTCQJCNX",
+  "video": "BTCQJCNX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Wolf"
+  ],
+  "list_animal_action": [
+    [
+      "Wolf",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Wolf",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Wolf",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.028,
+          "end": 8.475,
+          "start_frame": 1,
+          "end_frame": 203
+        },
+        {
+          "action": "Eating",
+          "start": 9.773,
+          "end": 11.221,
+          "start_frame": 235,
+          "end_frame": 269
+        }
+      ]
+    }
+  ]
+}

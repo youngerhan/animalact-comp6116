@@ -1,0 +1,49 @@
+{
+  "video_id": "ZTQXMAMC",
+  "video": "ZTQXMAMC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Lion",
+      "Attending"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 1.122,
+          "end": 7.833,
+          "start_frame": 27,
+          "end_frame": 188
+        },
+        {
+          "action": "Attending",
+          "start": 2.543,
+          "end": 6.491,
+          "start_frame": 61,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

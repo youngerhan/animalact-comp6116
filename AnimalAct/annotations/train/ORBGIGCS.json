@@ -1,0 +1,85 @@
+{
+  "video_id": "ORBGIGCS",
+  "video": "ORBGIGCS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dog",
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Dog",
+      "Startled"
+    ],
+    [
+      "Leopard",
+      "Attacking"
+    ],
+    [
+      "Dog",
+      "Keeping still"
+    ],
+    [
+      "Leopard",
+      "Running"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dog",
+      "Startled"
+    ],
+    [
+      "Leopard",
+      "Attacking"
+    ],
+    [
+      "Dog",
+      "Keeping still"
+    ],
+    [
+      "Leopard",
+      "Running"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dog",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.001,
+          "end": 0.322,
+          "start_frame": 0,
+          "end_frame": 8
+        },
+        {
+          "action": "Startled",
+          "start": 0.502,
+          "end": 0.75,
+          "start_frame": 12,
+          "end_frame": 18
+        }
+      ]
+    },
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Running",
+          "start": 0.211,
+          "end": 0.655,
+          "start_frame": 5,
+          "end_frame": 16
+        },
+        {
+          "action": "Attacking",
+          "start": 0.422,
+          "end": 1.42,
+          "start_frame": 10,
+          "end_frame": 34
+        }
+      ]
+    }
+  ]
+}

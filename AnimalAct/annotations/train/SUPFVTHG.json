@@ -1,0 +1,49 @@
+{
+  "video_id": "SUPFVTHG",
+  "video": "SUPFVTHG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Red River Hog"
+  ],
+  "list_animal_action": [
+    [
+      "Red River Hog",
+      "Walking"
+    ],
+    [
+      "Red River Hog",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Red River Hog",
+      "Walking"
+    ],
+    [
+      "Red River Hog",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Red River Hog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.25,
+          "end": 1.083,
+          "start_frame": 6,
+          "end_frame": 26
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.083,
+          "end": 2.0,
+          "start_frame": 26,
+          "end_frame": 48
+        }
+      ]
+    }
+  ]
+}

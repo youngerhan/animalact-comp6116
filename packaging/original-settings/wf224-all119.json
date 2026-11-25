@@ -1,0 +1,514 @@
+{
+  "dataset": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct",
+  "manifest": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct-SlowFast\\data\\main_all.json",
+  "config": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\mmaction2-main\\configs\\recognition\\slowfast\\slowfast_r50_8xb8-4x16x1-256e_kinetics400-rgb.py",
+  "weights": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\slowfast_r50_8xb8-4x16x1-256e_kinetics400-rgb_20220901-701b0f6f.pth",
+  "out": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct-SlowFast\\runs\\wf224-all119",
+  "initial": null,
+  "epochs": 30,
+  "schedule_epochs": 30,
+  "patience": 8,
+  "warmup": 1,
+  "batch_size": 16,
+  "workers": 6,
+  "frames": 16,
+  "image_size": 224,
+  "trainable": "all",
+  "balance": "sqrt",
+  "head_lr": 0.0005,
+  "backbone_lr": 5e-05,
+  "weight_decay": 0.01,
+  "clip_grad": 5.0,
+  "crop": "whole",
+  "aug_scale": [
+    0.8,
+    1.0
+  ],
+  "aug_temporal": [
+    0.75,
+    1.0
+  ],
+  "colour": 0.2,
+  "eval_zoom": 1.15,
+  "seed": 42,
+  "classes": [
+    {
+      "global_id": 0,
+      "name": "Abseiling"
+    },
+    {
+      "global_id": 1,
+      "name": "Attacking"
+    },
+    {
+      "global_id": 2,
+      "name": "Attending"
+    },
+    {
+      "global_id": 3,
+      "name": "Barking"
+    },
+    {
+      "global_id": 4,
+      "name": "Being Carried"
+    },
+    {
+      "global_id": 5,
+      "name": "Being Carried In Mouth"
+    },
+    {
+      "global_id": 6,
+      "name": "Being Dragged"
+    },
+    {
+      "global_id": 7,
+      "name": "Being Eaten"
+    },
+    {
+      "global_id": 8,
+      "name": "Biting"
+    },
+    {
+      "global_id": 9,
+      "name": "Building nest"
+    },
+    {
+      "global_id": 10,
+      "name": "Calling"
+    },
+    {
+      "global_id": 11,
+      "name": "Camouflaging"
+    },
+    {
+      "global_id": 12,
+      "name": "Carrying"
+    },
+    {
+      "global_id": 13,
+      "name": "Carrying In Mouth"
+    },
+    {
+      "global_id": 14,
+      "name": "Chasing"
+    },
+    {
+      "global_id": 15,
+      "name": "Chirping"
+    },
+    {
+      "global_id": 16,
+      "name": "Climbing"
+    },
+    {
+      "global_id": 17,
+      "name": "Coiling"
+    },
+    {
+      "global_id": 18,
+      "name": "Competing For Dominance"
+    },
+    {
+      "global_id": 19,
+      "name": "Dancing"
+    },
+    {
+      "global_id": 20,
+      "name": "Dancing On Water"
+    },
+    {
+      "global_id": 21,
+      "name": "Dead"
+    },
+    {
+      "global_id": 22,
+      "name": "Defecating"
+    },
+    {
+      "global_id": 23,
+      "name": "Defensive Rearing"
+    },
+    {
+      "global_id": 24,
+      "name": "Detaching As A Parasite"
+    },
+    {
+      "global_id": 25,
+      "name": "Digging"
+    },
+    {
+      "global_id": 26,
+      "name": "Displaying Defensive Pose"
+    },
+    {
+      "global_id": 27,
+      "name": "Disturbing Another Animal"
+    },
+    {
+      "global_id": 28,
+      "name": "Diving"
+    },
+    {
+      "global_id": 29,
+      "name": "Doing A Back Kick"
+    },
+    {
+      "global_id": 30,
+      "name": "Doing A Backward Tilt"
+    },
+    {
+      "global_id": 31,
+      "name": "Doing A Chin Dip"
+    },
+    {
+      "global_id": 32,
+      "name": "Doing A Face Dip"
+    },
+    {
+      "global_id": 33,
+      "name": "Doing A Neck Raise"
+    },
+    {
+      "global_id": 34,
+      "name": "Doing A Side Tilt"
+    },
+    {
+      "global_id": 35,
+      "name": "Doing somersault"
+    },
+    {
+      "global_id": 36,
+      "name": "Drifting"
+    },
+    {
+      "global_id": 37,
+      "name": "Drinking"
+    },
+    {
+      "global_id": 38,
+      "name": "Dying"
+    },
+    {
+      "global_id": 39,
+      "name": "Eating"
+    },
+    {
+      "global_id": 40,
+      "name": "Entering its nest"
+    },
+    {
+      "global_id": 41,
+      "name": "Escaping"
+    },
+    {
+      "global_id": 42,
+      "name": "Exiting Cocoon"
+    },
+    {
+      "global_id": 43,
+      "name": "Exiting Nest"
+    },
+    {
+      "global_id": 44,
+      "name": "Exploring"
+    },
+    {
+      "global_id": 45,
+      "name": "Falling"
+    },
+    {
+      "global_id": 46,
+      "name": "Fighting"
+    },
+    {
+      "global_id": 47,
+      "name": "Flapping"
+    },
+    {
+      "global_id": 48,
+      "name": "Flapping Tail"
+    },
+    {
+      "global_id": 49,
+      "name": "Fleeing"
+    },
+    {
+      "global_id": 50,
+      "name": "Flying"
+    },
+    {
+      "global_id": 51,
+      "name": "Giving Birth"
+    },
+    {
+      "global_id": 52,
+      "name": "Gliding"
+    },
+    {
+      "global_id": 53,
+      "name": "Grooming"
+    },
+    {
+      "global_id": 54,
+      "name": "Hanging"
+    },
+    {
+      "global_id": 55,
+      "name": "Having A Flehmen Response"
+    },
+    {
+      "global_id": 56,
+      "name": "Hissing"
+    },
+    {
+      "global_id": 57,
+      "name": "Holding Hands"
+    },
+    {
+      "global_id": 58,
+      "name": "Hopping"
+    },
+    {
+      "global_id": 59,
+      "name": "Hugging"
+    },
+    {
+      "global_id": 60,
+      "name": "Immobilized"
+    },
+    {
+      "global_id": 61,
+      "name": "Jumping"
+    },
+    {
+      "global_id": 62,
+      "name": "Keeping still"
+    },
+    {
+      "global_id": 63,
+      "name": "Landing"
+    },
+    {
+      "global_id": 64,
+      "name": "Laying Eggs"
+    },
+    {
+      "global_id": 65,
+      "name": "Leaning"
+    },
+    {
+      "global_id": 66,
+      "name": "Licking"
+    },
+    {
+      "global_id": 67,
+      "name": "Lying Down"
+    },
+    {
+      "global_id": 68,
+      "name": "Lying On Top"
+    },
+    {
+      "global_id": 69,
+      "name": "Manipulating Object"
+    },
+    {
+      "global_id": 70,
+      "name": "Moving"
+    },
+    {
+      "global_id": 71,
+      "name": "Pecking"
+    },
+    {
+      "global_id": 72,
+      "name": "Performing Sexual Display"
+    },
+    {
+      "global_id": 73,
+      "name": "Performing copulatory mounting"
+    },
+    {
+      "global_id": 74,
+      "name": "Playing"
+    },
+    {
+      "global_id": 75,
+      "name": "Playing Dead"
+    },
+    {
+      "global_id": 76,
+      "name": "Preening"
+    },
+    {
+      "global_id": 77,
+      "name": "Preying"
+    },
+    {
+      "global_id": 78,
+      "name": "Puffing its throat"
+    },
+    {
+      "global_id": 79,
+      "name": "Rattling"
+    },
+    {
+      "global_id": 80,
+      "name": "Resting"
+    },
+    {
+      "global_id": 81,
+      "name": "Retaliating"
+    },
+    {
+      "global_id": 82,
+      "name": "Retreating"
+    },
+    {
+      "global_id": 83,
+      "name": "Rolling"
+    },
+    {
+      "global_id": 84,
+      "name": "Rubbing its head"
+    },
+    {
+      "global_id": 85,
+      "name": "Running"
+    },
+    {
+      "global_id": 86,
+      "name": "Running On Water"
+    },
+    {
+      "global_id": 87,
+      "name": "Sensing"
+    },
+    {
+      "global_id": 88,
+      "name": "Shaking"
+    },
+    {
+      "global_id": 89,
+      "name": "Shaking Head"
+    },
+    {
+      "global_id": 90,
+      "name": "Sharing Food"
+    },
+    {
+      "global_id": 91,
+      "name": "Showing Affection"
+    },
+    {
+      "global_id": 92,
+      "name": "Sinking"
+    },
+    {
+      "global_id": 93,
+      "name": "Sitting"
+    },
+    {
+      "global_id": 94,
+      "name": "Sleeping"
+    },
+    {
+      "global_id": 95,
+      "name": "Sleeping in its nest"
+    },
+    {
+      "global_id": 96,
+      "name": "Spitting Venom"
+    },
+    {
+      "global_id": 97,
+      "name": "Spreading Wings"
+    },
+    {
+      "global_id": 98,
+      "name": "Squatting"
+    },
+    {
+      "global_id": 99,
+      "name": "Standing"
+    },
+    {
+      "global_id": 100,
+      "name": "Standing in alert"
+    },
+    {
+      "global_id": 101,
+      "name": "Startled"
+    },
+    {
+      "global_id": 102,
+      "name": "Stinging"
+    },
+    {
+      "global_id": 103,
+      "name": "Struggling"
+    },
+    {
+      "global_id": 104,
+      "name": "Surfacing"
+    },
+    {
+      "global_id": 105,
+      "name": "Swaying"
+    },
+    {
+      "global_id": 106,
+      "name": "Swimming"
+    },
+    {
+      "global_id": 107,
+      "name": "Swimming In Circles"
+    },
+    {
+      "global_id": 108,
+      "name": "Tail Swishing"
+    },
+    {
+      "global_id": 109,
+      "name": "Trapped"
+    },
+    {
+      "global_id": 110,
+      "name": "Turning Around"
+    },
+    {
+      "global_id": 111,
+      "name": "Undergoing Chrysalis"
+    },
+    {
+      "global_id": 112,
+      "name": "Unmounting"
+    },
+    {
+      "global_id": 113,
+      "name": "Urinating"
+    },
+    {
+      "global_id": 114,
+      "name": "Walking"
+    },
+    {
+      "global_id": 115,
+      "name": "Washing"
+    },
+    {
+      "global_id": 116,
+      "name": "Wrapping Itself Around Prey"
+    },
+    {
+      "global_id": 117,
+      "name": "Wrapping Prey"
+    },
+    {
+      "global_id": 118,
+      "name": "Yawning"
+    }
+  ],
+  "dataset_revision": "animalact-20261114-r2",
+  "split_version": "animalact-70-15-15-v1"
+}

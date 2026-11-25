@@ -1,0 +1,41 @@
+{
+  "video_id": "XLHSRLHH",
+  "video": "XLHSRLHH.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Frog"
+  ],
+  "list_animal_action": [
+    [
+      "Frog",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Frog",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Frog",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 3.851,
+          "start_frame": 0,
+          "end_frame": 92
+        },
+        {
+          "action": "Walking",
+          "start": 3.929,
+          "end": 4.754,
+          "start_frame": 94,
+          "end_frame": 114
+        }
+      ]
+    }
+  ]
+}

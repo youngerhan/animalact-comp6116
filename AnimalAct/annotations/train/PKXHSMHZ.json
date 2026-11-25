@@ -1,0 +1,49 @@
+{
+  "video_id": "PKXHSMHZ",
+  "video": "PKXHSMHZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Natrix Tessellata Snake"
+  ],
+  "list_animal_action": [
+    [
+      "Natrix Tessellata Snake",
+      "Moving"
+    ],
+    [
+      "Natrix Tessellata Snake",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Natrix Tessellata Snake",
+      "Moving"
+    ],
+    [
+      "Natrix Tessellata Snake",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Natrix Tessellata Snake",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.458,
+          "start_frame": 0,
+          "end_frame": 83
+        },
+        {
+          "action": "Keeping still",
+          "start": 3.5,
+          "end": 6.5,
+          "start_frame": 84,
+          "end_frame": 156
+        }
+      ]
+    }
+  ]
+}

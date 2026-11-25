@@ -1,0 +1,34 @@
+{
+  "video_id": "QKAAZFPE",
+  "video": "QKAAZFPE.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Walking Stick"
+  ],
+  "list_animal_action": [
+    [
+      "Walking Stick",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Walking Stick",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Walking Stick",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 1.019,
+          "start_frame": 0,
+          "end_frame": 24
+        }
+      ]
+    }
+  ]
+}

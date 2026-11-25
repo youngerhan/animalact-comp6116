@@ -1,0 +1,34 @@
+{
+  "video_id": "NCREZXGD",
+  "video": "NCREZXGD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Kangaroo Young"
+  ],
+  "list_animal_action": [
+    [
+      "Kangaroo Young",
+      "Climbing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Kangaroo Young",
+      "Climbing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Kangaroo Young",
+      "actions": [
+        {
+          "action": "Climbing",
+          "start": 0.0,
+          "end": 4.333,
+          "start_frame": 0,
+          "end_frame": 104
+        }
+      ]
+    }
+  ]
+}

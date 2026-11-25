@@ -1,0 +1,34 @@
+{
+  "video_id": "ZHTZHSBA",
+  "video": "ZHTZHSBA.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Bird",
+      "Washing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Bird",
+      "Washing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Bird",
+      "actions": [
+        {
+          "action": "Washing",
+          "start": 0.0,
+          "end": 2.833,
+          "start_frame": 0,
+          "end_frame": 68
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "BNNTTCPZ",
+  "video": "BNNTTCPZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White Wig Marine Iguana"
+  ],
+  "list_animal_action": [
+    [
+      "White Wig Marine Iguana",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White Wig Marine Iguana",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White Wig Marine Iguana",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.005,
+          "end": 3.84,
+          "start_frame": 0,
+          "end_frame": 92
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "video_id": "TSGICXDO",
+  "video": "TSGICXDO.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Tiger",
+    "Lion"
+  ],
+  "list_animal_action": [
+    [
+      "Tiger",
+      "Fighting"
+    ],
+    [
+      "Tiger",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Fighting"
+    ],
+    [
+      "Tiger",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Lion",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Tiger",
+      "Fighting"
+    ],
+    [
+      "Tiger",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Walking"
+    ],
+    [
+      "Lion",
+      "Fighting"
+    ],
+    [
+      "Tiger",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Disturbing Another Animal"
+    ],
+    [
+      "Lion",
+      "Running"
+    ],
+    [
+      "Lion",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Tiger",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.083,
+          "end": 0.667,
+          "start_frame": 2,
+          "end_frame": 16
+        },
+        {
+          "action": "Fighting",
+          "start": 0.678,
+          "end": 3.656,
+          "start_frame": 16,
+          "end_frame": 88
+        },
+        {
+          "action": "Running",
+          "start": 3.693,
+          "end": 4.023,
+          "start_frame": 89,
+          "end_frame": 97
+        }
+      ]
+    },
+    {
+      "animal": "Lion",
+      "actions": [
+        {
+          "action": "Disturbing Another Animal",
+          "start": 0.0,
+          "end": 0.452,
+          "start_frame": 0,
+          "end_frame": 11
+        },
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 0.674,
+          "start_frame": 0,
+          "end_frame": 16
+        },
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 3.654,
+          "start_frame": 0,
+          "end_frame": 88
+        },
+        {
+          "action": "Fighting",
+          "start": 0.674,
+          "end": 3.652,
+          "start_frame": 16,
+          "end_frame": 88
+        },
+        {
+          "action": "Running",
+          "start": 3.679,
+          "end": 4.003,
+          "start_frame": 88,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

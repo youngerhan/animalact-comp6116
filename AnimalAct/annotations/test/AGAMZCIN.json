@@ -1,0 +1,49 @@
+{
+  "video_id": "AGAMZCIN",
+  "video": "AGAMZCIN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alfalfa Leafcutting Bee"
+  ],
+  "list_animal_action": [
+    [
+      "Alfalfa Leafcutting Bee",
+      "Flying"
+    ],
+    [
+      "Alfalfa Leafcutting Bee",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alfalfa Leafcutting Bee",
+      "Flying"
+    ],
+    [
+      "Alfalfa Leafcutting Bee",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alfalfa Leafcutting Bee",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.051,
+          "start_frame": 0,
+          "end_frame": 97
+        },
+        {
+          "action": "Flying",
+          "start": 4.05,
+          "end": 7.148,
+          "start_frame": 97,
+          "end_frame": 172
+        }
+      ]
+    }
+  ]
+}

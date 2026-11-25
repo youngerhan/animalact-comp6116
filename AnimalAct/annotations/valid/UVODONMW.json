@@ -1,0 +1,34 @@
+{
+  "video_id": "UVODONMW",
+  "video": "UVODONMW.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Aedes Aegypti Mosquito"
+  ],
+  "list_animal_action": [
+    [
+      "Aedes Aegypti Mosquito",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Aedes Aegypti Mosquito",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Aedes Aegypti Mosquito",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.279,
+          "end": 2.129,
+          "start_frame": 7,
+          "end_frame": 51
+        }
+      ]
+    }
+  ]
+}

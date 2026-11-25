@@ -1,0 +1,34 @@
+{
+  "video_id": "KBJRTKRV",
+  "video": "KBJRTKRV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Cuckoo Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Cuckoo Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Cuckoo Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Cuckoo Bird",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 4.5,
+          "start_frame": 0,
+          "end_frame": 108
+        }
+      ]
+    }
+  ]
+}

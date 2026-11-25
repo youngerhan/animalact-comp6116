@@ -1,0 +1,34 @@
+{
+  "video_id": "DUPAFVEI",
+  "video": "DUPAFVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anthus Pratensis Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Anthus Pratensis Bird",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anthus Pratensis Bird",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anthus Pratensis Bird",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.359,
+          "end": 1.274,
+          "start_frame": 9,
+          "end_frame": 31
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "IZEBBVTT",
+  "video": "IZEBBVTT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leafcutter Ant"
+  ],
+  "list_animal_action": [
+    [
+      "Leafcutter Ant",
+      "Carrying"
+    ],
+    [
+      "Leafcutter Ant",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leafcutter Ant",
+      "Carrying"
+    ],
+    [
+      "Leafcutter Ant",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leafcutter Ant",
+      "actions": [
+        {
+          "action": "Carrying",
+          "start": 0.0,
+          "end": 2.853,
+          "start_frame": 0,
+          "end_frame": 68
+        },
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.0,
+          "start_frame": 0,
+          "end_frame": 72
+        }
+      ]
+    }
+  ]
+}

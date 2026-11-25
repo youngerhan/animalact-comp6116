@@ -1,0 +1,34 @@
+{
+  "video_id": "ZMVJTFAG",
+  "video": "ZMVJTFAG.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Predaceous Diving Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Predaceous Diving Beetle",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Predaceous Diving Beetle",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Predaceous Diving Beetle",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.0,
+          "end": 3.333,
+          "start_frame": 0,
+          "end_frame": 80
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "RHTWAKJZ",
+  "video": "RHTWAKJZ.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Western Pine Beetle"
+  ],
+  "list_animal_action": [
+    [
+      "Western Pine Beetle",
+      "Entering its nest"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Western Pine Beetle",
+      "Entering its nest"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Western Pine Beetle",
+      "actions": [
+        {
+          "action": "Entering its nest",
+          "start": 0.993,
+          "end": 5.175,
+          "start_frame": 24,
+          "end_frame": 124
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "AFMIPZLK",
+  "video": "AFMIPZLK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Water Rail Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Water Rail Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Water Rail Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Water Rail Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.0,
+          "end": 2.5,
+          "start_frame": 0,
+          "end_frame": 60
+        }
+      ]
+    }
+  ]
+}

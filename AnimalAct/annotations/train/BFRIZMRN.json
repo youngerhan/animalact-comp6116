@@ -1,0 +1,56 @@
+{
+  "video_id": "BFRIZMRN",
+  "video": "BFRIZMRN.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Common Snipe"
+  ],
+  "list_animal_action": [
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Common Snipe",
+      "Walking"
+    ],
+    [
+      "Common Snipe",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Common Snipe",
+      "actions": [
+        {
+          "action": "Eating",
+          "start": 0.0,
+          "end": 8.333,
+          "start_frame": 0,
+          "end_frame": 200
+        },
+        {
+          "action": "Walking",
+          "start": 1.531,
+          "end": 2.13,
+          "start_frame": 37,
+          "end_frame": 51
+        },
+        {
+          "action": "Walking",
+          "start": 4.161,
+          "end": 8.333,
+          "start_frame": 100,
+          "end_frame": 200
+        }
+      ]
+    }
+  ]
+}

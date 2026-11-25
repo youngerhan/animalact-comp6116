@@ -1,0 +1,56 @@
+{
+  "video_id": "FZWOXZDI",
+  "video": "FZWOXZDI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leatherback Sea Turtle"
+  ],
+  "list_animal_action": [
+    [
+      "Leatherback Sea Turtle",
+      "Walking"
+    ],
+    [
+      "Leatherback Sea Turtle",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leatherback Sea Turtle",
+      "Walking"
+    ],
+    [
+      "Leatherback Sea Turtle",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leatherback Sea Turtle",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 11.469,
+          "start_frame": 0,
+          "end_frame": 275
+        },
+        {
+          "action": "Keeping still",
+          "start": 9.969,
+          "end": 10.094,
+          "start_frame": 239,
+          "end_frame": 242
+        },
+        {
+          "action": "Keeping still",
+          "start": 10.344,
+          "end": 10.594,
+          "start_frame": 248,
+          "end_frame": 254
+        }
+      ]
+    }
+  ]
+}

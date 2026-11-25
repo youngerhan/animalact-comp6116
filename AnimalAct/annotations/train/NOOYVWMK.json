@@ -1,0 +1,71 @@
+{
+  "video_id": "NOOYVWMK",
+  "video": "NOOYVWMK.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Horned Adder"
+  ],
+  "list_animal_action": [
+    [
+      "Horned Adder",
+      "Moving"
+    ],
+    [
+      "Horned Adder",
+      "Keeping still"
+    ],
+    [
+      "Horned Adder",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Horned Adder",
+      "Moving"
+    ],
+    [
+      "Horned Adder",
+      "Keeping still"
+    ],
+    [
+      "Horned Adder",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Horned Adder",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.143,
+          "end": 0.579,
+          "start_frame": 3,
+          "end_frame": 14
+        },
+        {
+          "action": "Keeping still",
+          "start": 0.578,
+          "end": 1.806,
+          "start_frame": 14,
+          "end_frame": 43
+        },
+        {
+          "action": "Moving",
+          "start": 1.798,
+          "end": 6.893,
+          "start_frame": 43,
+          "end_frame": 165
+        },
+        {
+          "action": "Sensing",
+          "start": 3.277,
+          "end": 3.567,
+          "start_frame": 79,
+          "end_frame": 86
+        }
+      ]
+    }
+  ]
+}

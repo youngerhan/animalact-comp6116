@@ -1,0 +1,34 @@
+{
+  "video_id": "JWXOFDFS",
+  "video": "JWXOFDFS.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Dumeril'S Boa"
+  ],
+  "list_animal_action": [
+    [
+      "Dumeril'S Boa",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Dumeril'S Boa",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Dumeril'S Boa",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 10.625,
+          "start_frame": 0,
+          "end_frame": 255
+        }
+      ]
+    }
+  ]
+}

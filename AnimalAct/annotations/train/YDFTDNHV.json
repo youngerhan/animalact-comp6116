@@ -1,0 +1,34 @@
+{
+  "video_id": "YDFTDNHV",
+  "video": "YDFTDNHV.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Corncrake"
+  ],
+  "list_animal_action": [
+    [
+      "Corncrake",
+      "Walking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Corncrake",
+      "Walking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Corncrake",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.0,
+          "end": 14.5,
+          "start_frame": 0,
+          "end_frame": 348
+        }
+      ]
+    }
+  ]
+}

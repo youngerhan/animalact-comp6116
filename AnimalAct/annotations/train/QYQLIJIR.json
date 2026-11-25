@@ -1,0 +1,34 @@
+{
+  "video_id": "QYQLIJIR",
+  "video": "QYQLIJIR.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Alauda Arvensis Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Alauda Arvensis Bird",
+      "Carrying In Mouth"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Alauda Arvensis Bird",
+      "Carrying In Mouth"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Alauda Arvensis Bird",
+      "actions": [
+        {
+          "action": "Carrying In Mouth",
+          "start": 0.0,
+          "end": 4.0,
+          "start_frame": 0,
+          "end_frame": 96
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "video_id": "CBIOAADX",
+  "video": "CBIOAADX.mp4",
+  "fps": 24,
+  "list_animal": [
+    "White-Backed Woodpecker"
+  ],
+  "list_animal_action": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Flying"
+    ]
+  ],
+  "source_labels": [
+    [
+      "White-Backed Woodpecker",
+      "Sensing"
+    ],
+    [
+      "White-Backed Woodpecker",
+      "Flying"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "White-Backed Woodpecker",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.649,
+          "end": 1.656,
+          "start_frame": 16,
+          "end_frame": 40
+        },
+        {
+          "action": "Flying",
+          "start": 3.474,
+          "end": 3.709,
+          "start_frame": 83,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

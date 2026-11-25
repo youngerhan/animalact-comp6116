@@ -1,0 +1,77 @@
+{
+  "video_id": "RGGWGVEI",
+  "video": "RGGWGVEI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Anas Crecca Bird",
+    "Duck"
+  ],
+  "list_animal_action": [
+    [
+      "Anas Crecca Bird",
+      "Preening"
+    ],
+    [
+      "Duck",
+      "Preening"
+    ],
+    [
+      "Duck",
+      "Keeping still"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Anas Crecca Bird",
+      "Preening"
+    ],
+    [
+      "Duck",
+      "Preening"
+    ],
+    [
+      "Duck",
+      "Keeping still"
+    ],
+    [
+      "Anas Crecca Bird",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Anas Crecca Bird",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 2.4
+        },
+        {
+          "action": "Eating",
+          "start": 2.4,
+          "end": 4.21
+        }
+      ]
+    },
+    {
+      "animal": "Duck",
+      "actions": [
+        {
+          "action": "Preening",
+          "start": 0.0,
+          "end": 1.4
+        },
+        {
+          "action": "Keeping still",
+          "start": 1.4,
+          "end": 4.21
+        }
+      ]
+    }
+  ]
+}

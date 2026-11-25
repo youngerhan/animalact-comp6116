@@ -1,0 +1,41 @@
+{
+  "video_id": "NKXHAJBD",
+  "video": "NKXHAJBD.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Grasshopper Warbler"
+  ],
+  "list_animal_action": [
+    [
+      "Grasshopper Warbler",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Grasshopper Warbler",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Grasshopper Warbler",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.625,
+          "end": 1.125,
+          "start_frame": 15,
+          "end_frame": 27
+        },
+        {
+          "action": "Sensing",
+          "start": 1.375,
+          "end": 1.625,
+          "start_frame": 33,
+          "end_frame": 39
+        }
+      ]
+    }
+  ]
+}

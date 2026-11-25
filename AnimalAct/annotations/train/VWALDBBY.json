@@ -1,0 +1,49 @@
+{
+  "video_id": "VWALDBBY",
+  "video": "VWALDBBY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Giant Hornet"
+  ],
+  "list_animal_action": [
+    [
+      "Giant Hornet",
+      "Dead"
+    ],
+    [
+      "Giant Hornet",
+      "Eating"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Giant Hornet",
+      "Dead"
+    ],
+    [
+      "Giant Hornet",
+      "Eating"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Giant Hornet",
+      "actions": [
+        {
+          "action": "Dead",
+          "start": 0.0,
+          "end": 5.125,
+          "start_frame": 0,
+          "end_frame": 123
+        },
+        {
+          "action": "Eating",
+          "start": 1.085,
+          "end": 3.713,
+          "start_frame": 26,
+          "end_frame": 89
+        }
+      ]
+    }
+  ]
+}

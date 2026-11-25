@@ -1,0 +1,49 @@
+{
+  "video_id": "AOAMQFFP",
+  "video": "AOAMQFFP.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Maroon Macaque"
+  ],
+  "list_animal_action": [
+    [
+      "Maroon Macaque",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Maroon Macaque",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Maroon Macaque",
+      "Displaying Defensive Pose"
+    ],
+    [
+      "Maroon Macaque",
+      "Disturbing Another Animal"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Maroon Macaque",
+      "actions": [
+        {
+          "action": "Displaying Defensive Pose",
+          "start": 0.928,
+          "end": 3.617,
+          "start_frame": 22,
+          "end_frame": 87
+        },
+        {
+          "action": "Disturbing Another Animal",
+          "start": 2.457,
+          "end": 3.678,
+          "start_frame": 59,
+          "end_frame": 88
+        }
+      ]
+    }
+  ]
+}

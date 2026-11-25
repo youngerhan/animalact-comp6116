@@ -1,0 +1,49 @@
+{
+  "video_id": "SCPMBVTI",
+  "video": "SCPMBVTI.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Smew"
+  ],
+  "list_animal_action": [
+    [
+      "Smew",
+      "Flapping"
+    ],
+    [
+      "Smew",
+      "Doing A Face Dip"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Smew",
+      "Flapping"
+    ],
+    [
+      "Smew",
+      "Doing A Face Dip"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Smew",
+      "actions": [
+        {
+          "action": "Doing A Face Dip",
+          "start": 0.719,
+          "end": 1.969,
+          "start_frame": 17,
+          "end_frame": 47
+        },
+        {
+          "action": "Flapping",
+          "start": 1.219,
+          "end": 5.469,
+          "start_frame": 29,
+          "end_frame": 131
+        }
+      ]
+    }
+  ]
+}

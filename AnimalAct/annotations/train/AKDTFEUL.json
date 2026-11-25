@@ -1,0 +1,34 @@
+{
+  "video_id": "AKDTFEUL",
+  "video": "AKDTFEUL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Spectacled Cobra"
+  ],
+  "list_animal_action": [
+    [
+      "Spectacled Cobra",
+      "Keeping still"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Spectacled Cobra",
+      "Keeping still"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Spectacled Cobra",
+      "actions": [
+        {
+          "action": "Keeping still",
+          "start": 0.0,
+          "end": 3.487,
+          "start_frame": 0,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "video_id": "PAKUDXEC",
+  "video": "PAKUDXEC.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Habronattus Clypeatus"
+  ],
+  "list_animal_action": [
+    [
+      "Habronattus Clypeatus",
+      "Attending"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Habronattus Clypeatus",
+      "Attending"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Habronattus Clypeatus",
+      "actions": [
+        {
+          "action": "Attending",
+          "start": 0.691,
+          "end": 1.209,
+          "start_frame": 17,
+          "end_frame": 29
+        }
+      ]
+    }
+  ]
+}

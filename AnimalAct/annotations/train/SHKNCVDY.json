@@ -1,0 +1,49 @@
+{
+  "video_id": "SHKNCVDY",
+  "video": "SHKNCVDY.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Great Reed Warbler Bird"
+  ],
+  "list_animal_action": [
+    [
+      "Great Reed Warbler Bird",
+      "Chirping"
+    ],
+    [
+      "Great Reed Warbler Bird",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Great Reed Warbler Bird",
+      "Chirping"
+    ],
+    [
+      "Great Reed Warbler Bird",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Great Reed Warbler Bird",
+      "actions": [
+        {
+          "action": "Sensing",
+          "start": 0.157,
+          "end": 7.708333,
+          "start_frame": 4,
+          "end_frame": 185
+        },
+        {
+          "action": "Chirping",
+          "start": 0.644,
+          "end": 3.5,
+          "start_frame": 15,
+          "end_frame": 84
+        }
+      ]
+    }
+  ]
+}

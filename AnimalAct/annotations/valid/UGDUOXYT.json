@@ -1,0 +1,93 @@
+{
+  "video_id": "UGDUOXYT",
+  "video": "UGDUOXYT.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Raven"
+  ],
+  "list_animal_action": [
+    [
+      "Raven",
+      "Lying Down"
+    ],
+    [
+      "Raven",
+      "Shaking Head"
+    ],
+    [
+      "Raven",
+      "Rubbing its head"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Raven",
+      "Lying Down"
+    ],
+    [
+      "Raven",
+      "Shaking Head"
+    ],
+    [
+      "Raven",
+      "Rubbing its head"
+    ],
+    [
+      "Raven",
+      "Sensing"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Raven",
+      "actions": [
+        {
+          "action": "Lying Down",
+          "start": 0.0,
+          "end": 3.5,
+          "start_frame": 0,
+          "end_frame": 84
+        },
+        {
+          "action": "Rubbing its head",
+          "start": 0.0,
+          "end": 3.5,
+          "start_frame": 0,
+          "end_frame": 84
+        },
+        {
+          "action": "Shaking Head",
+          "start": 3.5,
+          "end": 4.125,
+          "start_frame": 84,
+          "end_frame": 99
+        },
+        {
+          "action": "Sensing",
+          "start": 4.125,
+          "end": 7.875,
+          "start_frame": 99,
+          "end_frame": 189
+        },
+        {
+          "action": "Lying Down",
+          "start": 8.125,
+          "end": 8.833,
+          "start_frame": 195,
+          "end_frame": 212
+        },
+        {
+          "action": "Rubbing its head",
+          "start": 8.125,
+          "end": 8.833,
+          "start_frame": 195,
+          "end_frame": 212
+        }
+      ]
+    }
+  ]
+}

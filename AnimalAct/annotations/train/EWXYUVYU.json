@@ -1,0 +1,49 @@
+{
+  "video_id": "EWXYUVYU",
+  "video": "EWXYUVYU.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Leopard"
+  ],
+  "list_animal_action": [
+    [
+      "Leopard",
+      "Walking"
+    ],
+    [
+      "Leopard",
+      "Drinking"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Leopard",
+      "Walking"
+    ],
+    [
+      "Leopard",
+      "Drinking"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Leopard",
+      "actions": [
+        {
+          "action": "Walking",
+          "start": 0.083,
+          "end": 5.042,
+          "start_frame": 2,
+          "end_frame": 121
+        },
+        {
+          "action": "Drinking",
+          "start": 5.042,
+          "end": 12.917,
+          "start_frame": 121,
+          "end_frame": 310
+        }
+      ]
+    }
+  ]
+}

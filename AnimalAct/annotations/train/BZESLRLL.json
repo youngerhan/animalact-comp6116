@@ -1,0 +1,34 @@
+{
+  "video_id": "BZESLRLL",
+  "video": "BZESLRLL.mp4",
+  "fps": 24,
+  "list_animal": [
+    "Arizona Bark Scorpion"
+  ],
+  "list_animal_action": [
+    [
+      "Arizona Bark Scorpion",
+      "Moving"
+    ]
+  ],
+  "source_labels": [
+    [
+      "Arizona Bark Scorpion",
+      "Moving"
+    ]
+  ],
+  "annotations": [
+    {
+      "animal": "Arizona Bark Scorpion",
+      "actions": [
+        {
+          "action": "Moving",
+          "start": 0.076,
+          "end": 1.334,
+          "start_frame": 2,
+          "end_frame": 32
+        }
+      ]
+    }
+  ]
+}
