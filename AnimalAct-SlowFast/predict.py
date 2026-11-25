@@ -23,7 +23,10 @@ def prediction_dataset(root, clip, classes, settings):
                               sampling=settings.get("sampling", "fixed"))
     return ClipDataset(root, [clip], len(classes), settings["frames"],
                        settings["image_size"], False, eval_zoom=settings["eval_zoom"],
-                       crop=settings.get("crop", "random"))
+                       crop=settings.get("crop", "random"),
+                       min_context_seconds=settings.get("min_context_seconds", 0.0),
+                       spatial_view=settings.get("spatial_view", "whole"),
+                       roi_probability=settings.get("roi_probability", .7))
 
 
 def main():

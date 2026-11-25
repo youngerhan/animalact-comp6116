@@ -83,3 +83,43 @@ python -m pip install --no-deps -e ../mmaction2-main
 主结果是**已标注动作区间的片段级分类**，不是整段未知视频的自动动作定位。统一阈值、检查点、TTA 和融合比例都从验证集选择。mAP 使用连续分数；Macro-F1 使用验证阈值。每类独立计算 TP/FP/FN/TN；31 类等权平均。稀有类表现较差是本次观察，不能推导理论上限。
 
 `video_level.py` 只聚合有主类片段的 424 个测试视频，遗漏 23 个官方测试视频，不能作为完整 447 视频官方评测。原 `results/` 中的图表和演示属于各自历史实验，最新融合没有独立的实时演示界面。
+
+## 2026-11-25 新一轮改进
+
+最终报告：`results/improvement-20261125/FINAL_REPORT.md`。新模型为 SlowFast + Video Swin-T 混合融合，测试 mAP 49.05%，正则化逐类阈值 Macro-F1 46.67%。mAP 仅小幅提高，Macro-F1 基本持平；未校准统一阈值的 Macro-F1 为 46.41%。本轮不是大幅提升。
+
+实际使用最终十模型预测一个已知区间（末帧不包含在内）：
+
+```powershell
+& $python predict_improved.py '../AnimalAct/videos/test/AAWJEBGU.mp4' --start-frame 0 --end-frame 35 --output results/my-prediction.json
+# 核验时使用原评估批量大小；重复同一输入以匹配混合精度的运算形状。
+& $python predict_improved.py '../AnimalAct/videos/test/AAWJEBGU.mp4' --start-frame 0 --end-frame 35 --match-evaluation-batch --output results/my-prediction-matched.json
+# 配方概览、结果复算和回归检查：
+& $python predict_improved.py '../AnimalAct/videos/test/AAWJEBGU.mp4' --dry-run
+& $python report_improved.py
+& $python -m unittest -v test_pipeline test_improvements test_fusion_calibration
+```
+
+输出包含每类分数、判断阈值、预测动作和每个成员模型的分数。这个示例的真值为 Flying、Moving，当前预测只检出 Moving，Flying 仍漏检，不能用作“所有动作均已正确识别”的演示。更换为自己的视频时需指定待识别区间；未指定区间时把全视频作为一个片段，尚不进行自动动作定位。
+
+新增文件：`video_ops.py`（训练前后文和运动区域）、`losses.py`（ASL）、`improve.py`（三个 SlowFast 对照）、`swin_experiment.py`（Swin 训练）、`fusion_calibration.py` / `fuse_swin.py`（验证集融合）、`calibrate_thresholds.py`（验证集阈值校准）、`predict_improved.py`（最终实际推理）、`report_improved.py`（最终报告）、`verify_legacy_inference.py`（旧裁剪兼容核验）。
+
+收到发布包后不要直接对历史实验目录运行 --resume 或训练入口。发布包省略 last.pth，不能恢复原优化器状态。要重训，先在独立项目副本中使用新输出目录并保留所需起始权重；不要覆盖现有 `runs/`。本轮执行顺序和关键命令如下：
+
+```powershell
+& $python improve.py --stage all
+& $python swin_experiment.py
+# 仅用于自己刚完成前3轮、且输出目录中存在 last.pth 的新训练；发布包不含 last.pth。
+# 满足 SWIN_CONTINUATION_RULE.md 的预先约定条件后才延长：
+& $python swin_experiment.py --resume --extra-epochs 3
+& $python fuse_swin.py
+& $python calibrate_thresholds.py --project . --run runs/improved-swin-final-20261125 --out results/calibration-repeat
+& $python report_improved.py
+```
+
+Swin 预训练文件 `../swin3d_t-7615ae03.pth` 来自 torchvision 官方 Kinetics-400 权重。新实验的完整参数、命令、源文件快照和输入指纹分别在 `runs/improve-*/` 内；方案在 `results/improvement-20261125/*PLAN.md`，实际记录在同目录日志。重新训练不保证逐位一致；本机 checkpoint 推理核验与重新训练复现是不同层次的验证。
+
+旧 `ft256` 历史中心裁剪使用向下取整，兼容方式单独记录在 `runs/ft256/inference_overrides.json`。默认训练和其他模型保留现有四舍五入方式。`legacy-inference-verification.json` 记录其全部验证/测试预测核验。
+
+本轮通过 GitHub v1.1.0-20261125 增量发布包提供；先解压 v1.0.0 完整包，再应用增量。旧版保留用于对照。
+

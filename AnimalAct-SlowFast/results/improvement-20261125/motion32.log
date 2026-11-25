@@ -1,0 +1,37 @@
+D:\AnimalAct-setup\envs\animalact\Lib\site-packages\mmcv\cnn\bricks\transformer.py:33: UserWarning: Fail to import ``MultiScaleDeformableAttention`` from ``mmcv.ops.multi_scale_deform_attn``, You should install ``mmcv`` rather than ``mmcv-lite`` if you need this module. 
+  warnings.warn('Fail to import ``MultiScaleDeformableAttention`` from '
+Loads checkpoint by local backend from path: C:\Users\ADMIN\Desktop\作业与项目\特选论题1\项目\slowfast_r50_8xb8-4x16x1-256e_kinetics400-rgb_20220901-701b0f6f.pth
+Warm start from C:\Users\ADMIN\Desktop\作业与项目\特选论题1\项目\AnimalAct-SlowFast\runs\pilot32-whole224\best.pth (epoch 1)
+{'initial_validation': {'epoch': 0, 'train_loss': None, 'valid_mAP': 0.41589642700999785, 'valid_macro_F1': 0.4036146601330163, 'valid_threshold': 0.05}}
+epoch 1 batch 1/544 loss=0.0187 grad=0.96 lr=1.00e-04 speed=0.5 clips/s
+epoch 1 batch 100/544 loss=0.0404 grad=0.94 lr=9.95e-05 speed=20.6 clips/s
+epoch 1 batch 200/544 loss=0.0371 grad=1.58 lr=9.80e-05 speed=26.9 clips/s
+epoch 1 batch 300/544 loss=0.0352 grad=1.72 lr=9.55e-05 speed=29.5 clips/s
+epoch 1 batch 400/544 loss=0.0340 grad=1.39 lr=9.21e-05 speed=30.7 clips/s
+epoch 1 batch 500/544 loss=0.0336 grad=1.33 lr=8.79e-05 speed=31.2 clips/s
+epoch 1 batch 544/544 loss=0.0334 grad=1.75 lr=8.57e-05 speed=31.5 clips/s
+{'epoch': 1, 'train_loss': 0.0333786396238755, 'valid_mAP': 0.40239741477983587, 'valid_macro_F1': 0.39537462617165897, 'valid_macro_F1_per_class_threshold': 0.44421261643157944, 'valid_mAP_positives_ge_20': 0.5059698943145927, 'valid_threshold': 0.05, 'short_mAP': 0.38372400465930806, 'gpu_peak_allocated_mib': 3505, 'elapsed_minutes': 2.88}
+epoch 2 batch 1/544 loss=0.0029 grad=0.22 lr=8.57e-05 speed=0.5 clips/s
+epoch 2 batch 100/544 loss=0.0329 grad=0.94 lr=8.04e-05 speed=20.7 clips/s
+epoch 2 batch 200/544 loss=0.0310 grad=0.68 lr=7.45e-05 speed=26.3 clips/s
+epoch 2 batch 300/544 loss=0.0298 grad=1.10 lr=6.81e-05 speed=28.9 clips/s
+epoch 2 batch 400/544 loss=0.0292 grad=1.10 lr=6.13e-05 speed=30.5 clips/s
+epoch 2 batch 500/544 loss=0.0284 grad=0.72 lr=5.43e-05 speed=31.6 clips/s
+epoch 2 batch 544/544 loss=0.0283 grad=0.50 lr=5.12e-05 speed=31.9 clips/s
+{'epoch': 2, 'train_loss': 0.028303182598438722, 'valid_mAP': 0.417922008704719, 'valid_macro_F1': 0.415740371255772, 'valid_macro_F1_per_class_threshold': 0.4573669563330687, 'valid_mAP_positives_ge_20': 0.5200515043756939, 'valid_threshold': 0.15, 'short_mAP': 0.4149203843876182, 'gpu_peak_allocated_mib': 3505, 'elapsed_minutes': 5.73}
+epoch 3 batch 1/544 loss=0.0041 grad=0.27 lr=5.11e-05 speed=0.5 clips/s
+epoch 3 batch 100/544 loss=0.0267 grad=0.48 lr=4.42e-05 speed=20.2 clips/s
+epoch 3 batch 200/544 loss=0.0244 grad=1.73 lr=3.73e-05 speed=26.0 clips/s
+epoch 3 batch 300/544 loss=0.0250 grad=0.85 lr=3.06e-05 speed=28.7 clips/s
+epoch 3 batch 400/544 loss=0.0244 grad=0.83 lr=2.44e-05 speed=30.3 clips/s
+epoch 3 batch 500/544 loss=0.0245 grad=1.47 lr=1.88e-05 speed=31.2 clips/s
+epoch 3 batch 544/544 loss=0.0243 grad=1.37 lr=1.65e-05 speed=31.6 clips/s
+{'epoch': 3, 'train_loss': 0.02433802512441357, 'valid_mAP': 0.41677147784365615, 'valid_macro_F1': 0.4081044734512165, 'valid_macro_F1_per_class_threshold': 0.4575434950017928, 'valid_mAP_positives_ge_20': 0.5251776899200863, 'valid_threshold': 0.2, 'short_mAP': 0.40271822866827744, 'gpu_peak_allocated_mib': 3505, 'elapsed_minutes': 8.61}
+epoch 4 batch 1/544 loss=0.0220 grad=0.81 lr=1.65e-05 speed=0.5 clips/s
+epoch 4 batch 100/544 loss=0.0212 grad=0.27 lr=1.19e-05 speed=21.3 clips/s
+epoch 4 batch 200/544 loss=0.0223 grad=1.14 lr=8.02e-06 speed=27.2 clips/s
+epoch 4 batch 300/544 loss=0.0218 grad=0.24 lr=5.08e-06 speed=29.9 clips/s
+epoch 4 batch 400/544 loss=0.0217 grad=0.68 lr=3.10e-06 speed=31.5 clips/s
+epoch 4 batch 500/544 loss=0.0216 grad=1.20 lr=2.11e-06 speed=32.5 clips/s
+epoch 4 batch 544/544 loss=0.0216 grad=1.40 lr=2.00e-06 speed=32.8 clips/s
+{'epoch': 4, 'train_loss': 0.0216366270472614, 'valid_mAP': 0.4216794402877345, 'valid_macro_F1': 0.4151729139170397, 'valid_macro_F1_per_class_threshold': 0.4586731542460544, 'valid_mAP_positives_ge_20': 0.5258859195921165, 'valid_threshold': 0.3, 'short_mAP': 0.40419148538230804, 'gpu_peak_allocated_mib': 3505, 'elapsed_minutes': 11.38}

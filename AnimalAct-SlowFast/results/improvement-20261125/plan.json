@@ -1,0 +1,31 @@
+{
+  "variants": [
+    [
+      "context32",
+      [
+        "--min-context-seconds",
+        ".75"
+      ]
+    ],
+    [
+      "motion32",
+      [
+        "--spatial-view",
+        "motion"
+      ]
+    ],
+    [
+      "asymmetric32",
+      [
+        "--loss",
+        "asymmetric"
+      ]
+    ]
+  ],
+  "maximum_epochs_each": 4,
+  "early_stop_patience": 2,
+  "initial": "runs/pilot32-whole224/best.pth",
+  "seed": 42,
+  "labels_unchanged": true,
+  "test_used_for_selection": false
+}

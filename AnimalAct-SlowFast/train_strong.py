@@ -26,6 +26,8 @@ from metrics import evaluate, select_threshold, per_class_thresholds, summarise
 from runtime import (PROJECT, DEFAULT_MODEL_CONFIG, DEFAULT_WEIGHTS, predict,
                    save_checkpoint, run_report, video_logits)
 from provenance import record_run
+from video_ops import context_interval, motion_box
+from losses import AsymmetricLoss
 
 SHORT_SECONDS = 1.0
 
@@ -38,7 +40,8 @@ class ClipDataset(Dataset):
 
     def __init__(self, root, rows, class_count, frames, image_size, train,
                  scale=(0.8, 1.0), temporal=(0.75, 1.0), flip=0.5, colour=0.2,
-                 eval_zoom=1.15, window=None, crop="random", crop_x=0.5):
+                 eval_zoom=1.15, window=None, crop="random", crop_x=0.5, min_context_seconds=0.0,
+                 spatial_view="whole", roi_probability=.7, center_rounding="nearest"):
         self.root, self.rows, self.class_count = Path(root), rows, class_count
         self.frames, self.image_size, self.train = frames, image_size, train
         self.scale, self.temporal, self.flip, self.colour = scale, temporal, flip, colour
@@ -47,6 +50,11 @@ class ClipDataset(Dataset):
         self.window = window
         # "random" crops a square out of a zoomed frame; "whole" squashes the full frame.
         self.crop, self.crop_x = crop, crop_x
+        if center_rounding not in ("nearest", "floor"):
+            raise ValueError("Unsupported center crop rounding")
+        self.center_rounding = center_rounding
+        self.min_context_seconds = min_context_seconds
+        self.spatial_view, self.roi_probability = spatial_view, roi_probability
         self.current_video, self.reader = None, None
 
     def __len__(self):
@@ -79,7 +87,8 @@ class ClipDataset(Dataset):
     def _eval_crop(self, height, width):
         k = (self.image_size * self.eval_zoom) / min(height, width)
         resized_h, resized_w = int(round(height * k)), int(round(width * k))
-        left = int(round((resized_w - self.image_size) * self.crop_x))
+        offset = (resized_w - self.image_size) * self.crop_x
+        left = int(math.floor(offset) if self.center_rounding == "floor" else round(offset))
         top = (resized_h - self.image_size) // 2
         return (resized_w, resized_h), (left, top, left + self.image_size, top + self.image_size)
 
@@ -95,7 +104,14 @@ class ClipDataset(Dataset):
             self.current_video = path
         if row["end_frame"] > len(self.reader):
             raise ValueError(f"Clip extends beyond decoded video: {path}")
-        frames = self.reader.get_batch(self._frame_indices(row["start_frame"], row["end_frame"])).asnumpy()
+        start, end = row["start_frame"], row["end_frame"]
+        if self.min_context_seconds and self.train:
+            start, end = context_interval(start, end, self.reader.get_avg_fps(),
+                                          len(self.reader), self.min_context_seconds)
+        frames = self.reader.get_batch(self._frame_indices(start, end)).asnumpy()
+        if self.spatial_view == "motion" and (not self.train or random.random() < self.roi_probability):
+            left, top, right, bottom = motion_box(frames)
+            frames = frames[:, top:bottom, left:right]
         height, width = frames.shape[1:3]
         if self.crop == "whole":
             crops = [cv2.resize(frame, (self.image_size, self.image_size),
@@ -182,6 +198,8 @@ def main():
     parser.add_argument("--initial", type=Path, default=None,
                         help="Warm start from a saved best.pth instead of the Kinetics weights.")
     parser.add_argument("--resume", action="store_true")
+    parser.add_argument("--keep-initial", action="store_true",
+                        help="Include the warm-start checkpoint as epoch zero in validation selection.")
     parser.add_argument("--test", action="store_true")
     parser.add_argument("--epochs", type=int, default=30)
     parser.add_argument("--schedule-epochs", type=int, default=0,
@@ -207,6 +225,11 @@ def main():
     parser.add_argument("--eval-zoom", type=float, default=1.15)
     parser.add_argument("--deterministic", action="store_true",
                         help="Prefer deterministic CUDA operations; warn for unsupported operators.")
+    parser.add_argument("--min-context-seconds", type=float, default=0.0,
+                        help="Training-only context augmentation; evaluation stays inside the original clip.")
+    parser.add_argument("--spatial-view", choices=("whole", "motion"), default="whole")
+    parser.add_argument("--roi-probability", type=float, default=.7)
+    parser.add_argument("--loss", choices=("bce", "asymmetric"), default="bce")
     parser.add_argument("--seed", type=int, default=42)
     options = parser.parse_args()
     if options.frames % 8 or min(options.frames, options.image_size, options.batch_size,
@@ -224,6 +247,8 @@ def main():
         os.environ["CUBLAS_WORKSPACE_CONFIG"] = ":4096:8"
         torch.use_deterministic_algorithms(True, warn_only=True)
         torch.backends.cudnn.deterministic = True
+    if options.min_context_seconds < 0 or not 0 <= options.roi_probability <= 1:
+        parser.error("Context must be nonnegative; ROI probability must be in [0,1].")
     torch.set_num_threads(2)
     torch.manual_seed(options.seed)
     torch.cuda.manual_seed_all(options.seed)
@@ -238,6 +263,12 @@ def main():
                 for key, value in vars(options).items() if key not in {"resume", "test", "tta"}}
     if not options.deterministic:
         settings.pop("deterministic")
+    if not options.keep_initial:
+        settings.pop("keep_initial")
+    if (options.min_context_seconds == 0 and options.spatial_view == "whole"
+            and options.roi_probability == .7 and options.loss == "bce"):
+        for key in ("min_context_seconds", "spatial_view", "roi_probability", "loss"):
+            settings.pop(key)
     settings["aug_scale"] = list(options.aug_scale)
     settings["aug_temporal"] = list(options.aug_temporal)
     settings.update(classes=classes, dataset_revision=manifest["dataset_revision"],
@@ -254,9 +285,9 @@ def main():
     write_json(options.out / "positive_weights.json",
                [{**label, "positive_weight": float(weight), "train_positives": int(count)}
                 for label, weight, count in zip(classes, positive_weights, counts)])
-    criterion = nn.BCEWithLogitsLoss(
+    criterion = (AsymmetricLoss() if options.loss == "asymmetric" else nn.BCEWithLogitsLoss(
         pos_weight=None if options.balance == "sqrt" else
-        torch.tensor(positive_weights, dtype=torch.float32, device="cuda"))
+        torch.tensor(positive_weights, dtype=torch.float32, device="cuda")))
 
     total_epochs = options.schedule_epochs or options.epochs
     if total_epochs < options.epochs:
@@ -285,6 +316,25 @@ def main():
         history, best_map = state["history"], state["best_map"]
         last_improved, first_epoch, step = state["last_improved"], state["epoch"] + 1, state["step"]
 
+    if options.keep_initial and options.initial is not None and not options.resume:
+        initial_loader = DataLoader(
+            ClipDataset(options.dataset, valid_rows, len(classes), options.frames,
+                        options.image_size, False, eval_zoom=options.eval_zoom, crop=options.crop,
+                        min_context_seconds=options.min_context_seconds, spatial_view=options.spatial_view),
+            batch_size=options.batch_size, num_workers=options.workers, pin_memory=True)
+        initial_pairs = predict(model, initial_loader, mean, std)
+        threshold = select_threshold(*initial_pairs)
+        thresholds = per_class_thresholds(*initial_pairs)
+        initial_report = run_report(options.out, "initial_valid", initial_pairs, classes,
+                                    threshold, thresholds, valid_rows)
+        best_map = initial_report["mAP"]
+        save_checkpoint(options.out / "best.pth", dict(
+            state_dict=model.state_dict(), classes=classes, epoch=0,
+            threshold=threshold, thresholds=thresholds))
+        history.append(dict(epoch=0, train_loss=None, valid_mAP=initial_report["mAP"],
+                            valid_macro_F1=initial_report["macro_F1"], valid_threshold=threshold))
+        print({"initial_validation": history[-1]}, flush=True)
+
     started = time.monotonic()
     for epoch in range(first_epoch, options.epochs + 1):
         random.seed(options.seed + epoch)
@@ -293,7 +343,8 @@ def main():
         train_dataset = ClipDataset(options.dataset, train_rows, len(classes), options.frames,
                                     options.image_size, True, options.aug_scale,
                                     options.aug_temporal, 0.5, options.colour, options.eval_zoom,
-                                    crop=options.crop)
+                                    crop=options.crop, min_context_seconds=options.min_context_seconds,
+                                    spatial_view=options.spatial_view, roi_probability=options.roi_probability)
         sampler = None
         if options.balance == "sqrt":
             generator = torch.Generator().manual_seed(options.seed + epoch)
@@ -335,7 +386,8 @@ def main():
 
         valid_loader = DataLoader(ClipDataset(options.dataset, valid_rows, len(classes), options.frames,
                                               options.image_size, False, eval_zoom=options.eval_zoom,
-                                              crop=options.crop),
+                                              crop=options.crop, min_context_seconds=options.min_context_seconds,
+                                    spatial_view=options.spatial_view, roi_probability=options.roi_probability),
                                   batch_size=options.batch_size, num_workers=options.workers,
                                   pin_memory=True)
         validation = predict(model, valid_loader, mean, std)
@@ -377,7 +429,8 @@ def main():
     model.load_state_dict(best["state_dict"])
     selected_loader = DataLoader(
         ClipDataset(options.dataset, valid_rows, len(classes), options.frames,
-                    options.image_size, False, eval_zoom=options.eval_zoom, crop=options.crop),
+                    options.image_size, False, eval_zoom=options.eval_zoom, crop=options.crop, min_context_seconds=options.min_context_seconds,
+                                    spatial_view=options.spatial_view, roi_probability=options.roi_probability),
         batch_size=options.batch_size, num_workers=options.workers, pin_memory=True)
     selected_validation = predict(model, selected_loader, mean, std)
     run_report(options.out, "valid", selected_validation, classes, best["threshold"],
@@ -405,7 +458,8 @@ def evaluate_test(options, manifest, classes, mean, std):
     rows = manifest["splits"]["test"]
     loader = DataLoader(ClipDataset(options.dataset, rows, len(classes), options.frames,
                                     options.image_size, False, eval_zoom=options.eval_zoom,
-                                    crop=options.crop),
+                                    crop=options.crop, min_context_seconds=options.min_context_seconds,
+                                    spatial_view=options.spatial_view, roi_probability=options.roi_probability),
                         batch_size=options.batch_size, num_workers=options.workers, pin_memory=True)
     pairs = predict(model, loader, mean, std)
     report = run_report(options.out, "test", pairs, classes, best["threshold"],

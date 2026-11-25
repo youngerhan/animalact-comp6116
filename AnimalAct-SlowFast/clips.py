@@ -22,6 +22,15 @@ def read_json(path):
             value = data.get(key)
             if isinstance(value, str) and not Path(value).is_absolute():
                 data[key] = str((base / value).resolve())
+    if path.name in {"selection.json", "members.json"} and isinstance(data, dict):
+        base = Path(__file__).resolve().parent
+        for key in ("source_run", "base", "swin"):
+            value = data.get(key)
+            if isinstance(value, str) and not Path(value).is_absolute():
+                data[key] = str((base / value).resolve())
+        if isinstance(data.get("members"), list):
+            data["members"] = [str((base / v).resolve()) if not Path(v).is_absolute() else v
+                               for v in data["members"]]
     return data
 
 

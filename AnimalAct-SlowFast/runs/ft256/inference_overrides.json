@@ -1,0 +1,1 @@
+{"settings":{"center_rounding":"floor"},"reason":"Historical ft256 scores used floor-centred crop (133px rather than nearest 134px for a 640x360 input resized to 523x294). Retrospective migration discovered during inference verification; not selected by metric optimization.","discovered":"2026-11-25"}

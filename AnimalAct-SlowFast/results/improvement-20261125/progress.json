@@ -1,0 +1,55 @@
+{
+  "time": "2026-11-25T18:38:59.266298",
+  "stage": "completed",
+  "summary": {
+    "out": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct-SlowFast\\runs\\improved-final-20261125",
+    "validation_selected": {
+      "weights": [
+        0.75,
+        0.25,
+        0.0,
+        0.0
+      ],
+      "threshold": 0.15,
+      "mAP": 0.4763177052008935,
+      "macro_F1": 0.4621332279390339,
+      "utility": 0.46922546656996367
+    },
+    "test": {
+      "mAP": 0.4877599921387374,
+      "macro_F1": 0.45408260182167554,
+      "threshold": 0.15
+    },
+    "baseline_test": {
+      "mAP": 0.4837818839325396,
+      "macro_F1": 0.4667171048085274,
+      "threshold": 0.15
+    },
+    "delta_pp": {
+      "mAP": 0.39781082061977613,
+      "macro_F1": -1.263450298685187
+    },
+    "before_counts": {
+      "TP": 1106,
+      "FP": 1083,
+      "FN": 474,
+      "TN": 26663
+    },
+    "after_counts": {
+      "TP": 1093,
+      "FP": 1011,
+      "FN": 487,
+      "TN": 26735
+    },
+    "paired_video_bootstrap_95_interval_pp": {
+      "mAP": [
+        -0.4482435787190875,
+        1.2285446692602715
+      ],
+      "macro_F1": [
+        -3.280262672075383,
+        0.7434123788124471
+      ]
+    }
+  }
+}

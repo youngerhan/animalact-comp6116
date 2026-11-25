@@ -1,0 +1,27 @@
+{
+  "source_run": "runs/improve-motion32",
+  "selected": {
+    "variant": "flip",
+    "mAP": 0.42495141086248733,
+    "macro_F1": 0.4162262171049117,
+    "threshold": 0.35,
+    "utility": 0.4205888139836995
+  },
+  "variants": [
+    {
+      "variant": "plain",
+      "mAP": 0.4216794402877345,
+      "macro_F1": 0.4151729139170397,
+      "threshold": 0.3,
+      "utility": 0.4184261771023871
+    },
+    {
+      "variant": "flip",
+      "mAP": 0.42495141086248733,
+      "macro_F1": 0.4162262171049117,
+      "threshold": 0.35,
+      "utility": 0.4205888139836995
+    }
+  ],
+  "best_epoch": 4
+}

@@ -1,0 +1,27 @@
+{
+  "source_run": "runs/improve-asymmetric32",
+  "selected": {
+    "variant": "plain",
+    "mAP": 0.43993214745921605,
+    "macro_F1": 0.4405689615291893,
+    "threshold": 0.05,
+    "utility": 0.4402505544942027
+  },
+  "variants": [
+    {
+      "variant": "plain",
+      "mAP": 0.43993214745921605,
+      "macro_F1": 0.4405689615291893,
+      "threshold": 0.05,
+      "utility": 0.4402505544942027
+    },
+    {
+      "variant": "flip",
+      "mAP": 0.4413991744651492,
+      "macro_F1": 0.43590085157657366,
+      "threshold": 0.1,
+      "utility": 0.43865001302086143
+    }
+  ],
+  "best_epoch": 0
+}

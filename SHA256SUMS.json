@@ -48,8 +48,8 @@
     "sha256": "3daf881d6feb9f0ae49e16d3239e584cb5bd74b4ad10312737f41d8ed6d4b89c"
   },
   "rebuild_from_checkpoints.py": {
-    "bytes": 4106,
-    "sha256": "6a04b8872334f40125709ade8b38bda6a0c92260db73c07e4f50ba23a6c2e847"
+    "bytes": 4351,
+    "sha256": "615b98899a6cbefded2d9625e5dc05870509f5b6d723000f79afe885430ac273"
   },
   "requirements-windows.lock": {
     "bytes": 869,
@@ -23916,16 +23916,16 @@
     "sha256": "618085f0052e2c900438af15beb8bf12a121fc9e4894bdc83fd27bab887e95fd"
   },
   "AnimalAct-SlowFast/README.md": {
-    "bytes": 5776,
-    "sha256": "7e7a9ca4de16dee6968cb39aba753983d098c09f9b271cfc216d29373f053109"
+    "bytes": 9393,
+    "sha256": "3c4112805edd80cd13e9bb023b58f316c158003e8b01f60e126bf3493471d5a6"
   },
   "AnimalAct-SlowFast/blend.py": {
     "bytes": 2209,
     "sha256": "a5885d4fac5d437ef8479237f5c578547c2b20627ec283cfbf981ea6761bd949"
   },
   "AnimalAct-SlowFast/clips.py": {
-    "bytes": 8826,
-    "sha256": "e529661365fcbe269e7868ed565624440a375b8faf44c837d7d5c65948f6145a"
+    "bytes": 9381,
+    "sha256": "2714c237b7a37f0e90ba55fc5e51e9c49937a1174fc6d5a82ac98481b14c2446"
   },
   "AnimalAct-SlowFast/clips_all.py": {
     "bytes": 3040,
@@ -23936,16 +23936,16 @@
     "sha256": "71727ae878656f7dd2ff7106c8fef429cce6aa3e74aa44ca2bbb17edb91b0c1c"
   },
   "AnimalAct-SlowFast/evaluate_run.py": {
-    "bytes": 7211,
-    "sha256": "914bc43443e1a1118c943a2c9958c3714324edefb74d726bc72971b9bd8c8d1a"
+    "bytes": 7759,
+    "sha256": "55581eed48db531a8061d8135eaecfdbb588b33e7d1d9bc44d1c873fa67409d0"
   },
   "AnimalAct-SlowFast/metrics.py": {
     "bytes": 4427,
     "sha256": "4ea277bcc887246b76693fc8e40fed52ef0a97714861a9b73ca5650de484279c"
   },
   "AnimalAct-SlowFast/predict.py": {
-    "bytes": 3602,
-    "sha256": "70de80d69c6fada7351db0de82dae983166709c63b5848174b09bef4e5b8555e"
+    "bytes": 3841,
+    "sha256": "06c7be2a87547ed15f97799bbf4b7c063d61649b857f8addb821f0bdb9d1a9f8"
   },
   "AnimalAct-SlowFast/predictions.py": {
     "bytes": 1898,
@@ -23984,8 +23984,8 @@
     "sha256": "6ab0d9434bdad7509cbb107ab133c2ae3ca3fe716d01b96de14918272baa9dbe"
   },
   "AnimalAct-SlowFast/train_strong.py": {
-    "bytes": 22883,
-    "sha256": "6fdbd1bfc10cbe0f67654b4193eaa28c87bf2be735a2d7899aa185c7d523d5ad"
+    "bytes": 27096,
+    "sha256": "a07bfe0b80292d17561c6f83b24d10b626b380f0c23c10bf96487a7d3b56e3db"
   },
   "AnimalAct-SlowFast/verify.py": {
     "bytes": 2392,
@@ -41390,5 +41390,1049 @@
   "wheelhouse/zipp-4.1.2-py3-none-any.whl": {
     "bytes": 10581,
     "sha256": "b30cb6cd253122169c47de245ca24a86bac2a5d3802ba15bf7ba6414eb9e144d"
+  },
+  "AnimalAct-SlowFast/calibrate_thresholds.py": {
+    "bytes": 4279,
+    "sha256": "cbdb75ef82e5cd54fc05229241512ad43ed8802f84d5c8922f4711a17427ed3b"
+  },
+  "AnimalAct-SlowFast/fuse_swin.py": {
+    "bytes": 7304,
+    "sha256": "6d7f9c3beb879dc800a1afd0b805ac299230e81a8a84f480d278e7d16a49bc13"
+  },
+  "AnimalAct-SlowFast/fusion_calibration.py": {
+    "bytes": 2710,
+    "sha256": "62d65889f0d1e592843914194c9953036fa90f1d9a6749af88b2889812574f2c"
+  },
+  "AnimalAct-SlowFast/improve.py": {
+    "bytes": 11257,
+    "sha256": "6613c2edd79f5d76157543398e47e93ab20fd7632f1d036c0d40b8748488bffc"
+  },
+  "AnimalAct-SlowFast/losses.py": {
+    "bytes": 1373,
+    "sha256": "a15b53a7ced0e6c358babae07e1e451b9b2a38b487aca61bd329f5d48ba67412"
+  },
+  "AnimalAct-SlowFast/predict_improved.py": {
+    "bytes": 7617,
+    "sha256": "261d9247f773f91dee4e3c2e94452e922f5499d68dbc516e1c0d81f40475997b"
+  },
+  "AnimalAct-SlowFast/report_improved.py": {
+    "bytes": 8848,
+    "sha256": "cc3e89cc9823c26c403099bec045402e9fc0d07fb34e63a5d9ad824e69a55837"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/asymmetric32.log": {
+    "bytes": 2612,
+    "sha256": "5f82328a111f4540d2909a84915041b7ae34f49f8fac394b09b54a6cc625ddbc"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/calibration-final/selection-frozen.json": {
+    "bytes": 1710,
+    "sha256": "8107c5712f6f90c52ff1e4fdb9194bdab040982ca453ee220c1a153f41c3d205"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/calibration-final/summary.json": {
+    "bytes": 849,
+    "sha256": "6efcc1abb17cac3241609af959e7358f9ec68b70bdddf9cd24ad284116b75cf6"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/calibration-final/test-calibrated-metrics.json": {
+    "bytes": 9004,
+    "sha256": "091e0481672814b5ae6a7d6cd4f6bbe4c9dd94bab609ca7b0730f83e2bae5fc2"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/calibration-final/test-uniform-metrics.json": {
+    "bytes": 7051,
+    "sha256": "eff27f6b12d2e231e940d2b02820c85d56112f1b00a66d521b890575cd861735"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/CALIBRATION_PLAN.md": {
+    "bytes": 681,
+    "sha256": "a2ab8db0ecc874dbb103e36b2699bfb691b80f1ee41e66cfe21a197bf7b2b681"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/context32.log": {
+    "bytes": 4363,
+    "sha256": "bf47fb79d14f04c56096ecdc7ed0cdf0795d6d23b640027fdf80c5b6bf1aadac"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/final-file-sha256.json": {
+    "bytes": 4085,
+    "sha256": "0d329d58e31665bb483b0e08b3d9b704b4004d240b683ae36a86098407535daa"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/FINAL_REPORT.md": {
+    "bytes": 4008,
+    "sha256": "cd027f28c2739f2314b72434c071d19708ed5df64d31271a1dff2286026be96d"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/inference-verification.json": {
+    "bytes": 7288,
+    "sha256": "b18dbca06b84b4852ad880ff9cd86e8c3da91fb7fcdc91f43ccb273d8a16ae51"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/legacy-inference-verification.json": {
+    "bytes": 186,
+    "sha256": "990e027a835d29390fdee63a9504e2f91d1cd1d73cbdaff0e71c6f4570365480"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/motion32.log": {
+    "bytes": 4300,
+    "sha256": "5362cb1eac7bb11e422aea7ad906aa9b13ee925aac6566d233aa3bbd482ac16d"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/per-class-final.csv": {
+    "bytes": 4756,
+    "sha256": "5492e8af12ef3ec412da0833cf09ecce0e2720626f3aba8a7dd1167640b173fd"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/plan.json": {
+    "bytes": 510,
+    "sha256": "984ec5fecc677ca3f7676937bc38afbaaf64b7221a8c3b7f1a992ae817bd2a5a"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/PLAN.md": {
+    "bytes": 2204,
+    "sha256": "df3cd3602345d9392ca9391ab718ac94ea8583e56e14e193089d90fe313a3ce8"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/prediction-check-matched.json": {
+    "bytes": 5658,
+    "sha256": "d4a28fd1c12a56d12a18a916288a042766bf8b81f6e2977f40a385aae5c4873e"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/prediction-check.json": {
+    "bytes": 5627,
+    "sha256": "e877394959a66b9732f4a1dff73b4867fc6ce05a0ffa28426d481654785bf9f6"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/prediction-components.json": {
+    "bytes": 25617,
+    "sha256": "435f508931f5c6b9357564f7ede8de4f2df779e2e481c5d54a09fefd7ab0aa39"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/prediction-verified.json": {
+    "bytes": 25618,
+    "sha256": "1a882320a84b88cfbd25ae915e0c1d387cb20f81ce24c4e31bc4a4a8cca2ef1d"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/progress.json": {
+    "bytes": 1278,
+    "sha256": "128711fd15500d87f1c05ee75b85249070831d8674719975092c3b97118b518a"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/REPORT.md": {
+    "bytes": 3428,
+    "sha256": "c5eba68fa051313f1e21fc4970bb2236d606af32b8abae4d1dc5ff539bae8238"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/selection-frozen.json": {
+    "bytes": 22368,
+    "sha256": "8eeebea63ce8ae7c8ce1a37117aeb39e81fa4d1ba0a4a6832f9e376e342be31f"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/source-before/evaluate_run.py": {
+    "bytes": 7211,
+    "sha256": "914bc43443e1a1118c943a2c9958c3714324edefb74d726bc72971b9bd8c8d1a"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/source-before/predict.py": {
+    "bytes": 3602,
+    "sha256": "70de80d69c6fada7351db0de82dae983166709c63b5848174b09bef4e5b8555e"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/source-before/train_strong.py": {
+    "bytes": 22883,
+    "sha256": "6fdbd1bfc10cbe0f67654b4193eaa28c87bf2be735a2d7899aa185c7d523d5ad"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/summary-final.json": {
+    "bytes": 1624,
+    "sha256": "c389e90a825fe1499f4e36b7dd326b4f8c18db117396ecf7509e62daa1aed119"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/summary-swin.json": {
+    "bytes": 1545,
+    "sha256": "3bc30c407c0d0eebbca83a503336ca60e262cd1a0b2444da284b03dda7dc5798"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/summary.json": {
+    "bytes": 1093,
+    "sha256": "139fbf8f4fbb7be9ccb6bb664364fad28fc40617aa46ea60069e104114cb929c"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/swin-selection-frozen.json": {
+    "bytes": 5132,
+    "sha256": "f7eb2e9a37b0d2972f1da361fc40cacccf756ba70ee8c305a099d513b216bf17"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/swin.log": {
+    "bytes": 8067,
+    "sha256": "fe36e4039be9b95933302f22688355c714d32640afc388420e32bec6bbf1fcc1"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/SWIN_CLASS_FUSION_PLAN.md": {
+    "bytes": 1035,
+    "sha256": "9251515485da5ea46edc1a9631484b290df0603e3d3a18a8bacec46ae58f8373"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/SWIN_CONTINUATION_RULE.md": {
+    "bytes": 565,
+    "sha256": "9f27d1bc8a8e31a067fd1c214877df885660daa2f2aed90d873fa0230e2bbbf8"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/SWIN_PLAN.md": {
+    "bytes": 1291,
+    "sha256": "155727331d348a01946ce2b9674ae86698834104a5739b5c84c1ae949e9ec2d6"
+  },
+  "AnimalAct-SlowFast/results/improvement-20261125/SWIN_RESOURCE.json": {
+    "bytes": 513,
+    "sha256": "e0225c74264eb4b815c14765727bb910ac859c89ef1a01af0ca843daf3ff729e"
+  },
+  "AnimalAct-SlowFast/runs/ft256/inference_overrides.json": {
+    "bytes": 304,
+    "sha256": "71ffb04efd9b3a058cbe64d0efd0db15cd61a99b7767a8a4cef58cc4c700c433"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/best.pth": {
+    "bytes": 134997883,
+    "sha256": "d0d379330719372f6448c5758161a26a145886644c7f79e51b9ed85f30fb86d2"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/evaluation-ready.json": {
+    "bytes": 27,
+    "sha256": "d55d570f802d2f9aa9a9a555a1adeab55bd4b2cb09fc71a345dc9526d56b1e40"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/history.json": {
+    "bytes": 969,
+    "sha256": "c97e5de1d590d8e5abb97de690d07a21c098762063c11b27d8b8b430e4958ca8"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/initial_valid_metrics.json": {
+    "bytes": 15259,
+    "sha256": "8f8070bb330d849fe0fdf0fc33e2a9d51d0133a07d2977521ff36f5458c3d5ba"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/initial_valid_per_class.csv": {
+    "bytes": 2108,
+    "sha256": "0a9199b25f587a48ad39a609d53768f9ff0c9c701adcf64d05b2003f11049a0e"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/initial_valid_predictions.npz": {
+    "bytes": 78913,
+    "sha256": "7a72bf79a7a3896e91151a9e530bcf386d2b32693bde4dbd61a68be70dc7c7ad"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/positive_weights.json": {
+    "bytes": 3775,
+    "sha256": "8f10f4ac113b36b2b85372c239994e95336aa9503b367a011ece41c1cd29e453"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/provenance-20261125T102923658676Z.json": {
+    "bytes": 5375,
+    "sha256": "950e1e1455b7f7c5fc741ebf5f538272f0b1475d434f7d7ce56bf61950078bf2"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/settings.json": {
+    "bytes": 3136,
+    "sha256": "9c1b93939af83f458f56ff9bb5d0fc11cb656ce1b05332f29bc23e4a3ff84dfd"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/blend.py": {
+    "bytes": 2209,
+    "sha256": "a5885d4fac5d437ef8479237f5c578547c2b20627ec283cfbf981ea6761bd949"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/clips.py": {
+    "bytes": 8361,
+    "sha256": "ef2aca8f074c0cff73762694053d3ec2636a3d9a383652765cf9445261edef4c"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/clips_all.py": {
+    "bytes": 3040,
+    "sha256": "8c43c4f98d4b25540b90398c58edf14ffaeee9b8ad4802f78721fb1620bf5755"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/ensemble.py": {
+    "bytes": 3756,
+    "sha256": "71727ae878656f7dd2ff7106c8fef429cce6aa3e74aa44ca2bbb17edb91b0c1c"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/evaluate_run.py": {
+    "bytes": 7480,
+    "sha256": "0c2779369db38fe9048e286c19fe6f20a8ed0497815e48b9a90f38ce009846cd"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/improve.py": {
+    "bytes": 11257,
+    "sha256": "6613c2edd79f5d76157543398e47e93ab20fd7632f1d036c0d40b8748488bffc"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/losses.py": {
+    "bytes": 1373,
+    "sha256": "a15b53a7ced0e6c358babae07e1e451b9b2a38b487aca61bd329f5d48ba67412"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/metrics.py": {
+    "bytes": 4427,
+    "sha256": "4ea277bcc887246b76693fc8e40fed52ef0a97714861a9b73ca5650de484279c"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/predict.py": {
+    "bytes": 3841,
+    "sha256": "06c7be2a87547ed15f97799bbf4b7c063d61649b857f8addb821f0bdb9d1a9f8"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/predictions.py": {
+    "bytes": 1898,
+    "sha256": "0547d9a703eb558c632fe8c71d6cbb9f1f034ec6b5109246e383641b7f8c2e48"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/provenance.py": {
+    "bytes": 1758,
+    "sha256": "3dacaa348b1f8a8e78d4d2a5bb709d23be1acb413d141a6173adc662c94835af"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/report_final.py": {
+    "bytes": 17514,
+    "sha256": "26b342d7e0516dc2b3c29b301f79a104a84e7c8d92164957cc03159cb94a94b2"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/report_results.py": {
+    "bytes": 9069,
+    "sha256": "9bdf9746d5cfdde360a0c2a5982e481b57296d5ba7e1d3075ebd52c8ea357560"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/reproduce.py": {
+    "bytes": 1371,
+    "sha256": "ef96996be723513b0b5a76ec38429ad5d8e72d65d70bb9103e5251ee2762348b"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/runtime.py": {
+    "bytes": 4333,
+    "sha256": "bd9d2ec00818f373e6a50ebdd1638d6a7510104540553f021a378e06fca828da"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/test_improvements.py": {
+    "bytes": 3410,
+    "sha256": "8bcc1854e4e4e9fb637e29a9a3ebd6c0cc7efee2d33eb234f952b9717fa68225"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/test_pipeline.py": {
+    "bytes": 2642,
+    "sha256": "3b7dc1d6db5c997f455a71da2a98da8bc8ec60edcd303f099f9cef77577a48f7"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/train.py": {
+    "bytes": 9680,
+    "sha256": "6ab0d9434bdad7509cbb107ab133c2ae3ca3fe716d01b96de14918272baa9dbe"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/train_strong.py": {
+    "bytes": 26814,
+    "sha256": "21ecfd9d60e70e064658feb2b7a6f68d925e986efda6f4c3b1855abd7d9f4277"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/verify.py": {
+    "bytes": 2392,
+    "sha256": "4b000193684c74e913763644d4a5dbfe69ece59ed7e014925ec71368adaa964b"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/video_level.py": {
+    "bytes": 3078,
+    "sha256": "ec5595a1576a17ed973a014329dca68da013e345ac5c3ad9dc72068de50ed862"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/source_snapshot/20261125T102923658676Z/video_ops.py": {
+    "bytes": 2143,
+    "sha256": "3f8826870f22dbf2989113d414c0e47bd6b558536c6eb7a347f8345e247375c7"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/valid_metrics.json": {
+    "bytes": 15259,
+    "sha256": "8f8070bb330d849fe0fdf0fc33e2a9d51d0133a07d2977521ff36f5458c3d5ba"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/valid_per_class.csv": {
+    "bytes": 2108,
+    "sha256": "0a9199b25f587a48ad39a609d53768f9ff0c9c701adcf64d05b2003f11049a0e"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32/valid_predictions.npz": {
+    "bytes": 78913,
+    "sha256": "7a72bf79a7a3896e91151a9e530bcf386d2b32693bde4dbd61a68be70dc7c7ad"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32-evaluation/selection.json": {
+    "bytes": 627,
+    "sha256": "79d58b8e4b8ed5fe40646581bfe1d2233b2d00fa18196901b88cb47a8741a1de"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32-evaluation/valid_metrics.json": {
+    "bytes": 15259,
+    "sha256": "8f8070bb330d849fe0fdf0fc33e2a9d51d0133a07d2977521ff36f5458c3d5ba"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32-evaluation/valid_per_class.csv": {
+    "bytes": 2108,
+    "sha256": "0a9199b25f587a48ad39a609d53768f9ff0c9c701adcf64d05b2003f11049a0e"
+  },
+  "AnimalAct-SlowFast/runs/improve-asymmetric32-evaluation/valid_predictions.npz": {
+    "bytes": 78913,
+    "sha256": "7a72bf79a7a3896e91151a9e530bcf386d2b32693bde4dbd61a68be70dc7c7ad"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/best.pth": {
+    "bytes": 134997883,
+    "sha256": "aea27e4c3d392a755f4786483fdc7537991b1bb2ceff4af90ce83fd8178a3bda"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/evaluation-ready.json": {
+    "bytes": 27,
+    "sha256": "d55d570f802d2f9aa9a9a555a1adeab55bd4b2cb09fc71a345dc9526d56b1e40"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/history.json": {
+    "bytes": 1778,
+    "sha256": "5ed087560f6fb9e84c7eebf9cee04d05eaf624e5e1ac41dd20aee254189ccdda"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/initial_valid_metrics.json": {
+    "bytes": 15259,
+    "sha256": "8f8070bb330d849fe0fdf0fc33e2a9d51d0133a07d2977521ff36f5458c3d5ba"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/initial_valid_per_class.csv": {
+    "bytes": 2108,
+    "sha256": "0a9199b25f587a48ad39a609d53768f9ff0c9c701adcf64d05b2003f11049a0e"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/initial_valid_predictions.npz": {
+    "bytes": 78913,
+    "sha256": "7a72bf79a7a3896e91151a9e530bcf386d2b32693bde4dbd61a68be70dc7c7ad"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/positive_weights.json": {
+    "bytes": 3775,
+    "sha256": "8f10f4ac113b36b2b85372c239994e95336aa9503b367a011ece41c1cd29e453"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/provenance-20261125T100353511526Z.json": {
+    "bytes": 5380,
+    "sha256": "1029b328c002a42716de36e5a38155869718540a2ca3c88ddce63b2cb47e8bad"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/settings.json": {
+    "bytes": 3127,
+    "sha256": "0acff09d102c83a9146f1f26398f98cfeb9d41edc41738c78ffbfdb607a9df14"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/blend.py": {
+    "bytes": 2209,
+    "sha256": "a5885d4fac5d437ef8479237f5c578547c2b20627ec283cfbf981ea6761bd949"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/clips.py": {
+    "bytes": 8361,
+    "sha256": "ef2aca8f074c0cff73762694053d3ec2636a3d9a383652765cf9445261edef4c"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/clips_all.py": {
+    "bytes": 3040,
+    "sha256": "8c43c4f98d4b25540b90398c58edf14ffaeee9b8ad4802f78721fb1620bf5755"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/ensemble.py": {
+    "bytes": 3756,
+    "sha256": "71727ae878656f7dd2ff7106c8fef429cce6aa3e74aa44ca2bbb17edb91b0c1c"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/evaluate_run.py": {
+    "bytes": 7480,
+    "sha256": "0c2779369db38fe9048e286c19fe6f20a8ed0497815e48b9a90f38ce009846cd"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/improve.py": {
+    "bytes": 11257,
+    "sha256": "6613c2edd79f5d76157543398e47e93ab20fd7632f1d036c0d40b8748488bffc"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/losses.py": {
+    "bytes": 1373,
+    "sha256": "a15b53a7ced0e6c358babae07e1e451b9b2a38b487aca61bd329f5d48ba67412"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/metrics.py": {
+    "bytes": 4427,
+    "sha256": "4ea277bcc887246b76693fc8e40fed52ef0a97714861a9b73ca5650de484279c"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/predict.py": {
+    "bytes": 3841,
+    "sha256": "06c7be2a87547ed15f97799bbf4b7c063d61649b857f8addb821f0bdb9d1a9f8"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/predictions.py": {
+    "bytes": 1898,
+    "sha256": "0547d9a703eb558c632fe8c71d6cbb9f1f034ec6b5109246e383641b7f8c2e48"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/provenance.py": {
+    "bytes": 1758,
+    "sha256": "3dacaa348b1f8a8e78d4d2a5bb709d23be1acb413d141a6173adc662c94835af"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/report_final.py": {
+    "bytes": 17514,
+    "sha256": "26b342d7e0516dc2b3c29b301f79a104a84e7c8d92164957cc03159cb94a94b2"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/report_results.py": {
+    "bytes": 9069,
+    "sha256": "9bdf9746d5cfdde360a0c2a5982e481b57296d5ba7e1d3075ebd52c8ea357560"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/reproduce.py": {
+    "bytes": 1371,
+    "sha256": "ef96996be723513b0b5a76ec38429ad5d8e72d65d70bb9103e5251ee2762348b"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/runtime.py": {
+    "bytes": 4333,
+    "sha256": "bd9d2ec00818f373e6a50ebdd1638d6a7510104540553f021a378e06fca828da"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/test_improvements.py": {
+    "bytes": 3410,
+    "sha256": "8bcc1854e4e4e9fb637e29a9a3ebd6c0cc7efee2d33eb234f952b9717fa68225"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/test_pipeline.py": {
+    "bytes": 2642,
+    "sha256": "3b7dc1d6db5c997f455a71da2a98da8bc8ec60edcd303f099f9cef77577a48f7"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/train.py": {
+    "bytes": 9680,
+    "sha256": "6ab0d9434bdad7509cbb107ab133c2ae3ca3fe716d01b96de14918272baa9dbe"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/train_strong.py": {
+    "bytes": 26814,
+    "sha256": "21ecfd9d60e70e064658feb2b7a6f68d925e986efda6f4c3b1855abd7d9f4277"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/verify.py": {
+    "bytes": 2392,
+    "sha256": "4b000193684c74e913763644d4a5dbfe69ece59ed7e014925ec71368adaa964b"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/video_level.py": {
+    "bytes": 3078,
+    "sha256": "ec5595a1576a17ed973a014329dca68da013e345ac5c3ad9dc72068de50ed862"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/source_snapshot/20261125T100353511526Z/video_ops.py": {
+    "bytes": 2143,
+    "sha256": "3f8826870f22dbf2989113d414c0e47bd6b558536c6eb7a347f8345e247375c7"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/valid_metrics.json": {
+    "bytes": 15138,
+    "sha256": "285b0a35a5cb592eda0f8dc146b5319d83f9074e2c334e515f525a171ada8aa7"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/valid_per_class.csv": {
+    "bytes": 2044,
+    "sha256": "d91d1dd5687a2edb6bcd54d3d0021f9057daa4d46cef5abc0acb163a09e9e4de"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32/valid_predictions.npz": {
+    "bytes": 78893,
+    "sha256": "d5407e28a0a3043e6d04b2f9d28f6b9ff90571b5f6329b6e683f1bed6e14263b"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32-evaluation/selection.json": {
+    "bytes": 621,
+    "sha256": "5c58d39766f13b153c2f67aee9918fac556de76ee4134bd278009c72db295360"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32-evaluation/test_metrics.json": {
+    "bytes": 15097,
+    "sha256": "71216545005842072c7ad557a9e6e3a4e219caa8f7e7ce85e6616f244499cd24"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32-evaluation/test_per_class.csv": {
+    "bytes": 2052,
+    "sha256": "9dc5b303cf0bad9ac55985da84e64916a054ffdfb4b34fd0c94aed8766ed5fe1"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32-evaluation/test_predictions.npz": {
+    "bytes": 121903,
+    "sha256": "720e2683a7acb6f8477e925c395b5bd75344ee3285751a5eace1451c70d24d1c"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32-evaluation/valid_metrics.json": {
+    "bytes": 15155,
+    "sha256": "38192da6b04b15cb6218250930affd8543e8e318810b7ed851369faa665fb7b5"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32-evaluation/valid_per_class.csv": {
+    "bytes": 2068,
+    "sha256": "c7f9e3f1818bfbabadf307dc5660515ffb18797287547425f219d9ae4f4a22ab"
+  },
+  "AnimalAct-SlowFast/runs/improve-context32-evaluation/valid_predictions.npz": {
+    "bytes": 117591,
+    "sha256": "19140df95cb46444e1ae61be56c2369befd9cd3257e2a0fc9b7fdd502f3b6be0"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/best.pth": {
+    "bytes": 134997883,
+    "sha256": "2e860b2113a9d1120fbbcb379ec802c21e0e4f7a11cfc13fa41e50ea21f39776"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/evaluation-ready.json": {
+    "bytes": 27,
+    "sha256": "d55d570f802d2f9aa9a9a555a1adeab55bd4b2cb09fc71a345dc9526d56b1e40"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/history.json": {
+    "bytes": 1772,
+    "sha256": "4cbf2be3577c65f8c87a55bde2ff4f23c2f985c27d9bbb30d744afca4c151f5a"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/initial_valid_metrics.json": {
+    "bytes": 15224,
+    "sha256": "d9a59ec2791db3ac5c73eb686f1dd7fe450c94cd4eb8264c4b5263648208d483"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/initial_valid_per_class.csv": {
+    "bytes": 2051,
+    "sha256": "a4d32f63972a68e242c7aec5063ab72cf98fe1258b55722132cfb15e3f5b1faa"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/initial_valid_predictions.npz": {
+    "bytes": 78611,
+    "sha256": "d2ba181120cc01c2bdc770e16720f87cab7241137206a2f48105a6a9fc161e79"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/positive_weights.json": {
+    "bytes": 3775,
+    "sha256": "8f10f4ac113b36b2b85372c239994e95336aa9503b367a011ece41c1cd29e453"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/provenance-20261125T101642457671Z.json": {
+    "bytes": 5375,
+    "sha256": "8b6aaebcd977ac4c0439efa40b210a92969bb3c18c602a4e3f21611f0f553a7d"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/settings.json": {
+    "bytes": 3126,
+    "sha256": "046ad1585ec8c5ee4fb8f2a633e661307c2a78aba817156b9c3ee14f0f21a366"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/blend.py": {
+    "bytes": 2209,
+    "sha256": "a5885d4fac5d437ef8479237f5c578547c2b20627ec283cfbf981ea6761bd949"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/clips.py": {
+    "bytes": 8361,
+    "sha256": "ef2aca8f074c0cff73762694053d3ec2636a3d9a383652765cf9445261edef4c"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/clips_all.py": {
+    "bytes": 3040,
+    "sha256": "8c43c4f98d4b25540b90398c58edf14ffaeee9b8ad4802f78721fb1620bf5755"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/ensemble.py": {
+    "bytes": 3756,
+    "sha256": "71727ae878656f7dd2ff7106c8fef429cce6aa3e74aa44ca2bbb17edb91b0c1c"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/evaluate_run.py": {
+    "bytes": 7480,
+    "sha256": "0c2779369db38fe9048e286c19fe6f20a8ed0497815e48b9a90f38ce009846cd"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/improve.py": {
+    "bytes": 11257,
+    "sha256": "6613c2edd79f5d76157543398e47e93ab20fd7632f1d036c0d40b8748488bffc"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/losses.py": {
+    "bytes": 1373,
+    "sha256": "a15b53a7ced0e6c358babae07e1e451b9b2a38b487aca61bd329f5d48ba67412"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/metrics.py": {
+    "bytes": 4427,
+    "sha256": "4ea277bcc887246b76693fc8e40fed52ef0a97714861a9b73ca5650de484279c"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/predict.py": {
+    "bytes": 3841,
+    "sha256": "06c7be2a87547ed15f97799bbf4b7c063d61649b857f8addb821f0bdb9d1a9f8"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/predictions.py": {
+    "bytes": 1898,
+    "sha256": "0547d9a703eb558c632fe8c71d6cbb9f1f034ec6b5109246e383641b7f8c2e48"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/provenance.py": {
+    "bytes": 1758,
+    "sha256": "3dacaa348b1f8a8e78d4d2a5bb709d23be1acb413d141a6173adc662c94835af"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/report_final.py": {
+    "bytes": 17514,
+    "sha256": "26b342d7e0516dc2b3c29b301f79a104a84e7c8d92164957cc03159cb94a94b2"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/report_results.py": {
+    "bytes": 9069,
+    "sha256": "9bdf9746d5cfdde360a0c2a5982e481b57296d5ba7e1d3075ebd52c8ea357560"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/reproduce.py": {
+    "bytes": 1371,
+    "sha256": "ef96996be723513b0b5a76ec38429ad5d8e72d65d70bb9103e5251ee2762348b"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/runtime.py": {
+    "bytes": 4333,
+    "sha256": "bd9d2ec00818f373e6a50ebdd1638d6a7510104540553f021a378e06fca828da"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/test_improvements.py": {
+    "bytes": 3410,
+    "sha256": "8bcc1854e4e4e9fb637e29a9a3ebd6c0cc7efee2d33eb234f952b9717fa68225"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/test_pipeline.py": {
+    "bytes": 2642,
+    "sha256": "3b7dc1d6db5c997f455a71da2a98da8bc8ec60edcd303f099f9cef77577a48f7"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/train.py": {
+    "bytes": 9680,
+    "sha256": "6ab0d9434bdad7509cbb107ab133c2ae3ca3fe716d01b96de14918272baa9dbe"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/train_strong.py": {
+    "bytes": 26814,
+    "sha256": "21ecfd9d60e70e064658feb2b7a6f68d925e986efda6f4c3b1855abd7d9f4277"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/verify.py": {
+    "bytes": 2392,
+    "sha256": "4b000193684c74e913763644d4a5dbfe69ece59ed7e014925ec71368adaa964b"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/video_level.py": {
+    "bytes": 3078,
+    "sha256": "ec5595a1576a17ed973a014329dca68da013e345ac5c3ad9dc72068de50ed862"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/source_snapshot/20261125T101642457671Z/video_ops.py": {
+    "bytes": 2143,
+    "sha256": "3f8826870f22dbf2989113d414c0e47bd6b558536c6eb7a347f8345e247375c7"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/valid_metrics.json": {
+    "bytes": 15139,
+    "sha256": "d6f0337bb39af5ae949ead8d3aede84c21b699a3482dcdd1a3cbe5a02d4ad81b"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/valid_per_class.csv": {
+    "bytes": 2015,
+    "sha256": "634e235807eb07f1ea19e27caa10ab576881ffb7ad642d77fca585244e23ac6a"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32/valid_predictions.npz": {
+    "bytes": 79104,
+    "sha256": "e5b96dc31e5451d5d5838fbe1b70c5c88b39ddf53413ec7971af3c298b59d675"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32-evaluation/selection.json": {
+    "bytes": 620,
+    "sha256": "a681df29d5e553acceaac52393e232d5d17c2edce256d639d15e1727727abfb8"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32-evaluation/valid_metrics.json": {
+    "bytes": 15077,
+    "sha256": "9390760e3c50b1c37898e26041dbd0c2f7b6bbefcffed1b262bb03302c85f767"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32-evaluation/valid_per_class.csv": {
+    "bytes": 1984,
+    "sha256": "77ad6d42a8d436bbda18c0cac2ba936f96792c4153d3a7fa2c3d85082cd0d364"
+  },
+  "AnimalAct-SlowFast/runs/improve-motion32-evaluation/valid_predictions.npz": {
+    "bytes": 117491,
+    "sha256": "a29fcf4f384662fa8fa361f331b1a9d44eb42ac5d65790ae5d13149ba10625b1"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/best.pth": {
+    "bytes": 126316557,
+    "sha256": "6eb23d9886281e89a0e254c60f5600d4e29f6ee2e0b5389239e05296d9934011"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/continuation.json": {
+    "bytes": 204,
+    "sha256": "f6b4fff67323854f9290da29a4d9bdbdbe7c75f263ae3c39631279b85f2c2621"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/head-best.pth": {
+    "bytes": 97189,
+    "sha256": "87d937eec1f290e8e7ea9e8623b3e22ff4ee43bd1bbaacc907a6ceaa262f40db"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/head-history.json": {
+    "bytes": 3221,
+    "sha256": "c4239494c00eba01d86a0db681e12db2d929380cd868bab43b5aa33596e1086c"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/history.json": {
+    "bytes": 1035,
+    "sha256": "438cd58b1dfc4b05529058fa62b52e271909065e0ddcd999afcd868a692f9b89"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/initial_valid_metrics.json": {
+    "bytes": 15228,
+    "sha256": "98b0d91af18d3d740d3ad6f9978cd56a5c760dc45fabb0b5cbdc3d5dee87f25d"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/initial_valid_per_class.csv": {
+    "bytes": 2062,
+    "sha256": "3c8a01d73db8e5cd4093c68529427379ec53d587ae68aedab3020eab5a3273bb"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/initial_valid_predictions.npz": {
+    "bytes": 77061,
+    "sha256": "d89423ff6048ca3641d0fe5741db497c6271eb370ec73aa0536cc326a5f4d3e6"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/provenance-20261125T104904917103Z.json": {
+    "bytes": 4244,
+    "sha256": "151748cf40c93e60c129d1c76bdd19bad2f3aff96a52b16b370f739da0f9b7b1"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/provenance-20261125T110522222126Z.json": {
+    "bytes": 4483,
+    "sha256": "ca18d3cd36b11ce6e52283b66d3eaf564428c7403a8d943e0e4dba443c7cabd5"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/settings.json": {
+    "bytes": 2452,
+    "sha256": "3937a39cb923983b8dc6794248436fb44d462fe6de01e710068f3137e778aa93"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/blend.py": {
+    "bytes": 2209,
+    "sha256": "a5885d4fac5d437ef8479237f5c578547c2b20627ec283cfbf981ea6761bd949"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/clips.py": {
+    "bytes": 8361,
+    "sha256": "ef2aca8f074c0cff73762694053d3ec2636a3d9a383652765cf9445261edef4c"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/clips_all.py": {
+    "bytes": 3040,
+    "sha256": "8c43c4f98d4b25540b90398c58edf14ffaeee9b8ad4802f78721fb1620bf5755"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/ensemble.py": {
+    "bytes": 3756,
+    "sha256": "71727ae878656f7dd2ff7106c8fef429cce6aa3e74aa44ca2bbb17edb91b0c1c"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/evaluate_run.py": {
+    "bytes": 7480,
+    "sha256": "0c2779369db38fe9048e286c19fe6f20a8ed0497815e48b9a90f38ce009846cd"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/improve.py": {
+    "bytes": 11257,
+    "sha256": "6613c2edd79f5d76157543398e47e93ab20fd7632f1d036c0d40b8748488bffc"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/losses.py": {
+    "bytes": 1373,
+    "sha256": "a15b53a7ced0e6c358babae07e1e451b9b2a38b487aca61bd329f5d48ba67412"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/metrics.py": {
+    "bytes": 4427,
+    "sha256": "4ea277bcc887246b76693fc8e40fed52ef0a97714861a9b73ca5650de484279c"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/predict.py": {
+    "bytes": 3841,
+    "sha256": "06c7be2a87547ed15f97799bbf4b7c063d61649b857f8addb821f0bdb9d1a9f8"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/predictions.py": {
+    "bytes": 1898,
+    "sha256": "0547d9a703eb558c632fe8c71d6cbb9f1f034ec6b5109246e383641b7f8c2e48"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/provenance.py": {
+    "bytes": 1758,
+    "sha256": "3dacaa348b1f8a8e78d4d2a5bb709d23be1acb413d141a6173adc662c94835af"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/report_final.py": {
+    "bytes": 17514,
+    "sha256": "26b342d7e0516dc2b3c29b301f79a104a84e7c8d92164957cc03159cb94a94b2"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/report_results.py": {
+    "bytes": 9069,
+    "sha256": "9bdf9746d5cfdde360a0c2a5982e481b57296d5ba7e1d3075ebd52c8ea357560"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/reproduce.py": {
+    "bytes": 1371,
+    "sha256": "ef96996be723513b0b5a76ec38429ad5d8e72d65d70bb9103e5251ee2762348b"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/runtime.py": {
+    "bytes": 4333,
+    "sha256": "bd9d2ec00818f373e6a50ebdd1638d6a7510104540553f021a378e06fca828da"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/swin_experiment.py": {
+    "bytes": 12256,
+    "sha256": "a396bdfd26d151f3bf4a3ab949d33f297d8b1134d5c6ae24f7a3104627518fe8"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/test_improvements.py": {
+    "bytes": 3410,
+    "sha256": "8bcc1854e4e4e9fb637e29a9a3ebd6c0cc7efee2d33eb234f952b9717fa68225"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/test_pipeline.py": {
+    "bytes": 2642,
+    "sha256": "3b7dc1d6db5c997f455a71da2a98da8bc8ec60edcd303f099f9cef77577a48f7"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/train.py": {
+    "bytes": 9680,
+    "sha256": "6ab0d9434bdad7509cbb107ab133c2ae3ca3fe716d01b96de14918272baa9dbe"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/train_strong.py": {
+    "bytes": 26814,
+    "sha256": "21ecfd9d60e70e064658feb2b7a6f68d925e986efda6f4c3b1855abd7d9f4277"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/verify.py": {
+    "bytes": 2392,
+    "sha256": "4b000193684c74e913763644d4a5dbfe69ece59ed7e014925ec71368adaa964b"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/video_level.py": {
+    "bytes": 3078,
+    "sha256": "ec5595a1576a17ed973a014329dca68da013e345ac5c3ad9dc72068de50ed862"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T104904917103Z/video_ops.py": {
+    "bytes": 2143,
+    "sha256": "3f8826870f22dbf2989113d414c0e47bd6b558536c6eb7a347f8345e247375c7"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/blend.py": {
+    "bytes": 2209,
+    "sha256": "a5885d4fac5d437ef8479237f5c578547c2b20627ec283cfbf981ea6761bd949"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/calibrate_thresholds.py": {
+    "bytes": 4279,
+    "sha256": "cbdb75ef82e5cd54fc05229241512ad43ed8802f84d5c8922f4711a17427ed3b"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/clips.py": {
+    "bytes": 8361,
+    "sha256": "ef2aca8f074c0cff73762694053d3ec2636a3d9a383652765cf9445261edef4c"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/clips_all.py": {
+    "bytes": 3040,
+    "sha256": "8c43c4f98d4b25540b90398c58edf14ffaeee9b8ad4802f78721fb1620bf5755"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/ensemble.py": {
+    "bytes": 3756,
+    "sha256": "71727ae878656f7dd2ff7106c8fef429cce6aa3e74aa44ca2bbb17edb91b0c1c"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/evaluate_run.py": {
+    "bytes": 7480,
+    "sha256": "0c2779369db38fe9048e286c19fe6f20a8ed0497815e48b9a90f38ce009846cd"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/fuse_swin.py": {
+    "bytes": 5354,
+    "sha256": "0d903d1465c2d996e2b30d5a5f14c47f37fb12bfc6c1a601966f184057155696"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/improve.py": {
+    "bytes": 11257,
+    "sha256": "6613c2edd79f5d76157543398e47e93ab20fd7632f1d036c0d40b8748488bffc"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/losses.py": {
+    "bytes": 1373,
+    "sha256": "a15b53a7ced0e6c358babae07e1e451b9b2a38b487aca61bd329f5d48ba67412"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/metrics.py": {
+    "bytes": 4427,
+    "sha256": "4ea277bcc887246b76693fc8e40fed52ef0a97714861a9b73ca5650de484279c"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/predict.py": {
+    "bytes": 3841,
+    "sha256": "06c7be2a87547ed15f97799bbf4b7c063d61649b857f8addb821f0bdb9d1a9f8"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/predictions.py": {
+    "bytes": 1898,
+    "sha256": "0547d9a703eb558c632fe8c71d6cbb9f1f034ec6b5109246e383641b7f8c2e48"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/provenance.py": {
+    "bytes": 1758,
+    "sha256": "3dacaa348b1f8a8e78d4d2a5bb709d23be1acb413d141a6173adc662c94835af"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/report_final.py": {
+    "bytes": 17514,
+    "sha256": "26b342d7e0516dc2b3c29b301f79a104a84e7c8d92164957cc03159cb94a94b2"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/report_results.py": {
+    "bytes": 9069,
+    "sha256": "9bdf9746d5cfdde360a0c2a5982e481b57296d5ba7e1d3075ebd52c8ea357560"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/reproduce.py": {
+    "bytes": 1371,
+    "sha256": "ef96996be723513b0b5a76ec38429ad5d8e72d65d70bb9103e5251ee2762348b"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/runtime.py": {
+    "bytes": 4333,
+    "sha256": "bd9d2ec00818f373e6a50ebdd1638d6a7510104540553f021a378e06fca828da"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/swin_experiment.py": {
+    "bytes": 13122,
+    "sha256": "495d0aec4f84d1bdac579f9076077fe513395b7edf26abd122ec6f8165b06ada"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/test_improvements.py": {
+    "bytes": 3410,
+    "sha256": "8bcc1854e4e4e9fb637e29a9a3ebd6c0cc7efee2d33eb234f952b9717fa68225"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/test_pipeline.py": {
+    "bytes": 2642,
+    "sha256": "3b7dc1d6db5c997f455a71da2a98da8bc8ec60edcd303f099f9cef77577a48f7"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/train.py": {
+    "bytes": 9680,
+    "sha256": "6ab0d9434bdad7509cbb107ab133c2ae3ca3fe716d01b96de14918272baa9dbe"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/train_strong.py": {
+    "bytes": 26814,
+    "sha256": "21ecfd9d60e70e064658feb2b7a6f68d925e986efda6f4c3b1855abd7d9f4277"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/verify.py": {
+    "bytes": 2392,
+    "sha256": "4b000193684c74e913763644d4a5dbfe69ece59ed7e014925ec71368adaa964b"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/video_level.py": {
+    "bytes": 3078,
+    "sha256": "ec5595a1576a17ed973a014329dca68da013e345ac5c3ad9dc72068de50ed862"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/source_snapshot/20261125T110522222126Z/video_ops.py": {
+    "bytes": 2143,
+    "sha256": "3f8826870f22dbf2989113d414c0e47bd6b558536c6eb7a347f8345e247375c7"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/valid_metrics.json": {
+    "bytes": 15130,
+    "sha256": "3abce61556df85a3f22bdc87a5c9e8afd49ccaf91fa221bd082c20a426b18628"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/valid_per_class.csv": {
+    "bytes": 2019,
+    "sha256": "685c64bb60c4e4368832e564e04277b5aab4c7bebb09f03a8c29d936b0e7fc61"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t/valid_predictions.npz": {
+    "bytes": 78217,
+    "sha256": "6971b5ccd9dbedf4400f206518368d75f955d611384872bf93940bdebbf76f3b"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t-evaluation/selection.json": {
+    "bytes": 83,
+    "sha256": "0dac4a68a31fc911035afa0c3a26d75a08c8f37aed3c563f321e10847accf14c"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t-evaluation/test_metrics.json": {
+    "bytes": 15090,
+    "sha256": "0897230af5008965453e70f63a4b0db3579d77e6b7d7ab4790a9debf15a8a53a"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t-evaluation/test_per_class.csv": {
+    "bytes": 2048,
+    "sha256": "a3a77933b6dd5b717d8c3bf194e232e0085f6872df611bb441aa0eea36d39323"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t-evaluation/test_predictions.npz": {
+    "bytes": 119981,
+    "sha256": "72375642fce5331755fbb0a97f8c885d3f8d3caa5ebda4084570ce1ac9cc2e10"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t-evaluation/valid_metrics.json": {
+    "bytes": 15144,
+    "sha256": "3e2da38160da0424a0617440691a2f666235bfd6d386f963d197952140e9bf8e"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t-evaluation/valid_per_class.csv": {
+    "bytes": 2059,
+    "sha256": "56f5e006f3796482ad3e155be525c5d76e5da60a9d6188bede2f8887fea25318"
+  },
+  "AnimalAct-SlowFast/runs/improve-swin-t-evaluation/valid_predictions.npz": {
+    "bytes": 115958,
+    "sha256": "b9b8cc740ab26d3375c45c8fd9092f516f8d1decdff96100e79693e6ab4326d3"
+  },
+  "AnimalAct-SlowFast/runs/improved-final-20261125/members.json": {
+    "bytes": 22016,
+    "sha256": "9c4bbbc8241b5f7f7d362ee8600bb89144770679980a64f717ea22c9fd1e326f"
+  },
+  "AnimalAct-SlowFast/runs/improved-final-20261125/test_metrics.json": {
+    "bytes": 15124,
+    "sha256": "ce9f2ef94b8f0172e41ebd95b7baa52c06dd9db0e6b690a52fb80bd0c11fd7b0"
+  },
+  "AnimalAct-SlowFast/runs/improved-final-20261125/test_per_class.csv": {
+    "bytes": 2045,
+    "sha256": "72e03d917d763ac6b599216d83e2973fb531243492e9bc094012ae2381eff85e"
+  },
+  "AnimalAct-SlowFast/runs/improved-final-20261125/test_predictions.npz": {
+    "bytes": 120277,
+    "sha256": "75724cc93f82f0605dabccfeb3e4c2f7edfc6913e98cc17860e98c3d11238d29"
+  },
+  "AnimalAct-SlowFast/runs/improved-final-20261125/valid_metrics.json": {
+    "bytes": 15188,
+    "sha256": "9de97af2e3d7224938f06cd9f1aaac1aab63ddf95d9b6361151efffba283ce55"
+  },
+  "AnimalAct-SlowFast/runs/improved-final-20261125/valid_per_class.csv": {
+    "bytes": 2030,
+    "sha256": "6f01aca0108d9d4aaa7f439754b4a8f586e96fd2a62b6e6c8e52e2c365c6b1d8"
+  },
+  "AnimalAct-SlowFast/runs/improved-final-20261125/valid_predictions.npz": {
+    "bytes": 116031,
+    "sha256": "bdc587914ede8223aa3d4c15069c530336f9d9bcdd505103646bcfe3fccd4af1"
+  },
+  "AnimalAct-SlowFast/runs/improved-swin-final-20261125/members.json": {
+    "bytes": 4956,
+    "sha256": "9ef02901321c4a67abb799dc2f633da92e04193f8ecfa1daf4d071a137a9354a"
+  },
+  "AnimalAct-SlowFast/runs/improved-swin-final-20261125/test_metrics.json": {
+    "bytes": 15153,
+    "sha256": "8188648f828e2d19781f8c54204a616466bca8247f49c0d3a97e6cdfc7b513c9"
+  },
+  "AnimalAct-SlowFast/runs/improved-swin-final-20261125/test_per_class.csv": {
+    "bytes": 2067,
+    "sha256": "fb458537e062d35b6dfd2d1941e3fa019c90e04b203c07595f7534e08c0ce20e"
+  },
+  "AnimalAct-SlowFast/runs/improved-swin-final-20261125/test_predictions.npz": {
+    "bytes": 166085,
+    "sha256": "c8f5aa121f75bc4d8dbbc816a92fafc9884aafca2851f9222d9c9acb293130b6"
+  },
+  "AnimalAct-SlowFast/runs/improved-swin-final-20261125/valid_metrics.json": {
+    "bytes": 15216,
+    "sha256": "7bf25362f21aae178737021a379219881ea7f9996da905e8c4f172f5912fdeca"
+  },
+  "AnimalAct-SlowFast/runs/improved-swin-final-20261125/valid_per_class.csv": {
+    "bytes": 2093,
+    "sha256": "8651a1e5af98c8ccc4301f732676ab1135881cdbfe22f1785e02646c93430028"
+  },
+  "AnimalAct-SlowFast/runs/improved-swin-final-20261125/valid_predictions.npz": {
+    "bytes": 160818,
+    "sha256": "8ada9a1cb66291e25748f20ce45254ec1ad6386870d7fc47d7f6bb1b83943da4"
+  },
+  "AnimalAct-SlowFast/swin_experiment.py": {
+    "bytes": 13345,
+    "sha256": "8f07db2dc16d1702ea9cd4e8a87b855032369da8b0375c09f99de0f6985f52b6"
+  },
+  "AnimalAct-SlowFast/test_fusion_calibration.py": {
+    "bytes": 1509,
+    "sha256": "0e13eb101ebdcd3f0612f5b342d5431054f79b42eb8749537e4a960e0da1d575"
+  },
+  "AnimalAct-SlowFast/test_improvements.py": {
+    "bytes": 3846,
+    "sha256": "92e6c7548b1b0ffcff301440724ed39ad5665f0e10958e9e151244202752c4f4"
+  },
+  "AnimalAct-SlowFast/verify_legacy_inference.py": {
+    "bytes": 1702,
+    "sha256": "cba52fc1f2068037fdcfcf935dfe7433aace9502cea66e47dc90c63ec03ebb66"
+  },
+  "AnimalAct-SlowFast/video_ops.py": {
+    "bytes": 2143,
+    "sha256": "3f8826870f22dbf2989113d414c0e47bd6b558536c6eb7a347f8345e247375c7"
+  },
+  "packaging/original-settings-v1.1.0/improve-asymmetric32/settings.json": {
+    "bytes": 3597,
+    "sha256": "255d648a7d4cbbcb3d34186d14a91a20d856aa02f3f2c284787771e7f2a7b9e9"
+  },
+  "packaging/original-settings-v1.1.0/improve-context32/settings.json": {
+    "bytes": 3588,
+    "sha256": "673b1b721f745b6304f1a943591c072f32a0dea5700f344c2d0ab1370ab95ae6"
+  },
+  "packaging/original-settings-v1.1.0/improve-motion32/settings.json": {
+    "bytes": 3587,
+    "sha256": "36014f892a4e75f5cce464d0aca34106b353d1be7952496f7970a96f949b854d"
+  },
+  "packaging/original-settings-v1.1.0/improve-swin-t/settings.json": {
+    "bytes": 2756,
+    "sha256": "1cda4e46be357b0bd80a1698071a42d0b1048bf6a5e089f35df00a2cefed3680"
+  },
+  "packaging/update-v1.1.0/APPLY_UPDATE.cmd": {
+    "bytes": 1222,
+    "sha256": "07599d31926803af6121b79a96e7cd3a8c553d7ff293849d6dee5dd8aebf9f7c"
+  },
+  "packaging/update-v1.1.0/apply_update.py": {
+    "bytes": 10421,
+    "sha256": "a2ef2de38bf9184a016dcdf28a4a45a399d5223ca776951edff72931ae73a3d1"
+  },
+  "packaging/update-v1.1.0/test_apply_update.py": {
+    "bytes": 4814,
+    "sha256": "b08149386b41a622a25e5347445cc9e52b995911fab7d36c6f078470bbf7b5c3"
+  },
+  "packaging/update-v1.1.0/UPDATE_README.md": {
+    "bytes": 3770,
+    "sha256": "4213c27c667c47ecd0ce85a469dbfd5dff306e4af2b051131b17622fc90d5be7"
+  },
+  "packaging/UPDATE_ADAPTATIONS_v1.1.0.md": {
+    "bytes": 1259,
+    "sha256": "6e570844b53f3660c142b52ca58b8d79aef660d06db1618fd728638e3c6ec232"
+  },
+  "PREDICT_IMPROVED.cmd": {
+    "bytes": 419,
+    "sha256": "ff1424d07a1bc8592aaad1d052c89ecd61df7d51c75e3148fdfd3978635acd88"
+  },
+  "README.md": {
+    "bytes": 3655,
+    "sha256": "181395554a5b9710cbd2b8fc0bdaeb7c257119dff66002f1c1a8b57080b224d4"
+  },
+  "swin3d_t-7615ae03.pth": {
+    "bytes": 127447114,
+    "sha256": "7615ae035996b65eb38dad437ae533d2dfcd36f9f89d28c0f0fa7bfb8e6b3130"
+  },
+  "UPGRADE_v1.1.0.md": {
+    "bytes": 1583,
+    "sha256": "2ae7534e3a1a2c86cc991f7396527a569f63359e8b3e9ee265de1d778af11c53"
+  },
+  "VERIFY_IMPROVED.cmd": {
+    "bytes": 349,
+    "sha256": "675a22e0bbc42639d02f8f6f55a08ea5f00c2357ef41e2d8705793962019b46a"
   }
 }

@@ -1,0 +1,70 @@
+{
+  "out": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct-SlowFast\\runs\\improved-swin-final-20261125",
+  "selected": {
+    "flip": true,
+    "new_weight": 0.125,
+    "threshold": 0.15,
+    "mAP": 0.483254080550969,
+    "macro_F1": 0.4701111250212707,
+    "utility": 0.47668260278611985,
+    "fusion_policy": "global",
+    "new_weights": [
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125,
+      0.125
+    ]
+  },
+  "test": {
+    "mAP": 0.4904844292560316,
+    "macro_F1": 0.46405465762272585,
+    "threshold": 0.15
+  },
+  "old_test": {
+    "mAP": 0.4837818839325396,
+    "macro_F1": 0.4667171048085274,
+    "threshold": 0.15
+  },
+  "delta_pp": {
+    "mAP": 0.670254532349196,
+    "macro_F1": -0.2662447185801553
+  },
+  "exploratory_evaluation_note": "Swin comparison was specified before the three-variant test result. Two preplanned stages evaluated test; no claim of an untouched single-use test set.",
+  "paired_video_bootstrap_95_interval_pp": {
+    "mAP": [
+      -0.2932589815984324,
+      1.8645187177000926
+    ],
+    "macro_F1": [
+      -1.9713853229779623,
+      1.070764334874615
+    ]
+  }
+}

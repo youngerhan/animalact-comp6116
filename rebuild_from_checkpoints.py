@@ -38,7 +38,10 @@ def main():
     mean=torch.tensor([123.675,116.28,103.53],device='cuda').view(1,3,1,1,1)
     std=torch.tensor([58.395,57.12,57.375],device='cuda').view(1,3,1,1,1)
     for name in names:
-        run=project/'runs'/name; settings=ap.Namespace(**read_json(run/'settings.json'))
+        run=project/'runs'/name
+        settings_data=read_json(run/'settings.json')
+        if (run/'inference_overrides.json').exists():settings_data.update(read_json(run/'inference_overrides.json')['settings'])
+        settings=ap.Namespace(**settings_data)
         manifest=read_json(Path(settings.manifest)); classes=manifest['classes']
         best=torch.load(run/'best.pth',map_location='cpu',weights_only=True)
         if best['classes']!=classes:raise ValueError('Checkpoint class mapping differs from manifest')

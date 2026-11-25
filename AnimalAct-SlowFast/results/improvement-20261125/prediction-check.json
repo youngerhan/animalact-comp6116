@@ -1,0 +1,235 @@
+{
+  "video": "C:\\Users\\ADMIN\\Desktop\\作业与项目\\特选论题1\\项目\\AnimalAct\\videos\\test\\AAWJEBGU.mp4",
+  "start_frame": 0,
+  "end_frame_exclusive": 35,
+  "models": 10,
+  "threshold_policy": "regularized class thresholds",
+  "predicted_actions": [
+    {
+      "global_id": 70,
+      "name": "Moving",
+      "score": 0.9356858981773257,
+      "threshold": 0.15997568995803102
+    }
+  ],
+  "top_scores": [
+    {
+      "global_id": 70,
+      "name": "Moving",
+      "score": 0.9356858981773257,
+      "threshold": 0.15997568995803102
+    },
+    {
+      "global_id": 62,
+      "name": "Keeping still",
+      "score": 0.033470989451416244,
+      "threshold": 0.15000000000000002
+    },
+    {
+      "global_id": 114,
+      "name": "Walking",
+      "score": 0.030154942718809252,
+      "threshold": 0.15
+    },
+    {
+      "global_id": 44,
+      "name": "Exploring",
+      "score": 0.01656131242057768,
+      "threshold": 0.14774546529791574
+    },
+    {
+      "global_id": 87,
+      "name": "Sensing",
+      "score": 0.012361903933197027,
+      "threshold": 0.12610389599373692
+    }
+  ],
+  "all_scores": [
+    {
+      "global_id": 70,
+      "name": "Moving",
+      "score": 0.9356858981773257,
+      "threshold": 0.15997568995803102
+    },
+    {
+      "global_id": 62,
+      "name": "Keeping still",
+      "score": 0.033470989451416244,
+      "threshold": 0.15000000000000002
+    },
+    {
+      "global_id": 114,
+      "name": "Walking",
+      "score": 0.030154942718809252,
+      "threshold": 0.15
+    },
+    {
+      "global_id": 44,
+      "name": "Exploring",
+      "score": 0.01656131242057768,
+      "threshold": 0.14774546529791574
+    },
+    {
+      "global_id": 87,
+      "name": "Sensing",
+      "score": 0.012361903933197027,
+      "threshold": 0.12610389599373692
+    },
+    {
+      "global_id": 39,
+      "name": "Eating",
+      "score": 0.00705839780432882,
+      "threshold": 0.1717563073695252
+    },
+    {
+      "global_id": 1,
+      "name": "Attacking",
+      "score": 0.00675485693524891,
+      "threshold": 0.1600970124114563
+    },
+    {
+      "global_id": 50,
+      "name": "Flying",
+      "score": 0.005956702919179491,
+      "threshold": 0.1690754920126776
+    },
+    {
+      "global_id": 53,
+      "name": "Grooming",
+      "score": 0.0026473634360783286,
+      "threshold": 0.14700045054220726
+    },
+    {
+      "global_id": 106,
+      "name": "Swimming",
+      "score": 0.0013752947791088252,
+      "threshold": 0.15
+    },
+    {
+      "global_id": 13,
+      "name": "Carrying In Mouth",
+      "score": 0.0011327186267284794,
+      "threshold": 0.14556234538813784
+    },
+    {
+      "global_id": 46,
+      "name": "Fighting",
+      "score": 0.0008336480554146236,
+      "threshold": 0.14792565761007037
+    },
+    {
+      "global_id": 59,
+      "name": "Hugging",
+      "score": 0.0007887592789039451,
+      "threshold": 0.15171606295868745
+    },
+    {
+      "global_id": 63,
+      "name": "Landing",
+      "score": 0.0006367720602158955,
+      "threshold": 0.15
+    },
+    {
+      "global_id": 8,
+      "name": "Biting",
+      "score": 0.0006004394594359558,
+      "threshold": 0.15419002310358018
+    },
+    {
+      "global_id": 61,
+      "name": "Jumping",
+      "score": 0.0005239110164625416,
+      "threshold": 0.14686418354169714
+    },
+    {
+      "global_id": 76,
+      "name": "Preening",
+      "score": 0.00039625182232762225,
+      "threshold": 0.16778884374559805
+    },
+    {
+      "global_id": 2,
+      "name": "Attending",
+      "score": 0.0003038182166981646,
+      "threshold": 0.16377083854542973
+    },
+    {
+      "global_id": 16,
+      "name": "Climbing",
+      "score": 0.00016445446684094922,
+      "threshold": 0.1465166529852976
+    },
+    {
+      "global_id": 27,
+      "name": "Disturbing Another Animal",
+      "score": 4.615709032940174e-05,
+      "threshold": 0.1581346852668384
+    },
+    {
+      "global_id": 88,
+      "name": "Shaking",
+      "score": 3.483576556553695e-05,
+      "threshold": 0.15600377505600255
+    },
+    {
+      "global_id": 110,
+      "name": "Turning Around",
+      "score": 3.324605896421959e-05,
+      "threshold": 0.15211839635861296
+    },
+    {
+      "global_id": 26,
+      "name": "Displaying Defensive Pose",
+      "score": 2.0125851229790825e-05,
+      "threshold": 0.15
+    },
+    {
+      "global_id": 47,
+      "name": "Flapping",
+      "score": 1.7630636729574792e-05,
+      "threshold": 0.1534482141989828
+    },
+    {
+      "global_id": 85,
+      "name": "Running",
+      "score": 1.1048636659820756e-05,
+      "threshold": 0.13892843447808154
+    },
+    {
+      "global_id": 37,
+      "name": "Drinking",
+      "score": 1.0115649248798597e-05,
+      "threshold": 0.15
+    },
+    {
+      "global_id": 15,
+      "name": "Chirping",
+      "score": 6.763457662452982e-06,
+      "threshold": 0.20283999125948476
+    },
+    {
+      "global_id": 89,
+      "name": "Shaking Head",
+      "score": 6.612528271552069e-06,
+      "threshold": 0.16195605352802842
+    },
+    {
+      "global_id": 96,
+      "name": "Spitting Venom",
+      "score": 4.097004801185055e-06,
+      "threshold": 0.15542910457948764
+    },
+    {
+      "global_id": 32,
+      "name": "Doing A Face Dip",
+      "score": 3.0314117302163884e-06,
+      "threshold": 0.15
+    },
+    {
+      "global_id": 7,
+      "name": "Being Eaten",
+      "score": 1.6897353335242993e-06,
+      "threshold": 0.1474887550158863
+    }
+  ]
+}

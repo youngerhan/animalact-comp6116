@@ -1,0 +1,39 @@
+{
+  "OOF_candidates": [
+    {
+      "regularizer": null,
+      "OOF_macro_F1": 0.4701111250212707
+    },
+    {
+      "regularizer": 0,
+      "OOF_macro_F1": 0.4444479368189834
+    },
+    {
+      "regularizer": 10,
+      "OOF_macro_F1": 0.4664544148219421
+    },
+    {
+      "regularizer": 30,
+      "OOF_macro_F1": 0.47161570451344426
+    },
+    {
+      "regularizer": 100,
+      "OOF_macro_F1": 0.47220630143371395
+    },
+    {
+      "regularizer": 300,
+      "OOF_macro_F1": 0.47244199953477295
+    }
+  ],
+  "selected": {
+    "regularizer": 300,
+    "OOF_macro_F1": 0.47244199953477295
+  },
+  "uniform_test_macro_F1": 0.46405465762272585,
+  "calibrated_test_macro_F1": 0.4667404284701597,
+  "mAP_unchanged": 0.4904844292560316,
+  "F1_delta_pp": 0.26857708474338216,
+  "TP": 1110,
+  "FP": 1020,
+  "FN": 470
+}

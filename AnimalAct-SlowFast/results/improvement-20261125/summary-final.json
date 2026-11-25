@@ -1,0 +1,60 @@
+{
+  "evaluation": "31-class annotated-interval multilabel classification",
+  "test_clips": 946,
+  "test_videos": 424,
+  "before": {
+    "TP": 1106,
+    "FP": 1083,
+    "FN": 474,
+    "TN": 26663,
+    "mAP": 0.4837818839325396,
+    "macro_F1": 0.4667171048085274,
+    "precision": 0.5052535404294198,
+    "recall": 0.7,
+    "micro_F1": 0.5868930750862298
+  },
+  "after_uniform": {
+    "TP": 1111,
+    "FP": 1039,
+    "FN": 469,
+    "TN": 26707,
+    "mAP": 0.4904844292560316,
+    "macro_F1": 0.46405465762272585,
+    "precision": 0.5167441860465116,
+    "recall": 0.7031645569620253,
+    "micro_F1": 0.5957104557640751
+  },
+  "after_calibrated": {
+    "TP": 1110,
+    "FP": 1020,
+    "FN": 470,
+    "TN": 26726,
+    "mAP": 0.4904844292560316,
+    "macro_F1": 0.4667404284701597,
+    "precision": 0.5211267605633803,
+    "recall": 0.7025316455696202,
+    "micro_F1": 0.5983827493261455
+  },
+  "delta_pp": {
+    "mAP": 0.670254532349196,
+    "macro_F1": 0.002332366163226851,
+    "precision": 1.587322013396042,
+    "recall": 0.25316455696202667,
+    "micro_F1": 1.148967423991576
+  },
+  "paired_video_bootstrap_95_interval_pp": {
+    "mAP": [
+      -0.2932589815984324,
+      1.8645187177000926
+    ],
+    "calibrated_macro_F1": [
+      -1.6435281775907313,
+      1.4819541593714738
+    ]
+  },
+  "bootstrap_repeats": 300,
+  "validation_only_selection": true,
+  "exploratory_test_exposure": "Two planned stages and later validation-selected threshold calibration evaluated test; no single-use untouched-test claim.",
+  "new_model_count": 10,
+  "old_model_count": 8
+}

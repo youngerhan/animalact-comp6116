@@ -1,0 +1,27 @@
+{
+  "version": "v1.1.0-20261125",
+  "status": "passed",
+  "update_dry_run": true,
+  "update_apply": true,
+  "installer_synthetic_tests": 7,
+  "project_tests": 13,
+  "merged_payload_files_sha256_checked": 10609,
+  "saved_score_recompute": {
+    "mAP": 0.4904844292560316,
+    "macro_F1": 0.4667404284701597
+  },
+  "actual_video_inference": {
+    "video_id": "AAWJEBGU",
+    "start_frame": 0,
+    "end_frame_exclusive": 35,
+    "models": 10,
+    "matched_evaluation_batch": true,
+    "max_absolute_error": 9.313225746154785e-09
+  },
+  "archive_crc_passed": true,
+  "limitations": [
+    "Tested on the same Windows/GPU in a separate project directory. Existing installed site-packages and MMAction2 were reused; this is not a clean offline reinstall or a second-machine validation.",
+    "Predictions reproduce checkpoints; retraining numerical identity is not guaranteed.",
+    "The supplied example detects Moving but misses Flying."
+  ]
+}

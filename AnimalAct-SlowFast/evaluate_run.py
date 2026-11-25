@@ -40,7 +40,11 @@ def scores(model, rows, settings, mean, std, variant):
             loader = DataLoader(
                 ClipDataset(settings.dataset, rows, len(settings.classes), settings.frames,
                             settings.image_size, False, eval_zoom=variant["zoom"], window=window,
-                            crop=crop_mode, crop_x=crop_x),
+                            crop=crop_mode, crop_x=crop_x,
+                            min_context_seconds=getattr(settings, "min_context_seconds", 0.0),
+                            spatial_view=getattr(settings, "spatial_view", "whole"),
+                            roi_probability=getattr(settings, "roi_probability", .7),
+                            center_rounding=getattr(settings, "center_rounding", "nearest")),
                 batch_size=settings.batch_size, num_workers=settings.workers, pin_memory=True)
             targets, current = (predict_tta(model, loader, mean, std) if variant["tta"]
                                 else predict(model, loader, mean, std))
@@ -57,7 +61,11 @@ def main():
     parser.add_argument("--reference", type=Path, help="Optional baseline run for comparison.")
     options = parser.parse_args()
 
-    settings = argparse.Namespace(**read_json(options.run / "settings.json"))
+    settings_data = read_json(options.run / "settings.json")
+    overrides = options.run / "inference_overrides.json"
+    if overrides.exists():
+        settings_data.update(read_json(overrides)["settings"])
+    settings = argparse.Namespace(**settings_data)
     settings.dataset = Path(settings.dataset)
     settings.config = Path(settings.config)
     settings.weights = Path(settings.weights)

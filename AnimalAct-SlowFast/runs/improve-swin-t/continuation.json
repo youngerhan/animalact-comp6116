@@ -1,0 +1,7 @@
+{
+  "original_epochs": 3,
+  "extra_epochs": 3,
+  "head_lr": 5e-05,
+  "backbone_lr": 5e-06,
+  "reason": "Predeclared validation rule: last initial epoch best and >=2pp gain over frozen features."
+}

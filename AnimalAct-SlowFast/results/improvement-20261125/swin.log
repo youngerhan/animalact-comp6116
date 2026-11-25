@@ -1,0 +1,129 @@
+train features 100/1087
+train features 200/1087
+train features 300/1087
+train features 400/1087
+train features 500/1087
+train features 600/1087
+train features 700/1087
+train features 800/1087
+train features 900/1087
+train features 1000/1087
+train features 1087/1087
+valid features 100/456
+valid features 200/456
+valid features 300/456
+valid features 400/456
+valid features 456/456
+Swin head {'epoch': 1, 'mAP': 0.10288349133976622, 'macro_F1': 0.11537840197198916}
+Swin head {'epoch': 2, 'mAP': 0.16423890977618594, 'macro_F1': 0.17624208760014726}
+Swin head {'epoch': 3, 'mAP': 0.19640448214975656, 'macro_F1': 0.20992265908239754}
+Swin head {'epoch': 4, 'mAP': 0.23319502464288258, 'macro_F1': 0.23850544950608804}
+Swin head {'epoch': 5, 'mAP': 0.2530643660627127, 'macro_F1': 0.25375097189438833}
+Swin head {'epoch': 6, 'mAP': 0.2665610875833979, 'macro_F1': 0.2763401314043368}
+Swin head {'epoch': 7, 'mAP': 0.2809906209888579, 'macro_F1': 0.28170453396027234}
+Swin head {'epoch': 8, 'mAP': 0.2884314399466087, 'macro_F1': 0.3014479995600853}
+Swin head {'epoch': 9, 'mAP': 0.2933422122170916, 'macro_F1': 0.3001030915986585}
+Swin head {'epoch': 10, 'mAP': 0.2969032957824476, 'macro_F1': 0.3047783122004297}
+Swin head {'epoch': 11, 'mAP': 0.3006679748461378, 'macro_F1': 0.3058550521037743}
+Swin head {'epoch': 12, 'mAP': 0.3061288414166718, 'macro_F1': 0.3027002995652517}
+Swin head {'epoch': 13, 'mAP': 0.31491426809910794, 'macro_F1': 0.3110982335045149}
+Swin head {'epoch': 14, 'mAP': 0.32254984192302044, 'macro_F1': 0.3164694046354}
+Swin head {'epoch': 15, 'mAP': 0.32188651626053427, 'macro_F1': 0.31354165079364693}
+Swin head {'epoch': 16, 'mAP': 0.33224224670499386, 'macro_F1': 0.3285667820582485}
+Swin head {'epoch': 17, 'mAP': 0.3328487421891054, 'macro_F1': 0.32315665561688905}
+Swin head {'epoch': 18, 'mAP': 0.33369888496777045, 'macro_F1': 0.3314211307149598}
+Swin head {'epoch': 19, 'mAP': 0.32785965155568736, 'macro_F1': 0.3361049792922063}
+Swin head {'epoch': 20, 'mAP': 0.3346126766916693, 'macro_F1': 0.3354497563242749}
+Swin head {'epoch': 21, 'mAP': 0.3369810378899746, 'macro_F1': 0.3291624044971361}
+Swin head {'epoch': 22, 'mAP': 0.3382949036707202, 'macro_F1': 0.33330821449239795}
+Swin head {'epoch': 23, 'mAP': 0.3376909316556303, 'macro_F1': 0.3357379157818254}
+Swin head {'epoch': 24, 'mAP': 0.3452661816776338, 'macro_F1': 0.3416732311504123}
+Swin head {'epoch': 25, 'mAP': 0.3427410437303683, 'macro_F1': 0.34246990186604725}
+Swin head {'epoch': 26, 'mAP': 0.3413398336504992, 'macro_F1': 0.3449720246876227}
+Swin head {'epoch': 27, 'mAP': 0.3524470140449418, 'macro_F1': 0.3475419351860302}
+Swin head {'epoch': 28, 'mAP': 0.35090595315142015, 'macro_F1': 0.3467099016752529}
+Swin head {'epoch': 29, 'mAP': 0.35031793962177205, 'macro_F1': 0.3512816820115963}
+Swin head {'epoch': 30, 'mAP': 0.3486943956593257, 'macro_F1': 0.3481905744715179}
+Swin head {'epoch': 31, 'mAP': 0.3483715902426674, 'macro_F1': 0.35293962567108017}
+Swin head {'epoch': 32, 'mAP': 0.35189501915611227, 'macro_F1': 0.34776506500471915}
+Swin head {'epoch': 33, 'mAP': 0.35047608716387313, 'macro_F1': 0.34934582895000754}
+Swin epoch 1 batch 1/2173 loss=0.0303 0.1 clips/s
+Swin epoch 1 batch 200/2173 loss=0.0927 11.6 clips/s
+Swin epoch 1 batch 400/2173 loss=0.0873 16.6 clips/s
+Swin epoch 1 batch 600/2173 loss=0.0867 19.4 clips/s
+Swin epoch 1 batch 800/2173 loss=0.0854 21.3 clips/s
+Swin epoch 1 batch 1000/2173 loss=0.0836 22.5 clips/s
+Swin epoch 1 batch 1200/2173 loss=0.0825 23.4 clips/s
+Swin epoch 1 batch 1400/2173 loss=0.0818 23.9 clips/s
+Swin epoch 1 batch 1600/2173 loss=0.0811 24.0 clips/s
+Swin epoch 1 batch 1800/2173 loss=0.0808 24.3 clips/s
+Swin epoch 1 batch 2000/2173 loss=0.0802 24.6 clips/s
+Swin epoch 1 batch 2173/2173 loss=0.0793 24.8 clips/s
+Swin validation {'epoch': 1, 'train_loss': 0.07933527762666036, 'valid_mAP': 0.38472310524789627, 'valid_macro_F1': 0.3749427800707849}
+Swin epoch 2 batch 1/2173 loss=0.0468 0.1 clips/s
+Swin epoch 2 batch 200/2173 loss=0.0681 11.1 clips/s
+Swin epoch 2 batch 400/2173 loss=0.0691 15.6 clips/s
+Swin epoch 2 batch 600/2173 loss=0.0693 18.1 clips/s
+Swin epoch 2 batch 800/2173 loss=0.0694 19.7 clips/s
+Swin epoch 2 batch 1000/2173 loss=0.0686 20.8 clips/s
+Swin epoch 2 batch 1200/2173 loss=0.0681 21.7 clips/s
+Swin epoch 2 batch 1400/2173 loss=0.0678 22.3 clips/s
+Swin epoch 2 batch 1600/2173 loss=0.0672 22.8 clips/s
+Swin epoch 2 batch 1800/2173 loss=0.0664 23.2 clips/s
+Swin epoch 2 batch 2000/2173 loss=0.0660 23.5 clips/s
+Swin epoch 2 batch 2173/2173 loss=0.0658 23.8 clips/s
+Swin validation {'epoch': 2, 'train_loss': 0.0658426517964625, 'valid_mAP': 0.39226819162966853, 'valid_macro_F1': 0.40242909805416305}
+Swin epoch 3 batch 1/2173 loss=0.0760 0.1 clips/s
+Swin epoch 3 batch 200/2173 loss=0.0612 11.3 clips/s
+Swin epoch 3 batch 400/2173 loss=0.0629 16.1 clips/s
+Swin epoch 3 batch 600/2173 loss=0.0613 18.6 clips/s
+Swin epoch 3 batch 800/2173 loss=0.0601 20.2 clips/s
+Swin epoch 3 batch 1000/2173 loss=0.0603 21.2 clips/s
+Swin epoch 3 batch 1200/2173 loss=0.0600 22.0 clips/s
+Swin epoch 3 batch 1400/2173 loss=0.0601 22.6 clips/s
+Swin epoch 3 batch 1600/2173 loss=0.0600 23.0 clips/s
+Swin epoch 3 batch 1800/2173 loss=0.0603 23.4 clips/s
+Swin epoch 3 batch 2000/2173 loss=0.0602 23.7 clips/s
+Swin epoch 3 batch 2173/2173 loss=0.0602 24.0 clips/s
+Swin validation {'epoch': 3, 'train_loss': 0.060244480953489686, 'valid_mAP': 0.4050698690128909, 'valid_macro_F1': 0.4095864031033678}
+Swin selected validation 0.4050698690128909 0.4095864031033678 epoch 3
+Swin epoch 4 batch 1/2173 loss=0.1189 0.1 clips/s
+Swin epoch 4 batch 200/2173 loss=0.0555 11.0 clips/s
+Swin epoch 4 batch 400/2173 loss=0.0554 15.5 clips/s
+Swin epoch 4 batch 600/2173 loss=0.0564 18.0 clips/s
+Swin epoch 4 batch 800/2173 loss=0.0568 19.6 clips/s
+Swin epoch 4 batch 1000/2173 loss=0.0558 20.7 clips/s
+Swin epoch 4 batch 1200/2173 loss=0.0565 21.6 clips/s
+Swin epoch 4 batch 1400/2173 loss=0.0563 22.3 clips/s
+Swin epoch 4 batch 1600/2173 loss=0.0558 22.9 clips/s
+Swin epoch 4 batch 1800/2173 loss=0.0556 23.3 clips/s
+Swin epoch 4 batch 2000/2173 loss=0.0552 23.6 clips/s
+Swin epoch 4 batch 2173/2173 loss=0.0550 23.9 clips/s
+Swin validation {'epoch': 4, 'train_loss': 0.05496888343301365, 'valid_mAP': 0.41042500206351584, 'valid_macro_F1': 0.4133701350340756}
+Swin epoch 5 batch 1/2173 loss=0.1194 0.1 clips/s
+Swin epoch 5 batch 200/2173 loss=0.0523 11.4 clips/s
+Swin epoch 5 batch 400/2173 loss=0.0527 16.0 clips/s
+Swin epoch 5 batch 600/2173 loss=0.0532 18.5 clips/s
+Swin epoch 5 batch 800/2173 loss=0.0524 20.1 clips/s
+Swin epoch 5 batch 1000/2173 loss=0.0524 21.2 clips/s
+Swin epoch 5 batch 1200/2173 loss=0.0520 22.0 clips/s
+Swin epoch 5 batch 1400/2173 loss=0.0517 22.5 clips/s
+Swin epoch 5 batch 1600/2173 loss=0.0512 23.0 clips/s
+Swin epoch 5 batch 1800/2173 loss=0.0512 23.4 clips/s
+Swin epoch 5 batch 2000/2173 loss=0.0508 23.7 clips/s
+Swin epoch 5 batch 2173/2173 loss=0.0505 23.9 clips/s
+Swin validation {'epoch': 5, 'train_loss': 0.050529170746122586, 'valid_mAP': 0.41149086791061357, 'valid_macro_F1': 0.41946225785996777}
+Swin epoch 6 batch 1/2173 loss=0.0199 0.1 clips/s
+Swin epoch 6 batch 200/2173 loss=0.0485 11.8 clips/s
+Swin epoch 6 batch 400/2173 loss=0.0498 16.5 clips/s
+Swin epoch 6 batch 600/2173 loss=0.0493 19.0 clips/s
+Swin epoch 6 batch 800/2173 loss=0.0488 20.6 clips/s
+Swin epoch 6 batch 1000/2173 loss=0.0484 21.7 clips/s
+Swin epoch 6 batch 1200/2173 loss=0.0487 22.4 clips/s
+Swin epoch 6 batch 1400/2173 loss=0.0490 23.0 clips/s
+Swin epoch 6 batch 1600/2173 loss=0.0485 23.5 clips/s
+Swin epoch 6 batch 1800/2173 loss=0.0483 23.9 clips/s
+Swin epoch 6 batch 2000/2173 loss=0.0479 24.2 clips/s
+Swin epoch 6 batch 2173/2173 loss=0.0477 24.4 clips/s
+Swin validation {'epoch': 6, 'train_loss': 0.04771035105235158, 'valid_mAP': 0.41559859746894323, 'valid_macro_F1': 0.41733452348722067}
+Swin selected validation 0.41559859746894323 0.41733452348722067 epoch 6

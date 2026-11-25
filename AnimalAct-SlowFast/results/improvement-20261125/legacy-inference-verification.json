@@ -1,0 +1,12 @@
+{
+  "valid": {
+    "clips": 912,
+    "max_absolute_error": 0.0,
+    "passed": true
+  },
+  "test": {
+    "clips": 946,
+    "max_absolute_error": 0.0,
+    "passed": true
+  }
+}

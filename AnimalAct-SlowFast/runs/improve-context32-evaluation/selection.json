@@ -1,0 +1,27 @@
+{
+  "source_run": "runs/improve-context32",
+  "selected": {
+    "variant": "flip",
+    "mAP": 0.44193358408416994,
+    "macro_F1": 0.44887612341498667,
+    "threshold": 0.1,
+    "utility": 0.4454048537495783
+  },
+  "variants": [
+    {
+      "variant": "plain",
+      "mAP": 0.440647743618679,
+      "macro_F1": 0.4470807304451144,
+      "threshold": 0.05,
+      "utility": 0.4438642370318967
+    },
+    {
+      "variant": "flip",
+      "mAP": 0.44193358408416994,
+      "macro_F1": 0.44887612341498667,
+      "threshold": 0.1,
+      "utility": 0.4454048537495783
+    }
+  ],
+  "best_epoch": 2
+}
